@@ -1,0 +1,9 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:27:27 | INFO | Created new scorecard: c15886bf-ebf5-4ed6-8531-c1ff6751fb58
+2026-10-21 02:27:27 | INFO | Found latest version of bp35: bp35-0a0ad940 (downloaded: 2026-09-30 05:48:18.671230+00:00)
+2026-10-21 02:27:27 | INFO | Successfully loaded game class Bp35 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/bp35/0a0ad940/bp35.py
+bp35 1 64 {'LEFT': ((16, 'defaite'), (16, 'defaite')), 'RIGHT': ((24, 'defaite'), (24, 'defaite')), 'MOUSE@0,0': ((64, 'defaite'), (64, 'defaite')), 'MOUSE@32,32': ((64, 'defaite'), (64, 'defaite')), 'MOUSE@63,63': ((64, 'defaite'), (64, 'defaite'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:27:34 | INFO | Created new scorecard: 1f9c7e3e-a35e-4430-a878-00a1fe550d05
+2026-10-21 02:27:34 | INFO | Found latest version of bp35: bp35-0a0ad940 (downloaded: 2026-09-30 05:48:18.671230+00:00)
+bp35 2 64 {'LEFT': ((16, 'defaite'), (16, 'defaite')), 'RIGHT': ((16, 'defaite'), (16, 'defaite')), 'MOUSE@0,0': ((64, 'defaite'), (64, 'defaite')), 'MOUSE@32,32': ((64, 'defaite'), (64, 'defaite')), 'MOUSE@63,63': ((64, 'defaite'), (64, 'defaite'))}

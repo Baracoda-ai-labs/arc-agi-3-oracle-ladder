@@ -1,0 +1,49 @@
+[
+{"jeu": "dc22",
+ "interface": [
+  {"classe": "jktvoccigf", "represente": "budget_coups", "regle": "barre ligne 63 : part utilisée en couleur 3 depuis la gauche, reste 0 ; mouvement -1, clic -1 (-2 sur un bouton buezna), déplacement de grue raté -1, prise ratée 0, chute -20 ; remis au StepCounter à chaque niveau ou remise ; défaite à 0", "lignes": "9890-9954"},
+  {"classe": "jktvoccigf (animation de chute)", "represente": "autre", "regle": "pendant une chute, tout ce qui est hors d'un cercle centré sur le joueur (qui se referme) est peint en couleur 5", "lignes": "9933-9953"}],
+ "defaite": [
+  {"cause": "chute", "condition": "après un clic, le joueur n'est plus sur un sol : chute de 14 images, budget -20 ; défaite si ≤ 0, sinon retour à l'état d'avant le clic", "ligne": 10585},
+  {"cause": "epuisement_budget", "condition": "clic de grue refusé (coûte 1) qui amène le budget à 0", "ligne": 10843},
+  {"cause": "epuisement_budget", "condition": "surcoût d'un clic sur un bouton buezna qui amène le budget à 0", "ligne": 10855},
+  {"cause": "epuisement_budget", "condition": "coût normal d'un clic (ou d'une action sans mouvement) qui amène le budget à 0", "ligne": 10859},
+  {"cause": "epuisement_budget", "condition": "mouvement (même bloqué) qui n'atteint pas le but et amène le budget à 0", "ligne": 10887}],
+ "economie": {"budget_coups": "StepCounter par niveau : 128, 192, 192, 192, 512, 1024", "vies": null, "ressources": "pont ou objet porté par la grue ; clés à lettre qui activent les boutons de même lettre", "recharge": "seulement au changement ou à la remise du niveau ; une chute coûte 20 puis annule le clic", "minuteur": null},
+ "controle": {"actions": ["ACTION1", "ACTION2", "ACTION3", "ACTION4", "ACTION6"], "avatar": "sprite jfva, 2 px par ACTION1-4, refusé hors du sol ou sur collision", "selection": null, "clic": "bouton buezna : fait passer les plateformes de même lettre à leur variante suivante (le joueur dessus est porté) ; visible seulement quand le joueur est sur le plot de même lettre ; commandes de grue (haut, bas, gauche, droite, prendre)"},
+ "victoire": "position du joueur = position du but goknoi, testée après un mouvement, avant le décompte",
+ "niveaux": {"nombre": 6, "persiste": "rien", "nouveau": "cycle de couleurs au niveau 6 ; grue sur rails selon le niveau"},
+ "incertain": ["un clic sur un bouton semble coûter 2", "pas d'action pour lâcher l'objet porté", "l'instantané d'annulation ne sert qu'à la pénalité de chute"]},
+{"jeu": "ar25",
+ "interface": [
+  {"classe": "toseucmfue", "represente": "budget_coups", "regle": "barre verticale colonne x=63, remplie depuis le haut par segments de 64 pas de couleurs différentes ; mouvement réel -1, ACTION5 -1 ; clic, annulation et mouvement hors grille gratuits ; remis au StepCounter à chaque niveau ; défaite à 0", "lignes": "1092-1147"},
+  {"classe": "iywvsmblpj", "represente": "autre", "regle": "carte en surimpression : cibles, pièce sélectionnée ou son reflet, pièces fixes ; affichage seulement", "lignes": "1150-1254"}],
+ "defaite": [
+  {"cause": "epuisement_budget", "condition": "mouvement réel non gagnant qui amène le budget à 0", "ligne": 1773},
+  {"cause": "epuisement_budget", "condition": "ACTION5 (changer de sélection) qui amène le budget à 0", "ligne": 1789}],
+ "economie": {"budget_coups": "StepCounter par niveau : 64, 64, 128, 128, 128, 320, 320, 320", "vies": null, "ressources": null, "recharge": "seulement au début du niveau ; l'annulation ne rend rien", "minuteur": null},
+ "controle": {"actions": ["ACTION1", "ACTION2", "ACTION3", "ACTION4", "ACTION5", "ACTION6", "ACTION7"], "avatar": "la pièce ou l'axe de symétrie sélectionné avance d'une case ; axe vertical : horizontalement seulement, et inversement ; certaines pièces tournent de 90° quand leur distance à l'axe change", "selection": "ACTION5 parcourt les pièces et axes sélectionnables (coûte 1) ; pièces fixes non sélectionnables", "clic": "ACTION6 sélectionne la pièce sous le clic, sinon un axe (gratuit) ; ACTION7 annule le dernier mouvement"},
+ "victoire": "chaque case cible est couverte par une pièce ou l'un de ses reflets par les axes (reflets en chaîne jusqu'à 12)",
+ "niveaux": {"nombre": 8, "persiste": "rien", "nouveau": "indice clignotant au niveau 2 si le joueur n'a jamais changé de sélection"},
+ "incertain": ["le coup gagnant est gratuit, le niveau avance au coup suivant", "ACTION6 sélectionne la première pièce si rien n'est sélectionné"]},
+{"jeu": "r11l",
+ "interface": [
+  {"classe": "rjtqizgnlf", "represente": "budget_coups", "regle": "barre verticale colonne x=0 : part restante (60 - actions)/60 en couleur 0 depuis le bas, reste 5 ; chaque action compte (clics de sélection et clics bloqués compris) ; remise à 60 à chaque niveau ; défaite à 60 actions", "lignes": "1306-1331"},
+  {"classe": "xeuvojjxyk", "represente": "autre", "regle": "lignes de couleur 1 de chaque corps vers ses jambes", "lignes": "1334-1401"}],
+ "defaite": [
+  {"cause": "contact", "condition": "un corps touche un danger à la fin d'un mouvement de jambe ; compteur caché, défaite au 5e contact du niveau ; les contacts précédents ramènent la jambe", "ligne": 1750},
+  {"cause": "epuisement_budget", "condition": "60 actions au début d'un pas (59 utilisables)", "ligne": 1810}],
+ "economie": {"budget_coups": "60 actions par niveau, sans StepCounter", "vies": "5 contacts de danger par niveau (compteur caché, remis à chaque niveau)", "ressources": "pièces de couleur : un corps qui en touche une prend ses couleurs et la pièce disparaît", "recharge": null, "minuteur": null},
+ "controle": {"actions": ["ACTION6"], "avatar": "plusieurs corps, recentrés sur leurs jambes après chaque mouvement de jambe", "selection": "clic sur une jambe : elle est sélectionnée ; au départ, la plus proche de l'origine", "clic": "clic ailleurs : la jambe sélectionnée vient s'y centrer, sauf collision avec un mur (l'action compte quand même)"},
+ "victoire": "chaque corps qui a une cible à son nom la touche ; une cible sans corps nommé doit être touchée par un corps collecteur dont les couleurs égalent celles de la cible",
+ "niveaux": {"nombre": 6, "persiste": "rien", "nouveau": "sprites multicolores (4+), corps collecteurs et pièces de couleur (5-6)"},
+ "incertain": ["la 60e action fait perdre : 59 utilisables", "rôle des sprites dirwzt et hawffu incertain"]},
+{"jeu": "re86",
+ "interface": [{"classe": "khxzqomkkk", "represente": "budget_coups", "regle": "barre ligne 63 : part restante en couleur 15 depuis la gauche, reste 1 ; chaque ACTION1-5 coûte 1, même bloquée ; remise au StepCounter à chaque niveau ; défaite à 0 sans victoire", "lignes": "1826-1861"}],
+ "defaite": [{"cause": "epuisement_budget", "condition": "après l'action, la victoire échoue et le budget vaut 0", "ligne": 2157}],
+ "economie": {"budget_coups": "StepCounter par niveau : 100, 100, 200, 200, 250, 200, 300, 400", "vies": null, "ressources": "zones de peinture : une pièce qui y entre prend la couleur de la zone", "recharge": "seulement au début du niveau", "minuteur": null},
+ "controle": {"actions": ["ACTION1", "ACTION2", "ACTION3", "ACTION4", "ACTION5"], "avatar": "la pièce sélectionnée (centre couleur 0) avance de 3 px ; les murs la déforment (rectangles qui s'allongent ou s'affinent, croix dont une barre se décale)", "selection": "ACTION5 : pièce suivante, avec bouclage (coûte 1)", "clic": null},
+ "victoire": "toutes les pièces superposées au canevas : chaque pixel de chaque cible (hors -1 et 4) égale le pixel du canevas",
+ "niveaux": {"nombre": 8, "persiste": "rien", "nouveau": "contenu des niveaux non inspecté"},
+ "incertain": ["le pas où une zone de peinture se déclenche sort tôt ; victoire et défaite testées à la fin de l'animation", "géométrie exacte de la déformation des croix difficile à lire"]}
+]

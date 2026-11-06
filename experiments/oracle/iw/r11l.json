@@ -1,0 +1,18 @@
+{
+ "iw1": {
+  "gagne": null,
+  "raison": "budget épuisé",
+  "plan": null,
+  "noeuds": 35711,
+  "etats": 32167,
+  "secondes": 600.0
+ },
+ "iw2": {
+  "gagne": null,
+  "raison": "budget épuisé",
+  "plan": null,
+  "noeuds": 54136,
+  "etats": 14726,
+  "secondes": 600.3
+ }
+}

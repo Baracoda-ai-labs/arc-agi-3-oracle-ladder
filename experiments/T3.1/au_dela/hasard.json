@@ -1,0 +1,1208 @@
+[
+ {
+  "jeu": "ar25",
+  "source": "ar25.json",
+  "niveaux": [
+   {
+    "niveau": 1,
+    "coups": 60,
+    "exacts": 18,
+    "temoin": 17,
+    "premiere_erreur": {
+     "coup": 2,
+     "action": [
+      "RIGHT",
+      null,
+      null
+     ],
+     "erreur": null,
+     "pixels_faux": 54
+    }
+   },
+   {
+    "niveau": 2,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 28,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 3,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 24,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 4,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 27,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 5,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 28,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 6,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 28,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 7,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 30,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 8,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 29,
+    "premiere_erreur": null
+   }
+  ],
+  "exacts": 438,
+  "coups": 480,
+  "temoin": 211
+ },
+ {
+  "jeu": "cd82",
+  "source": "cd82.json",
+  "niveaux": [
+   {
+    "niveau": 1,
+    "coups": 60,
+    "exacts": 59,
+    "temoin": 41,
+    "premiere_erreur": {
+     "coup": 1,
+     "action": [
+      "RIGHT",
+      null,
+      null
+     ],
+     "erreur": null,
+     "pixels_faux": 86
+    }
+   },
+   {
+    "niveau": 2,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 34,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 3,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 34,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 4,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 39,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 5,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 37,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 6,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 33,
+    "premiere_erreur": null
+   }
+  ],
+  "exacts": 359,
+  "coups": 360,
+  "temoin": 218
+ },
+ {
+  "jeu": "dc22",
+  "source": "dc22.json",
+  "niveaux": [
+   {
+    "niveau": 1,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 30,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 2,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 22,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 3,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 35,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 4,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 36,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 5,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 36,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 6,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 22,
+    "premiere_erreur": null
+   }
+  ],
+  "exacts": 360,
+  "coups": 360,
+  "temoin": 181
+ },
+ {
+  "jeu": "ft09",
+  "source": "ft09.json",
+  "niveaux": [
+   {
+    "niveau": 1,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 58,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 2,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 50,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 3,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 49,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 4,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 45,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 5,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 43,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 6,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 43,
+    "premiere_erreur": null
+   }
+  ],
+  "exacts": 360,
+  "coups": 360,
+  "temoin": 288
+ },
+ {
+  "jeu": "g50t",
+  "source": "g50t.json",
+  "niveaux": [
+   {
+    "niveau": 1,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 12,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 2,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 8,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 3,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 18,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 4,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 10,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 5,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 12,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 6,
+    "coups": 60,
+    "exacts": 32,
+    "temoin": 18,
+    "premiere_erreur": {
+     "coup": 1,
+     "action": [
+      "LEFT",
+      null,
+      null
+     ],
+     "erreur": null,
+     "pixels_faux": 48
+    }
+   },
+   {
+    "niveau": 7,
+    "coups": 60,
+    "exacts": 36,
+    "temoin": 17,
+    "premiere_erreur": {
+     "coup": 1,
+     "action": [
+      "DOWN",
+      null,
+      null
+     ],
+     "erreur": null,
+     "pixels_faux": 48
+    }
+   }
+  ],
+  "exacts": 368,
+  "coups": 420,
+  "temoin": 95
+ },
+ {
+  "jeu": "ka59",
+  "source": "ka59.json",
+  "niveaux": [
+   {
+    "niveau": 1,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 16,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 2,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 16,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 3,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 27,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 4,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 16,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 5,
+    "coups": 60,
+    "exacts": 13,
+    "temoin": 13,
+    "premiere_erreur": {
+     "coup": 1,
+     "action": [
+      "UP",
+      null,
+      null
+     ],
+     "erreur": null,
+     "pixels_faux": 12
+    }
+   },
+   {
+    "niveau": 6,
+    "coups": 60,
+    "exacts": 13,
+    "temoin": 13,
+    "premiere_erreur": {
+     "coup": 5,
+     "action": [
+      "LEFT",
+      null,
+      null
+     ],
+     "erreur": null,
+     "pixels_faux": 18
+    }
+   },
+   {
+    "niveau": 7,
+    "coups": 60,
+    "exacts": 2,
+    "temoin": 3,
+    "premiere_erreur": {
+     "coup": 1,
+     "action": [
+      "RIGHT",
+      null,
+      null
+     ],
+     "erreur": null,
+     "pixels_faux": 12
+    }
+   }
+  ],
+  "exacts": 268,
+  "coups": 420,
+  "temoin": 104
+ },
+ {
+  "jeu": "lf52",
+  "source": "lf52.json",
+  "niveaux": [
+   {
+    "niveau": 1,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 60,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 2,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 60,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 3,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 60,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 4,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 60,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 5,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 60,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 6,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 60,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 7,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 60,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 8,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 60,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 9,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 60,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 10,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 60,
+    "premiere_erreur": null
+   }
+  ],
+  "exacts": 600,
+  "coups": 600,
+  "temoin": 600
+ },
+ {
+  "jeu": "lp85",
+  "source": "lp85.json",
+  "niveaux": [
+   {
+    "niveau": 1,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 58,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 2,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 58,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 3,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 60,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 4,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 58,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 5,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 55,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 6,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 60,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 7,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 59,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 8,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 60,
+    "premiere_erreur": null
+   }
+  ],
+  "exacts": 480,
+  "coups": 480,
+  "temoin": 468
+ },
+ {
+  "jeu": "ls20",
+  "source": "ls20.json",
+  "niveaux": [
+   {
+    "niveau": 1,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 15,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 2,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 28,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 3,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 29,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 4,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 29,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 5,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 24,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 6,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 20,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 7,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 22,
+    "premiere_erreur": null
+   }
+  ],
+  "exacts": 420,
+  "coups": 420,
+  "temoin": 167
+ },
+ {
+  "jeu": "m0r0",
+  "source": "m0r0.json",
+  "niveaux": [
+   {
+    "niveau": 1,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 32,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 2,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 32,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 3,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 28,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 4,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 22,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 5,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 17,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 6,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 23,
+    "premiere_erreur": null
+   }
+  ],
+  "exacts": 360,
+  "coups": 360,
+  "temoin": 154
+ },
+ {
+  "jeu": "r11l",
+  "source": "r11l.json",
+  "niveaux": [
+   {
+    "niveau": 1,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 13,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 2,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 32,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 3,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 24,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 4,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 20,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 5,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 13,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 6,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 11,
+    "premiere_erreur": null
+   }
+  ],
+  "exacts": 360,
+  "coups": 360,
+  "temoin": 113
+ },
+ {
+  "jeu": "re86",
+  "source": "re86.json",
+  "niveaux": [
+   {
+    "niveau": 1,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 0,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 2,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 0,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 3,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 0,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 4,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 0,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 5,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 0,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 6,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 0,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 7,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 0,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 8,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 0,
+    "premiere_erreur": null
+   }
+  ],
+  "exacts": 480,
+  "coups": 480,
+  "temoin": 0
+ },
+ {
+  "jeu": "sb26",
+  "source": "sb26.json",
+  "niveaux": [
+   {
+    "niveau": 1,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 59,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 2,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 59,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 3,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 55,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 4,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 59,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 5,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 55,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 6,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 57,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 7,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 57,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 8,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 57,
+    "premiere_erreur": null
+   }
+  ],
+  "exacts": 480,
+  "coups": 480,
+  "temoin": 458
+ },
+ {
+  "jeu": "sc25",
+  "source": "sc25.json",
+  "niveaux": [
+   {
+    "niveau": 1,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 15,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 2,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 13,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 3,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 9,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 4,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 6,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 5,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 13,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 6,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 12,
+    "premiere_erreur": null
+   }
+  ],
+  "exacts": 360,
+  "coups": 360,
+  "temoin": 68
+ },
+ {
+  "jeu": "sk48",
+  "source": "sk48.json",
+  "niveaux": [
+   {
+    "niveau": 1,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 17,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 2,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 22,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 3,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 19,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 4,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 10,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 5,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 15,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 6,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 15,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 7,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 16,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 8,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 18,
+    "premiere_erreur": null
+   }
+  ],
+  "exacts": 480,
+  "coups": 480,
+  "temoin": 132
+ },
+ {
+  "jeu": "sp80",
+  "source": "sp80.json",
+  "niveaux": [
+   {
+    "niveau": 1,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 17,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 2,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 20,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 3,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 21,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 4,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 19,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 5,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 20,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 6,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 13,
+    "premiere_erreur": null
+   }
+  ],
+  "exacts": 360,
+  "coups": 360,
+  "temoin": 110
+ },
+ {
+  "jeu": "su15",
+  "source": "su15.json",
+  "niveaux": [
+   {
+    "niveau": 1,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 56,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 2,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 39,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 3,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 50,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 4,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 25,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 5,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 17,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 6,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 24,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 7,
+    "coups": 60,
+    "exacts": 49,
+    "temoin": 14,
+    "premiere_erreur": {
+     "coup": 1,
+     "action": [
+      "CLICK",
+      20,
+      15
+     ],
+     "erreur": null,
+     "pixels_faux": 0
+    }
+   },
+   {
+    "niveau": 8,
+    "coups": 60,
+    "exacts": 58,
+    "temoin": 22,
+    "premiere_erreur": {
+     "coup": 42,
+     "action": [
+      "CLICK",
+      62,
+      32
+     ],
+     "erreur": null,
+     "pixels_faux": 0
+    }
+   },
+   {
+    "niveau": 9,
+    "coups": 60,
+    "exacts": 52,
+    "temoin": 12,
+    "premiere_erreur": {
+     "coup": 6,
+     "action": [
+      "CLICK",
+      10,
+      48
+     ],
+     "erreur": null,
+     "pixels_faux": 0
+    }
+   }
+  ],
+  "exacts": 519,
+  "coups": 540,
+  "temoin": 259
+ },
+ {
+  "jeu": "tn36",
+  "source": "tn36.json",
+  "niveaux": [
+   {
+    "niveau": 1,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 0,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 2,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 0,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 3,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 0,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 4,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 0,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 5,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 0,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 6,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 24,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 7,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 24,
+    "premiere_erreur": null
+   }
+  ],
+  "exacts": 420,
+  "coups": 420,
+  "temoin": 48
+ },
+ {
+  "jeu": "tr87",
+  "source": "tr87.json",
+  "niveaux": [
+   {
+    "niveau": 1,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 0,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 2,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 0,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 3,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 0,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 4,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 0,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 5,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 0,
+    "premiere_erreur": null
+   },
+   {
+    "niveau": 6,
+    "coups": 60,
+    "exacts": 60,
+    "temoin": 0,
+    "premiere_erreur": null
+   }
+  ],
+  "exacts": 360,
+  "coups": 360,
+  "temoin": 0
+ }
+]

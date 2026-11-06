@@ -1,0 +1,17 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:27:24 | INFO | Created new scorecard: 7c624f8c-5620-438f-aa3a-d1ed91042743
+2026-10-21 02:27:24 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+2026-10-21 02:27:24 | INFO | Successfully loaded game class Sp80 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sp80/589a99af/sp80.py
+sp80 1 30 {'UP': ((30, 'defaite'), (30, 'defaite')), 'DOWN': ((30, 'defaite'), (30, 'defaite')), 'LEFT': ((30, 'defaite'), (30, 'defaite')), 'RIGHT': ((30, 'defaite'), (30, 'defaite')), 'SPACE': ((5, 'defaite'), (5, 'defaite')), 'MOUSE@0,0': ((30, 'defaite'), (30, 'defaite')), 'MOUSE@32,32': ((30, 'defaite'), (30, 'defaite')), 'MOUSE@63,63': ((30, 'defaite'), (30, 'defaite'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:27:24 | INFO | Created new scorecard: c8f43a0b-d50f-4529-9f35-e3c3b1db663c
+2026-10-21 02:27:24 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+sp80 2 45 {'UP': ((45, 'defaite'), (45, 'defaite')), 'DOWN': ((45, 'defaite'), (45, 'defaite')), 'LEFT': ((45, 'defaite'), (45, 'defaite')), 'RIGHT': ((45, 'defaite'), (45, 'defaite')), 'SPACE': ((5, 'defaite'), (5, 'defaite')), 'MOUSE@0,0': ((45, 'defaite'), (45, 'defaite')), 'MOUSE@32,32': ((45, 'defaite'), (45, 'defaite')), 'MOUSE@63,63': ((45, 'defaite'), (45, 'defaite'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:27:25 | INFO | Created new scorecard: 02a58c7b-124c-42d9-90e6-cc08ab5a5fcd
+2026-10-21 02:27:25 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+sp80 3 100 {'UP': ((100, 'defaite'), (100, 'defaite')), 'DOWN': ((100, 'defaite'), (100, 'defaite')), 'LEFT': ((100, 'defaite'), (100, 'defaite')), 'RIGHT': ((100, 'defaite'), (100, 'defaite')), 'SPACE': ((5, 'defaite'), (5, 'defaite')), 'MOUSE@0,0': ((100, 'defaite'), (100, 'defaite')), 'MOUSE@32,32': ((100, 'defaite'), (100, 'defaite')), 'MOUSE@63,63': ((100, 'defaite'), (100, 'defaite'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:27:26 | INFO | Created new scorecard: 1e592006-af6f-4a3a-ab9a-35b03620db31
+2026-10-21 02:27:26 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+sp80 4 120 {'UP': ((120, 'defaite'), (120, 'defaite')), 'DOWN': ((120, 'defaite'), (120, 'defaite')), 'LEFT': ((120, 'defaite'), (120, 'defaite')), 'RIGHT': ((120, 'defaite'), (120, 'defaite')), 'SPACE': ((5, 'defaite'), (5, 'defaite')), 'MOUSE@0,0': ((120, 'defaite'), (120, 'defaite')), 'MOUSE@32,32': ((120, 'defaite'), (120, 'defaite')), 'MOUSE@63,63': ((120, 'defaite'), (120, 'defaite'))}

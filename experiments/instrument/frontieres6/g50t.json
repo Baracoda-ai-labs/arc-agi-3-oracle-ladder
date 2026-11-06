@@ -1,0 +1,57 @@
+{
+ "jeu": "g50t",
+ "niveau": 1,
+ "franzen_r0": "0/7",
+ "prefixe_franzen": 0,
+ "sous_buts": {
+  "plan": null,
+  "gagne": null,
+  "raison": "budget",
+  "secondes": 197.3
+ },
+ "plafond_exact": {
+  "recherche": "paliers",
+  "noeuds": 200001,
+  "etats": null,
+  "plan": null,
+  "gagne": null,
+  "raison": "budget épuisé"
+ },
+ "plafond_s": 303.8,
+ "moteur": {
+  "niveau_depart": null,
+  "niveaux": 0,
+  "niveaux_coup_final_moteur": 0,
+  "coups": {
+   "hasard": 899,
+   "hasard_effet": 699,
+   "moteur": 9,
+   "moteur_effet": 9
+  },
+  "refus": {
+   "ne rejoue pas (C) ; partiel": 501,
+   "pas de but (aucun but supposé planifiable)": 7
+  },
+  "duree_s": 600.9,
+  "bilan": {
+   "moteur_appels": 895,
+   "moteur_refus_porte": 0,
+   "moteur_plans": 8,
+   "moteur_tours": 9,
+   "moteur_coups_plan": 9,
+   "moteur_divergences": 5,
+   "moteur_cpu_s": 519.92,
+   "moteur_porte1_ok": 0,
+   "moteur_porte1_refus": 0,
+   "moteur_porte2_ok": 0,
+   "moteur_porte2_refus": 0,
+   "moteur_plans_gagnants_reels": 0,
+   "moteur_partiel_appels": 384,
+   "moteur_porte1_partielle_ok": 8,
+   "moteur_plans_partiels": 8,
+   "moteur_porte1_partielle_refus": 376,
+   "part_coups_moteur": 0.01
+  }
+ },
+ "classe": "S"
+}

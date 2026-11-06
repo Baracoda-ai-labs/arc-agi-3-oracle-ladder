@@ -1,0 +1,82 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-22 23:55:47 | INFO | Created new scorecard: 88daffff-fbe6-4c8d-b43b-c9ae0a78bb78
+2026-10-22 23:55:47 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+2026-10-22 23:55:47 | INFO | Successfully loaded game class Ar25 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ar25/0c556536/ar25.py
+{"jeu": "ar25", "niveau": 2, "plan": null, "gagnant": null, "cpu": 60.1}
+{"jeu": "bp35", "niveau": 3, "arret": "niveau non atteint"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-22 23:56:47 | INFO | Created new scorecard: 59a4ac62-6633-4c2c-b352-d049a68294d3
+2026-10-22 23:56:47 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+2026-10-22 23:56:47 | INFO | Successfully loaded game class Dc22 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/dc22/fdcac232/dc22.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-22 23:56:51 | INFO | Created new scorecard: 485c7171-947c-41c1-a5df-78754a1c629f
+2026-10-22 23:56:51 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+{"jeu": "dc22", "niveau": 1, "plan": 20, "gagnant": "macro_g", "cpu": 3.5, "gagne": true}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-22 23:56:51 | INFO | Created new scorecard: 7495c8a7-c033-46d5-b35e-e6cd104e6b89
+2026-10-22 23:56:51 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+2026-10-22 23:56:51 | INFO | Successfully loaded game class Ft09 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ft09/0d8bbf25/ft09.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-22 23:57:04 | INFO | Created new scorecard: c8062a9f-f760-40b3-a042-30549048e971
+2026-10-22 23:57:04 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+{"jeu": "ft09", "niveau": 2, "plan": 7, "gagnant": "macro_g", "cpu": 12.9, "gagne": true}
+{"jeu": "g50t", "niveau": 3, "arret": "niveau non atteint"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-22 23:57:04 | INFO | Created new scorecard: bb8e264a-b556-4404-8ee7-108b8253e2d1
+2026-10-22 23:57:04 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+2026-10-22 23:57:04 | INFO | Successfully loaded game class Lf52 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/lf52/271a04aa/lf52.py
+{"jeu": "lf52", "niveau": 1, "plan": null, "gagnant": null, "cpu": 60.0}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-22 23:58:04 | INFO | Created new scorecard: d0886184-3c11-4e1c-98ea-ab236fc4ad93
+2026-10-22 23:58:04 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+2026-10-22 23:58:04 | INFO | Successfully loaded game class Lp85 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/lp85/305b61c3/lp85.py
+{"jeu": "lp85", "niveau": 2, "plan": null, "gagnant": null, "cpu": 60.0}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-22 23:59:05 | INFO | Created new scorecard: 97c4dca8-7cd4-4169-bfb6-3f580fcc7409
+2026-10-22 23:59:05 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+2026-10-22 23:59:05 | INFO | Successfully loaded game class Ls20 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ls20/9607627b/ls20.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-22 23:59:56 | INFO | Created new scorecard: fb78a97a-8127-407d-9960-36b655b60583
+2026-10-22 23:59:56 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+{"jeu": "ls20", "niveau": 3, "plan": 39, "gagnant": "largeur", "cpu": 50.9, "gagne": true}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-22 23:59:57 | INFO | Created new scorecard: 436d2c71-cb6c-49e2-9312-88c97cd35368
+2026-10-22 23:59:57 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+2026-10-22 23:59:57 | INFO | Successfully loaded game class R11l from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/r11l/495a7899/r11l.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-23 00:00:12 | INFO | Created new scorecard: 6643a22b-a2c8-464d-afd6-7d39bd983dda
+2026-10-23 00:00:12 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+{"jeu": "r11l", "niveau": 1, "plan": 3, "gagnant": "macro_g", "cpu": 15.1, "gagne": true}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-23 00:00:12 | INFO | Created new scorecard: 5af003a4-b102-43ad-8801-d00e0fd30679
+2026-10-23 00:00:12 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+2026-10-23 00:00:12 | INFO | Successfully loaded game class Re86 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/re86/8af5384d/re86.py
+{"jeu": "re86", "niveau": 2, "plan": null, "gagnant": null, "cpu": 60.0}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-23 00:01:13 | INFO | Created new scorecard: c2d2653a-1835-43e2-8ff2-f3f6ecfa42ed
+2026-10-23 00:01:13 | INFO | Found latest version of sb26: sb26-7fbdac44 (downloaded: 2026-09-30 05:48:12.305196+00:00)
+2026-10-23 00:01:13 | INFO | Successfully loaded game class Sb26 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sb26/7fbdac44/sb26.py
+{"jeu": "sb26", "niveau": 3, "plan": null, "gagnant": null, "cpu": 60.2}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-23 00:02:13 | INFO | Created new scorecard: 46c654e2-f5fb-42b9-aa73-362d473b2da2
+2026-10-23 00:02:13 | INFO | Found latest version of sk48: sk48-d8078629 (downloaded: 2026-09-30 05:48:14.833617+00:00)
+2026-10-23 00:02:13 | INFO | Successfully loaded game class Sk48 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sk48/d8078629/sk48.py
+{"jeu": "sk48", "niveau": 1, "plan": null, "gagnant": null, "cpu": 60.1}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-23 00:03:14 | INFO | Created new scorecard: 5dcf0ac8-2957-401b-a33e-9778fcf8ebd5
+2026-10-23 00:03:14 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+2026-10-23 00:03:14 | INFO | Successfully loaded game class Sp80 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sp80/589a99af/sp80.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-23 00:03:53 | INFO | Created new scorecard: 6eae921f-803e-45a1-97ff-4450bbcd7891
+2026-10-23 00:03:53 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+{"jeu": "sp80", "niveau": 2, "plan": 7, "gagnant": "largeur", "cpu": 38.4, "gagne": true}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-23 00:03:53 | INFO | Created new scorecard: 75d270d1-f5b6-4b3e-9fd3-07ddb1a56f88
+2026-10-23 00:03:53 | INFO | Found latest version of su15: su15-1944f8ab (downloaded: 2026-09-30 05:48:13.830471+00:00)
+2026-10-23 00:03:53 | INFO | Successfully loaded game class Su15 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/su15/1944f8ab/su15.py
+{"jeu": "su15", "niveau": 3, "plan": null, "gagnant": null, "cpu": 60.1}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-23 00:04:53 | INFO | Created new scorecard: 13528198-26ef-4d43-b9c3-8e47c1e0c0db
+2026-10-23 00:04:53 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+2026-10-23 00:04:53 | INFO | Successfully loaded game class Tr87 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/tr87/cd924810/tr87.py
+{"jeu": "tr87", "niveau": 1, "plan": null, "gagnant": null, "cpu": 60.3}

@@ -1,0 +1,29 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:28:05 | INFO | Created new scorecard: daad94f1-2873-4f74-a6cc-72aa84af2b0d
+2026-10-21 02:28:05 | INFO | Found latest version of tn36: tn36-ef4dde99 (downloaded: 2026-09-30 05:48:12.062346+00:00)
+2026-10-21 02:28:05 | INFO | Successfully loaded game class Tn36 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/tn36/ef4dde99/tn36.py
+tn36 1 61 {'MOUSE@0,0': ((61, 'defaite'), (61, 'defaite')), 'MOUSE@32,32': ((61, 'defaite'), (61, 'defaite')), 'MOUSE@63,63': ((61, 'defaite'), (61, 'defaite'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:28:05 | INFO | Created new scorecard: e37f73a3-7e55-47e5-8546-3da82fc6a52d
+2026-10-21 02:28:05 | INFO | Found latest version of tn36: tn36-ef4dde99 (downloaded: 2026-09-30 05:48:12.062346+00:00)
+tn36 2 61 {'MOUSE@0,0': ((61, 'defaite'), (61, 'defaite')), 'MOUSE@32,32': ((61, 'defaite'), (61, 'defaite')), 'MOUSE@63,63': ((61, 'defaite'), (61, 'defaite'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:28:06 | INFO | Created new scorecard: 10d73b45-b9f6-4344-9020-91963cffa699
+2026-10-21 02:28:06 | INFO | Found latest version of tn36: tn36-ef4dde99 (downloaded: 2026-09-30 05:48:12.062346+00:00)
+tn36 3 61 {'MOUSE@0,0': ((61, 'defaite'), (61, 'defaite')), 'MOUSE@32,32': ((61, 'defaite'), (61, 'defaite')), 'MOUSE@63,63': ((61, 'defaite'), (61, 'defaite'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:28:07 | INFO | Created new scorecard: 389e34ea-ed9b-47b3-abca-63217e8cc8f6
+2026-10-21 02:28:07 | INFO | Found latest version of tn36: tn36-ef4dde99 (downloaded: 2026-09-30 05:48:12.062346+00:00)
+tn36 4 61 {'MOUSE@0,0': ((61, 'defaite'), (61, 'defaite')), 'MOUSE@32,32': ((61, 'defaite'), (61, 'defaite')), 'MOUSE@63,63': ((61, 'defaite'), (61, 'defaite'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:28:09 | INFO | Created new scorecard: edc5db41-0740-4bbb-a896-8d50a9ee3446
+2026-10-21 02:28:09 | INFO | Found latest version of tn36: tn36-ef4dde99 (downloaded: 2026-09-30 05:48:12.062346+00:00)
+tn36 5 61 {'MOUSE@0,0': ((61, 'defaite'), (61, 'defaite')), 'MOUSE@32,32': ((61, 'defaite'), (61, 'defaite')), 'MOUSE@63,63': ((61, 'defaite'), (61, 'defaite'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:28:10 | INFO | Created new scorecard: 92363262-2712-4e6f-895e-bcb7974b27c0
+2026-10-21 02:28:10 | INFO | Found latest version of tn36: tn36-ef4dde99 (downloaded: 2026-09-30 05:48:12.062346+00:00)
+tn36 6 122 {'MOUSE@0,0': ((122, 'defaite'), (122, 'defaite')), 'MOUSE@32,32': ((122, 'defaite'), (122, 'defaite')), 'MOUSE@63,63': ((122, 'defaite'), (122, 'defaite'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:28:12 | INFO | Created new scorecard: a20502a6-c6f8-415f-9135-3c8f80f1b8ee
+2026-10-21 02:28:12 | INFO | Found latest version of tn36: tn36-ef4dde99 (downloaded: 2026-09-30 05:48:12.062346+00:00)
+tn36 7 122 {'MOUSE@0,0': ((122, 'defaite'), (122, 'defaite')), 'MOUSE@32,32': ((122, 'defaite'), (122, 'defaite')), 'MOUSE@63,63': ((122, 'defaite'), (122, 'defaite'))}

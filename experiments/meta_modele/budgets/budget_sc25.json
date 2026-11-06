@@ -1,0 +1,80 @@
+{
+ "jeu": "sc25",
+ "niveaux": {
+  "1": {
+   "budget_mesure": 52,
+   "essais": {
+    "UP": {
+     "jeu": [
+      52,
+      "defaite"
+     ],
+     "programme": [
+      52,
+      "defaite"
+     ]
+    },
+    "DOWN": {
+     "jeu": [
+      52,
+      "defaite"
+     ],
+     "programme": [
+      52,
+      "defaite"
+     ]
+    },
+    "LEFT": {
+     "jeu": [
+      52,
+      "defaite"
+     ],
+     "programme": [
+      52,
+      "defaite"
+     ]
+    },
+    "RIGHT": {
+     "jeu": [
+      52,
+      "defaite"
+     ],
+     "programme": [
+      52,
+      "defaite"
+     ]
+    },
+    "MOUSE@0,0": {
+     "jeu": [
+      null,
+      "plafond"
+     ],
+     "programme": [
+      null,
+      "plafond"
+     ]
+    },
+    "MOUSE@32,32": {
+     "jeu": [
+      null,
+      "plafond"
+     ],
+     "programme": [
+      null,
+      "plafond"
+     ]
+    },
+    "MOUSE@63,63": {
+     "jeu": [
+      null,
+      "plafond"
+     ],
+     "programme": [
+      null,
+      "plafond"
+     ]
+    }
+   }
+  }
+ }
+}

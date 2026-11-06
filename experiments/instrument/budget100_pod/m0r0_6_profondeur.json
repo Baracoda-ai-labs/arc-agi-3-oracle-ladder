@@ -1,0 +1,19 @@
+{
+ "jeu": "m0r0",
+ "niveau": 6,
+ "bras": "profondeur",
+ "budget_s": 30000.0,
+ "memoire_go": 8.0,
+ "backend": "1",
+ "prefixe": "plafonds.prefixe",
+ "gagne": null,
+ "plan": null,
+ "noeuds": 52760750,
+ "etats": null,
+ "raison": "budget",
+ "profondeur": null,
+ "table": null,
+ "t_victoire": null,
+ "duree_s": 30001.1,
+ "memoire_max_go": 1.02
+}

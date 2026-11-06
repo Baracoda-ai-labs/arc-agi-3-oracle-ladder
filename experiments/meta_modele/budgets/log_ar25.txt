@@ -1,0 +1,33 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:27:42 | INFO | Created new scorecard: 4a1f9a5f-a1d0-499a-8a7c-d7da66bf4bf4
+2026-10-21 02:27:42 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+2026-10-21 02:27:42 | INFO | Successfully loaded game class Ar25 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ar25/0c556536/ar25.py
+ar25 1 64 {'UP': ((None, 'plafond'), (64, 'defaite')), 'DOWN': ((None, 'plafond'), (64, 'defaite')), 'LEFT': ((None, 'plafond'), (64, 'defaite')), 'RIGHT': ((None, 'plafond'), (64, 'defaite')), 'SPACE': ((64, 'defaite'), (64, 'defaite')), 'MOUSE@0,0': ((None, 'plafond'), (None, 'plafond')), 'MOUSE@32,32': ((None, 'plafond'), (None, 'plafond')), 'MOUSE@63,63': ((None, 'plafond'), (None, 'plafond'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:27:45 | INFO | Created new scorecard: aa6cade3-f05a-4a47-b547-c65598d29ba9
+2026-10-21 02:27:45 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+ar25 2 64 {'UP': ((None, 'plafond'), (64, 'defaite')), 'DOWN': ((None, 'plafond'), (64, 'defaite')), 'LEFT': ((None, 'plafond'), (64, 'defaite')), 'RIGHT': ((None, 'plafond'), (64, 'defaite')), 'SPACE': ((64, 'defaite'), (64, 'defaite')), 'MOUSE@0,0': ((None, 'plafond'), (None, 'plafond')), 'MOUSE@32,32': ((None, 'plafond'), (None, 'plafond')), 'MOUSE@63,63': ((None, 'plafond'), (None, 'plafond'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:27:50 | INFO | Created new scorecard: be657fa0-448e-469e-99a4-b17a4f17e84f
+2026-10-21 02:27:50 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+ar25 3 128 {'UP': ((None, 'plafond'), (128, 'defaite')), 'DOWN': ((None, 'plafond'), (128, 'defaite')), 'LEFT': ((None, 'plafond'), (128, 'defaite')), 'RIGHT': ((None, 'plafond'), (128, 'defaite')), 'SPACE': ((128, 'defaite'), (128, 'defaite')), 'MOUSE@0,0': ((None, 'plafond'), (None, 'plafond')), 'MOUSE@32,32': ((None, 'plafond'), (None, 'plafond')), 'MOUSE@63,63': ((None, 'plafond'), (None, 'plafond'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:27:58 | INFO | Created new scorecard: c2a6bc12-8587-48e6-ae60-ec80f4f657da
+2026-10-21 02:27:58 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+ar25 4 128 {'UP': ((None, 'plafond'), (128, 'defaite')), 'DOWN': ((None, 'plafond'), (128, 'defaite')), 'LEFT': ((None, 'plafond'), (128, 'defaite')), 'RIGHT': ((None, 'plafond'), (128, 'defaite')), 'SPACE': ((128, 'defaite'), (128, 'defaite')), 'MOUSE@0,0': ((None, 'plafond'), (None, 'plafond')), 'MOUSE@32,32': ((None, 'plafond'), (None, 'plafond')), 'MOUSE@63,63': ((None, 'plafond'), (None, 'plafond'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:28:06 | INFO | Created new scorecard: f7ffd798-2c4d-4104-9f71-cf140db01b72
+2026-10-21 02:28:06 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+ar25 5 128 {'UP': ((None, 'plafond'), (128, 'defaite')), 'DOWN': ((None, 'plafond'), (128, 'defaite')), 'LEFT': ((None, 'plafond'), (128, 'defaite')), 'RIGHT': ((None, 'plafond'), (128, 'defaite')), 'SPACE': ((128, 'defaite'), (128, 'defaite')), 'MOUSE@0,0': ((None, 'plafond'), (None, 'plafond')), 'MOUSE@32,32': ((None, 'plafond'), (None, 'plafond')), 'MOUSE@63,63': ((None, 'plafond'), (None, 'plafond'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:28:15 | INFO | Created new scorecard: 05b268ee-2386-4bda-a21c-f59b0044d498
+2026-10-21 02:28:15 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+ar25 6 320 {'UP': ((None, 'plafond'), (320, 'defaite')), 'DOWN': ((None, 'plafond'), (320, 'defaite')), 'LEFT': ((None, 'plafond'), (320, 'defaite')), 'RIGHT': ((None, 'plafond'), (320, 'defaite')), 'SPACE': ((320, 'defaite'), (320, 'defaite')), 'MOUSE@0,0': ((None, 'plafond'), (None, 'plafond')), 'MOUSE@32,32': ((None, 'plafond'), (None, 'plafond')), 'MOUSE@63,63': ((None, 'plafond'), (None, 'plafond'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:28:34 | INFO | Created new scorecard: fda78ad8-15e0-43d6-a9df-b4ec2fded0dc
+2026-10-21 02:28:34 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+ar25 7 320 {'UP': ((None, 'plafond'), (320, 'defaite')), 'DOWN': ((None, 'plafond'), (320, 'defaite')), 'LEFT': ((None, 'plafond'), (320, 'defaite')), 'RIGHT': ((None, 'plafond'), (320, 'defaite')), 'SPACE': ((320, 'defaite'), (320, 'defaite')), 'MOUSE@0,0': ((None, 'plafond'), (None, 'plafond')), 'MOUSE@32,32': ((None, 'plafond'), (None, 'plafond')), 'MOUSE@63,63': ((None, 'plafond'), (None, 'plafond'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:28:55 | INFO | Created new scorecard: 84cbd303-a0e7-4d99-8e2c-9e91d0a59dc1
+2026-10-21 02:28:55 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+ar25 8 320 {'UP': ((None, 'plafond'), (320, 'defaite')), 'DOWN': ((None, 'plafond'), (320, 'defaite')), 'LEFT': ((None, 'plafond'), (320, 'defaite')), 'RIGHT': ((None, 'plafond'), (320, 'defaite')), 'SPACE': ((320, 'defaite'), (320, 'defaite')), 'MOUSE@0,0': ((None, 'plafond'), (None, 'plafond')), 'MOUSE@32,32': ((None, 'plafond'), (None, 'plafond')), 'MOUSE@63,63': ((None, 'plafond'), (None, 'plafond'))}

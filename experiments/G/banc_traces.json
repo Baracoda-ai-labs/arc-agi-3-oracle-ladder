@@ -1,0 +1,192 @@
+{
+ "ar25": {
+  "coups": 294,
+  "ecarts": 0,
+  "premier_ecart": null,
+  "ref": 1089,
+  "G1": 1125,
+  "G": 1753,
+  "gain_G1": 1.03,
+  "gain": 1.61
+ },
+ "cd82": {
+  "coups": 171,
+  "ecarts": 0,
+  "premier_ecart": null,
+  "ref": 10892,
+  "G1": 10964,
+  "G": 16192,
+  "gain_G1": 1.01,
+  "gain": 1.49
+ },
+ "dc22": {
+  "coups": 197,
+  "ecarts": 0,
+  "premier_ecart": null,
+  "ref": 3086,
+  "G1": 2918,
+  "G": 4703,
+  "gain_G1": 0.95,
+  "gain": 1.52
+ },
+ "ft09": {
+  "coups": 81,
+  "ecarts": 0,
+  "premier_ecart": null,
+  "ref": 2585,
+  "G1": 2588,
+  "G": 2896,
+  "gain_G1": 1.0,
+  "gain": 1.12
+ },
+ "g50t": {
+  "coups": 44,
+  "ecarts": 0,
+  "premier_ecart": null,
+  "ref": 7775,
+  "G1": 9727,
+  "G": 11314,
+  "gain_G1": 1.25,
+  "gain": 1.46
+ },
+ "ka59": {
+  "coups": 241,
+  "ecarts": 0,
+  "premier_ecart": null,
+  "ref": 13933,
+  "G1": 16275,
+  "G": 21247,
+  "gain_G1": 1.17,
+  "gain": 1.52
+ },
+ "lf52": {
+  "coups": 180,
+  "ecarts": 0,
+  "premier_ecart": null,
+  "ref": 1397,
+  "G1": 1734,
+  "G": 2415,
+  "gain_G1": 1.24,
+  "gain": 1.73
+ },
+ "lp85": {
+  "coups": 190,
+  "ecarts": 0,
+  "premier_ecart": null,
+  "ref": 1445,
+  "G1": 1562,
+  "G": 2370,
+  "gain_G1": 1.08,
+  "gain": 1.64
+ },
+ "ls20": {
+  "coups": 329,
+  "ecarts": 0,
+  "premier_ecart": null,
+  "ref": 2439,
+  "G1": 2874,
+  "G": 3938,
+  "gain_G1": 1.18,
+  "gain": 1.61
+ },
+ "m0r0": {
+  "coups": 321,
+  "ecarts": 0,
+  "premier_ecart": null,
+  "ref": 8373,
+  "G1": 9179,
+  "G": 11910,
+  "gain_G1": 1.1,
+  "gain": 1.42
+ },
+ "r11l": {
+  "coups": 110,
+  "ecarts": 0,
+  "premier_ecart": null,
+  "ref": 55,
+  "G1": 56,
+  "G": 92,
+  "gain_G1": 1.02,
+  "gain": 1.67
+ },
+ "re86": {
+  "coups": 366,
+  "ecarts": 0,
+  "premier_ecart": null,
+  "ref": 560,
+  "G1": 580,
+  "G": 960,
+  "gain_G1": 1.04,
+  "gain": 1.71
+ },
+ "sb26": {
+  "coups": 164,
+  "ecarts": 0,
+  "premier_ecart": null,
+  "ref": 2380,
+  "G1": 3423,
+  "G": 3400,
+  "gain_G1": 1.44,
+  "gain": 1.43
+ },
+ "sc25": {
+  "coups": 288,
+  "ecarts": 0,
+  "premier_ecart": null,
+  "ref": 678,
+  "G1": 704,
+  "G": 1679,
+  "gain_G1": 1.04,
+  "gain": 2.48
+ },
+ "sk48": {
+  "coups": 123,
+  "ecarts": 0,
+  "premier_ecart": null,
+  "ref": 1154,
+  "G1": 1483,
+  "G": 2032,
+  "gain_G1": 1.29,
+  "gain": 1.76
+ },
+ "sp80": {
+  "coups": 102,
+  "ecarts": 0,
+  "premier_ecart": null,
+  "ref": 3944,
+  "G1": 3651,
+  "G": 7031,
+  "gain_G1": 0.93,
+  "gain": 1.78
+ },
+ "su15": {
+  "coups": 160,
+  "ecarts": 0,
+  "premier_ecart": null,
+  "ref": 750,
+  "G1": 798,
+  "G": 1980,
+  "gain_G1": 1.06,
+  "gain": 2.64
+ },
+ "tn36": {
+  "coups": 311,
+  "ecarts": 0,
+  "premier_ecart": null,
+  "ref": 928,
+  "G1": 971,
+  "G": 1859,
+  "gain_G1": 1.05,
+  "gain": 2.0
+ },
+ "tr87": {
+  "coups": 417,
+  "ecarts": 0,
+  "premier_ecart": null,
+  "ref": 25,
+  "G1": 24,
+  "G": 417,
+  "gain_G1": 0.96,
+  "gain": 16.68
+ }
+}

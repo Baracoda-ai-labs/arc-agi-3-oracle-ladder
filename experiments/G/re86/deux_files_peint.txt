@@ -1,0 +1,2 @@
+{"file": "but entier", "plan": null, "arret": "budget", "cpu": 220.3}
+{"file": "sous-buts", "plan": null, "cpu": 92.8, "journal": [{"ordre": ["(8, (42, 36))", "(8, (51, 27))", "(9, (21, 6))"], "faites": 3, "coups": 24, "cpu": 92.8}]}

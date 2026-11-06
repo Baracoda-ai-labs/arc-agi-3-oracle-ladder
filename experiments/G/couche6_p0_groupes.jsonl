@@ -1,0 +1,60 @@
+{"jeu": "ar25", "niveau": 1, "methode_banc": "couche6", "mur": 60.1, "plan": null, "arret": "mur"}
+{"jeu": "ar25", "niveau": 2, "methode_banc": "couche6", "mur": 60.1, "plan": null, "arret": "mur"}
+{"jeu": "ar25", "niveau": 3, "methode_banc": "couche6", "mur": 60.1, "plan": null, "arret": "mur"}
+{"jeu": "bp35", "niveau": 1, "methode_banc": "couche6", "mur": 60.0, "plan": null, "arret": "mur"}
+{"jeu": "bp35", "niveau": 2, "methode_banc": "couche6", "mur": 60.0, "plan": null, "arret": "mur"}
+{"jeu": "bp35", "niveau": 3, "methode_banc": "couche6", "mur": 0.4, "plan": null, "arret": "niveau non atteint"}
+{"jeu": "cd82", "niveau": 1, "methode_banc": "couche6", "mur": 0.5, "plan": 5, "gagne": true, "methode": "bfs", "cpu": 0.1}
+{"jeu": "cd82", "niveau": 2, "methode_banc": "couche6", "mur": 0.9, "plan": 6, "gagne": true, "methode": "bfs", "cpu": 0.5}
+{"jeu": "cd82", "niveau": 3, "methode_banc": "couche6", "mur": 60.0, "plan": null, "arret": "mur"}
+{"jeu": "dc22", "niveau": 1, "methode_banc": "couche6", "mur": 7.5, "plan": 20, "gagne": true, "methode": "bfs", "cpu": 7.2}
+{"jeu": "dc22", "niveau": 2, "methode_banc": "couche6", "mur": 60.0, "plan": null, "arret": "mur"}
+{"jeu": "dc22", "niveau": 3, "methode_banc": "couche6", "mur": 60.0, "plan": null, "arret": "mur"}
+{"jeu": "ft09", "niveau": 1, "methode_banc": "couche6", "mur": 0.7, "plan": 4, "gagne": true, "methode": "bfs", "cpu": 0.3}
+{"jeu": "ft09", "niveau": 2, "methode_banc": "couche6", "mur": 12.5, "plan": 7, "gagne": true, "methode": "bfs", "cpu": 11.8}
+{"jeu": "ft09", "niveau": 3, "methode_banc": "couche6", "mur": 60.0, "plan": null, "arret": "mur"}
+{"jeu": "g50t", "niveau": 1, "methode_banc": "couche6", "mur": 60.1, "plan": null, "arret": "mur"}
+{"jeu": "g50t", "niveau": 2, "methode_banc": "couche6", "mur": 0.3, "plan": null, "arret": "niveau non atteint"}
+{"jeu": "g50t", "niveau": 3, "methode_banc": "couche6", "mur": 0.3, "plan": null, "arret": "niveau non atteint"}
+{"jeu": "ka59", "niveau": 1, "methode_banc": "couche6", "mur": 60.0, "plan": null, "arret": "mur"}
+{"jeu": "ka59", "niveau": 2, "methode_banc": "couche6", "mur": 60.0, "plan": null, "arret": "mur"}
+{"jeu": "ka59", "niveau": 3, "methode_banc": "couche6", "mur": 60.0, "plan": null, "arret": "mur"}
+{"jeu": "lf52", "niveau": 1, "methode_banc": "couche6", "mur": 60.0, "plan": null, "arret": "mur"}
+{"jeu": "lf52", "niveau": 2, "methode_banc": "couche6", "mur": 60.1, "plan": null, "arret": "mur"}
+{"jeu": "lf52", "niveau": 3, "methode_banc": "couche6", "mur": 60.1, "plan": null, "arret": "mur"}
+{"jeu": "lp85", "niveau": 1, "methode_banc": "couche6", "mur": 0.5, "plan": 5, "gagne": true, "methode": "bfs", "cpu": 0.1}
+{"jeu": "lp85", "niveau": 2, "methode_banc": "couche6", "mur": 60.0, "plan": null, "arret": "mur"}
+{"jeu": "lp85", "niveau": 3, "methode_banc": "couche6", "mur": 60.0, "plan": null, "arret": "mur"}
+{"jeu": "ls20", "niveau": 1, "methode_banc": "couche6", "mur": 1.5, "plan": 13, "gagne": true, "methode": "bfs", "cpu": 1.2}
+{"jeu": "ls20", "niveau": 2, "methode_banc": "couche6", "mur": 23.3, "plan": 45, "gagne": true, "methode": "bfs", "cpu": 22.8}
+{"jeu": "ls20", "niveau": 3, "methode_banc": "couche6", "mur": 20.4, "plan": 39, "gagne": true, "methode": "bfs", "cpu": 20.0}
+{"jeu": "m0r0", "niveau": 1, "methode_banc": "couche6", "mur": 2.7, "plan": 15, "gagne": true, "methode": "bfs", "cpu": 2.3}
+{"jeu": "m0r0", "niveau": 2, "methode_banc": "couche6", "mur": 60.0, "plan": null, "arret": "mur"}
+{"jeu": "m0r0", "niveau": 3, "methode_banc": "couche6", "mur": 60.0, "plan": null, "arret": "mur"}
+{"jeu": "r11l", "niveau": 1, "methode_banc": "couche6", "mur": 5.8, "plan": 3, "gagne": true, "methode": "bfs", "cpu": 5.4}
+{"jeu": "r11l", "niveau": 2, "methode_banc": "couche6", "mur": 60.0, "plan": null, "arret": "mur"}
+{"jeu": "r11l", "niveau": 3, "methode_banc": "couche6", "mur": 60.0, "plan": null, "arret": "mur"}
+{"jeu": "re86", "niveau": 1, "methode_banc": "couche6", "mur": 60.0, "plan": null, "arret": "mur"}
+{"jeu": "re86", "niveau": 2, "methode_banc": "couche6", "mur": 60.0, "plan": null, "arret": "mur"}
+{"jeu": "re86", "niveau": 3, "methode_banc": "couche6", "mur": 60.0, "plan": null, "arret": "mur"}
+{"jeu": "sb26", "niveau": 1, "methode_banc": "couche6", "mur": 60.1, "plan": null, "arret": "mur"}
+{"jeu": "sb26", "niveau": 2, "methode_banc": "couche6", "mur": 60.1, "plan": null, "arret": "mur"}
+{"jeu": "sb26", "niveau": 3, "methode_banc": "couche6", "mur": 60.1, "plan": null, "arret": "mur"}
+{"jeu": "sc25", "niveau": 1, "methode_banc": "couche6", "mur": 60.0, "plan": null, "arret": "mur"}
+{"jeu": "sc25", "niveau": 2, "methode_banc": "couche6", "mur": 40.3, "plan": 5, "gagne": true, "methode": "bfs", "cpu": 39.7}
+{"jeu": "sc25", "niveau": 3, "methode_banc": "couche6", "mur": 60.0, "plan": null, "arret": "mur"}
+{"jeu": "sk48", "niveau": 1, "methode_banc": "couche6", "mur": 60.0, "plan": null, "arret": "mur"}
+{"jeu": "sk48", "niveau": 2, "methode_banc": "couche6", "mur": 60.0, "plan": null, "arret": "mur"}
+{"jeu": "sk48", "niveau": 3, "methode_banc": "couche6", "mur": 0.3, "plan": null, "arret": "niveau non atteint"}
+{"jeu": "sp80", "niveau": 1, "methode_banc": "couche6", "mur": 0.4, "plan": 4, "gagne": true, "methode": "bfs", "cpu": 0.1}
+{"jeu": "sp80", "niveau": 2, "methode_banc": "couche6", "mur": 8.5, "plan": 7, "gagne": true, "methode": "bfs", "cpu": 8.1}
+{"jeu": "sp80", "niveau": 3, "methode_banc": "couche6", "mur": 60.0, "plan": null, "arret": "mur"}
+{"jeu": "su15", "niveau": 1, "methode_banc": "couche6", "mur": 60.0, "plan": null, "arret": "mur"}
+{"jeu": "su15", "niveau": 2, "methode_banc": "couche6", "mur": 60.0, "plan": null, "arret": "mur"}
+{"jeu": "su15", "niveau": 3, "methode_banc": "couche6", "mur": 60.0, "plan": null, "arret": "mur"}
+{"jeu": "tn36", "niveau": 1, "methode_banc": "couche6", "mur": 6.5, "plan": null, "gagne": null, "methode": null, "cpu": 6.2}
+{"jeu": "tn36", "niveau": 2, "methode_banc": "couche6", "mur": 60.0, "plan": null, "arret": "mur"}
+{"jeu": "tn36", "niveau": 3, "methode_banc": "couche6", "mur": 60.1, "plan": null, "arret": "mur"}
+{"jeu": "tr87", "niveau": 1, "methode_banc": "couche6", "mur": 60.1, "plan": null, "arret": "mur"}
+{"jeu": "tr87", "niveau": 2, "methode_banc": "couche6", "mur": 60.1, "plan": null, "arret": "mur"}
+{"jeu": "tr87", "niveau": 3, "methode_banc": "couche6", "mur": 60.0, "plan": null, "arret": "mur"}

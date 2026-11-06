@@ -1,0 +1,9 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:36:51 | INFO | Created new scorecard: 0e82a5b8-b972-485b-a316-6410b554725d
+2026-10-20 21:36:51 | INFO | Found latest version of g50t: g50t-5849a774 (downloaded: 2026-09-30 05:48:19.053741+00:00)
+2026-10-20 21:36:51 | INFO | Successfully loaded game class G50t from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/g50t/5849a774/g50t.py
+{"recherche": "iw1", "noeuds": 3000000, "etats": 2506251, "plan": null, "gagne": null, "secondes": 480.4, "raison": "budget \u00e9puis\u00e9"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:44:57 | INFO | Created new scorecard: a4ca9c46-13b7-43ef-97c0-f6e66270aa28
+2026-10-20 21:44:57 | INFO | Found latest version of g50t: g50t-5849a774 (downloaded: 2026-09-30 05:48:19.053741+00:00)
+{"recherche": "iw2", "noeuds": 3000000, "etats": 1927823, "plan": null, "gagne": null, "secondes": 449.9, "raison": "budget \u00e9puis\u00e9"}

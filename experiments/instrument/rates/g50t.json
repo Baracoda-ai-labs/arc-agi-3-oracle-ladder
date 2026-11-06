@@ -1,0 +1,51 @@
+{
+ "jeu": "g50t",
+ "niveau": 1,
+ "franzen_r0": "0/7",
+ "prefixe_franzen": 0,
+ "plafond_exact": {
+  "recherche": "paliers",
+  "noeuds": 200001,
+  "etats": null,
+  "plan": null,
+  "gagne": null,
+  "raison": "budget épuisé"
+ },
+ "plafond_s": 266.5,
+ "moteur": {
+  "niveau_depart": null,
+  "niveaux": 0,
+  "niveaux_coup_final_moteur": 0,
+  "coups": {
+   "hasard": 588,
+   "hasard_effet": 461,
+   "moteur": 5,
+   "moteur_effet": 5
+  },
+  "refus": {
+   "ne rejoue pas (C) ; partiel": 406,
+   "pas de but (aucun but supposé planifiable)": 3
+  },
+  "duree_s": 600.2,
+  "bilan": {
+   "moteur_appels": 585,
+   "moteur_refus_porte": 0,
+   "moteur_plans": 5,
+   "moteur_tours": 5,
+   "moteur_coups_plan": 5,
+   "moteur_divergences": 3,
+   "moteur_cpu_s": 295.585,
+   "moteur_porte1_ok": 0,
+   "moteur_porte1_refus": 0,
+   "moteur_porte2_ok": 0,
+   "moteur_porte2_refus": 0,
+   "moteur_plans_gagnants_reels": 0,
+   "moteur_partiel_appels": 174,
+   "moteur_porte1_partielle_ok": 5,
+   "moteur_plans_partiels": 5,
+   "moteur_porte1_partielle_refus": 169,
+   "part_coups_moteur": 0.008
+  }
+ },
+ "classe": "S"
+}

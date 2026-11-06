@@ -1,0 +1,50 @@
+{
+ "jeu": "lf52",
+ "niveau": 3,
+ "franzen_r0": "2/10",
+ "prefixe_franzen": 127,
+ "sous_buts": {
+  "plan": null,
+  "gagne": null,
+  "raison": "budget",
+  "secondes": 272.2
+ },
+ "plafond_exact": {
+  "recherche": "paliers",
+  "noeuds": 128953,
+  "etats": null,
+  "plan": null,
+  "gagne": null,
+  "raison": "palier introuvable"
+ },
+ "plafond_s": 612.4,
+ "moteur": {
+  "niveau_depart": 2,
+  "niveaux": 2,
+  "niveaux_coup_final_moteur": 0,
+  "coups": {
+   "hasard": 83,
+   "hasard_effet": 83
+  },
+  "refus": {
+   "ne rejoue pas (C) ; partiel": 82
+  },
+  "duree_s": 602.2,
+  "bilan": {
+   "moteur_appels": 82,
+   "moteur_refus_porte": 0,
+   "moteur_plans": 0,
+   "moteur_tours": 0,
+   "moteur_coups_plan": 0,
+   "moteur_divergences": 0,
+   "moteur_cpu_s": 601.839,
+   "moteur_porte1_ok": 0,
+   "moteur_porte1_refus": 0,
+   "moteur_porte2_ok": 0,
+   "moteur_porte2_refus": 0,
+   "moteur_plans_gagnants_reels": 0,
+   "part_coups_moteur": 0.0
+  }
+ },
+ "classe": "S"
+}

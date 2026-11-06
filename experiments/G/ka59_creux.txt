@@ -1,0 +1,6 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 18:04:37 | INFO | Created new scorecard: cb5dc57a-304f-4da3-9075-302bb70e811d
+2026-10-21 18:04:37 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+2026-10-21 18:04:37 | INFO | Successfully loaded game class Ka59 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ka59/38d34dbb/ka59.py
+{"cas": "ka59_n4_creux", "but": "('emboite', ((48, 102), (78, 24), (78, 108), (102, 60)), (14,))", "non_exportes": [], "niveaux_avant": 3, "clics_candidats": 15}
+{"recherche": "macro_g", "arret": "budget", "plan": null, "etats_hauts": 64282, "coups": null, "cpu": 300.1}

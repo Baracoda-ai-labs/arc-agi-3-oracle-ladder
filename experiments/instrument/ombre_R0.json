@@ -1,0 +1,1206 @@
+{
+ "total": {
+  "coups": 4127,
+  "sans_effet": 82,
+  "r2_juge": 1037,
+  "juges_objets": 3600,
+  "sans_effet_objets": 376,
+  "r2_vrai_objets": 137,
+  "r2_faux_positif_objets": 692,
+  "r2_signale": 829,
+  "r2_vrai": 19,
+  "r2_faux_positif": 810,
+  "union_signale": 832,
+  "union_vrai": 20,
+  "r1_signale": 4,
+  "r1_vrai": 1,
+  "r1_faux_positif": 3
+ },
+ "jeux": {
+  "g50t": {
+   "erreur": null,
+   "coups": 44,
+   "sans_effet": 4,
+   "r2_juge": 3,
+   "juges_objets": 39,
+   "sans_effet_objets": 8,
+   "r2_vrai_objets": 1,
+   "r2_faux_positif_objets": 2,
+   "r2_signale": 3,
+   "r2_vrai": 1,
+   "r2_faux_positif": 2,
+   "union_signale": 4,
+   "union_vrai": 1,
+   "r1_signale": 1,
+   "r1_vrai": 0,
+   "r1_faux_positif": 1,
+   "exemples_faux_positifs_r2": [
+    {
+     "segment": 0,
+     "t": 21,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 0,
+     "t": 26,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    }
+   ]
+  },
+  "ft09": {
+   "erreur": null,
+   "coups": 81,
+   "sans_effet": 1,
+   "r2_juge": 0,
+   "juges_objets": 53,
+   "sans_effet_objets": 0,
+   "exemples_faux_positifs_r2": []
+  },
+  "cd82": {
+   "erreur": null,
+   "coups": 171,
+   "sans_effet": 11,
+   "r2_juge": 87,
+   "juges_objets": 141,
+   "sans_effet_objets": 27,
+   "r2_vrai_objets": 17,
+   "r2_faux_positif_objets": 70,
+   "r2_signale": 87,
+   "r2_vrai": 6,
+   "r2_faux_positif": 81,
+   "union_signale": 87,
+   "union_vrai": 6,
+   "r1_signale": 1,
+   "r1_vrai": 0,
+   "r1_faux_positif": 1,
+   "exemples_faux_positifs_r2": [
+    {
+     "segment": 0,
+     "t": 6,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 0,
+     "t": 8,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 0,
+     "t": 9,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 0,
+     "t": 11,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 0,
+     "t": 13,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 0,
+     "t": 18,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 0,
+     "t": 21,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 0,
+     "t": 22,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    }
+   ]
+  },
+  "ka59": {
+   "erreur": null,
+   "coups": 241,
+   "sans_effet": 10,
+   "r2_juge": 63,
+   "juges_objets": 221,
+   "sans_effet_objets": 43,
+   "r2_vrai_objets": 13,
+   "r2_faux_positif_objets": 42,
+   "r2_signale": 55,
+   "r2_vrai": 3,
+   "r2_faux_positif": 52,
+   "union_signale": 55,
+   "union_vrai": 3,
+   "exemples_faux_positifs_r2": [
+    {
+     "segment": 0,
+     "t": 20,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 0,
+     "t": 21,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 0,
+     "t": 34,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 0,
+     "t": 35,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 0,
+     "t": 37,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 0,
+     "t": 45,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 0,
+     "t": 47,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 1,
+     "t": 5,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    }
+   ]
+  },
+  "dc22": {
+   "erreur": null,
+   "coups": 197,
+   "sans_effet": 10,
+   "r2_juge": 102,
+   "juges_objets": 180,
+   "sans_effet_objets": 18,
+   "r2_vrai_objets": 1,
+   "r2_faux_positif_objets": 8,
+   "r2_signale": 9,
+   "r2_vrai": 0,
+   "r2_faux_positif": 9,
+   "union_signale": 9,
+   "union_vrai": 0,
+   "exemples_faux_positifs_r2": [
+    {
+     "segment": 0,
+     "t": 30,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 0,
+     "t": 38,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 1,
+     "t": 9,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 1,
+     "t": 43,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 1,
+     "t": 44,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 1,
+     "t": 47,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 2,
+     "t": 51,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 2,
+     "t": 52,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    }
+   ]
+  },
+  "lp85": {
+   "erreur": null,
+   "coups": 190,
+   "sans_effet": 3,
+   "r2_juge": 0,
+   "juges_objets": 150,
+   "sans_effet_objets": 1,
+   "exemples_faux_positifs_r2": []
+  },
+  "r11l": {
+   "erreur": null,
+   "coups": 110,
+   "sans_effet": 0,
+   "r2_juge": 0,
+   "juges_objets": 80,
+   "sans_effet_objets": 3,
+   "exemples_faux_positifs_r2": []
+  },
+  "ar25": {
+   "erreur": null,
+   "coups": 294,
+   "sans_effet": 1,
+   "r2_juge": 70,
+   "juges_objets": 254,
+   "sans_effet_objets": 16,
+   "r2_vrai_objets": 14,
+   "r2_faux_positif_objets": 44,
+   "r2_signale": 58,
+   "r2_vrai": 0,
+   "r2_faux_positif": 58,
+   "union_signale": 58,
+   "union_vrai": 0,
+   "exemples_faux_positifs_r2": [
+    {
+     "segment": 0,
+     "t": 15,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 3,
+     "t": 24,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 4,
+     "t": 5,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 4,
+     "t": 6,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 4,
+     "t": 7,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 4,
+     "t": 8,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 4,
+     "t": 9,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 5,
+     "t": 5,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    }
+   ]
+  },
+  "sb26": {
+   "erreur": null,
+   "coups": 164,
+   "sans_effet": 3,
+   "r2_juge": 10,
+   "juges_objets": 124,
+   "sans_effet_objets": 10,
+   "r2_vrai_objets": 8,
+   "r2_faux_positif_objets": 2,
+   "r2_signale": 10,
+   "r2_vrai": 0,
+   "r2_faux_positif": 10,
+   "union_signale": 10,
+   "union_vrai": 0,
+   "exemples_faux_positifs_r2": [
+    {
+     "segment": 6,
+     "t": 20,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 7,
+     "t": 23,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    }
+   ]
+  },
+  "bp35": {
+   "erreur": null,
+   "coups": 38,
+   "sans_effet": 0,
+   "r2_juge": 0,
+   "juges_objets": 21,
+   "sans_effet_objets": 0,
+   "exemples_faux_positifs_r2": []
+  },
+  "sc25": {
+   "erreur": null,
+   "coups": 288,
+   "sans_effet": 14,
+   "r2_juge": 27,
+   "juges_objets": 253,
+   "sans_effet_objets": 24,
+   "r2_vrai_objets": 9,
+   "r2_faux_positif_objets": 18,
+   "r2_signale": 27,
+   "r2_vrai": 1,
+   "r2_faux_positif": 26,
+   "union_signale": 28,
+   "union_vrai": 1,
+   "r1_signale": 1,
+   "r1_vrai": 0,
+   "r1_faux_positif": 1,
+   "exemples_faux_positifs_r2": [
+    {
+     "segment": 0,
+     "t": 24,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 0,
+     "t": 25,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 0,
+     "t": 26,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 0,
+     "t": 40,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 0,
+     "t": 49,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 0,
+     "t": 50,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 0,
+     "t": 51,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 3,
+     "t": 9,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    }
+   ]
+  },
+  "sk48": {
+   "erreur": null,
+   "coups": 123,
+   "sans_effet": 2,
+   "r2_juge": 4,
+   "juges_objets": 113,
+   "sans_effet_objets": 2,
+   "r2_vrai_objets": 0,
+   "r2_faux_positif_objets": 4,
+   "r2_signale": 4,
+   "r2_vrai": 0,
+   "r2_faux_positif": 4,
+   "union_signale": 4,
+   "union_vrai": 0,
+   "exemples_faux_positifs_r2": [
+    {
+     "segment": 0,
+     "t": 6,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 0,
+     "t": 7,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 0,
+     "t": 8,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 0,
+     "t": 9,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    }
+   ]
+  },
+  "m0r0": {
+   "erreur": null,
+   "coups": 321,
+   "sans_effet": 13,
+   "r2_juge": 111,
+   "juges_objets": 291,
+   "sans_effet_objets": 41,
+   "r2_vrai_objets": 30,
+   "r2_faux_positif_objets": 77,
+   "r2_signale": 107,
+   "r2_vrai": 6,
+   "r2_faux_positif": 101,
+   "union_signale": 107,
+   "union_vrai": 6,
+   "exemples_faux_positifs_r2": [
+    {
+     "segment": 1,
+     "t": 33,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 1,
+     "t": 34,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 1,
+     "t": 35,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 1,
+     "t": 36,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 1,
+     "t": 37,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 1,
+     "t": 38,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 1,
+     "t": 39,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 1,
+     "t": 40,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    }
+   ]
+  },
+  "sp80": {
+   "erreur": null,
+   "coups": 102,
+   "sans_effet": 0,
+   "r2_juge": 41,
+   "juges_objets": 82,
+   "sans_effet_objets": 8,
+   "r2_vrai_objets": 6,
+   "r2_faux_positif_objets": 2,
+   "r2_signale": 8,
+   "r2_vrai": 0,
+   "r2_faux_positif": 8,
+   "union_signale": 8,
+   "union_vrai": 0,
+   "exemples_faux_positifs_r2": [
+    {
+     "segment": 3,
+     "t": 41,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 3,
+     "t": 47,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    }
+   ]
+  },
+  "su15": {
+   "erreur": null,
+   "coups": 160,
+   "sans_effet": 6,
+   "r2_juge": 11,
+   "juges_objets": 130,
+   "sans_effet_objets": 77,
+   "r2_vrai_objets": 4,
+   "r2_faux_positif_objets": 7,
+   "r2_signale": 11,
+   "r2_vrai": 1,
+   "r2_faux_positif": 10,
+   "union_signale": 11,
+   "union_vrai": 1,
+   "exemples_faux_positifs_r2": [
+    {
+     "segment": 1,
+     "t": 21,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 4,
+     "t": 16,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 4,
+     "t": 17,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 4,
+     "t": 18,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 4,
+     "t": 19,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 4,
+     "t": 20,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 4,
+     "t": 21,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    }
+   ]
+  },
+  "lf52": {
+   "erreur": null,
+   "coups": 180,
+   "sans_effet": 0,
+   "r2_juge": 14,
+   "juges_objets": 165,
+   "sans_effet_objets": 25,
+   "r2_vrai_objets": 5,
+   "r2_faux_positif_objets": 9,
+   "r2_signale": 14,
+   "r2_vrai": 0,
+   "r2_faux_positif": 14,
+   "union_signale": 14,
+   "union_vrai": 0,
+   "exemples_faux_positifs_r2": [
+    {
+     "segment": 1,
+     "t": 19,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 2,
+     "t": 43,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 2,
+     "t": 44,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 2,
+     "t": 45,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 2,
+     "t": 46,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 2,
+     "t": 49,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 2,
+     "t": 51,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 2,
+     "t": 52,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    }
+   ]
+  },
+  "tn36": {
+   "erreur": null,
+   "coups": 311,
+   "sans_effet": 0,
+   "r2_juge": 0,
+   "juges_objets": 271,
+   "sans_effet_objets": 24,
+   "exemples_faux_positifs_r2": []
+  },
+  "re86": {
+   "erreur": null,
+   "coups": 366,
+   "sans_effet": 0,
+   "r2_juge": 238,
+   "juges_objets": 341,
+   "sans_effet_objets": 41,
+   "r2_vrai_objets": 28,
+   "r2_faux_positif_objets": 194,
+   "r2_signale": 222,
+   "r2_vrai": 0,
+   "r2_faux_positif": 222,
+   "union_signale": 222,
+   "union_vrai": 0,
+   "exemples_faux_positifs_r2": [
+    {
+     "segment": 0,
+     "t": 16,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 0,
+     "t": 17,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 0,
+     "t": 18,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 0,
+     "t": 19,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 1,
+     "t": 23,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 1,
+     "t": 42,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 1,
+     "t": 43,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 1,
+     "t": 44,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    }
+   ]
+  },
+  "tr87": {
+   "erreur": null,
+   "coups": 417,
+   "sans_effet": 0,
+   "r2_juge": 224,
+   "juges_objets": 382,
+   "sans_effet_objets": 0,
+   "r2_vrai_objets": 0,
+   "r2_faux_positif_objets": 196,
+   "r2_signale": 196,
+   "r2_vrai": 0,
+   "r2_faux_positif": 196,
+   "union_signale": 196,
+   "union_vrai": 0,
+   "exemples_faux_positifs_r2": [
+    {
+     "segment": 0,
+     "t": 18,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 0,
+     "t": 20,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 0,
+     "t": 21,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 0,
+     "t": 24,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 0,
+     "t": 25,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 0,
+     "t": 27,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 0,
+     "t": 29,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 1,
+     "t": 5,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    }
+   ]
+  },
+  "ls20": {
+   "erreur": null,
+   "coups": 329,
+   "sans_effet": 4,
+   "r2_juge": 32,
+   "juges_objets": 309,
+   "sans_effet_objets": 8,
+   "r2_vrai_objets": 1,
+   "r2_faux_positif_objets": 17,
+   "r2_signale": 18,
+   "r2_vrai": 1,
+   "r2_faux_positif": 17,
+   "union_signale": 19,
+   "union_vrai": 2,
+   "r1_signale": 1,
+   "r1_vrai": 1,
+   "r1_faux_positif": 0,
+   "exemples_faux_positifs_r2": [
+    {
+     "segment": 3,
+     "t": 17,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 3,
+     "t": 18,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 3,
+     "t": 19,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 3,
+     "t": 20,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 3,
+     "t": 21,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 3,
+     "t": 22,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 3,
+     "t": 23,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    },
+    {
+     "segment": 3,
+     "t": 24,
+     "change": true,
+     "change_objets": true,
+     "r1": false,
+     "r2": true,
+     "abstention": null
+    }
+   ]
+  }
+ }
+}

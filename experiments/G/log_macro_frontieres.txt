@@ -1,0 +1,14 @@
+daa53b76 [G] macro-actions génériques (objet piloté, alternance) : g50t N1 gagné en 17 coups, 0,1 s, vérifié dans le vrai jeu
+bp35 2 budget pilotes 0 hauts 11102 sim 200238 plan None None cpu 300.2
+dc22 4 budget pilotes 1 hauts 15777 sim 658406 plan None None cpu 300.0
+ka59 4 budget pilotes 1 hauts 23734 sim 125638 plan None None cpu 6.6
+lf52 3 budget pilotes 0 hauts 20035 sim 478552 plan None None cpu 244.1
+ls20 4 espace épuisé pilotes 1 hauts 58 sim 236 plan None None cpu 0.3
+m0r0 6 budget pilotes 2 hauts 2793 sim 1049691 plan None None cpu 300.1
+re86 5 budget pilotes 1 hauts 10838 sim 402412 plan None None cpu 301.3
+sc25 5 budget pilotes 1 hauts 20007 sim 291011 plan None None cpu 118.5
+sk48 2 budget pilotes 3 hauts 20000 sim 392634 plan None None cpu 121.3
+sp80 4 budget pilotes 1 hauts 20130 sim 126244 plan None None cpu 6.9
+su15 4 budget pilotes 0 hauts 20019 sim 31165 plan None None cpu 25.0
+
+[exited with code 0]

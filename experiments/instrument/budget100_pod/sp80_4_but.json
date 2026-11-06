@@ -1,0 +1,12 @@
+{
+ "jeu": "sp80",
+ "niveau": 4,
+ "bras": "but",
+ "budget_s": 30000.0,
+ "memoire_go": 8.0,
+ "backend": "1",
+ "prefixe": "plafonds.prefixe",
+ "raison": "mémoire",
+ "t_arret": 879.3,
+ "memoire_max_go": 8.07
+}

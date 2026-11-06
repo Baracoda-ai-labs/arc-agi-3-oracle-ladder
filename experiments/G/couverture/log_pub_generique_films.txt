@@ -1,0 +1,52 @@
+{"jeu": "ar25", "niveau": 1, "victoire": true, "coups": 37, "resets": 0, "secondes": 0.2}
+{"jeu": "ar25", "niveau": 2, "victoire": true, "coups": 21, "resets": 0, "secondes": 0.2}
+{"jeu": "ar25", "niveau": 3, "victoire": false, "coups": 150, "resets": 0, "secondes": 1.5}
+LIGNE {"bras": "generique_films", "jeu": "ar25", "niveau": 1, "victoire": true, "coups": 37, "etats": 25, "erreur": null}
+LIGNE {"bras": "generique_films", "jeu": "ar25", "niveau": 2, "victoire": true, "coups": 21, "etats": 13, "erreur": null}
+LIGNE {"bras": "generique_films", "jeu": "ar25", "niveau": 3, "victoire": false, "coups": 150, "etats": 72, "erreur": null}
+{"jeu": "bp35", "niveau": 1, "victoire": false, "coups": 150, "resets": 2, "secondes": 2.2}
+LIGNE {"bras": "generique_films", "jeu": "bp35", "niveau": 1, "victoire": false, "coups": 150, "etats": 22, "erreur": null}
+{"jeu": "cd82", "niveau": 1, "victoire": false, "coups": 150, "resets": 1, "secondes": 2.1}
+LIGNE {"bras": "generique_films", "jeu": "cd82", "niveau": 1, "victoire": false, "coups": 150, "etats": 42, "erreur": null}
+{"jeu": "dc22", "niveau": 1, "victoire": false, "coups": 150, "resets": 1, "secondes": 1.7}
+LIGNE {"bras": "generique_films", "jeu": "dc22", "niveau": 1, "victoire": false, "coups": 150, "etats": 30, "erreur": null}
+{"jeu": "ft09", "niveau": 1, "victoire": false, "coups": 150, "resets": 0, "secondes": 2.9}
+LIGNE {"bras": "generique_films", "jeu": "ft09", "niveau": 1, "victoire": false, "coups": 150, "etats": 23, "erreur": null}
+{"jeu": "g50t", "niveau": 1, "victoire": false, "coups": 150, "resets": 1, "secondes": 3.0}
+LIGNE {"bras": "generique_films", "jeu": "g50t", "niveau": 1, "victoire": false, "coups": 150, "etats": 21, "erreur": null}
+{"jeu": "ka59", "niveau": 1, "victoire": false, "coups": 150, "resets": 1, "secondes": 1.4}
+LIGNE {"bras": "generique_films", "jeu": "ka59", "niveau": 1, "victoire": false, "coups": 150, "etats": 66, "erreur": null}
+{"jeu": "lf52", "niveau": 1, "victoire": false, "coups": 150, "resets": 1, "secondes": 4.4}
+LIGNE {"bras": "generique_films", "jeu": "lf52", "niveau": 1, "victoire": false, "coups": 150, "etats": 5, "erreur": null}
+{"jeu": "lp85", "niveau": 1, "victoire": true, "coups": 10, "resets": 0, "secondes": 0.2}
+{"jeu": "lp85", "niveau": 2, "victoire": false, "coups": 150, "resets": 2, "secondes": 1.7}
+LIGNE {"bras": "generique_films", "jeu": "lp85", "niveau": 1, "victoire": true, "coups": 10, "etats": 6, "erreur": null}
+LIGNE {"bras": "generique_films", "jeu": "lp85", "niveau": 2, "victoire": false, "coups": 150, "etats": 146, "erreur": null}
+{"jeu": "ls20", "niveau": 1, "victoire": false, "coups": 150, "resets": 1, "secondes": 2.0}
+LIGNE {"bras": "generique_films", "jeu": "ls20", "niveau": 1, "victoire": false, "coups": 150, "etats": 82, "erreur": null}
+{"jeu": "m0r0", "niveau": 1, "victoire": true, "coups": 47, "resets": 0, "secondes": 0.4}
+{"jeu": "m0r0", "niveau": 2, "victoire": false, "coups": 150, "resets": 0, "secondes": 1.8}
+LIGNE {"bras": "generique_films", "jeu": "m0r0", "niveau": 1, "victoire": true, "coups": 47, "etats": 28, "erreur": null}
+LIGNE {"bras": "generique_films", "jeu": "m0r0", "niveau": 2, "victoire": false, "coups": 150, "etats": 9, "erreur": null}
+{"jeu": "r11l", "niveau": 1, "victoire": true, "coups": 37, "resets": 0, "secondes": 0.2}
+{"jeu": "r11l", "niveau": 2, "victoire": false, "coups": 150, "resets": 3, "secondes": 4.0}
+LIGNE {"bras": "generique_films", "jeu": "r11l", "niveau": 1, "victoire": true, "coups": 37, "etats": 25, "erreur": null}
+LIGNE {"bras": "generique_films", "jeu": "r11l", "niveau": 2, "victoire": false, "coups": 150, "etats": 82, "erreur": null}
+{"jeu": "re86", "niveau": 1, "victoire": false, "coups": 150, "resets": 1, "secondes": 1.2}
+LIGNE {"bras": "generique_films", "jeu": "re86", "niveau": 1, "victoire": false, "coups": 150, "etats": 89, "erreur": null}
+{"jeu": "sb26", "niveau": 1, "victoire": false, "coups": 150, "resets": 2, "secondes": 8.0}
+LIGNE {"bras": "generique_films", "jeu": "sb26", "niveau": 1, "victoire": false, "coups": 150, "etats": 129, "erreur": null}
+{"jeu": "sc25", "niveau": 1, "victoire": false, "coups": 150, "resets": 1, "secondes": 3.6}
+LIGNE {"bras": "generique_films", "jeu": "sc25", "niveau": 1, "victoire": false, "coups": 150, "etats": 60, "erreur": null}
+{"jeu": "sk48", "niveau": 1, "victoire": false, "coups": 150, "resets": 0, "secondes": 1.5}
+LIGNE {"bras": "generique_films", "jeu": "sk48", "niveau": 1, "victoire": false, "coups": 150, "etats": 111, "erreur": null}
+{"jeu": "sp80", "niveau": 1, "victoire": false, "coups": 150, "resets": 4, "secondes": 2.1}
+LIGNE {"bras": "generique_films", "jeu": "sp80", "niveau": 1, "victoire": false, "coups": 150, "etats": 64, "erreur": null}
+{"jeu": "su15", "niveau": 1, "victoire": false, "coups": 150, "resets": 3, "secondes": 2.2}
+LIGNE {"bras": "generique_films", "jeu": "su15", "niveau": 1, "victoire": false, "coups": 150, "etats": 12, "erreur": null}
+{"jeu": "tn36", "niveau": 1, "victoire": true, "coups": 110, "resets": 1, "secondes": 1.0}
+{"jeu": "tn36", "niveau": 2, "victoire": false, "coups": 150, "resets": 2, "secondes": 1.8}
+LIGNE {"bras": "generique_films", "jeu": "tn36", "niveau": 1, "victoire": true, "coups": 110, "etats": 68, "erreur": null}
+LIGNE {"bras": "generique_films", "jeu": "tn36", "niveau": 2, "victoire": false, "coups": 150, "etats": 95, "erreur": null}
+{"jeu": "tr87", "niveau": 1, "victoire": false, "coups": 150, "resets": 1, "secondes": 2.0}
+LIGNE {"bras": "generique_films", "jeu": "tr87", "niveau": 1, "victoire": false, "coups": 150, "etats": 96, "erreur": null}

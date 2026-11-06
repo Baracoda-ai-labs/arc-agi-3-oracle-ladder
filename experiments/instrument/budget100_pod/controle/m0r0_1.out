@@ -1,0 +1,8 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 17:35:13 | INFO | Created new scorecard: 1b6ae3ae-eecb-4860-9242-dd9898dd319a
+2026-10-20 17:35:13 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+2026-10-20 17:35:13 | INFO | Successfully loaded game class M0r0 from /workspace/chrysalide3/experiments/arc3/environment_files/m0r0/492f87ba/m0r0.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 17:35:17 | INFO | Created new scorecard: 69bed269-56cc-4374-b9c8-4f5b9f95f9bd
+2026-10-20 17:35:17 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+{"jeu": "m0r0", "niveau": 1, "bras": "profondeur", "budget_s": 300.0, "memoire_go": 4.0, "backend": "1", "prefixe": "plafonds.prefixe", "gagne": true, "plan": 16, "noeuds": 42547, "etats": null, "raison": null, "profondeur": null, "table": null, "t_victoire": 4.8, "duree_s": 4.8, "memoire_max_go": 0.11}

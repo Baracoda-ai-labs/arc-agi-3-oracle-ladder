@@ -1,0 +1,3599 @@
+{
+ "total": {
+  "paires": 311,
+  "mesurees": 311,
+  "commutent": 101,
+  "predites": 24,
+  "faux_independants": 0,
+  "manquees": 77,
+  "conditionnelles": 9,
+  "conditionnelles_commutent": 2
+ },
+ "jeux": {
+  "ar25": {
+   "etats": 15,
+   "toujours": [
+    "economie"
+   ],
+   "paires": {
+    "DOWN|LEFT": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 13,
+     "commute": 3,
+     "predite": false,
+     "conditionnelle": true,
+     "mesuree": false
+    },
+    "DOWN|RIGHT": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 13,
+     "commute": 3,
+     "predite": false,
+     "conditionnelle": true,
+     "mesuree": false
+    },
+    "DOWN|SPACE": {
+     "classes": [
+      "fleche",
+      "space"
+     ],
+     "n": 13,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "DOWN|UP": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 13,
+     "commute": 1,
+     "predite": false,
+     "conditionnelle": true,
+     "mesuree": false
+    },
+    "LEFT|RIGHT": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 2,
+     "predite": false,
+     "conditionnelle": true,
+     "mesuree": false
+    },
+    "LEFT|SPACE": {
+     "classes": [
+      "fleche",
+      "space"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|UP": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 3,
+     "predite": false,
+     "conditionnelle": true,
+     "mesuree": false
+    },
+    "RIGHT|SPACE": {
+     "classes": [
+      "fleche",
+      "space"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "RIGHT|UP": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 3,
+     "predite": false,
+     "conditionnelle": true,
+     "mesuree": false
+    },
+    "SPACE|UP": {
+     "classes": [
+      "space",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    }
+   }
+  },
+  "bp35": {
+   "etats": 11,
+   "toujours": [
+    "economie",
+    "autonome"
+   ],
+   "paires": {
+    "LEFT|RIGHT": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 11,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|CLICK(9, 15)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 11,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|CLICK(9, 34)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 11,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|CLICK(27, 27)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 11,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|CLICK(27, 45)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 11,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "RIGHT|CLICK(9, 15)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 11,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "RIGHT|CLICK(9, 34)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 11,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "RIGHT|CLICK(27, 27)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 11,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "RIGHT|CLICK(27, 45)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 11,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "CLICK(9, 15)|CLICK(9, 34)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 11,
+     "commute": 10,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "CLICK(9, 15)|CLICK(27, 27)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 11,
+     "commute": 6,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "CLICK(9, 15)|CLICK(27, 45)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 11,
+     "commute": 7,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "CLICK(9, 34)|CLICK(27, 27)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 11,
+     "commute": 6,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "CLICK(9, 34)|CLICK(27, 45)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 11,
+     "commute": 7,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "CLICK(27, 27)|CLICK(27, 45)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 11,
+     "commute": 7,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    }
+   }
+  },
+  "cd82": {
+   "etats": 15,
+   "toujours": [
+    "economie"
+   ],
+   "paires": {
+    "DOWN|LEFT": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 8,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "DOWN|RIGHT": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 4,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "DOWN|SPACE": {
+     "classes": [
+      "fleche",
+      "space"
+     ],
+     "n": 15,
+     "commute": 9,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "DOWN|UP": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 7,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "DOWN|CLICK(4, 37)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "DOWN|CLICK(4, 43)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "DOWN|CLICK(8, 7)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "DOWN|CLICK(29, 22)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "LEFT|RIGHT": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 7,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|SPACE": {
+     "classes": [
+      "fleche",
+      "space"
+     ],
+     "n": 15,
+     "commute": 10,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|UP": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 14,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|CLICK(4, 37)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "LEFT|CLICK(4, 43)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "LEFT|CLICK(8, 7)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "LEFT|CLICK(29, 22)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "RIGHT|SPACE": {
+     "classes": [
+      "fleche",
+      "space"
+     ],
+     "n": 15,
+     "commute": 8,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "RIGHT|UP": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 12,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "RIGHT|CLICK(4, 37)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "RIGHT|CLICK(4, 43)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "RIGHT|CLICK(8, 7)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "RIGHT|CLICK(29, 22)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "SPACE|UP": {
+     "classes": [
+      "space",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 14,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "SPACE|CLICK(4, 37)": {
+     "classes": [
+      "space",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 5,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "SPACE|CLICK(4, 43)": {
+     "classes": [
+      "space",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 10,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "SPACE|CLICK(8, 7)": {
+     "classes": [
+      "space",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "SPACE|CLICK(29, 22)": {
+     "classes": [
+      "space",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "UP|CLICK(4, 37)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "UP|CLICK(4, 43)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "UP|CLICK(8, 7)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "UP|CLICK(29, 22)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "CLICK(4, 37)|CLICK(4, 43)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "CLICK(4, 37)|CLICK(8, 7)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "CLICK(4, 37)|CLICK(29, 22)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "CLICK(4, 43)|CLICK(8, 7)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "CLICK(4, 43)|CLICK(29, 22)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "CLICK(8, 7)|CLICK(29, 22)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    }
+   }
+  },
+  "dc22": {
+   "etats": 15,
+   "toujours": [
+    "economie"
+   ],
+   "paires": {
+    "DOWN|LEFT": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "DOWN|RIGHT": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 14,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "DOWN|UP": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 8,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "DOWN|CLICK(12, 32)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "DOWN|CLICK(14, 21)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "DOWN|CLICK(18, 48)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "DOWN|CLICK(19, 48)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "LEFT|RIGHT": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 9,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|UP": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "LEFT|CLICK(12, 32)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "LEFT|CLICK(14, 21)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "LEFT|CLICK(18, 48)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "LEFT|CLICK(19, 48)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "RIGHT|UP": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 13,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "RIGHT|CLICK(12, 32)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "RIGHT|CLICK(14, 21)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "RIGHT|CLICK(18, 48)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 14,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "RIGHT|CLICK(19, 48)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 14,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "UP|CLICK(12, 32)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "UP|CLICK(14, 21)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "UP|CLICK(18, 48)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 13,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "UP|CLICK(19, 48)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 13,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "CLICK(12, 32)|CLICK(14, 21)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": true,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "CLICK(12, 32)|CLICK(18, 48)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": true,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "CLICK(12, 32)|CLICK(19, 48)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": true,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "CLICK(14, 21)|CLICK(18, 48)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": true,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "CLICK(14, 21)|CLICK(19, 48)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": true,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "CLICK(18, 48)|CLICK(19, 48)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": true,
+     "conditionnelle": false,
+     "mesuree": true
+    }
+   }
+  },
+  "ft09": {
+   "etats": 15,
+   "toujours": [
+    "economie"
+   ],
+   "paires": {
+    "CLICK(6, 22)|CLICK(7, 25)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": true,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "CLICK(6, 22)|CLICK(7, 31)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": true,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "CLICK(6, 22)|CLICK(7, 33)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": true,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "CLICK(7, 25)|CLICK(7, 31)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": true,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "CLICK(7, 25)|CLICK(7, 33)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": true,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "CLICK(7, 31)|CLICK(7, 33)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": true,
+     "conditionnelle": false,
+     "mesuree": true
+    }
+   }
+  },
+  "g50t": {
+   "etats": 11,
+   "toujours": [
+    "economie",
+    "autonome"
+   ],
+   "paires": {
+    "DOWN|LEFT": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 11,
+     "commute": 7,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "DOWN|RIGHT": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 11,
+     "commute": 4,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "DOWN|SPACE": {
+     "classes": [
+      "fleche",
+      "space"
+     ],
+     "n": 11,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "DOWN|UP": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 11,
+     "commute": 4,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|RIGHT": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 11,
+     "commute": 1,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|SPACE": {
+     "classes": [
+      "fleche",
+      "space"
+     ],
+     "n": 11,
+     "commute": 5,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|UP": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 11,
+     "commute": 11,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "RIGHT|SPACE": {
+     "classes": [
+      "fleche",
+      "space"
+     ],
+     "n": 11,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "RIGHT|UP": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 11,
+     "commute": 9,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "SPACE|UP": {
+     "classes": [
+      "space",
+      "fleche"
+     ],
+     "n": 11,
+     "commute": 9,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    }
+   }
+  },
+  "ka59": {
+   "etats": 15,
+   "toujours": [
+    "economie"
+   ],
+   "paires": {
+    "DOWN|LEFT": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 14,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "DOWN|RIGHT": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 14,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "DOWN|UP": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 14,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "DOWN|CLICK(25, 46)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 14,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "DOWN|CLICK(26, 46)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 14,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "DOWN|CLICK(28, 46)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 14,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "DOWN|CLICK(31, 16)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 14,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|RIGHT": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|UP": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|CLICK(25, 46)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|CLICK(26, 46)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|CLICK(28, 46)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|CLICK(31, 16)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "RIGHT|UP": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "RIGHT|CLICK(25, 46)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "RIGHT|CLICK(26, 46)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "RIGHT|CLICK(28, 46)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "RIGHT|CLICK(31, 16)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "UP|CLICK(25, 46)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "UP|CLICK(26, 46)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "UP|CLICK(28, 46)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "UP|CLICK(31, 16)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "CLICK(25, 46)|CLICK(26, 46)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "CLICK(25, 46)|CLICK(28, 46)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 13,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "CLICK(25, 46)|CLICK(31, 16)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 13,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "CLICK(26, 46)|CLICK(28, 46)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 13,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "CLICK(26, 46)|CLICK(31, 16)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 13,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "CLICK(28, 46)|CLICK(31, 16)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 11,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    }
+   }
+  },
+  "lf52": {
+   "etats": 15,
+   "toujours": [
+    "economie"
+   ],
+   "paires": {
+    "DOWN|LEFT": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 3,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "DOWN|RIGHT": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 4,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "DOWN|UP": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 12,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "DOWN|CLICK(13, 12)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "DOWN|CLICK(16, 14)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "DOWN|CLICK(16, 26)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "DOWN|CLICK(16, 32)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|RIGHT": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 5,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|UP": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 4,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|CLICK(13, 12)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|CLICK(16, 14)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|CLICK(16, 26)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|CLICK(16, 32)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "RIGHT|UP": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 4,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "RIGHT|CLICK(13, 12)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "RIGHT|CLICK(16, 14)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "RIGHT|CLICK(16, 26)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "RIGHT|CLICK(16, 32)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "UP|CLICK(13, 12)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "UP|CLICK(16, 14)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "UP|CLICK(16, 26)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "UP|CLICK(16, 32)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "CLICK(13, 12)|CLICK(16, 14)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 3,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "CLICK(13, 12)|CLICK(16, 26)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "CLICK(13, 12)|CLICK(16, 32)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "CLICK(16, 14)|CLICK(16, 26)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "CLICK(16, 14)|CLICK(16, 32)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "CLICK(16, 26)|CLICK(16, 32)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    }
+   }
+  },
+  "lp85": {
+   "etats": 15,
+   "toujours": [
+    "economie"
+   ],
+   "paires": {
+    "CLICK(7, 10)|CLICK(7, 15)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "CLICK(7, 10)|CLICK(7, 50)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "CLICK(7, 10)|CLICK(15, 7)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "CLICK(7, 15)|CLICK(7, 50)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "CLICK(7, 15)|CLICK(15, 7)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 11,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "CLICK(7, 50)|CLICK(15, 7)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    }
+   }
+  },
+  "ls20": {
+   "etats": 15,
+   "toujours": [
+    "economie",
+    "autonome"
+   ],
+   "paires": {
+    "DOWN|LEFT": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 2,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "DOWN|RIGHT": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 5,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "DOWN|UP": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 14,
+     "commute": 8,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|RIGHT": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 5,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|UP": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 14,
+     "commute": 2,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "RIGHT|UP": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 14,
+     "commute": 6,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    }
+   }
+  },
+  "m0r0": {
+   "etats": 15,
+   "toujours": [
+    "economie"
+   ],
+   "paires": {
+    "DOWN|LEFT": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "DOWN|RIGHT": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 12,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "DOWN|SPACE": {
+     "classes": [
+      "fleche",
+      "space"
+     ],
+     "n": 15,
+     "commute": 1,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "DOWN|UP": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "DOWN|CLICK(11, 33)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "DOWN|CLICK(30, 14)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "DOWN|CLICK(30, 31)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "LEFT|RIGHT": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 12,
+     "commute": 1,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|SPACE": {
+     "classes": [
+      "fleche",
+      "space"
+     ],
+     "n": 15,
+     "commute": 2,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|UP": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 1,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|CLICK(11, 33)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "LEFT|CLICK(30, 14)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "LEFT|CLICK(30, 31)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "RIGHT|SPACE": {
+     "classes": [
+      "fleche",
+      "space"
+     ],
+     "n": 12,
+     "commute": 3,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "RIGHT|UP": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 12,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "RIGHT|CLICK(11, 33)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 12,
+     "commute": 12,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "RIGHT|CLICK(30, 14)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 12,
+     "commute": 12,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "RIGHT|CLICK(30, 31)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 12,
+     "commute": 12,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "SPACE|UP": {
+     "classes": [
+      "space",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 5,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "SPACE|CLICK(11, 33)": {
+     "classes": [
+      "space",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "SPACE|CLICK(30, 14)": {
+     "classes": [
+      "space",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "SPACE|CLICK(30, 31)": {
+     "classes": [
+      "space",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "UP|CLICK(11, 33)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "UP|CLICK(30, 14)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "UP|CLICK(30, 31)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "CLICK(11, 33)|CLICK(30, 14)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "CLICK(11, 33)|CLICK(30, 31)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "CLICK(30, 14)|CLICK(30, 31)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    }
+   }
+  },
+  "r11l": {
+   "etats": 15,
+   "toujours": [
+    "economie"
+   ],
+   "paires": {
+    "CLICK(2, 52)|CLICK(3, 29)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "CLICK(2, 52)|CLICK(3, 47)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "CLICK(2, 52)|CLICK(6, 39)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "CLICK(3, 29)|CLICK(3, 47)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "CLICK(3, 29)|CLICK(6, 39)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "CLICK(3, 47)|CLICK(6, 39)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    }
+   }
+  },
+  "re86": {
+   "etats": 15,
+   "toujours": [
+    "economie"
+   ],
+   "paires": {
+    "DOWN|LEFT": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "DOWN|RIGHT": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 14,
+     "commute": 14,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "DOWN|SPACE": {
+     "classes": [
+      "fleche",
+      "space"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "DOWN|UP": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 14,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|RIGHT": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 14,
+     "commute": 14,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "LEFT|SPACE": {
+     "classes": [
+      "fleche",
+      "space"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|UP": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "RIGHT|SPACE": {
+     "classes": [
+      "fleche",
+      "space"
+     ],
+     "n": 14,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "RIGHT|UP": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 14,
+     "commute": 14,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "SPACE|UP": {
+     "classes": [
+      "space",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    }
+   }
+  },
+  "sb26": {
+   "etats": 15,
+   "toujours": [
+    "economie"
+   ],
+   "paires": {
+    "SPACE|CLICK(22, 21)": {
+     "classes": [
+      "space",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 4,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "SPACE|CLICK(22, 22)": {
+     "classes": [
+      "space",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 4,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "SPACE|CLICK(22, 28)": {
+     "classes": [
+      "space",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 4,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "SPACE|CLICK(22, 34)": {
+     "classes": [
+      "space",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 9,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "CLICK(22, 21)|CLICK(22, 22)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 14,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "CLICK(22, 21)|CLICK(22, 28)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 3,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "CLICK(22, 21)|CLICK(22, 34)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 3,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "CLICK(22, 22)|CLICK(22, 28)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 3,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "CLICK(22, 22)|CLICK(22, 34)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 3,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "CLICK(22, 28)|CLICK(22, 34)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 3,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    }
+   }
+  },
+  "sc25": {
+   "etats": 15,
+   "toujours": [
+    "economie"
+   ],
+   "paires": {
+    "DOWN|LEFT": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 14,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "DOWN|RIGHT": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "DOWN|UP": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "DOWN|CLICK(19, 14)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 14,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "DOWN|CLICK(20, 30)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 14,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "DOWN|CLICK(20, 36)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 14,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "DOWN|CLICK(30, 30)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 14,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|RIGHT": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 14,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|UP": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 14,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|CLICK(19, 14)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 14,
+     "commute": 13,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|CLICK(20, 30)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 14,
+     "commute": 13,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|CLICK(20, 36)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 14,
+     "commute": 13,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|CLICK(30, 30)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 14,
+     "commute": 13,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "RIGHT|UP": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "RIGHT|CLICK(19, 14)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 14,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "RIGHT|CLICK(20, 30)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 14,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "RIGHT|CLICK(20, 36)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 14,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "RIGHT|CLICK(30, 30)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 14,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "UP|CLICK(19, 14)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 14,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "UP|CLICK(20, 30)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 14,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "UP|CLICK(20, 36)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 14,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "UP|CLICK(30, 30)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 14,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "CLICK(19, 14)|CLICK(20, 30)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": true,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "CLICK(19, 14)|CLICK(20, 36)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": true,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "CLICK(19, 14)|CLICK(30, 30)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": true,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "CLICK(20, 30)|CLICK(20, 36)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": true,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "CLICK(20, 30)|CLICK(30, 30)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": true,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "CLICK(20, 36)|CLICK(30, 30)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": true,
+     "conditionnelle": false,
+     "mesuree": true
+    }
+   }
+  },
+  "sk48": {
+   "etats": 15,
+   "toujours": [
+    "economie"
+   ],
+   "paires": {
+    "DOWN|LEFT": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "DOWN|RIGHT": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 14,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "DOWN|UP": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|RIGHT": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 14,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|UP": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "RIGHT|UP": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 14,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    }
+   }
+  },
+  "sp80": {
+   "etats": 15,
+   "toujours": [
+    "economie"
+   ],
+   "paires": {
+    "LEFT|RIGHT": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 14,
+     "predite": false,
+     "conditionnelle": true,
+     "mesuree": false
+    },
+    "LEFT|SPACE": {
+     "classes": [
+      "fleche",
+      "space"
+     ],
+     "n": 14,
+     "commute": 2,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|UP": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": true,
+     "mesuree": true
+    },
+    "LEFT|CLICK(17, 10)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 13,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|CLICK(21, 10)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "LEFT|CLICK(25, 30)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 13,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|CLICK(29, 45)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 7,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "RIGHT|SPACE": {
+     "classes": [
+      "fleche",
+      "space"
+     ],
+     "n": 14,
+     "commute": 2,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "RIGHT|UP": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": true,
+     "mesuree": true
+    },
+    "RIGHT|CLICK(17, 10)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 13,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "RIGHT|CLICK(21, 10)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "RIGHT|CLICK(25, 30)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 13,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "RIGHT|CLICK(29, 45)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 7,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "SPACE|UP": {
+     "classes": [
+      "space",
+      "fleche"
+     ],
+     "n": 14,
+     "commute": 3,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "SPACE|CLICK(17, 10)": {
+     "classes": [
+      "space",
+      "clic"
+     ],
+     "n": 14,
+     "commute": 11,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "SPACE|CLICK(21, 10)": {
+     "classes": [
+      "space",
+      "clic"
+     ],
+     "n": 14,
+     "commute": 13,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "SPACE|CLICK(25, 30)": {
+     "classes": [
+      "space",
+      "clic"
+     ],
+     "n": 14,
+     "commute": 12,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "SPACE|CLICK(29, 45)": {
+     "classes": [
+      "space",
+      "clic"
+     ],
+     "n": 14,
+     "commute": 7,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "UP|CLICK(17, 10)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 13,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "UP|CLICK(21, 10)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "UP|CLICK(25, 30)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 13,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "UP|CLICK(29, 45)": {
+     "classes": [
+      "fleche",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 7,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "CLICK(17, 10)|CLICK(21, 10)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "CLICK(17, 10)|CLICK(25, 30)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 13,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "CLICK(17, 10)|CLICK(29, 45)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "CLICK(21, 10)|CLICK(25, 30)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "CLICK(21, 10)|CLICK(29, 45)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 14,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "CLICK(25, 30)|CLICK(29, 45)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    }
+   }
+  },
+  "su15": {
+   "etats": 15,
+   "toujours": [
+    "economie",
+    "autonome"
+   ],
+   "paires": {
+    "UNDO|CLICK(7, 33)": {
+     "classes": [
+      "undo",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "UNDO|CLICK(10, 31)": {
+     "classes": [
+      "undo",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "UNDO|CLICK(11, 37)": {
+     "classes": [
+      "undo",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "UNDO|CLICK(13, 30)": {
+     "classes": [
+      "undo",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "CLICK(7, 33)|CLICK(10, 31)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "CLICK(7, 33)|CLICK(11, 37)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "CLICK(7, 33)|CLICK(13, 30)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "CLICK(10, 31)|CLICK(11, 37)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "CLICK(10, 31)|CLICK(13, 30)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "CLICK(11, 37)|CLICK(13, 30)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    }
+   }
+  },
+  "tn36": {
+   "etats": 15,
+   "toujours": [
+    "economie"
+   ],
+   "paires": {
+    "CLICK(14, 31)|CLICK(18, 31)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": true,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "CLICK(14, 31)|CLICK(20, 15)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": true,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "CLICK(14, 31)|CLICK(33, 39)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": true,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "CLICK(18, 31)|CLICK(20, 15)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": true,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "CLICK(18, 31)|CLICK(33, 39)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": true,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "CLICK(20, 15)|CLICK(33, 39)": {
+     "classes": [
+      "clic",
+      "clic"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": true,
+     "conditionnelle": false,
+     "mesuree": true
+    }
+   }
+  },
+  "tr87": {
+   "etats": 15,
+   "toujours": [
+    "economie"
+   ],
+   "paires": {
+    "DOWN|LEFT": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "DOWN|RIGHT": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "DOWN|UP": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "LEFT|RIGHT": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 15,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": true
+    },
+    "LEFT|UP": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    },
+    "RIGHT|UP": {
+     "classes": [
+      "fleche",
+      "fleche"
+     ],
+     "n": 15,
+     "commute": 0,
+     "predite": false,
+     "conditionnelle": false,
+     "mesuree": false
+    }
+   }
+  }
+ }
+}

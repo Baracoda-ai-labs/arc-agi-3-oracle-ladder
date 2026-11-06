@@ -1,0 +1,201 @@
+{
+ "ar25 N1": {
+  "paires": 0,
+  "multiples": 0,
+  "causes": {}
+ },
+ "ar25 N2": {
+  "paires": 0,
+  "multiples": 0,
+  "causes": {}
+ },
+ "ar25 N3": {
+  "paires": 0,
+  "multiples": 0,
+  "causes": {}
+ },
+ "bp35 N1": {
+  "paires": 10,
+  "multiples": 0,
+  "causes": {}
+ },
+ "cd82 N1": {
+  "paires": 9,
+  "multiples": 0,
+  "causes": {}
+ },
+ "dc22 N1": {
+  "paires": 2,
+  "multiples": 0,
+  "causes": {}
+ },
+ "ft09 N1": {
+  "paires": 0,
+  "multiples": 0,
+  "causes": {}
+ },
+ "g50t N1": {
+  "paires": 2,
+  "multiples": 2,
+  "causes": {
+   "variable cachée": 2
+  }
+ },
+ "g50t N2": {
+  "paires": 0,
+  "multiples": 0,
+  "causes": {}
+ },
+ "g50t N3": {
+  "paires": 0,
+  "multiples": 0,
+  "causes": {}
+ },
+ "g50t N4": {
+  "paires": 0,
+  "multiples": 0,
+  "causes": {}
+ },
+ "g50t N5": {
+  "paires": 6,
+  "multiples": 0,
+  "causes": {}
+ },
+ "g50t N6": {
+  "paires": 0,
+  "multiples": 0,
+  "causes": {}
+ },
+ "g50t N7": {
+  "paires": 0,
+  "multiples": 0,
+  "causes": {}
+ },
+ "ka59 N1": {
+  "paires": 0,
+  "multiples": 0,
+  "causes": {}
+ },
+ "ka59 N2": {
+  "paires": 0,
+  "multiples": 0,
+  "causes": {}
+ },
+ "ka59 N3": {
+  "paires": 0,
+  "multiples": 0,
+  "causes": {}
+ },
+ "ka59 N4": {
+  "paires": 0,
+  "multiples": 0,
+  "causes": {}
+ },
+ "ka59 N5": {
+  "paires": 0,
+  "multiples": 0,
+  "causes": {}
+ },
+ "ka59 N6": {
+  "paires": 2,
+  "multiples": 0,
+  "causes": {}
+ },
+ "lf52 N1": {
+  "paires": 18,
+  "multiples": 0,
+  "causes": {}
+ },
+ "lp85 N1": {
+  "paires": 0,
+  "multiples": 0,
+  "causes": {}
+ },
+ "lp85 N2": {
+  "paires": 0,
+  "multiples": 0,
+  "causes": {}
+ },
+ "ls20 N1": {
+  "paires": 20,
+  "multiples": 4,
+  "causes": {
+   "variable cachée": 4
+  }
+ },
+ "m0r0 N1": {
+  "paires": 0,
+  "multiples": 0,
+  "causes": {}
+ },
+ "m0r0 N2": {
+  "paires": 2,
+  "multiples": 0,
+  "causes": {}
+ },
+ "r11l N1": {
+  "paires": 1,
+  "multiples": 0,
+  "causes": {}
+ },
+ "r11l N2": {
+  "paires": 11,
+  "multiples": 0,
+  "causes": {}
+ },
+ "re86 N1": {
+  "paires": 0,
+  "multiples": 0,
+  "causes": {}
+ },
+ "sb26 N1": {
+  "paires": 124,
+  "multiples": 2,
+  "causes": {
+   "compteur oublié": 2
+  }
+ },
+ "sc25 N1": {
+  "paires": 70,
+  "multiples": 16,
+  "causes": {
+   "variable cachée": 6,
+   "compteur oublié": 10
+  }
+ },
+ "sk48 N1": {
+  "paires": 0,
+  "multiples": 0,
+  "causes": {}
+ },
+ "sp80 N1": {
+  "paires": 4,
+  "multiples": 0,
+  "causes": {}
+ },
+ "sp80 N2": {
+  "paires": 0,
+  "multiples": 0,
+  "causes": {}
+ },
+ "su15 N1": {
+  "paires": 9,
+  "multiples": 0,
+  "causes": {}
+ },
+ "tn36 N1": {
+  "paires": 34,
+  "multiples": 0,
+  "causes": {}
+ },
+ "tn36 N2": {
+  "paires": 4,
+  "multiples": 0,
+  "causes": {}
+ },
+ "tr87 N1": {
+  "paires": 11,
+  "multiples": 0,
+  "causes": {}
+ }
+}

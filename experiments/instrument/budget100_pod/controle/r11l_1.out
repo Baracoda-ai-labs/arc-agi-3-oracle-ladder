@@ -1,0 +1,8 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 17:35:13 | INFO | Created new scorecard: bd54545c-7d33-48a0-b919-169e203077bb
+2026-10-20 17:35:13 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+2026-10-20 17:35:13 | INFO | Successfully loaded game class R11l from /workspace/chrysalide3/experiments/arc3/environment_files/r11l/495a7899/r11l.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 17:35:28 | INFO | Created new scorecard: 30ff8d7b-370d-432d-92eb-5daf19163d60
+2026-10-20 17:35:28 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+{"jeu": "r11l", "niveau": 1, "bras": "profondeur", "budget_s": 300.0, "memoire_go": 4.0, "backend": "1", "prefixe": "plafonds.prefixe", "gagne": true, "plan": 16, "noeuds": 1338, "etats": null, "raison": null, "profondeur": null, "table": null, "t_victoire": 15.6, "duree_s": 15.6, "memoire_max_go": 0.12}

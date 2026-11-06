@@ -1,0 +1,70 @@
+{
+ "jeu": "ft09",
+ "condition": "mdl",
+ "graine": 0,
+ "prefixe": 0,
+ "niveau_depart": null,
+ "minutes": 10.0,
+ "max_coups": 30000,
+ "duree_s": 601.2,
+ "niveaux": 2,
+ "niveaux_coup_final_moteur": 2,
+ "gagne": false,
+ "morts": 0,
+ "coups": {
+  "hasard": 112,
+  "hasard_effet": 73,
+  "moteur": 19,
+  "moteur_effet": 19
+ },
+ "dernier_refus_par_niveau": {
+  "1": "pas de but (aucun but supposé planifiable)",
+  "3": "pas de but (aucun but supposé planifiable) ; ne rejoue pas (C) ; partiel : aucun but supposé planifiable"
+ },
+ "refus": {
+  "pas de but (aucun but supposé planifiable) ; ne rejoue pas (": 96,
+  "pas de but (aucun but supposé planifiable)": 12
+ },
+ "drapeaux": {
+  "CHRYS_BUT_SUPPOSE": "1",
+  "CHRYS_PARTIEL": "2",
+  "CHRYS_MOTEUR_BUDGET_S": "2",
+  "CHRYS_POURSUITE_UTILE": "1",
+  "CHRYS_AMODAL": "1",
+  "CHRYS_MDL": "1",
+  "CHRYS_MOTEUR": "1"
+ },
+ "explorateur": "hasard",
+ "explo_mesures": null,
+ "bilan": {
+  "moteur_appels": 111,
+  "moteur_refus_porte": 0,
+  "moteur_plans": 3,
+  "moteur_tours": 19,
+  "moteur_coups_plan": 19,
+  "moteur_divergences": 1,
+  "moteur_cpu_s": 208.772,
+  "moteur_porte1_ok": 3,
+  "moteur_porte1_refus": 0,
+  "moteur_porte2_ok": 3,
+  "moteur_porte2_refus": 0,
+  "moteur_plans_gagnants_reels": 2,
+  "part_coups_moteur": 0.145,
+  "coups_plan_par_niveau": [
+   {
+    "niveau": 1,
+    "coups": 18,
+    "coups_plan": 5,
+    "plan_gagnant": true,
+    "cpu_moteur_s": 9.256
+   },
+   {
+    "niveau": 2,
+    "coups": 7,
+    "coups_plan": 6,
+    "plan_gagnant": true,
+    "cpu_moteur_s": 0.482
+   }
+  ]
+ }
+}

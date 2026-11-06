@@ -1,0 +1,4341 @@
+{
+ "y000:3:120": {
+  "jeu": "y000",
+  "niveau": 3,
+  "coup": 120,
+  "fenetre": 30,
+  "cpu_s": 0.52,
+  "but": "('sortie', 2, 0)",
+  "origine": "but_suppose",
+  "theorie": "move(c2,a1,0,-4). move(c2,a2,0,4). move(c2,a3,-4,0). move(c2,a4,4,0). move(c6,a1,0,-4). move(c6,a2,0,4). move(c6,a3,-4,0). move(c6,a4,4,0). solide(c7) [H_mur]. solide(c8). solide(c12). solide(c14) [H_mur]. solide(c15) [H_mur]. consomme(c15,c5). lie(c14,c5). transforme(c5,c5,c15). but(sortie,c2,c0).",
+  "refus": null,
+  "plan": [
+   "1",
+   "1",
+   "1",
+   "1",
+   "1"
+  ],
+  "joues": [
+   "1",
+   "1",
+   "1",
+   "2",
+   "1"
+  ],
+  "fidele": false,
+  "coups_executes": 3,
+  "etat": "divergence",
+  "pas": 3,
+  "action": "1",
+  "issue_simulee": null,
+  "n_cases": 29,
+  "cases": [
+   [
+    8,
+    15,
+    3,
+    6
+   ],
+   [
+    8,
+    16,
+    15,
+    6
+   ],
+   [
+    9,
+    16,
+    15,
+    5
+   ],
+   [
+    10,
+    14,
+    15,
+    5
+   ],
+   [
+    10,
+    15,
+    15,
+    2
+   ],
+   [
+    10,
+    16,
+    15,
+    2
+   ],
+   [
+    10,
+    17,
+    15,
+    5
+   ],
+   [
+    11,
+    14,
+    3,
+    2
+   ],
+   [
+    11,
+    15,
+    3,
+    2
+   ],
+   [
+    11,
+    16,
+    15,
+    2
+   ],
+   [
+    11,
+    17,
+    3,
+    2
+   ],
+   [
+    12,
+    15,
+    6,
+    3
+   ],
+   [
+    12,
+    16,
+    6,
+    3
+   ],
+   [
+    12,
+    26,
+    3,
+    14
+   ],
+   [
+    12,
+    27,
+    3,
+    14
+   ],
+   [
+    12,
+    28,
+    3,
+    14
+   ],
+   [
+    12,
+    29,
+    3,
+    14
+   ],
+   [
+    13,
+    27,
+    3,
+    14
+   ],
+   [
+    14,
+    15,
+    2,
+    3
+   ],
+   [
+    14,
+    16,
+    2,
+    3
+   ],
+   [
+    14,
+    28,
+    3,
+    14
+   ],
+   [
+    15,
+    14,
+    2,
+    3
+   ],
+   [
+    15,
+    15,
+    2,
+    3
+   ],
+   [
+    15,
+    16,
+    2,
+    3
+   ],
+   [
+    15,
+    17,
+    2,
+    3
+   ],
+   [
+    15,
+    26,
+    3,
+    14
+   ],
+   [
+    15,
+    27,
+    3,
+    14
+   ],
+   [
+    15,
+    28,
+    3,
+    14
+   ],
+   [
+    15,
+    29,
+    3,
+    14
+   ]
+  ],
+  "forme": [
+   [
+    32,
+    32
+   ],
+   [
+    32,
+    32
+   ]
+  ],
+  "issue_reelle": "divergence",
+  "fidele_execute": true,
+  "classe": "changement réel non prédit"
+ },
+ "y007:2:80": {
+  "jeu": "y007",
+  "niveau": 2,
+  "coup": 80,
+  "fenetre": 11,
+  "cpu_s": 0.57,
+  "but": "('sortie', 11, 3)",
+  "origine": "but_suppose",
+  "theorie": "move(c11,a1,0,-6). move(c11,a2,0,6). move(c11,a3,-6,0). [H_oppose] move(c11,a4,6,0). move(c15,a1,0,-6). move(c15,a2,0,6). move(c15,a3,-6,0). [H_oppose] move(c15,a4,6,0). solide(c4) [H_mur]. solide(c5) [H_mur]. solide(c8) [H_mur]. solide(c12) [H_mur]. but(sortie,c11,c3).",
+  "refus": null,
+  "plan": [
+   "1",
+   "1",
+   "1",
+   "1",
+   "1"
+  ],
+  "joues": [
+   "1",
+   "1",
+   "1",
+   "1",
+   "1"
+  ],
+  "fidele": true,
+  "coups_executes": 5,
+  "etat": "mort",
+  "pas": 5,
+  "action": "1",
+  "issue_simulee": "niveau",
+  "n_cases": 28,
+  "cases": [
+   [
+    8,
+    52,
+    12,
+    15
+   ],
+   [
+    8,
+    53,
+    12,
+    15
+   ],
+   [
+    10,
+    51,
+    12,
+    11
+   ],
+   [
+    10,
+    54,
+    12,
+    11
+   ],
+   [
+    11,
+    50,
+    12,
+    11
+   ],
+   [
+    11,
+    51,
+    12,
+    11
+   ],
+   [
+    11,
+    52,
+    3,
+    11
+   ],
+   [
+    11,
+    53,
+    3,
+    11
+   ],
+   [
+    11,
+    54,
+    12,
+    11
+   ],
+   [
+    11,
+    55,
+    12,
+    11
+   ],
+   [
+    12,
+    50,
+    3,
+    11
+   ],
+   [
+    12,
+    52,
+    12,
+    11
+   ],
+   [
+    12,
+    53,
+    12,
+    11
+   ],
+   [
+    12,
+    55,
+    3,
+    11
+   ],
+   [
+    14,
+    52,
+    15,
+    0
+   ],
+   [
+    14,
+    53,
+    15,
+    0
+   ],
+   [
+    16,
+    51,
+    11,
+    0
+   ],
+   [
+    16,
+    54,
+    11,
+    0
+   ],
+   [
+    17,
+    50,
+    11,
+    0
+   ],
+   [
+    17,
+    51,
+    11,
+    0
+   ],
+   [
+    17,
+    52,
+    11,
+    0
+   ],
+   [
+    17,
+    53,
+    11,
+    0
+   ],
+   [
+    17,
+    54,
+    11,
+    0
+   ],
+   [
+    17,
+    55,
+    11,
+    0
+   ],
+   [
+    18,
+    50,
+    11,
+    0
+   ],
+   [
+    18,
+    52,
+    11,
+    0
+   ],
+   [
+    18,
+    53,
+    11,
+    0
+   ],
+   [
+    18,
+    55,
+    11,
+    0
+   ]
+  ],
+  "forme": [
+   [
+    64,
+    64
+   ],
+   [
+    64,
+    64
+   ]
+  ],
+  "issue_reelle": "mort",
+  "fidele_execute": true,
+  "classe": "objet déplacé, but supposé atteint, PAS de victoire (but faux)"
+ },
+ "y009:3:80": {
+  "jeu": "y009",
+  "niveau": 3,
+  "coup": 80,
+  "fenetre": 14,
+  "cpu_s": 24.48,
+  "but": "('sortie', 3, 8)",
+  "origine": "but_suppose",
+  "theorie": "move(c3,a1,0,-7). move(c3,a2,0,7). move(c3,a3,-7,0). move(c3,a4,7,0). move(c4,a1,0,-7). move(c4,a2,0,7). move(c4,a3,-7,0). move(c4,a4,7,0). solide(c0). solide(c10). solide(c14) [H_mur]. poussable(c9). but(sortie,c3,c8).",
+  "refus": null,
+  "plan": [
+   "1",
+   "1",
+   "4",
+   "1",
+   "4",
+   "1"
+  ],
+  "joues": [
+   "1",
+   "1",
+   "4",
+   "1",
+   "4",
+   "1"
+  ],
+  "fidele": true,
+  "coups_executes": 6,
+  "etat": "divergence",
+  "pas": 6,
+  "action": "1",
+  "issue_simulee": "niveau",
+  "n_cases": 66,
+  "cases": [
+   [
+    7,
+    18,
+    3,
+    8
+   ],
+   [
+    7,
+    20,
+    3,
+    8
+   ],
+   [
+    7,
+    21,
+    4,
+    8
+   ],
+   [
+    7,
+    22,
+    3,
+    8
+   ],
+   [
+    7,
+    24,
+    3,
+    8
+   ],
+   [
+    8,
+    18,
+    3,
+    8
+   ],
+   [
+    8,
+    20,
+    3,
+    7
+   ],
+   [
+    8,
+    22,
+    3,
+    7
+   ],
+   [
+    8,
+    24,
+    3,
+    8
+   ],
+   [
+    9,
+    19,
+    3,
+    7
+   ],
+   [
+    9,
+    21,
+    3,
+    8
+   ],
+   [
+    9,
+    23,
+    3,
+    7
+   ],
+   [
+    10,
+    18,
+    3,
+    8
+   ],
+   [
+    10,
+    20,
+    3,
+    8
+   ],
+   [
+    10,
+    21,
+    3,
+    8
+   ],
+   [
+    10,
+    22,
+    3,
+    8
+   ],
+   [
+    10,
+    24,
+    3,
+    8
+   ],
+   [
+    11,
+    18,
+    3,
+    8
+   ],
+   [
+    11,
+    19,
+    3,
+    7
+   ],
+   [
+    11,
+    20,
+    3,
+    8
+   ],
+   [
+    11,
+    22,
+    3,
+    8
+   ],
+   [
+    11,
+    23,
+    3,
+    7
+   ],
+   [
+    11,
+    24,
+    3,
+    8
+   ],
+   [
+    12,
+    18,
+    3,
+    8
+   ],
+   [
+    12,
+    19,
+    3,
+    7
+   ],
+   [
+    12,
+    20,
+    3,
+    7
+   ],
+   [
+    12,
+    21,
+    3,
+    7
+   ],
+   [
+    12,
+    22,
+    3,
+    7
+   ],
+   [
+    12,
+    23,
+    3,
+    7
+   ],
+   [
+    12,
+    24,
+    3,
+    8
+   ],
+   [
+    13,
+    19,
+    3,
+    8
+   ],
+   [
+    13,
+    21,
+    3,
+    8
+   ],
+   [
+    13,
+    23,
+    3,
+    8
+   ],
+   [
+    28,
+    39,
+    8,
+    3
+   ],
+   [
+    28,
+    41,
+    8,
+    3
+   ],
+   [
+    28,
+    42,
+    8,
+    4
+   ],
+   [
+    28,
+    43,
+    8,
+    3
+   ],
+   [
+    28,
+    45,
+    8,
+    3
+   ],
+   [
+    29,
+    39,
+    8,
+    3
+   ],
+   [
+    29,
+    41,
+    7,
+    3
+   ]
+  ],
+  "forme": [
+   [
+    64,
+    64
+   ],
+   [
+    64,
+    64
+   ]
+  ],
+  "issue_reelle": "divergence",
+  "fidele_execute": true,
+  "classe": "objet déplacé, but supposé atteint, PAS de victoire (but faux)"
+ },
+ "y009:3:120": {
+  "jeu": "y009",
+  "niveau": 3,
+  "coup": 120,
+  "fenetre": 21,
+  "cpu_s": 2.27,
+  "but": "('sortie', 3, 8)",
+  "origine": "but_suppose",
+  "theorie": "move(c3,a1,0,-7). move(c3,a2,0,7). move(c3,a3,-7,0). move(c3,a4,7,0). move(c4,a1,0,-7). move(c4,a2,0,7). move(c4,a3,-7,0). move(c4,a4,7,0). solide(c0). solide(c10). solide(c14) [H_mur]. poussable(c9). but(sortie,c3,c8).",
+  "refus": null,
+  "plan": [
+   "1"
+  ],
+  "joues": [
+   "1"
+  ],
+  "fidele": true,
+  "coups_executes": 1,
+  "etat": "divergence",
+  "pas": 1,
+  "action": "1",
+  "issue_simulee": "niveau",
+  "n_cases": 66,
+  "cases": [
+   [
+    7,
+    18,
+    3,
+    8
+   ],
+   [
+    7,
+    20,
+    3,
+    8
+   ],
+   [
+    7,
+    21,
+    4,
+    8
+   ],
+   [
+    7,
+    22,
+    3,
+    8
+   ],
+   [
+    7,
+    24,
+    3,
+    8
+   ],
+   [
+    8,
+    18,
+    3,
+    8
+   ],
+   [
+    8,
+    20,
+    3,
+    7
+   ],
+   [
+    8,
+    22,
+    3,
+    7
+   ],
+   [
+    8,
+    24,
+    3,
+    8
+   ],
+   [
+    9,
+    19,
+    3,
+    7
+   ],
+   [
+    9,
+    21,
+    3,
+    8
+   ],
+   [
+    9,
+    23,
+    3,
+    7
+   ],
+   [
+    10,
+    18,
+    3,
+    8
+   ],
+   [
+    10,
+    20,
+    3,
+    8
+   ],
+   [
+    10,
+    21,
+    3,
+    8
+   ],
+   [
+    10,
+    22,
+    3,
+    8
+   ],
+   [
+    10,
+    24,
+    3,
+    8
+   ],
+   [
+    11,
+    18,
+    3,
+    8
+   ],
+   [
+    11,
+    19,
+    3,
+    7
+   ],
+   [
+    11,
+    20,
+    3,
+    8
+   ],
+   [
+    11,
+    22,
+    3,
+    8
+   ],
+   [
+    11,
+    23,
+    3,
+    7
+   ],
+   [
+    11,
+    24,
+    3,
+    8
+   ],
+   [
+    12,
+    18,
+    3,
+    8
+   ],
+   [
+    12,
+    19,
+    3,
+    7
+   ],
+   [
+    12,
+    20,
+    3,
+    7
+   ],
+   [
+    12,
+    21,
+    3,
+    7
+   ],
+   [
+    12,
+    22,
+    3,
+    7
+   ],
+   [
+    12,
+    23,
+    3,
+    7
+   ],
+   [
+    12,
+    24,
+    3,
+    8
+   ],
+   [
+    13,
+    19,
+    3,
+    8
+   ],
+   [
+    13,
+    21,
+    3,
+    8
+   ],
+   [
+    13,
+    23,
+    3,
+    8
+   ],
+   [
+    28,
+    39,
+    8,
+    3
+   ],
+   [
+    28,
+    41,
+    8,
+    3
+   ],
+   [
+    28,
+    42,
+    8,
+    4
+   ],
+   [
+    28,
+    43,
+    8,
+    3
+   ],
+   [
+    28,
+    45,
+    8,
+    3
+   ],
+   [
+    29,
+    39,
+    8,
+    3
+   ],
+   [
+    29,
+    41,
+    7,
+    3
+   ]
+  ],
+  "forme": [
+   [
+    64,
+    64
+   ],
+   [
+    64,
+    64
+   ]
+  ],
+  "issue_reelle": "divergence",
+  "fidele_execute": true,
+  "classe": "objet déplacé, but supposé atteint, PAS de victoire (but faux)"
+ },
+ "y013:2:40": {
+  "jeu": "y013",
+  "niveau": 2,
+  "coup": 40,
+  "fenetre": 7,
+  "cpu_s": 5.3,
+  "but": "('sortie', 10, 5)",
+  "origine": "but_suppose",
+  "theorie": "move(c10,a1,0,-3). move(c10,a2,0,3). [H_oppose] move(c10,a3,-3,0). move(c10,a4,3,0). move(c11,a1,0,-3). move(c11,a2,0,3). [H_oppose] move(c11,a3,-3,0). move(c11,a4,3,0). solide(c6). solide(c8) [H_mur]. solide(c9) [H_mur]. solide(c13) [H_mur]. but(sortie,c10,c5).",
+  "refus": null,
+  "plan": [
+   "1",
+   "1",
+   "1",
+   "1",
+   "4",
+   "4",
+   "4",
+   "4",
+   "4",
+   "2",
+   "4",
+   "4"
+  ],
+  "joues": [
+   "1",
+   "1",
+   "1",
+   "1",
+   "4",
+   "4",
+   "4",
+   "4",
+   "0",
+   "1",
+   "1",
+   "3"
+  ],
+  "fidele": false,
+  "coups_executes": 4,
+  "etat": "divergence",
+  "pas": 4,
+  "action": "1",
+  "issue_simulee": null,
+  "n_cases": 10,
+  "cases": [
+   [
+    4,
+    4,
+    10,
+    0
+   ],
+   [
+    4,
+    5,
+    11,
+    0
+   ],
+   [
+    5,
+    4,
+    10,
+    0
+   ],
+   [
+    5,
+    6,
+    10,
+    0
+   ],
+   [
+    6,
+    5,
+    10,
+    0
+   ],
+   [
+    7,
+    4,
+    0,
+    10
+   ],
+   [
+    7,
+    5,
+    0,
+    11
+   ],
+   [
+    8,
+    4,
+    0,
+    10
+   ],
+   [
+    8,
+    6,
+    0,
+    10
+   ],
+   [
+    9,
+    5,
+    0,
+    10
+   ]
+  ],
+  "forme": [
+   [
+    32,
+    32
+   ],
+   [
+    32,
+    32
+   ]
+  ],
+  "issue_reelle": "divergence",
+  "fidele_execute": true,
+  "classe": "déplacement prédit, BLOQUÉ en réalité — hors du terrain (bord jamais heurté)"
+ },
+ "y014:1:40": {
+  "jeu": "y014",
+  "niveau": 1,
+  "coup": 40,
+  "fenetre": 11,
+  "cpu_s": 0.18,
+  "but": "('sortie', 6, 2)",
+  "origine": "but_suppose",
+  "theorie": "move(c6,a1,0,-6). move(c6,a2,0,6). [H_oppose] move(c6,a3,-6,0). move(c6,a4,6,0). move(c15,a1,0,-6). move(c15,a2,0,6). [H_oppose] move(c15,a3,-6,0). move(c15,a4,6,0). solide(c5). solide(c10). but(sortie,c6,c2).",
+  "refus": null,
+  "plan": [
+   "4"
+  ],
+  "joues": [
+   "4"
+  ],
+  "fidele": true,
+  "coups_executes": 1,
+  "etat": "victoire",
+  "pas": 1,
+  "predit_juste_avant": true,
+  "issue_reelle": "victoire",
+  "fidele_execute": true,
+  "classe": "victoire (contrôle positif)"
+ },
+ "y014:2:120": {
+  "jeu": "y014",
+  "niveau": 2,
+  "coup": 120,
+  "fenetre": 14,
+  "cpu_s": 6.01,
+  "but": "('sortie', 6, 2)",
+  "origine": "but_suppose",
+  "theorie": "move(c6,a1,0,-6). move(c6,a2,0,6). move(c6,a3,-6,0). move(c6,a4,6,0). move(c15,a1,0,-6). move(c15,a2,0,6). move(c15,a3,-6,0). move(c15,a4,6,0). solide(c5). solide(c10). solide(c13) [H_mur]. but(sortie,c6,c2).",
+  "refus": null,
+  "plan": [
+   "1",
+   "4",
+   "4",
+   "4",
+   "4",
+   "4",
+   "4",
+   "1",
+   "1",
+   "1",
+   "1",
+   "1",
+   "1",
+   "3"
+  ],
+  "joues": [
+   "1",
+   "4",
+   "4",
+   "4",
+   "4",
+   "4",
+   "4",
+   "2",
+   "2",
+   "3",
+   "2",
+   "1",
+   "3",
+   "3"
+  ],
+  "fidele": false,
+  "coups_executes": 7,
+  "etat": "divergence",
+  "pas": 7,
+  "action": "4",
+  "issue_simulee": null,
+  "n_cases": 12,
+  "cases": [
+   [
+    49,
+    55,
+    4,
+    15
+   ],
+   [
+    49,
+    56,
+    4,
+    15
+   ],
+   [
+    49,
+    61,
+    15,
+    4
+   ],
+   [
+    49,
+    62,
+    15,
+    4
+   ],
+   [
+    50,
+    55,
+    4,
+    6
+   ],
+   [
+    50,
+    56,
+    4,
+    6
+   ],
+   [
+    50,
+    61,
+    6,
+    4
+   ],
+   [
+    50,
+    62,
+    6,
+    4
+   ],
+   [
+    52,
+    55,
+    4,
+    6
+   ],
+   [
+    52,
+    56,
+    4,
+    6
+   ],
+   [
+    52,
+    61,
+    6,
+    4
+   ],
+   [
+    52,
+    62,
+    6,
+    4
+   ]
+  ],
+  "forme": [
+   [
+    64,
+    64
+   ],
+   [
+    64,
+    64
+   ]
+  ],
+  "issue_reelle": "divergence",
+  "fidele_execute": true,
+  "classe": "déplacement prédit, BLOQUÉ en réalité — hors du terrain (bord jamais heurté)"
+ },
+ "y018:2:40": {
+  "jeu": "y018",
+  "niveau": 2,
+  "coup": 40,
+  "fenetre": 9,
+  "cpu_s": 26.72,
+  "but": "('sortie', 6, 3)",
+  "origine": "but_suppose",
+  "theorie": "move(c6,a1,0,-7). move(c6,a2,0,7). move(c6,a3,-7,0). move(c6,a4,7,0). move(c8,a1,0,-7). move(c8,a2,0,7). move(c8,a3,-7,0). move(c8,a4,7,0). solide(c1) [H_mur]. solide(c5) [H_mur]. solide(c9) [H_mur]. but(sortie,c6,c3).",
+  "refus": null,
+  "plan": [
+   "1"
+  ],
+  "joues": [
+   "1"
+  ],
+  "fidele": true,
+  "coups_executes": 1,
+  "etat": "divergence",
+  "pas": 1,
+  "action": "1",
+  "issue_simulee": "niveau",
+  "n_cases": 54,
+  "cases": [
+   [
+    11,
+    42,
+    6,
+    12
+   ],
+   [
+    11,
+    43,
+    6,
+    12
+   ],
+   [
+    11,
+    45,
+    8,
+    12
+   ],
+   [
+    11,
+    47,
+    6,
+    12
+   ],
+   [
+    11,
+    48,
+    6,
+    12
+   ],
+   [
+    12,
+    43,
+    6,
+    12
+   ],
+   [
+    12,
+    45,
+    6,
+    12
+   ],
+   [
+    12,
+    47,
+    6,
+    12
+   ],
+   [
+    13,
+    43,
+    6,
+    12
+   ],
+   [
+    13,
+    47,
+    6,
+    12
+   ],
+   [
+    14,
+    42,
+    6,
+    12
+   ],
+   [
+    14,
+    43,
+    6,
+    12
+   ],
+   [
+    14,
+    44,
+    6,
+    12
+   ],
+   [
+    14,
+    46,
+    6,
+    12
+   ],
+   [
+    14,
+    47,
+    6,
+    12
+   ],
+   [
+    14,
+    48,
+    6,
+    12
+   ],
+   [
+    15,
+    42,
+    6,
+    12
+   ],
+   [
+    15,
+    43,
+    6,
+    12
+   ],
+   [
+    15,
+    47,
+    6,
+    12
+   ],
+   [
+    15,
+    48,
+    6,
+    12
+   ],
+   [
+    16,
+    43,
+    6,
+    12
+   ],
+   [
+    16,
+    44,
+    6,
+    12
+   ],
+   [
+    16,
+    45,
+    6,
+    12
+   ],
+   [
+    16,
+    46,
+    6,
+    12
+   ],
+   [
+    16,
+    47,
+    6,
+    12
+   ],
+   [
+    17,
+    43,
+    6,
+    3
+   ],
+   [
+    17,
+    47,
+    6,
+    3
+   ],
+   [
+    18,
+    42,
+    12,
+    6
+   ],
+   [
+    18,
+    43,
+    12,
+    6
+   ],
+   [
+    18,
+    45,
+    12,
+    8
+   ],
+   [
+    18,
+    47,
+    12,
+    6
+   ],
+   [
+    18,
+    48,
+    12,
+    6
+   ],
+   [
+    19,
+    43,
+    12,
+    6
+   ],
+   [
+    19,
+    45,
+    12,
+    6
+   ],
+   [
+    19,
+    47,
+    12,
+    6
+   ],
+   [
+    20,
+    43,
+    12,
+    6
+   ],
+   [
+    20,
+    47,
+    12,
+    6
+   ],
+   [
+    21,
+    42,
+    12,
+    6
+   ],
+   [
+    21,
+    43,
+    12,
+    6
+   ],
+   [
+    21,
+    44,
+    12,
+    6
+   ]
+  ],
+  "forme": [
+   [
+    64,
+    64
+   ],
+   [
+    64,
+    64
+   ]
+  ],
+  "issue_reelle": "divergence",
+  "fidele_execute": true,
+  "classe": "déplacement prédit, BLOQUÉ en réalité — hors du terrain (bord jamais heurté)"
+ },
+ "y024:1:120": {
+  "jeu": "y024",
+  "niveau": 1,
+  "coup": 120,
+  "fenetre": 15,
+  "cpu_s": 0.08,
+  "but": "('copie', ((11, ((11, 12), (11, 13), (11, 14), (11, 16), (11, 17), (11, 18), (12, 12), (12, 13), (12, 14), (12, 16), (12, 17), (12, 18), (13, 12), (13, 13), (13, 14), (13, 16), (13, 17), (13, 18), (15, 8), (15, 9), (15, 10), (15, 16), (15, 17), (15, 18), (16, 8), (16, 9), (16, 10), (16, 16), (16, 17), (16, 18), (17, 8), (17, 9), (17, 10), (17, 16), (17, 17), (17, 18), (19, 8), (19, 9), (19, 10), (19, 16), (19, 17), (19, 18), (20, 8), (20, 9), (20, 10), (20, 16), (20, 17), (20, 18), (21, 8), (21, 9), (21, 10), (21, 16), (21, 17), (21, 18))), (14, ((11, 8), (11, 9), (11, 10), (12, 8), (12, 9), (12, 10), (13, 8), (13, 9), (13, 10), (15, 12), (15, 13), (15, 14), (16, 12), (16, 13), (16, 14), (17, 12), (17, 13), (17, 14), (19, 12), (19, 13), (19, 14), (20, 12), (20, 13), (20, 14), (21, 12), (21, 13), (21, 14)))), None)",
+  "origine": "but_suppose",
+  "theorie": "motif(0,0). bascule(c11,c14). bascule(c14,c11). but(copie,c((11, ((11, 12), (11, 13), (11, 14), (11, 16), (11, 17), (11, 18), (12, 12), (12, 13), (12, 14), (12, 16), (12, 17), (12, 18), (13, 12), (13, 13), (13, 14), (13, 16), (13, 17), (13, 18), (15, 8), (15, 9), (15, 10), (15, 16), (15, 17), (15, 18), (16, 8), (16, 9), (16, 10), (16, 16), (16, 17), (16, 18), (17, 8), (17, 9), (17, 10), (17, 16), (17, 17), (17, 18), (19, 8), (19, 9), (19, 10), (19, 16), (19, 17), (19, 18), (20, 8), (20, 9), (20, 10), (20, 16), (20, 17), (20, 18), (21, 8), (21, 9), (21, 10), (21, 16), (21, 17), (21, 18))), (14, ((11, 8), (11, 9), (11, 10), (12, 8), (12, 9), (12, 10), (13, 8), (13, 9), (13, 10), (15, 12), (15, 13), (15, 14), (16, 12), (16, 13), (16, 14), (17, 12), (17, 13), (17, 14), (19, 12), (19, 13), (19, 14), (20, 12), (20, 13), (20, 14), (21, 12), (21, 13), (21, 14)))),cNone).",
+  "refus": null,
+  "plan": [
+   "('clic', 23, 17)",
+   "('clic', 31, 25)",
+   "('clic', 39, 25)"
+  ],
+  "joues": [
+   "('clic', 23, 17)",
+   "('clic', 31, 25)",
+   "('clic', 39, 25)"
+  ],
+  "fidele": true,
+  "coups_executes": 3,
+  "etat": "victoire",
+  "pas": 3,
+  "predit_juste_avant": true,
+  "issue_reelle": "victoire",
+  "fidele_execute": true,
+  "classe": "victoire (contrôle positif)"
+ },
+ "y026:1:40": {
+  "jeu": "y026",
+  "niveau": 1,
+  "coup": 40,
+  "fenetre": 9,
+  "cpu_s": 0.43,
+  "but": "('sortie', 10, 2)",
+  "origine": "but_suppose",
+  "theorie": "move(c10,a1,0,-3). move(c10,a2,0,3). move(c10,a3,-3,0). move(c10,a4,3,0). move(c15,a1,0,-3). move(c15,a2,0,3). move(c15,a3,-3,0). move(c15,a4,3,0). solide(c7) [H_mur]. solide(c14). but(sortie,c10,c2).",
+  "refus": null,
+  "plan": [
+   "1",
+   "1",
+   "3",
+   "3",
+   "1",
+   "1",
+   "3",
+   "3",
+   "3"
+  ],
+  "joues": [
+   "1",
+   "1",
+   "3",
+   "3",
+   "1",
+   "1",
+   "3",
+   "3",
+   "3"
+  ],
+  "fidele": true,
+  "coups_executes": 9,
+  "etat": "victoire",
+  "pas": 9,
+  "predit_juste_avant": true,
+  "issue_reelle": "victoire",
+  "fidele_execute": true,
+  "classe": "victoire (contrôle positif)"
+ },
+ "y040:2:120": {
+  "jeu": "y040",
+  "niveau": 2,
+  "coup": 120,
+  "fenetre": 9,
+  "cpu_s": 26.83,
+  "but": "('sortie', 0, 3)",
+  "origine": "but_suppose",
+  "theorie": "move(c0,a1,0,-6). move(c0,a2,0,6). move(c0,a3,-6,0). move(c0,a4,6,0). move(c7,a1,0,-6). move(c7,a2,0,6). move(c7,a3,-6,0). move(c7,a4,6,0). solide(c1) [H_mur]. solide(c11) [H_mur]. poussable(c9). but(sortie,c0,c3).",
+  "refus": null,
+  "plan": [
+   "2",
+   "4",
+   "4",
+   "4",
+   "4",
+   "4",
+   "2",
+   "2",
+   "2",
+   "2"
+  ],
+  "joues": [
+   "2",
+   "4",
+   "4",
+   "4",
+   "4",
+   "4",
+   "2",
+   "2",
+   "2",
+   "2"
+  ],
+  "fidele": true,
+  "coups_executes": 10,
+  "etat": "victoire",
+  "pas": 10,
+  "predit_juste_avant": true,
+  "issue_reelle": "victoire",
+  "fidele_execute": true,
+  "classe": "victoire (contrôle positif)"
+ },
+ "y042:1:120": {
+  "jeu": "y042",
+  "niveau": 1,
+  "coup": 120,
+  "fenetre": 9,
+  "cpu_s": 15.52,
+  "but": "('sortie', 6, 3)",
+  "origine": "but_suppose",
+  "theorie": "move(c6,a1,0,-5). move(c6,a2,0,5). move(c6,a3,-5,0). move(c6,a4,5,0). [H_oppose] move(c14,a1,0,-5). move(c14,a2,0,5). move(c14,a3,-5,0). move(c14,a4,5,0). [H_oppose] solide(c10) [H_mur]. solide(c11) [H_mur]. but(sortie,c6,c3).",
+  "refus": null,
+  "plan": [
+   "3",
+   "3",
+   "3",
+   "3",
+   "2",
+   "3",
+   "2",
+   "2",
+   "2",
+   "2",
+   "2",
+   "2",
+   "2"
+  ],
+  "joues": [
+   "3",
+   "3",
+   "3",
+   "3",
+   "2",
+   "3",
+   "3",
+   "1",
+   "3",
+   "1",
+   "4",
+   "4",
+   "4"
+  ],
+  "fidele": false,
+  "coups_executes": 6,
+  "etat": "divergence",
+  "pas": 6,
+  "action": "3",
+  "issue_simulee": null,
+  "n_cases": 4,
+  "cases": [
+   [
+    24,
+    6,
+    6,
+    9
+   ],
+   [
+    24,
+    11,
+    9,
+    6
+   ],
+   [
+    28,
+    4,
+    14,
+    9
+   ],
+   [
+    28,
+    9,
+    9,
+    14
+   ]
+  ],
+  "forme": [
+   [
+    64,
+    64
+   ],
+   [
+    64,
+    64
+   ]
+  ],
+  "issue_reelle": "divergence",
+  "fidele_execute": true,
+  "classe": "déplacement prédit, BLOQUÉ en réalité — hors du terrain (bord jamais heurté)"
+ },
+ "y044:2:80": {
+  "jeu": "y044",
+  "niveau": 2,
+  "coup": 80,
+  "fenetre": 8,
+  "cpu_s": 0.14,
+  "but": "('sortie', 11, 2)",
+  "origine": "but_suppose",
+  "theorie": "move(c11,a1,0,-4). move(c11,a2,0,4). move(c11,a3,-4,0). [H_oppose] move(c11,a4,4,0). move(c12,a1,0,-4). move(c12,a2,0,4). move(c12,a3,-4,0). [H_oppose] move(c12,a4,4,0). solide(c7) [H_mur]. solide(c9) [H_mur]. solide(c14) [H_mur]. but(sortie,c11,c2).",
+  "refus": null,
+  "plan": [
+   "4"
+  ],
+  "joues": [
+   "4"
+  ],
+  "fidele": true,
+  "coups_executes": 1,
+  "etat": "mort",
+  "pas": 1,
+  "action": "4",
+  "issue_simulee": "niveau",
+  "n_cases": 0,
+  "cases": [],
+  "forme": [
+   [
+    32,
+    32
+   ],
+   [
+    32,
+    32
+   ]
+  ],
+  "issue_reelle": "mort",
+  "fidele_execute": true,
+  "classe": "objet déplacé, but supposé atteint, PAS de victoire (but faux)"
+ },
+ "y045:1:80": {
+  "jeu": "y045",
+  "niveau": 1,
+  "coup": 80,
+  "fenetre": 10,
+  "cpu_s": 5.52,
+  "but": "('sortie', 0, 4)",
+  "origine": "but_suppose",
+  "theorie": "move(c0,a1,0,-6). move(c0,a2,0,6). move(c0,a3,-6,0). move(c0,a4,6,0). move(c5,a1,0,-6). move(c5,a2,0,6). move(c5,a3,-6,0). move(c5,a4,6,0). solide(c7) [H_mur]. solide(c9) [H_mur]. but(sortie,c0,c4).",
+  "refus": null,
+  "plan": [
+   "1",
+   "1"
+  ],
+  "joues": [
+   "1",
+   "1"
+  ],
+  "fidele": true,
+  "coups_executes": 2,
+  "etat": "divergence",
+  "pas": 2,
+  "action": "1",
+  "issue_simulee": "niveau",
+  "n_cases": 52,
+  "cases": [
+   [
+    11,
+    17,
+    0,
+    12
+   ],
+   [
+    11,
+    18,
+    0,
+    12
+   ],
+   [
+    11,
+    21,
+    0,
+    12
+   ],
+   [
+    11,
+    22,
+    0,
+    12
+   ],
+   [
+    12,
+    18,
+    0,
+    12
+   ],
+   [
+    12,
+    19,
+    0,
+    12
+   ],
+   [
+    12,
+    20,
+    0,
+    12
+   ],
+   [
+    12,
+    21,
+    0,
+    12
+   ],
+   [
+    13,
+    17,
+    0,
+    12
+   ],
+   [
+    13,
+    18,
+    0,
+    12
+   ],
+   [
+    13,
+    19,
+    5,
+    12
+   ],
+   [
+    13,
+    20,
+    5,
+    12
+   ],
+   [
+    13,
+    21,
+    0,
+    12
+   ],
+   [
+    13,
+    22,
+    0,
+    12
+   ],
+   [
+    14,
+    17,
+    0,
+    12
+   ],
+   [
+    14,
+    19,
+    0,
+    12
+   ],
+   [
+    14,
+    20,
+    0,
+    12
+   ],
+   [
+    14,
+    22,
+    0,
+    12
+   ],
+   [
+    15,
+    17,
+    0,
+    12
+   ],
+   [
+    15,
+    18,
+    0,
+    12
+   ],
+   [
+    15,
+    21,
+    0,
+    12
+   ],
+   [
+    15,
+    22,
+    0,
+    12
+   ],
+   [
+    16,
+    17,
+    0,
+    4
+   ],
+   [
+    16,
+    19,
+    0,
+    4
+   ],
+   [
+    16,
+    20,
+    0,
+    4
+   ],
+   [
+    16,
+    22,
+    0,
+    4
+   ],
+   [
+    17,
+    17,
+    12,
+    0
+   ],
+   [
+    17,
+    18,
+    12,
+    0
+   ],
+   [
+    17,
+    21,
+    12,
+    0
+   ],
+   [
+    17,
+    22,
+    12,
+    0
+   ],
+   [
+    18,
+    18,
+    12,
+    0
+   ],
+   [
+    18,
+    19,
+    12,
+    0
+   ],
+   [
+    18,
+    20,
+    12,
+    0
+   ],
+   [
+    18,
+    21,
+    12,
+    0
+   ],
+   [
+    19,
+    17,
+    12,
+    0
+   ],
+   [
+    19,
+    18,
+    12,
+    0
+   ],
+   [
+    19,
+    19,
+    12,
+    5
+   ],
+   [
+    19,
+    20,
+    12,
+    5
+   ],
+   [
+    19,
+    21,
+    12,
+    0
+   ],
+   [
+    19,
+    22,
+    12,
+    0
+   ]
+  ],
+  "forme": [
+   [
+    64,
+    64
+   ],
+   [
+    64,
+    64
+   ]
+  ],
+  "issue_reelle": "divergence",
+  "fidele_execute": true,
+  "classe": "déplacement prédit, BLOQUÉ en réalité — hors du terrain (bord jamais heurté)"
+ },
+ "y045:1:120": {
+  "jeu": "y045",
+  "niveau": 1,
+  "coup": 120,
+  "fenetre": 15,
+  "cpu_s": 0.28,
+  "but": "('sortie', 0, 4)",
+  "origine": "but_suppose",
+  "theorie": "move(c0,a1,0,-6). move(c0,a2,0,6). move(c0,a3,-6,0). [H_oppose] move(c0,a4,6,0). move(c5,a1,0,-6). move(c5,a2,0,6). move(c5,a3,-6,0). [H_oppose] move(c5,a4,6,0). solide(c7) [H_mur]. solide(c9). but(sortie,c0,c4).",
+  "refus": null,
+  "plan": [
+   "1",
+   "1",
+   "1"
+  ],
+  "joues": [
+   "1",
+   "1",
+   "1"
+  ],
+  "fidele": true,
+  "coups_executes": 3,
+  "etat": "divergence",
+  "pas": 3,
+  "action": "1",
+  "issue_simulee": "niveau",
+  "n_cases": 52,
+  "cases": [
+   [
+    11,
+    29,
+    0,
+    12
+   ],
+   [
+    11,
+    30,
+    0,
+    12
+   ],
+   [
+    11,
+    33,
+    0,
+    12
+   ],
+   [
+    11,
+    34,
+    0,
+    12
+   ],
+   [
+    12,
+    30,
+    0,
+    12
+   ],
+   [
+    12,
+    31,
+    0,
+    12
+   ],
+   [
+    12,
+    32,
+    0,
+    12
+   ],
+   [
+    12,
+    33,
+    0,
+    12
+   ],
+   [
+    13,
+    29,
+    0,
+    12
+   ],
+   [
+    13,
+    30,
+    0,
+    12
+   ],
+   [
+    13,
+    31,
+    5,
+    12
+   ],
+   [
+    13,
+    32,
+    5,
+    12
+   ],
+   [
+    13,
+    33,
+    0,
+    12
+   ],
+   [
+    13,
+    34,
+    0,
+    12
+   ],
+   [
+    14,
+    29,
+    0,
+    12
+   ],
+   [
+    14,
+    31,
+    0,
+    12
+   ],
+   [
+    14,
+    32,
+    0,
+    12
+   ],
+   [
+    14,
+    34,
+    0,
+    12
+   ],
+   [
+    15,
+    29,
+    0,
+    12
+   ],
+   [
+    15,
+    30,
+    0,
+    12
+   ],
+   [
+    15,
+    33,
+    0,
+    12
+   ],
+   [
+    15,
+    34,
+    0,
+    12
+   ],
+   [
+    16,
+    29,
+    0,
+    4
+   ],
+   [
+    16,
+    31,
+    0,
+    4
+   ],
+   [
+    16,
+    32,
+    0,
+    4
+   ],
+   [
+    16,
+    34,
+    0,
+    4
+   ],
+   [
+    17,
+    29,
+    12,
+    0
+   ],
+   [
+    17,
+    30,
+    12,
+    0
+   ],
+   [
+    17,
+    33,
+    12,
+    0
+   ],
+   [
+    17,
+    34,
+    12,
+    0
+   ],
+   [
+    18,
+    30,
+    12,
+    0
+   ],
+   [
+    18,
+    31,
+    12,
+    0
+   ],
+   [
+    18,
+    32,
+    12,
+    0
+   ],
+   [
+    18,
+    33,
+    12,
+    0
+   ],
+   [
+    19,
+    29,
+    12,
+    0
+   ],
+   [
+    19,
+    30,
+    12,
+    0
+   ],
+   [
+    19,
+    31,
+    12,
+    5
+   ],
+   [
+    19,
+    32,
+    12,
+    5
+   ],
+   [
+    19,
+    33,
+    12,
+    0
+   ],
+   [
+    19,
+    34,
+    12,
+    0
+   ]
+  ],
+  "forme": [
+   [
+    64,
+    64
+   ],
+   [
+    64,
+    64
+   ]
+  ],
+  "issue_reelle": "divergence",
+  "fidele_execute": true,
+  "classe": "déplacement prédit, BLOQUÉ en réalité — hors du terrain (bord jamais heurté)"
+ },
+ "y046:1:80": {
+  "jeu": "y046",
+  "niveau": 1,
+  "coup": 80,
+  "fenetre": 10,
+  "cpu_s": 0.32,
+  "but": "('sortie', 1, 2)",
+  "origine": "but_suppose",
+  "theorie": "move(c1,a1,0,-3). [H_oppose] move(c1,a2,0,3). move(c1,a3,-3,0). move(c1,a4,3,0). move(c11,a1,0,-3). [H_oppose] move(c11,a2,0,3). move(c11,a3,-3,0). move(c11,a4,3,0). solide(c6) [H_mur]. solide(c7). but(sortie,c1,c2).",
+  "refus": null,
+  "plan": [
+   "2",
+   "2",
+   "2",
+   "2"
+  ],
+  "joues": [
+   "2",
+   "2",
+   "3",
+   "1"
+  ],
+  "fidele": false,
+  "coups_executes": 2,
+  "etat": "divergence",
+  "pas": 2,
+  "action": "2",
+  "issue_simulee": null,
+  "n_cases": 4,
+  "cases": [
+   [
+    21,
+    12,
+    15,
+    1
+   ],
+   [
+    22,
+    12,
+    15,
+    1
+   ],
+   [
+    24,
+    12,
+    1,
+    15
+   ],
+   [
+    25,
+    12,
+    1,
+    15
+   ]
+  ],
+  "forme": [
+   [
+    32,
+    32
+   ],
+   [
+    32,
+    32
+   ]
+  ],
+  "issue_reelle": "divergence",
+  "fidele_execute": true,
+  "classe": "déplacement prédit, BLOQUÉ en réalité — dans le terrain"
+ },
+ "y046:1:120": {
+  "jeu": "y046",
+  "niveau": 1,
+  "coup": 120,
+  "fenetre": 15,
+  "cpu_s": 10.62,
+  "but": "('sortie', 1, 2)",
+  "origine": "but_suppose",
+  "theorie": "move(c1,a1,0,-3). move(c1,a2,0,3). move(c1,a3,-3,0). move(c1,a4,3,0). move(c11,a1,0,-3). move(c11,a2,0,3). move(c11,a3,-3,0). move(c11,a4,3,0). solide(c6) [H_mur]. solide(c7). but(sortie,c1,c2).",
+  "refus": null,
+  "plan": [
+   "2",
+   "2",
+   "2",
+   "2",
+   "2"
+  ],
+  "joues": [
+   "2",
+   "2",
+   "2",
+   "3",
+   "4"
+  ],
+  "fidele": false,
+  "coups_executes": 3,
+  "etat": "divergence",
+  "pas": 3,
+  "action": "2",
+  "issue_simulee": null,
+  "n_cases": 4,
+  "cases": [
+   [
+    21,
+    15,
+    15,
+    1
+   ],
+   [
+    22,
+    15,
+    15,
+    1
+   ],
+   [
+    24,
+    15,
+    1,
+    15
+   ],
+   [
+    25,
+    15,
+    1,
+    15
+   ]
+  ],
+  "forme": [
+   [
+    32,
+    32
+   ],
+   [
+    32,
+    32
+   ]
+  ],
+  "issue_reelle": "divergence",
+  "fidele_execute": true,
+  "classe": "déplacement prédit, BLOQUÉ en réalité — dans le terrain"
+ },
+ "y047:2:120": {
+  "jeu": "y047",
+  "niveau": 2,
+  "coup": 120,
+  "fenetre": 14,
+  "cpu_s": 24.16,
+  "but": "('sortie', 0, 1)",
+  "origine": "but_suppose",
+  "theorie": "move(c0,a1,0,-4). move(c0,a2,0,4). move(c0,a3,-4,0). move(c0,a4,4,0). move(c11,a1,0,-4). move(c11,a2,0,4). move(c11,a3,-4,0). move(c11,a4,4,0). solide(c2) [H_mur]. solide(c3) [H_mur]. solide(c9). solide(c10) [H_mur]. solide(c14) [H_mur]. sans_effet(1). but(sortie,c0,c1).",
+  "refus": null,
+  "plan": [
+   "3",
+   "3",
+   "1"
+  ],
+  "joues": [
+   "3",
+   "3",
+   "1"
+  ],
+  "fidele": true,
+  "coups_executes": 3,
+  "etat": "divergence",
+  "pas": 3,
+  "action": "1",
+  "issue_simulee": "niveau",
+  "n_cases": 16,
+  "cases": [
+   [
+    20,
+    4,
+    1,
+    11
+   ],
+   [
+    20,
+    7,
+    1,
+    11
+   ],
+   [
+    21,
+    4,
+    10,
+    11
+   ],
+   [
+    21,
+    5,
+    1,
+    11
+   ],
+   [
+    21,
+    6,
+    1,
+    11
+   ],
+   [
+    21,
+    7,
+    10,
+    11
+   ],
+   [
+    22,
+    5,
+    1,
+    11
+   ],
+   [
+    22,
+    6,
+    1,
+    11
+   ],
+   [
+    24,
+    4,
+    11,
+    15
+   ],
+   [
+    24,
+    7,
+    11,
+    15
+   ],
+   [
+    25,
+    4,
+    11,
+    15
+   ],
+   [
+    25,
+    5,
+    11,
+    15
+   ],
+   [
+    25,
+    6,
+    11,
+    15
+   ],
+   [
+    25,
+    7,
+    11,
+    15
+   ],
+   [
+    26,
+    5,
+    11,
+    15
+   ],
+   [
+    26,
+    6,
+    11,
+    15
+   ]
+  ],
+  "forme": [
+   [
+    32,
+    32
+   ],
+   [
+    32,
+    32
+   ]
+  ],
+  "issue_reelle": "divergence",
+  "fidele_execute": true,
+  "classe": "objet déplacé, but supposé atteint, PAS de victoire (but faux)"
+ },
+ "y048:2:40": {
+  "jeu": "y048",
+  "niveau": 2,
+  "coup": 40,
+  "fenetre": 11,
+  "cpu_s": 1.09,
+  "but": "('sortie', 7, 2)",
+  "origine": "but_suppose",
+  "theorie": "move(c7,a1,0,-7). move(c7,a2,0,7). [H_oppose] move(c7,a3,-7,0). move(c7,a4,7,0). [H_oppose] move(c15,a1,0,-7). move(c15,a2,0,7). [H_oppose] move(c15,a3,-7,0). move(c15,a4,7,0). [H_oppose] solide(c9). solide(c10) [H_mur]. poussable(c4). sans_effet(1). but(sortie,c7,c2).",
+  "refus": null,
+  "plan": [
+   "2",
+   "2",
+   "3",
+   "3",
+   "2",
+   "3"
+  ],
+  "joues": [
+   "2",
+   "2",
+   "3",
+   "3",
+   "2",
+   "3"
+  ],
+  "fidele": true,
+  "coups_executes": 6,
+  "etat": "victoire",
+  "pas": 6,
+  "predit_juste_avant": true,
+  "issue_reelle": "victoire",
+  "fidele_execute": true,
+  "classe": "victoire (contrôle positif)"
+ },
+ "y051:1:80": {
+  "jeu": "y051",
+  "niveau": 1,
+  "coup": 80,
+  "fenetre": 14,
+  "cpu_s": 0.06,
+  "but": "('marques', ((3, ((6, 21),)),), None)",
+  "origine": "but_suppose",
+  "theorie": "move(c8,a1,0,-3). move(c8,a2,0,3). move(c8,a3,-3,0). move(c8,a4,3,0). solide(c1) [H_mur]. solide(c14). but(marques,c((3, ((6, 21),)),),cNone).",
+  "refus": null,
+  "plan": [
+   "3",
+   "2",
+   "2",
+   "3",
+   "3"
+  ],
+  "joues": [
+   "3",
+   "2",
+   "2",
+   "3",
+   "3"
+  ],
+  "fidele": true,
+  "coups_executes": 5,
+  "etat": "victoire",
+  "pas": 5,
+  "predit_juste_avant": true,
+  "issue_reelle": "victoire",
+  "fidele_execute": true,
+  "classe": "victoire (contrôle positif)"
+ },
+ "y052:1:40": {
+  "jeu": "y052",
+  "niveau": 1,
+  "coup": 40,
+  "fenetre": 9,
+  "cpu_s": 0.89,
+  "but": "('sortie', 7, 2)",
+  "origine": "but_suppose",
+  "theorie": "move(c7,a1,0,-3). [H_oppose] move(c7,a2,0,3). move(c7,a3,-3,0). [H_oppose] move(c7,a4,3,0). move(c15,a1,0,-3). [H_oppose] move(c15,a2,0,3). move(c15,a3,-3,0). [H_oppose] move(c15,a4,3,0). solide(c3) [H_mur]. solide(c11). sans_effet(1). but(sortie,c7,c2).",
+  "refus": null,
+  "plan": [
+   "1",
+   "1",
+   "4",
+   "1",
+   "1",
+   "1"
+  ],
+  "joues": [
+   "1",
+   "1",
+   "4",
+   "1",
+   "1",
+   "2"
+  ],
+  "fidele": false,
+  "coups_executes": 5,
+  "etat": "divergence",
+  "pas": 5,
+  "action": "1",
+  "issue_simulee": null,
+  "n_cases": 2,
+  "cases": [
+   [
+    5,
+    15,
+    7,
+    13
+   ],
+   [
+    8,
+    15,
+    13,
+    7
+   ]
+  ],
+  "forme": [
+   [
+    32,
+    32
+   ],
+   [
+    32,
+    32
+   ]
+  ],
+  "issue_reelle": "divergence",
+  "fidele_execute": true,
+  "classe": "déplacement prédit, BLOQUÉ en réalité — hors du terrain (bord jamais heurté)"
+ },
+ "y055:1:40": {
+  "jeu": "y055",
+  "niveau": 1,
+  "coup": 40,
+  "fenetre": 7,
+  "cpu_s": 0.05,
+  "but": "('sortie', 13, 5)",
+  "origine": "but_suppose",
+  "theorie": "move(c13,a1,0,-3). move(c13,a2,0,3). [H_oppose] move(c13,a3,-3,0). [H_oppose] move(c13,a4,3,0). solide(c7) [H_mur]. solide(c12) [H_mur]. sans_effet(1). but(sortie,c13,c5).",
+  "refus": null,
+  "plan": [
+   "1",
+   "1",
+   "4",
+   "4",
+   "4",
+   "1",
+   "1",
+   "1",
+   "1"
+  ],
+  "joues": [
+   "1",
+   "1",
+   "4",
+   "4",
+   "4",
+   "4",
+   "1"
+  ],
+  "fidele": false,
+  "coups_executes": 5,
+  "etat": "divergence",
+  "pas": 5,
+  "action": "4",
+  "issue_simulee": null,
+  "n_cases": 14,
+  "cases": [
+   [
+    12,
+    24,
+    3,
+    13
+   ],
+   [
+    12,
+    25,
+    3,
+    13
+   ],
+   [
+    12,
+    26,
+    3,
+    13
+   ],
+   [
+    12,
+    27,
+    13,
+    3
+   ],
+   [
+    12,
+    28,
+    13,
+    3
+   ],
+   [
+    12,
+    29,
+    13,
+    3
+   ],
+   [
+    13,
+    25,
+    3,
+    13
+   ],
+   [
+    13,
+    28,
+    13,
+    3
+   ],
+   [
+    14,
+    24,
+    3,
+    13
+   ],
+   [
+    14,
+    25,
+    3,
+    13
+   ],
+   [
+    14,
+    26,
+    3,
+    13
+   ],
+   [
+    14,
+    27,
+    13,
+    3
+   ],
+   [
+    14,
+    28,
+    13,
+    3
+   ],
+   [
+    14,
+    29,
+    13,
+    3
+   ]
+  ],
+  "forme": [
+   [
+    32,
+    32
+   ],
+   [
+    32,
+    32
+   ]
+  ],
+  "issue_reelle": "divergence",
+  "fidele_execute": true,
+  "classe": "déplacement prédit, BLOQUÉ en réalité — hors du terrain (bord jamais heurté)"
+ },
+ "y055:2:120": {
+  "jeu": "y055",
+  "niveau": 2,
+  "coup": 120,
+  "fenetre": 2,
+  "cpu_s": 0.07,
+  "but": "('sortie', 10, 12)",
+  "origine": "but_suppose",
+  "theorie": "move(c10,a1,0,-3). [H_oppose] move(c10,a2,0,3). move(c10,a3,-3,0). [H_oppose] move(c10,a4,3,0). move(c13,a1,0,-3). [H_oppose] move(c13,a2,0,3). move(c13,a3,-3,0). [H_oppose] move(c13,a4,3,0). solide(c5) [H_mur]. solide(c7) [H_mur]. solide(c15) [H_mur]. solide(c538) [H_mur]. but(sortie,c10,c12).",
+  "refus": null,
+  "plan": [
+   "4"
+  ],
+  "joues": [
+   "4"
+  ],
+  "fidele": true,
+  "coups_executes": 1,
+  "etat": "divergence",
+  "pas": 1,
+  "action": "4",
+  "issue_simulee": "niveau",
+  "n_cases": 14,
+  "cases": [
+   [
+    13,
+    8,
+    3,
+    10
+   ],
+   [
+    13,
+    9,
+    3,
+    13
+   ],
+   [
+    13,
+    11,
+    10,
+    12
+   ],
+   [
+    13,
+    12,
+    13,
+    12
+   ],
+   [
+    14,
+    7,
+    3,
+    13
+   ],
+   [
+    14,
+    9,
+    3,
+    13
+   ],
+   [
+    14,
+    10,
+    13,
+    12
+   ],
+   [
+    14,
+    12,
+    13,
+    12
+   ],
+   [
+    15,
+    7,
+    3,
+    13
+   ],
+   [
+    15,
+    8,
+    3,
+    13
+   ],
+   [
+    15,
+    9,
+    3,
+    13
+   ],
+   [
+    15,
+    10,
+    13,
+    12
+   ],
+   [
+    15,
+    11,
+    13,
+    12
+   ],
+   [
+    15,
+    12,
+    13,
+    12
+   ]
+  ],
+  "forme": [
+   [
+    32,
+    32
+   ],
+   [
+    32,
+    32
+   ]
+  ],
+  "issue_reelle": "divergence",
+  "fidele_execute": true,
+  "classe": "déplacement prédit, BLOQUÉ en réalité — hors du terrain (bord jamais heurté)"
+ },
+ "y056:1:40": {
+  "jeu": "y056",
+  "niveau": 1,
+  "coup": 40,
+  "fenetre": 7,
+  "cpu_s": 0.5,
+  "but": "('sortie', 13, 2)",
+  "origine": "but_suppose",
+  "theorie": "move(c13,a1,0,-3). move(c13,a2,0,3). move(c13,a3,-3,0). move(c13,a4,3,0). solide(c6) [H_mur]. solide(c15) [H_mur]. but(sortie,c13,c2).",
+  "refus": null,
+  "plan": [
+   "2"
+  ],
+  "joues": [
+   "2"
+  ],
+  "fidele": true,
+  "coups_executes": 1,
+  "etat": "divergence",
+  "pas": 1,
+  "action": "2",
+  "issue_simulee": "niveau",
+  "n_cases": 12,
+  "cases": [
+   [
+    12,
+    17,
+    5,
+    13
+   ],
+   [
+    12,
+    19,
+    5,
+    13
+   ],
+   [
+    13,
+    17,
+    5,
+    13
+   ],
+   [
+    13,
+    18,
+    5,
+    13
+   ],
+   [
+    14,
+    18,
+    5,
+    13
+   ],
+   [
+    14,
+    19,
+    5,
+    13
+   ],
+   [
+    15,
+    17,
+    13,
+    2
+   ],
+   [
+    15,
+    19,
+    13,
+    2
+   ],
+   [
+    16,
+    17,
+    13,
+    2
+   ],
+   [
+    16,
+    18,
+    13,
+    2
+   ],
+   [
+    17,
+    18,
+    13,
+    2
+   ],
+   [
+    17,
+    19,
+    13,
+    2
+   ]
+  ],
+  "forme": [
+   [
+    32,
+    31
+   ],
+   [
+    32,
+    31
+   ]
+  ],
+  "issue_reelle": "divergence",
+  "fidele_execute": true,
+  "classe": "déplacement prédit, BLOQUÉ en réalité — hors du terrain (bord jamais heurté)"
+ },
+ "y056:1:80": {
+  "jeu": "y056",
+  "niveau": 1,
+  "coup": 80,
+  "fenetre": 14,
+  "cpu_s": 0.1,
+  "but": "('sortie', 13, 15)",
+  "origine": "but_suppose",
+  "theorie": "move(c13,a1,0,-3). [H_oppose] move(c13,a2,0,3). move(c13,a3,-3,0). move(c13,a4,3,0). solide(c2). solide(c6) [H_mur]. but(sortie,c13,c15).",
+  "refus": null,
+  "plan": [
+   "2",
+   "3",
+   "3",
+   "3"
+  ],
+  "joues": [
+   "2",
+   "3",
+   "3",
+   "3"
+  ],
+  "fidele": true,
+  "coups_executes": 4,
+  "etat": "victoire",
+  "pas": 4,
+  "predit_juste_avant": true,
+  "issue_reelle": "victoire",
+  "fidele_execute": true,
+  "classe": "victoire (contrôle positif)"
+ },
+ "y059:1:120": {
+  "jeu": "y059",
+  "niveau": 1,
+  "coup": 120,
+  "fenetre": 30,
+  "cpu_s": 0.82,
+  "but": "('ancre', 5, 1)",
+  "origine": "but_suppose",
+  "theorie": "move(c5,a1,0,-5). move(c5,a2,0,5). move(c5,a3,-5,0). move(c5,a4,5,0). move(c11,a1,0,-5). move(c11,a2,0,5). move(c11,a3,-5,0). move(c11,a4,5,0). solide(c1). solide(c2) [H_mur]. solide(c12) [H_mur]. but(ancre,c5,c1).",
+  "refus": null,
+  "plan": [
+   "4",
+   "2",
+   "4",
+   "4",
+   "4",
+   "2",
+   "2",
+   "2",
+   "3"
+  ],
+  "joues": [
+   "4",
+   "2",
+   "4",
+   "4",
+   "4",
+   "2",
+   "2",
+   "2",
+   "3"
+  ],
+  "fidele": true,
+  "coups_executes": 9,
+  "etat": "divergence",
+  "pas": 9,
+  "action": "3",
+  "issue_simulee": "niveau",
+  "n_cases": 0,
+  "cases": [],
+  "forme": [
+   [
+    64,
+    64
+   ],
+   [
+    64,
+    64
+   ]
+  ],
+  "issue_reelle": "divergence",
+  "fidele_execute": true,
+  "classe": "objet déplacé, but supposé atteint, PAS de victoire (but faux)"
+ },
+ "y064:1:120": {
+  "jeu": "y064",
+  "niveau": 1,
+  "coup": 120,
+  "fenetre": 9,
+  "cpu_s": 5.75,
+  "but": "('sortie', 5, 4)",
+  "origine": "but_suppose",
+  "theorie": "move(c5,a1,0,-6). move(c5,a2,0,6). move(c5,a3,-6,0). move(c5,a4,6,0). move(c11,a1,0,-6). move(c11,a2,0,6). move(c11,a3,-6,0). move(c11,a4,6,0). solide(c13) [H_mur]. solide(c15) [H_mur]. but(sortie,c5,c4).",
+  "refus": null,
+  "plan": [
+   "2",
+   "2"
+  ],
+  "joues": [
+   "2",
+   "4"
+  ],
+  "fidele": false,
+  "coups_executes": 1,
+  "etat": "divergence",
+  "pas": 1,
+  "action": "2",
+  "issue_simulee": null,
+  "n_cases": 8,
+  "cases": [
+   [
+    46,
+    24,
+    6,
+    5
+   ],
+   [
+    46,
+    25,
+    6,
+    5
+   ],
+   [
+    46,
+    26,
+    6,
+    5
+   ],
+   [
+    46,
+    27,
+    6,
+    5
+   ],
+   [
+    52,
+    24,
+    5,
+    6
+   ],
+   [
+    52,
+    25,
+    5,
+    6
+   ],
+   [
+    52,
+    26,
+    5,
+    6
+   ],
+   [
+    52,
+    27,
+    5,
+    6
+   ]
+  ],
+  "forme": [
+   [
+    64,
+    64
+   ],
+   [
+    64,
+    64
+   ]
+  ],
+  "issue_reelle": "divergence",
+  "fidele_execute": true,
+  "classe": "déplacement prédit, BLOQUÉ en réalité — hors du terrain (bord jamais heurté)"
+ },
+ "y071:2:40": {
+  "jeu": "y071",
+  "niveau": 2,
+  "coup": 40,
+  "fenetre": 7,
+  "cpu_s": 16.37,
+  "but": "('sortie', 12, 4)",
+  "origine": "but_suppose",
+  "theorie": "move(c12,a1,0,-4). move(c12,a3,-4,0). [H_oppose] move(c12,a4,4,0). move(c15,a1,0,-4). move(c15,a2,0,4). move(c15,a3,-4,0). [H_oppose] move(c15,a4,4,0). solide(c5) [H_mur]. solide(c8). solide(c14) [H_mur]. retour(c12,a2,5,20). sans_effet(2). but(sortie,c12,c4).",
+  "refus": null,
+  "plan": [
+   "2",
+   "1",
+   "1",
+   "1",
+   "1",
+   "1"
+  ],
+  "joues": [
+   "2",
+   "4",
+   "4",
+   "4",
+   "1",
+   "2"
+  ],
+  "fidele": false,
+  "coups_executes": 1,
+  "etat": "divergence",
+  "pas": 1,
+  "action": "2",
+  "issue_simulee": null,
+  "n_cases": 4,
+  "cases": [
+   [
+    20,
+    5,
+    12,
+    11
+   ],
+   [
+    20,
+    6,
+    12,
+    11
+   ],
+   [
+    20,
+    9,
+    11,
+    12
+   ],
+   [
+    20,
+    10,
+    11,
+    12
+   ]
+  ],
+  "forme": [
+   [
+    32,
+    32
+   ],
+   [
+    32,
+    32
+   ]
+  ],
+  "issue_reelle": "divergence",
+  "fidele_execute": true,
+  "classe": "déplacement prédit, BLOQUÉ en réalité — hors du terrain (bord jamais heurté)"
+ },
+ "y071:2:80": {
+  "jeu": "y071",
+  "niveau": 2,
+  "coup": 80,
+  "fenetre": 14,
+  "cpu_s": 6.8,
+  "but": "('sortie', 12, 4)",
+  "origine": "but_suppose",
+  "theorie": "move(c12,a1,0,-4). move(c12,a2,0,4). move(c12,a3,-4,0). move(c12,a4,4,0). move(c15,a1,0,-4). move(c15,a2,0,4). move(c15,a3,-4,0). move(c15,a4,4,0). solide(c5). solide(c8). solide(c14) [H_mur]. but(sortie,c12,c4).",
+  "refus": null,
+  "plan": [
+   "1",
+   "1",
+   "1"
+  ],
+  "joues": [
+   "1",
+   "1",
+   "2"
+  ],
+  "fidele": false,
+  "coups_executes": 2,
+  "etat": "divergence",
+  "pas": 2,
+  "action": "1",
+  "issue_simulee": null,
+  "n_cases": 16,
+  "cases": [
+   [
+    4,
+    4,
+    15,
+    11
+   ],
+   [
+    4,
+    5,
+    12,
+    11
+   ],
+   [
+    4,
+    6,
+    12,
+    11
+   ],
+   [
+    4,
+    7,
+    15,
+    11
+   ],
+   [
+    5,
+    4,
+    15,
+    11
+   ],
+   [
+    5,
+    7,
+    15,
+    11
+   ],
+   [
+    6,
+    4,
+    15,
+    11
+   ],
+   [
+    6,
+    7,
+    15,
+    11
+   ],
+   [
+    8,
+    4,
+    11,
+    15
+   ],
+   [
+    8,
+    5,
+    11,
+    12
+   ],
+   [
+    8,
+    6,
+    11,
+    12
+   ],
+   [
+    8,
+    7,
+    11,
+    15
+   ],
+   [
+    9,
+    4,
+    11,
+    15
+   ],
+   [
+    9,
+    7,
+    11,
+    15
+   ],
+   [
+    10,
+    4,
+    11,
+    15
+   ],
+   [
+    10,
+    7,
+    11,
+    15
+   ]
+  ],
+  "forme": [
+   [
+    32,
+    32
+   ],
+   [
+    32,
+    32
+   ]
+  ],
+  "issue_reelle": "divergence",
+  "fidele_execute": true,
+  "classe": "déplacement prédit, BLOQUÉ en réalité — hors du terrain (bord jamais heurté)"
+ },
+ "y078:1:40": {
+  "jeu": "y078",
+  "niveau": 1,
+  "coup": 40,
+  "fenetre": 11,
+  "cpu_s": 15.14,
+  "but": "('sortie', 7, 5)",
+  "origine": "but_suppose",
+  "theorie": "move(c7,a1,0,-7). move(c7,a2,0,7). [H_oppose] move(c7,a3,-7,0). move(c7,a4,7,0). move(c12,a1,0,-7). move(c12,a2,0,7). [H_oppose] move(c12,a3,-7,0). move(c12,a4,7,0). solide(c1). solide(c14) [H_mur]. sans_effet(1). but(sortie,c7,c5).",
+  "refus": null,
+  "plan": [
+   "4",
+   "2",
+   "2",
+   "2",
+   "2",
+   "2"
+  ],
+  "joues": [
+   "4",
+   "2",
+   "2",
+   "2",
+   "2",
+   "2"
+  ],
+  "fidele": true,
+  "coups_executes": 6,
+  "etat": "divergence",
+  "pas": 6,
+  "action": "2",
+  "issue_simulee": "niveau",
+  "n_cases": 64,
+  "cases": [
+   [
+    46,
+    25,
+    11,
+    12
+   ],
+   [
+    46,
+    27,
+    11,
+    12
+   ],
+   [
+    46,
+    28,
+    11,
+    7
+   ],
+   [
+    46,
+    29,
+    11,
+    12
+   ],
+   [
+    46,
+    31,
+    11,
+    12
+   ],
+   [
+    47,
+    26,
+    11,
+    12
+   ],
+   [
+    47,
+    27,
+    11,
+    12
+   ],
+   [
+    47,
+    29,
+    11,
+    12
+   ],
+   [
+    47,
+    30,
+    11,
+    12
+   ],
+   [
+    48,
+    25,
+    11,
+    12
+   ],
+   [
+    48,
+    27,
+    11,
+    12
+   ],
+   [
+    48,
+    29,
+    11,
+    12
+   ],
+   [
+    48,
+    31,
+    11,
+    12
+   ],
+   [
+    49,
+    25,
+    11,
+    12
+   ],
+   [
+    49,
+    27,
+    11,
+    12
+   ],
+   [
+    49,
+    28,
+    11,
+    12
+   ],
+   [
+    49,
+    29,
+    11,
+    12
+   ],
+   [
+    49,
+    31,
+    11,
+    12
+   ],
+   [
+    50,
+    25,
+    11,
+    12
+   ],
+   [
+    50,
+    26,
+    11,
+    12
+   ],
+   [
+    50,
+    28,
+    11,
+    12
+   ],
+   [
+    50,
+    30,
+    11,
+    12
+   ],
+   [
+    50,
+    31,
+    11,
+    12
+   ],
+   [
+    51,
+    26,
+    11,
+    12
+   ],
+   [
+    51,
+    27,
+    11,
+    12
+   ],
+   [
+    51,
+    29,
+    11,
+    12
+   ],
+   [
+    51,
+    30,
+    11,
+    12
+   ],
+   [
+    52,
+    25,
+    11,
+    12
+   ],
+   [
+    52,
+    26,
+    11,
+    12
+   ],
+   [
+    52,
+    28,
+    11,
+    12
+   ],
+   [
+    52,
+    30,
+    11,
+    12
+   ],
+   [
+    52,
+    31,
+    11,
+    12
+   ],
+   [
+    53,
+    25,
+    12,
+    5
+   ],
+   [
+    53,
+    27,
+    12,
+    5
+   ],
+   [
+    53,
+    28,
+    7,
+    5
+   ],
+   [
+    53,
+    29,
+    12,
+    5
+   ],
+   [
+    53,
+    31,
+    12,
+    5
+   ],
+   [
+    54,
+    26,
+    12,
+    11
+   ],
+   [
+    54,
+    27,
+    12,
+    11
+   ],
+   [
+    54,
+    29,
+    12,
+    11
+   ]
+  ],
+  "forme": [
+   [
+    64,
+    64
+   ],
+   [
+    64,
+    64
+   ]
+  ],
+  "issue_reelle": "divergence",
+  "fidele_execute": true,
+  "classe": "déplacement prédit, BLOQUÉ en réalité — hors du terrain (bord jamais heurté)"
+ },
+ "y080:3:80": {
+  "jeu": "y080",
+  "niveau": 3,
+  "coup": 80,
+  "fenetre": 37,
+  "cpu_s": 0.09,
+  "but": "('sortie', 0, 4)",
+  "origine": "but_suppose",
+  "theorie": "move(c0,a1,0,-2). move(c0,a2,0,2). move(c0,a3,-2,0). move(c0,a4,2,0). solide(c2) [H_mur]. solide(c6) [H_mur]. solide(c12). but(sortie,c0,c4).",
+  "refus": null,
+  "plan": [
+   "1",
+   "1"
+  ],
+  "joues": [
+   "1",
+   "1"
+  ],
+  "fidele": true,
+  "coups_executes": 2,
+  "etat": "divergence",
+  "pas": 2,
+  "action": "1",
+  "issue_simulee": "niveau",
+  "n_cases": 4,
+  "cases": [
+   [
+    1,
+    13,
+    0,
+    4
+   ],
+   [
+    2,
+    13,
+    0,
+    15
+   ],
+   [
+    3,
+    13,
+    15,
+    0
+   ],
+   [
+    4,
+    13,
+    15,
+    0
+   ]
+  ],
+  "forme": [
+   [
+    16,
+    16
+   ],
+   [
+    16,
+    16
+   ]
+  ],
+  "issue_reelle": "divergence",
+  "fidele_execute": true,
+  "classe": "déplacement prédit, BLOQUÉ en réalité — dans le terrain"
+ },
+ "y084:1:40": {
+  "jeu": "y084",
+  "niveau": 1,
+  "coup": 40,
+  "fenetre": 7,
+  "cpu_s": 0.05,
+  "but": "('remplir', 14, 0)",
+  "origine": "but_suppose",
+  "theorie": "move(c14,a1,0,-3). move(c14,a2,0,3). [H_oppose] move(c14,a3,-3,0). [H_oppose] move(c14,a4,3,0). solide(c2). solide(c11) [H_mur]. but(remplir,c14,c0).",
+  "refus": null,
+  "plan": [
+   "2",
+   "4",
+   "2",
+   "2",
+   "2",
+   "2",
+   "4",
+   "4"
+  ],
+  "joues": [
+   "2",
+   "4",
+   "2",
+   "2",
+   "2",
+   "2",
+   "4",
+   "4"
+  ],
+  "fidele": true,
+  "coups_executes": 8,
+  "etat": "victoire",
+  "pas": 8,
+  "predit_juste_avant": true,
+  "issue_reelle": "victoire",
+  "fidele_execute": true,
+  "classe": "victoire (contrôle positif)"
+ },
+ "y084:2:80": {
+  "jeu": "y084",
+  "niveau": 2,
+  "coup": 80,
+  "fenetre": 9,
+  "cpu_s": 4.43,
+  "but": "('ancre', 10, 2)",
+  "origine": "but_suppose",
+  "theorie": "move(c10,a1,0,-3). move(c10,a2,0,3). [H_oppose] move(c10,a3,-3,0). move(c10,a4,3,0). [H_oppose] move(c14,a1,0,-3). move(c14,a2,0,3). [H_oppose] move(c14,a3,-3,0). move(c14,a4,3,0). [H_oppose] solide(c0) [H_mur]. solide(c2). solide(c11) [H_mur]. sans_effet(1). but(ancre,c10,c2).",
+  "refus": null,
+  "plan": [
+   "4",
+   "1",
+   "1",
+   "1",
+   "1",
+   "1",
+   "3",
+   "3",
+   "3",
+   "3",
+   "3",
+   "3"
+  ],
+  "joues": [
+   "4",
+   "1",
+   "1",
+   "1",
+   "1",
+   "1",
+   "3",
+   "3",
+   "3",
+   "3",
+   "3",
+   "3"
+  ],
+  "fidele": true,
+  "coups_executes": 12,
+  "etat": "divergence",
+  "pas": 12,
+  "action": "3",
+  "issue_simulee": "niveau",
+  "n_cases": 0,
+  "cases": [],
+  "forme": [
+   [
+    32,
+    32
+   ],
+   [
+    32,
+    32
+   ]
+  ],
+  "issue_reelle": "divergence",
+  "fidele_execute": true,
+  "classe": "objet déplacé, but supposé atteint, PAS de victoire (but faux)"
+ },
+ "y087:1:120": {
+  "jeu": "y087",
+  "niveau": 1,
+  "coup": 120,
+  "fenetre": 10,
+  "cpu_s": 26.74,
+  "but": "('sortie', 1, 9)",
+  "origine": "but_suppose",
+  "theorie": "move(c1,a1,0,-5). [H_oppose] move(c1,a2,0,5). move(c1,a3,-5,0). move(c1,a4,5,0). move(c11,a1,0,-5). [H_oppose] move(c11,a2,0,5). move(c11,a3,-5,0). move(c11,a4,5,0). solide(c8). solide(c15) [H_mur]. but(sortie,c1,c9).",
+  "refus": null,
+  "plan": [
+   "3",
+   "2",
+   "2",
+   "2",
+   "2",
+   "2",
+   "2",
+   "2",
+   "2"
+  ],
+  "joues": [
+   "3",
+   "2",
+   "2",
+   "2",
+   "2",
+   "2",
+   "2",
+   "1",
+   "3"
+  ],
+  "fidele": false,
+  "coups_executes": 7,
+  "etat": "divergence",
+  "pas": 7,
+  "action": "2",
+  "issue_simulee": null,
+  "n_cases": 16,
+  "cases": [
+   [
+    45,
+    21,
+    5,
+    11
+   ],
+   [
+    46,
+    21,
+    5,
+    1
+   ],
+   [
+    47,
+    19,
+    5,
+    1
+   ],
+   [
+    47,
+    21,
+    5,
+    1
+   ],
+   [
+    47,
+    23,
+    5,
+    1
+   ],
+   [
+    48,
+    19,
+    5,
+    1
+   ],
+   [
+    48,
+    21,
+    5,
+    1
+   ],
+   [
+    48,
+    23,
+    5,
+    1
+   ],
+   [
+    50,
+    21,
+    11,
+    5
+   ],
+   [
+    51,
+    21,
+    1,
+    5
+   ],
+   [
+    52,
+    19,
+    1,
+    5
+   ],
+   [
+    52,
+    21,
+    1,
+    5
+   ],
+   [
+    52,
+    23,
+    1,
+    5
+   ],
+   [
+    53,
+    19,
+    1,
+    5
+   ],
+   [
+    53,
+    21,
+    1,
+    5
+   ],
+   [
+    53,
+    23,
+    1,
+    5
+   ]
+  ],
+  "forme": [
+   [
+    64,
+    64
+   ],
+   [
+    64,
+    64
+   ]
+  ],
+  "issue_reelle": "divergence",
+  "fidele_execute": true,
+  "classe": "déplacement prédit, BLOQUÉ en réalité — hors du terrain (bord jamais heurté)"
+ },
+ "y104:1:40": {
+  "jeu": "y104",
+  "niveau": 1,
+  "coup": 40,
+  "fenetre": 7,
+  "cpu_s": 1.52,
+  "but": "('sortie', 6, 1)",
+  "origine": "but_suppose",
+  "theorie": "move(c6,a1,0,-3). [H_oppose] move(c6,a2,0,3). move(c6,a3,-3,0). move(c6,a4,3,0). [H_oppose] move(c14,a1,0,-3). [H_oppose] move(c14,a2,0,3). move(c14,a3,-3,0). move(c14,a4,3,0). [H_oppose] solide(c7). solide(c13) [H_mur]. sans_effet(1). but(sortie,c6,c1).",
+  "refus": null,
+  "plan": [
+   "2",
+   "3",
+   "3",
+   "1",
+   "1",
+   "1",
+   "1",
+   "1"
+  ],
+  "joues": [
+   "2",
+   "3",
+   "3",
+   "1",
+   "1",
+   "1",
+   "1",
+   "2"
+  ],
+  "fidele": false,
+  "coups_executes": 7,
+  "etat": "divergence",
+  "pas": 7,
+  "action": "1",
+  "issue_simulee": null,
+  "n_cases": 6,
+  "cases": [
+   [
+    5,
+    8,
+    14,
+    12
+   ],
+   [
+    5,
+    9,
+    6,
+    12
+   ],
+   [
+    5,
+    10,
+    14,
+    12
+   ],
+   [
+    8,
+    8,
+    12,
+    14
+   ],
+   [
+    8,
+    9,
+    12,
+    6
+   ],
+   [
+    8,
+    10,
+    12,
+    14
+   ]
+  ],
+  "forme": [
+   [
+    32,
+    32
+   ],
+   [
+    32,
+    32
+   ]
+  ],
+  "issue_reelle": "divergence",
+  "fidele_execute": true,
+  "classe": "déplacement prédit, BLOQUÉ en réalité — hors du terrain (bord jamais heurté)"
+ },
+ "y105:3:40": {
+  "jeu": "y105",
+  "niveau": 3,
+  "coup": 40,
+  "fenetre": 40,
+  "cpu_s": 1.82,
+  "but": "('sortie', 3, 1)",
+  "origine": "but_suppose",
+  "theorie": "move(c3,a1,0,-3). move(c3,a2,0,3). move(c3,a3,-3,0). move(c3,a4,3,0). move(c4,a1,0,-3). move(c4,a2,0,3). move(c4,a3,-3,0). move(c4,a4,3,0). solide(c0). solide(c2) [H_mur]. solide(c10) [H_mur]. solide(c14) [H_mur]. sans_effet(2). but(sortie,c3,c1).",
+  "refus": null,
+  "plan": [
+   "1",
+   "3",
+   "3",
+   "2",
+   "3",
+   "2",
+   "3",
+   "3"
+  ],
+  "joues": [
+   "1",
+   "3",
+   "3",
+   "2",
+   "3",
+   "2",
+   "3",
+   "3"
+  ],
+  "fidele": true,
+  "coups_executes": 8,
+  "etat": "divergence",
+  "pas": 8,
+  "action": "3",
+  "issue_simulee": "niveau",
+  "n_cases": 10,
+  "cases": [
+   [
+    13,
+    10,
+    15,
+    1
+   ],
+   [
+    13,
+    11,
+    15,
+    1
+   ],
+   [
+    13,
+    12,
+    15,
+    1
+   ],
+   [
+    14,
+    10,
+    15,
+    1
+   ],
+   [
+    14,
+    11,
+    15,
+    1
+   ],
+   [
+    14,
+    12,
+    15,
+    1
+   ],
+   [
+    14,
+    14,
+    1,
+    15
+   ],
+   [
+    15,
+    10,
+    15,
+    1
+   ],
+   [
+    15,
+    11,
+    15,
+    1
+   ],
+   [
+    15,
+    12,
+    15,
+    1
+   ]
+  ],
+  "forme": [
+   [
+    32,
+    32
+   ],
+   [
+    32,
+    32
+   ]
+  ],
+  "issue_reelle": "divergence",
+  "fidele_execute": true,
+  "classe": "objet déplacé, but supposé atteint, PAS de victoire (but faux)"
+ }
+}

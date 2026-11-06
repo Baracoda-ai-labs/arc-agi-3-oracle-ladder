@@ -1,0 +1,232 @@
+[
+ {
+  "jeu": "w000-d8335c06",
+  "niveau": 1,
+  "mecaniques": [
+   "glace",
+   "pousser",
+   "cibles",
+   "trous"
+  ],
+  "optimum": 11,
+  "reference": {
+   "gagne": true,
+   "coups": 11,
+   "statut": "résolu (61 nœuds)",
+   "noeuds": 61,
+   "cpu": 0.2
+  },
+  "macro": {
+   "gagne": true,
+   "coups": 11,
+   "arret": "plan",
+   "cle": "pleine",
+   "etats_hauts": 1,
+   "cpu": 0.0
+  }
+ },
+ {
+  "jeu": "w000-d8335c06",
+  "niveau": 2,
+  "mecaniques": [
+   "glace",
+   "pousser",
+   "cibles",
+   "trous"
+  ],
+  "optimum": 11,
+  "reference": {
+   "gagne": true,
+   "coups": 11,
+   "statut": "résolu (63 nœuds)",
+   "noeuds": 63,
+   "cpu": 0.1
+  },
+  "macro": {
+   "gagne": true,
+   "coups": 11,
+   "arret": "plan",
+   "cle": "pleine",
+   "etats_hauts": 1,
+   "cpu": 0.0
+  }
+ },
+ {
+  "jeu": "w000-d8335c06",
+  "niveau": 3,
+  "mecaniques": [
+   "glace",
+   "pousser",
+   "cibles",
+   "trous"
+  ],
+  "optimum": 12,
+  "reference": {
+   "gagne": true,
+   "coups": 12,
+   "statut": "résolu (181 nœuds)",
+   "noeuds": 181,
+   "cpu": 0.2
+  },
+  "macro": {
+   "gagne": true,
+   "coups": 12,
+   "arret": "plan",
+   "cle": "pleine",
+   "etats_hauts": 1,
+   "cpu": 0.1
+  }
+ },
+ {
+  "jeu": "w000-d8335c06",
+  "niveau": 4,
+  "mecaniques": [
+   "glace",
+   "pousser",
+   "cibles",
+   "trous"
+  ],
+  "optimum": 18,
+  "reference": {
+   "gagne": true,
+   "coups": 18,
+   "statut": "résolu (2435 nœuds)",
+   "noeuds": 2435,
+   "cpu": 2.3
+  },
+  "macro": {
+   "gagne": true,
+   "coups": 18,
+   "arret": "plan",
+   "cle": "pleine",
+   "etats_hauts": 6387,
+   "cpu": 107.9
+  }
+ },
+ {
+  "jeu": "w000-d8335c06",
+  "niveau": 5,
+  "mecaniques": [
+   "glace",
+   "pousser",
+   "cibles",
+   "trous"
+  ],
+  "optimum": 27,
+  "reference": {
+   "gagne": true,
+   "coups": 27,
+   "statut": "résolu (17184 nœuds)",
+   "noeuds": 17184,
+   "cpu": 17.5
+  },
+  "macro": {
+   "gagne": false,
+   "coups": null,
+   "arret": "budget",
+   "cle": "référence",
+   "etats_hauts": 2648,
+   "cpu": 300.1
+  }
+ },
+ {
+  "jeu": "w001-31efc2e6",
+  "niveau": 1,
+  "mecaniques": [
+   "pousser",
+   "portail",
+   "poursuivant"
+  ],
+  "optimum": 15,
+  "reference": {
+   "gagne": true,
+   "coups": 15,
+   "statut": "résolu (218 nœuds)",
+   "noeuds": 218,
+   "cpu": 0.2
+  },
+  "macro": {
+   "gagne": true,
+   "coups": 15,
+   "arret": "plan",
+   "cle": "pleine",
+   "etats_hauts": 1,
+   "cpu": 0.1
+  }
+ },
+ {
+  "jeu": "w001-31efc2e6",
+  "niveau": 2,
+  "mecaniques": [
+   "pousser",
+   "portail",
+   "poursuivant"
+  ],
+  "optimum": 16,
+  "reference": {
+   "gagne": true,
+   "coups": 16,
+   "statut": "résolu (1411 nœuds)",
+   "noeuds": 1411,
+   "cpu": 1.7
+  },
+  "macro": {
+   "gagne": true,
+   "coups": 16,
+   "arret": "plan",
+   "cle": "pleine",
+   "etats_hauts": 1,
+   "cpu": 0.1
+  }
+ },
+ {
+  "jeu": "w001-31efc2e6",
+  "niveau": 3,
+  "mecaniques": [
+   "pousser",
+   "portail",
+   "poursuivant"
+  ],
+  "optimum": 16,
+  "reference": {
+   "gagne": true,
+   "coups": 16,
+   "statut": "résolu (1608 nœuds)",
+   "noeuds": 1608,
+   "cpu": 1.7
+  },
+  "macro": {
+   "gagne": true,
+   "coups": 16,
+   "arret": "plan",
+   "cle": "pleine",
+   "etats_hauts": 1,
+   "cpu": 0.2
+  }
+ },
+ {
+  "jeu": "w001-31efc2e6",
+  "niveau": 4,
+  "mecaniques": [
+   "pousser",
+   "portail",
+   "poursuivant"
+  ],
+  "optimum": 15,
+  "reference": {
+   "gagne": true,
+   "coups": 15,
+   "statut": "résolu (2257 nœuds)",
+   "noeuds": 2257,
+   "cpu": 3.2
+  },
+  "macro": {
+   "gagne": true,
+   "coups": 16,
+   "arret": "plan",
+   "cle": "pleine",
+   "etats_hauts": 22,
+   "cpu": 0.4
+  }
+ }
+]

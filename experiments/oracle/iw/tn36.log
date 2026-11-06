@@ -1,0 +1,9 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-23 10:53:46 | INFO | Created new scorecard: 297b4300-d626-4aa6-af44-0f0989f6e1cf
+2026-10-23 10:53:46 | INFO | Found latest version of tn36: tn36-ef4dde99 (downloaded: 2026-09-30 05:48:12.062346+00:00)
+2026-10-23 10:53:46 | INFO | Successfully loaded game class Tn36 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/tn36/ef4dde99/tn36.py
+tn36 2 iw1 {'gagne': None, 'raison': 'espace épuisé sans issue', 'plan': None, 'noeuds': 5644, 'etats': 1869, 'secondes': 3.8}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-23 10:53:50 | INFO | Created new scorecard: 5b8c6343-0b5e-4d49-90b3-3896257471a6
+2026-10-23 10:53:50 | INFO | Found latest version of tn36: tn36-ef4dde99 (downloaded: 2026-09-30 05:48:12.062346+00:00)
+tn36 2 iw2 {'gagne': None, 'raison': 'espace épuisé sans issue', 'plan': None, 'noeuds': 46397, 'etats': 14626, 'secondes': 42.6}

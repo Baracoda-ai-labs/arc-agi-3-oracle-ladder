@@ -1,0 +1,22 @@
+t1b_t4_g0 (36 interventions) :
+    13  ecart_visuel
+    12  victoire_predite_non_observee (avec écart visuel)
+     8  victoire_reelle
+     3  victoire_predite_non_observee (images justes)
+h4_t4_g0 (44 interventions) :
+    17  victoire_predite_non_observee (avec écart visuel)
+    16  ecart_visuel
+     8  victoire_reelle
+     3  victoire_predite_non_observee (images justes)
+t1b_t4_g1 (37 interventions) :
+    14  victoire_predite_non_observee (avec écart visuel)
+    12  ecart_visuel
+     8  victoire_reelle
+     3  victoire_predite_non_observee (images justes)
+t1b_pub_g0 (4 interventions) :
+     3  victoire_reelle
+     1  victoire_predite_non_observee (avec écart visuel)
+t1b_pub_g1 (3 interventions) :
+     1  victoire_reelle
+     1  victoire_predite_non_observee (avec écart visuel)
+     1  ecart_visuel

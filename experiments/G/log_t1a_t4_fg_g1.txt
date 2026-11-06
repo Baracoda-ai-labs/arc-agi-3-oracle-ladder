@@ -1,0 +1,287 @@
+{"jeu": "y000", "niveau": 3, "k": 40, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.5}
+{"jeu": "y000", "niveau": 3, "k": 80, "coups_vie": 35, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.4}
+{"jeu": "y000", "niveau": 3, "k": 120, "coups_vie": 30, "plan": 5, "refus": null, "origine": "but_suppose", "s": 0.6}
+{"jeu": "y001", "niveau": 1, "k": 40, "coups_vie": 17, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y001", "niveau": 1, "k": 80, "coups_vie": 11, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y001", "niveau": 1, "k": 120, "coups_vie": 5, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.0}
+{"jeu": "y002", "niveau": 1, "k": 40, "coups_vie": 19, "plan": null, "refus": "pas de but (aucun but supposé planifiable)", "origine": null, "s": 0.1}
+{"jeu": "y002", "niveau": 1, "k": 80, "coups_vie": 17, "plan": null, "refus": "pas de but (aucun but supposé planifiable)", "origine": null, "s": 0.1}
+{"jeu": "y002", "niveau": 1, "k": 120, "coups_vie": 15, "plan": 2, "refus": null, "origine": "but_suppose", "s": 0.1}
+{"jeu": "y003", "niveau": 1, "k": 40, "coups_vie": 17, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y003", "niveau": 1, "k": 80, "coups_vie": 11, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y003", "niveau": 1, "k": 120, "coups_vie": 5, "plan": null, "refus": "pas de but (aucun but supposé planifiable)", "origine": null, "s": 1.1}
+{"jeu": "y004", "niveau": 1, "k": 40, "coups_vie": 19, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y004", "niveau": 1, "k": 80, "coups_vie": 17, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y004", "niveau": 1, "k": 120, "coups_vie": 15, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y005", "niveau": 1, "k": 40, "coups_vie": 19, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y005", "niveau": 1, "k": 80, "coups_vie": 17, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y005", "niveau": 1, "k": 120, "coups_vie": 15, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y006", "niveau": 2, "k": 40, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.3}
+{"jeu": "y006", "niveau": 2, "k": 80, "coups_vie": 29, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.2}
+{"jeu": "y006", "niveau": 2, "k": 120, "coups_vie": 18, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.2}
+{"jeu": "y007", "niveau": 2, "k": 40, "coups_vie": 22, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.9}
+{"jeu": "y007", "niveau": 2, "k": 80, "coups_vie": 11, "plan": 1, "refus": null, "origine": "but_suppose", "s": 11.0}
+{"jeu": "y007", "niveau": 2, "k": 120, "coups_vie": 12, "plan": 2, "refus": null, "origine": "but_suppose", "s": 11.2}
+{"jeu": "y009", "niveau": 4, "k": 40, "coups_vie": 4, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.8}
+{"jeu": "y009", "niveau": 4, "k": 80, "coups_vie": 8, "plan": null, "refus": "plan de 1 coups > réserve ≈ 0 (marge 1)", "origine": "but_suppose", "s": 11.9}
+{"jeu": "y009", "niveau": 4, "k": 120, "coups_vie": 3, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.8}
+{"jeu": "y010", "niveau": 3, "k": 40, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 2.7}
+{"jeu": "y010", "niveau": 3, "k": 80, "coups_vie": 35, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 2.6}
+{"jeu": "y010", "niveau": 3, "k": 120, "coups_vie": 30, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 2.3}
+{"jeu": "y011", "niveau": 1, "k": 40, "coups_vie": 19, "plan": null, "refus": "pas de but (aucun but supposé planifiable)", "origine": null, "s": 0.1}
+{"jeu": "y011", "niveau": 1, "k": 80, "coups_vie": 17, "plan": null, "refus": "pas de but (aucun but supposé planifiable)", "origine": null, "s": 0.2}
+{"jeu": "y011", "niveau": 1, "k": 120, "coups_vie": 15, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y012", "niveau": 1, "k": 40, "coups_vie": 19, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y012", "niveau": 1, "k": 80, "coups_vie": 17, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y012", "niveau": 1, "k": 120, "coups_vie": 15, "plan": null, "refus": "pas de but (aucun but supposé planifiable)", "origine": null, "s": 0.1}
+{"jeu": "y013", "niveau": 2, "k": 40, "coups_vie": 7, "plan": 12, "refus": null, "origine": "but_suppose", "s": 5.8}
+{"jeu": "y013", "niveau": 2, "k": 80, "coups_vie": 14, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.3}
+{"jeu": "y013", "niveau": 2, "k": 120, "coups_vie": 17, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.3}
+{"jeu": "y014", "niveau": 3, "k": 40, "coups_vie": 40, "plan": 10, "refus": null, "origine": "but_suppose", "s": 2.2}
+{"jeu": "y014", "niveau": 3, "k": 80, "coups_vie": 9, "plan": 13, "refus": null, "origine": "but_suppose", "s": 1.8}
+{"jeu": "y014", "niveau": 3, "k": 120, "coups_vie": 40, "plan": 10, "refus": null, "origine": "but_suppose", "s": 1.8}
+{"jeu": "y015", "niveau": 2, "k": 40, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.3}
+{"jeu": "y015", "niveau": 2, "k": 80, "coups_vie": 33, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.2}
+{"jeu": "y015", "niveau": 2, "k": 120, "coups_vie": 26, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.2}
+{"jeu": "y016", "niveau": 2, "k": 40, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 1.2}
+{"jeu": "y016", "niveau": 2, "k": 80, "coups_vie": 37, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 1.1}
+{"jeu": "y016", "niveau": 2, "k": 120, "coups_vie": 34, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 1.0}
+{"jeu": "y017", "niveau": 2, "k": 40, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.3}
+{"jeu": "y017", "niveau": 2, "k": 80, "coups_vie": 10, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.2}
+{"jeu": "y017", "niveau": 2, "k": 120, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.3}
+{"jeu": "y018", "niveau": 2, "k": 40, "coups_vie": 9, "plan": 1, "refus": null, "origine": "but_suppose", "s": 49.2}
+{"jeu": "y018", "niveau": 2, "k": 80, "coups_vie": 18, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.6}
+{"jeu": "y018", "niveau": 2, "k": 120, "coups_vie": 27, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.8}
+{"jeu": "y019", "niveau": 1, "k": 40, "coups_vie": 17, "plan": 4, "refus": null, "origine": "but_suppose", "s": 0.1}
+{"jeu": "y019", "niveau": 1, "k": 80, "coups_vie": 11, "plan": null, "refus": "pas de but (aucun but supposé planifiable)", "origine": null, "s": 0.1}
+{"jeu": "y019", "niveau": 1, "k": 120, "coups_vie": 5, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y020", "niveau": 1, "k": 40, "coups_vie": 19, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y020", "niveau": 1, "k": 80, "coups_vie": 17, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y020", "niveau": 1, "k": 120, "coups_vie": 15, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y021", "niveau": 3, "k": 40, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.4}
+{"jeu": "y021", "niveau": 3, "k": 80, "coups_vie": 27, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.4}
+{"jeu": "y021", "niveau": 3, "k": 120, "coups_vie": 7, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.3}
+{"jeu": "y022", "niveau": 2, "k": 40, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 1.4}
+{"jeu": "y022", "niveau": 2, "k": 80, "coups_vie": 17, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.8}
+{"jeu": "y022", "niveau": 2, "k": 120, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 1.6}
+{"jeu": "y024", "niveau": 1, "k": 40, "coups_vie": 19, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y024", "niveau": 1, "k": 80, "coups_vie": 17, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y024", "niveau": 1, "k": 120, "coups_vie": 15, "plan": null, "refus": "pas de but (aucun but supposé planifiable)", "origine": null, "s": 0.3}
+{"jeu": "y025", "niveau": 2, "k": 40, "coups_vie": 3, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.2}
+{"jeu": "y025", "niveau": 2, "k": 80, "coups_vie": 6, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.2}
+{"jeu": "y025", "niveau": 2, "k": 120, "coups_vie": 9, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.2}
+{"jeu": "y026", "niveau": 2, "k": 40, "coups_vie": 5, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.2}
+{"jeu": "y026", "niveau": 2, "k": 80, "coups_vie": 10, "plan": null, "refus": "pas de plan ; pas de plan ; ne rejoue pas (C)", "origine": null, "s": 2.4}
+{"jeu": "y026", "niveau": 2, "k": 120, "coups_vie": 15, "plan": 7, "refus": null, "origine": "planifier", "s": 1.1}
+{"jeu": "y027", "niveau": 3, "k": 40, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.5}
+{"jeu": "y027", "niveau": 3, "k": 80, "coups_vie": 23, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.4}
+{"jeu": "y027", "niveau": 3, "k": 120, "coups_vie": 6, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.2}
+{"jeu": "y028", "niveau": 1, "k": 40, "coups_vie": 19, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y028", "niveau": 1, "k": 80, "coups_vie": 17, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y028", "niveau": 1, "k": 120, "coups_vie": 15, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y029", "niveau": 2, "k": 40, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 2.8}
+{"jeu": "y029", "niveau": 2, "k": 80, "coups_vie": 21, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 1.7}
+{"jeu": "y029", "niveau": 2, "k": 120, "coups_vie": 2, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.4}
+{"jeu": "y030", "niveau": 2, "k": 40, "coups_vie": 19, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.2}
+{"jeu": "y030", "niveau": 2, "k": 80, "coups_vie": 17, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.2}
+{"jeu": "y030", "niveau": 2, "k": 120, "coups_vie": 15, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.2}
+{"jeu": "y031", "niveau": 3, "k": 40, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.6}
+{"jeu": "y031", "niveau": 3, "k": 80, "coups_vie": 25, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.5}
+{"jeu": "y031", "niveau": 3, "k": 120, "coups_vie": 10, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.3}
+{"jeu": "y032", "niveau": 3, "k": 40, "coups_vie": 7, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 1.2}
+{"jeu": "y032", "niveau": 3, "k": 80, "coups_vie": 9, "plan": 5, "refus": null, "origine": "but_suppose", "s": 12.3}
+{"jeu": "y032", "niveau": 3, "k": 120, "coups_vie": 24, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 2.2}
+{"jeu": "y033", "niveau": 1, "k": 40, "coups_vie": 19, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y033", "niveau": 1, "k": 80, "coups_vie": 17, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y033", "niveau": 1, "k": 120, "coups_vie": 15, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y034", "niveau": 4, "k": 40, "coups_vie": 2, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.3}
+{"jeu": "y034", "niveau": 4, "k": 80, "coups_vie": 6, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.2}
+{"jeu": "y034", "niveau": 4, "k": 120, "coups_vie": 7, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.2}
+{"jeu": "y035", "niveau": 2, "k": 40, "coups_vie": 7, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.7}
+{"jeu": "y035", "niveau": 2, "k": 80, "coups_vie": 3, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.5}
+{"jeu": "y035", "niveau": 2, "k": 120, "coups_vie": 10, "plan": null, "refus": "pas de but (aucun but supposé planifiable) ; ne rejoue pas (C)", "origine": null, "s": 0.9}
+{"jeu": "y036", "niveau": 2, "k": 80, "coups_vie": 2, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y036", "niveau": 2, "k": 120, "coups_vie": 3, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.3}
+{"jeu": "y037", "niveau": 2, "k": 80, "coups_vie": 4, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.4}
+{"jeu": "y038", "niveau": 2, "k": 80, "coups_vie": 2, "plan": 10, "refus": null, "origine": "planifier", "s": 0.2}
+{"jeu": "y038", "niveau": 2, "k": 120, "coups_vie": 3, "plan": null, "refus": "pas de plan ; pas de plan ; ne rejoue pas (C)", "origine": null, "s": 0.4}
+{"jeu": "y039", "niveau": 2, "k": 40, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 1.1}
+{"jeu": "y039", "niveau": 2, "k": 80, "coups_vie": 39, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 1.0}
+{"jeu": "y039", "niveau": 2, "k": 120, "coups_vie": 38, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 1.1}
+{"jeu": "y040", "niveau": 3, "k": 40, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 5.0}
+{"jeu": "y040", "niveau": 3, "k": 80, "coups_vie": 37, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 4.7}
+{"jeu": "y040", "niveau": 3, "k": 120, "coups_vie": 34, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 4.5}
+{"jeu": "y041", "niveau": 3, "k": 40, "coups_vie": 7, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.6}
+{"jeu": "y041", "niveau": 3, "k": 120, "coups_vie": 2, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.4}
+{"jeu": "y042", "niveau": 1, "k": 40, "coups_vie": 3, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y042", "niveau": 1, "k": 80, "coups_vie": 6, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y042", "niveau": 1, "k": 120, "coups_vie": 9, "plan": 13, "refus": null, "origine": "but_suppose", "s": 16.0}
+{"jeu": "y043", "niveau": 1, "k": 40, "coups_vie": 17, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y043", "niveau": 1, "k": 80, "coups_vie": 11, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y043", "niveau": 1, "k": 120, "coups_vie": 5, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y044", "niveau": 2, "k": 80, "coups_vie": 8, "plan": 5, "refus": null, "origine": "planifier", "s": 0.8}
+{"jeu": "y045", "niveau": 1, "k": 40, "coups_vie": 5, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y045", "niveau": 1, "k": 80, "coups_vie": 10, "plan": 2, "refus": null, "origine": "but_suppose", "s": 9.3}
+{"jeu": "y045", "niveau": 1, "k": 120, "coups_vie": 15, "plan": 3, "refus": null, "origine": "but_suppose", "s": 0.4}
+{"jeu": "y046", "niveau": 1, "k": 40, "coups_vie": 5, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y046", "niveau": 1, "k": 80, "coups_vie": 10, "plan": 4, "refus": null, "origine": "but_suppose", "s": 0.4}
+{"jeu": "y046", "niveau": 1, "k": 120, "coups_vie": 15, "plan": 4, "refus": null, "origine": "but_suppose", "s": 14.2}
+{"jeu": "y047", "niveau": 2, "k": 40, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.4}
+{"jeu": "y047", "niveau": 2, "k": 80, "coups_vie": 27, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.3}
+{"jeu": "y047", "niveau": 2, "k": 120, "coups_vie": 14, "plan": 3, "refus": null, "origine": "but_suppose", "s": 45.3}
+{"jeu": "y048", "niveau": 3, "k": 40, "coups_vie": 6, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 1.0}
+{"jeu": "y048", "niveau": 3, "k": 80, "coups_vie": 6, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 5.0}
+{"jeu": "y048", "niveau": 3, "k": 120, "coups_vie": 27, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 2.0}
+{"jeu": "y049", "niveau": 3, "k": 80, "coups_vie": 2, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.4}
+{"jeu": "y049", "niveau": 3, "k": 120, "coups_vie": 3, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.4}
+{"jeu": "y050", "niveau": 2, "k": 40, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 2.8}
+{"jeu": "y050", "niveau": 2, "k": 80, "coups_vie": 17, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 1.9}
+{"jeu": "y050", "niveau": 2, "k": 120, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 2.9}
+{"jeu": "y051", "niveau": 2, "k": 40, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.9}
+{"jeu": "y051", "niveau": 2, "k": 80, "coups_vie": 31, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.6}
+{"jeu": "y051", "niveau": 2, "k": 120, "coups_vie": 22, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.5}
+{"jeu": "y052", "niveau": 2, "k": 40, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.4}
+{"jeu": "y052", "niveau": 2, "k": 80, "coups_vie": 35, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.3}
+{"jeu": "y052", "niveau": 2, "k": 120, "coups_vie": 30, "plan": 9, "refus": null, "origine": "planifier", "s": 0.3}
+{"jeu": "y053", "niveau": 3, "k": 40, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.9}
+{"jeu": "y053", "niveau": 3, "k": 80, "coups_vie": 19, "plan": null, "refus": "pas de but (aucun but supposé planifiable) ; ne rejoue pas (C)", "origine": null, "s": 60.2}
+{"jeu": "y053", "niveau": 3, "k": 120, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 1.1}
+{"jeu": "y054", "niveau": 3, "k": 40, "coups_vie": 8, "plan": null, "refus": "pas de but (aucun but supposé planifiable) ; ne rejoue pas (C)", "origine": null, "s": 60.5}
+{"jeu": "y054", "niveau": 3, "k": 80, "coups_vie": 14, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 1.7}
+{"jeu": "y054", "niveau": 3, "k": 120, "coups_vie": 17, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 1.8}
+{"jeu": "y055", "niveau": 2, "k": 40, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.3}
+{"jeu": "y055", "niveau": 2, "k": 80, "coups_vie": 21, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.2}
+{"jeu": "y055", "niveau": 2, "k": 120, "coups_vie": 2, "plan": 4, "refus": null, "origine": "but_suppose", "s": 0.1}
+{"jeu": "y056", "niveau": 2, "k": 40, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.3}
+{"jeu": "y056", "niveau": 2, "k": 80, "coups_vie": 31, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.2}
+{"jeu": "y056", "niveau": 2, "k": 120, "coups_vie": 22, "plan": 3, "refus": null, "origine": "but_suppose", "s": 4.8}
+{"jeu": "y057", "niveau": 1, "k": 40, "coups_vie": 15, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y057", "niveau": 1, "k": 80, "coups_vie": 5, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.0}
+{"jeu": "y057", "niveau": 1, "k": 120, "coups_vie": 20, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y058", "niveau": 3, "k": 80, "coups_vie": 5, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.4}
+{"jeu": "y058", "niveau": 3, "k": 120, "coups_vie": 10, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.4}
+{"jeu": "y059", "niveau": 1, "k": 40, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.4}
+{"jeu": "y059", "niveau": 1, "k": 80, "coups_vie": 35, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.4}
+{"jeu": "y059", "niveau": 1, "k": 120, "coups_vie": 30, "plan": 7, "refus": null, "origine": "but_suppose", "s": 1.2}
+{"jeu": "y060", "niveau": 3, "k": 40, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.5}
+{"jeu": "y060", "niveau": 3, "k": 80, "coups_vie": 2, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.9}
+{"jeu": "y061", "niveau": 2, "k": 80, "coups_vie": 2, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.3}
+{"jeu": "y061", "niveau": 2, "k": 120, "coups_vie": 3, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.3}
+{"jeu": "y062", "niveau": 1, "k": 40, "coups_vie": 5, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y062", "niveau": 1, "k": 80, "coups_vie": 10, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y062", "niveau": 1, "k": 120, "coups_vie": 15, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y063", "niveau": 2, "k": 40, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 1.1}
+{"jeu": "y063", "niveau": 2, "k": 80, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 1.0}
+{"jeu": "y063", "niveau": 2, "k": 120, "coups_vie": 29, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.8}
+{"jeu": "y064", "niveau": 1, "k": 40, "coups_vie": 3, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y064", "niveau": 1, "k": 80, "coups_vie": 6, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y064", "niveau": 1, "k": 120, "coups_vie": 9, "plan": 2, "refus": null, "origine": "but_suppose", "s": 0.8}
+{"jeu": "y065", "niveau": 3, "k": 40, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 7.2}
+{"jeu": "y065", "niveau": 3, "k": 80, "coups_vie": 15, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 5.0}
+{"jeu": "y065", "niveau": 3, "k": 120, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 7.4}
+{"jeu": "y066", "niveau": 2, "k": 40, "coups_vie": 40, "plan": null, "refus": "pas de but (aucun but supposé planifiable) ; ne rejoue pas (C)", "origine": null, "s": 0.2}
+{"jeu": "y066", "niveau": 2, "k": 80, "coups_vie": 33, "plan": 6, "refus": null, "origine": "but_suppose", "s": 0.2}
+{"jeu": "y066", "niveau": 2, "k": 120, "coups_vie": 26, "plan": 1, "refus": null, "origine": "but_suppose", "s": 0.2}
+{"jeu": "y067", "niveau": 1, "k": 40, "coups_vie": 17, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y067", "niveau": 1, "k": 80, "coups_vie": 11, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y067", "niveau": 1, "k": 120, "coups_vie": 5, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.0}
+{"jeu": "y068", "niveau": 1, "k": 40, "coups_vie": 19, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y068", "niveau": 1, "k": 80, "coups_vie": 17, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y068", "niveau": 1, "k": 120, "coups_vie": 15, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y069", "niveau": 2, "k": 40, "coups_vie": 3, "plan": null, "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)", "origine": null, "s": 0.2}
+{"jeu": "y069", "niveau": 2, "k": 80, "coups_vie": 6, "plan": null, "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)", "origine": null, "s": 0.1}
+{"jeu": "y069", "niveau": 2, "k": 120, "coups_vie": 9, "plan": null, "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)", "origine": null, "s": 0.2}
+{"jeu": "y070", "niveau": 2, "k": 80, "coups_vie": 3, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.3}
+{"jeu": "y071", "niveau": 2, "k": 40, "coups_vie": 7, "plan": 6, "refus": null, "origine": "but_suppose", "s": 26.3}
+{"jeu": "y071", "niveau": 2, "k": 80, "coups_vie": 14, "plan": 4, "refus": null, "origine": "but_suppose", "s": 3.9}
+{"jeu": "y071", "niveau": 2, "k": 120, "coups_vie": 21, "plan": 4, "refus": null, "origine": "but_suppose", "s": 0.5}
+{"jeu": "y072", "niveau": 1, "k": 40, "coups_vie": 19, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y072", "niveau": 1, "k": 80, "coups_vie": 17, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y072", "niveau": 1, "k": 120, "coups_vie": 15, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y073", "niveau": 3, "k": 40, "coups_vie": 5, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.3}
+{"jeu": "y073", "niveau": 3, "k": 80, "coups_vie": 3, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.3}
+{"jeu": "y074", "niveau": 2, "k": 40, "coups_vie": 7, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.5}
+{"jeu": "y074", "niveau": 2, "k": 80, "coups_vie": 14, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.8}
+{"jeu": "y074", "niveau": 2, "k": 120, "coups_vie": 21, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 3.9}
+{"jeu": "y075", "niveau": 1, "k": 40, "coups_vie": 19, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y075", "niveau": 1, "k": 80, "coups_vie": 17, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y075", "niveau": 1, "k": 120, "coups_vie": 15, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y076", "niveau": 2, "k": 80, "coups_vie": 2, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.5}
+{"jeu": "y076", "niveau": 2, "k": 120, "coups_vie": 3, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.5}
+{"jeu": "y077", "niveau": 1, "k": 40, "coups_vie": 3, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y077", "niveau": 1, "k": 80, "coups_vie": 6, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y077", "niveau": 1, "k": 120, "coups_vie": 9, "plan": null, "refus": "pas de but (aucun but supposé planifiable)", "origine": null, "s": 9.9}
+{"jeu": "y078", "niveau": 4, "k": 40, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 7.3}
+{"jeu": "y078", "niveau": 4, "k": 80, "coups_vie": 17, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 3.3}
+{"jeu": "y078", "niveau": 4, "k": 120, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 8.2}
+{"jeu": "y079", "niveau": 2, "k": 40, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 1.4}
+{"jeu": "y079", "niveau": 2, "k": 80, "coups_vie": 29, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 1.1}
+{"jeu": "y079", "niveau": 2, "k": 120, "coups_vie": 18, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.8}
+{"jeu": "y080", "niveau": 3, "k": 40, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.3}
+{"jeu": "y080", "niveau": 3, "k": 80, "coups_vie": 37, "plan": 2, "refus": null, "origine": "but_suppose", "s": 0.5}
+{"jeu": "y080", "niveau": 3, "k": 120, "coups_vie": 34, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.4}
+{"jeu": "y081", "niveau": 1, "k": 40, "coups_vie": 19, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y081", "niveau": 1, "k": 80, "coups_vie": 17, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y081", "niveau": 1, "k": 120, "coups_vie": 15, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y082", "niveau": 1, "k": 40, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.2}
+{"jeu": "y082", "niveau": 1, "k": 80, "coups_vie": 33, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.2}
+{"jeu": "y082", "niveau": 1, "k": 120, "coups_vie": 26, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y083", "niveau": 1, "k": 40, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.4}
+{"jeu": "y083", "niveau": 1, "k": 80, "coups_vie": 19, "plan": null, "refus": "pas de but (aucun but supposé planifiable)", "origine": null, "s": 60.6}
+{"jeu": "y083", "niveau": 1, "k": 120, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.5}
+{"jeu": "y084", "niveau": 2, "k": 40, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.4}
+{"jeu": "y084", "niveau": 2, "k": 80, "coups_vie": 9, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.3}
+{"jeu": "y084", "niveau": 2, "k": 120, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.3}
+{"jeu": "y085", "niveau": 2, "k": 40, "coups_vie": 9, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.2}
+{"jeu": "y085", "niveau": 2, "k": 80, "coups_vie": 18, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.2}
+{"jeu": "y085", "niveau": 2, "k": 120, "coups_vie": 27, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.3}
+{"jeu": "y087", "niveau": 1, "k": 40, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.5}
+{"jeu": "y087", "niveau": 1, "k": 80, "coups_vie": 25, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.4}
+{"jeu": "y087", "niveau": 1, "k": 120, "coups_vie": 10, "plan": 9, "refus": null, "origine": "but_suppose", "s": 53.9}
+{"jeu": "y088", "niveau": 1, "k": 40, "coups_vie": 3, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.0}
+{"jeu": "y088", "niveau": 1, "k": 80, "coups_vie": 6, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.0}
+{"jeu": "y088", "niveau": 1, "k": 120, "coups_vie": 9, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y089", "niveau": 2, "k": 40, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 1.5}
+{"jeu": "y089", "niveau": 2, "k": 80, "coups_vie": 27, "plan": null, "refus": "pas de but (aucun but supposé planifiable) ; ne rejoue pas (C)", "origine": null, "s": 61.3}
+{"jeu": "y089", "niveau": 2, "k": 120, "coups_vie": 14, "plan": null, "refus": "pas de but (aucun but supposé planifiable) ; ne rejoue pas (C)", "origine": null, "s": 60.8}
+{"jeu": "y090", "niveau": 3, "k": 40, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 1.0}
+{"jeu": "y090", "niveau": 3, "k": 80, "coups_vie": 39, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.8}
+{"jeu": "y090", "niveau": 3, "k": 120, "coups_vie": 38, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.7}
+{"jeu": "y091", "niveau": 4, "k": 40, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 1.2}
+{"jeu": "y091", "niveau": 4, "k": 80, "coups_vie": 27, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 1.0}
+{"jeu": "y091", "niveau": 4, "k": 120, "coups_vie": 14, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 1.1}
+{"jeu": "y092", "niveau": 2, "k": 40, "coups_vie": 13, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.2}
+{"jeu": "y092", "niveau": 2, "k": 80, "coups_vie": 26, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.5}
+{"jeu": "y093", "niveau": 2, "k": 80, "coups_vie": 2, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y093", "niveau": 2, "k": 120, "coups_vie": 3, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y094", "niveau": 2, "k": 40, "coups_vie": 14, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.7}
+{"jeu": "y094", "niveau": 2, "k": 80, "coups_vie": 7, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.9}
+{"jeu": "y094", "niveau": 2, "k": 120, "coups_vie": 23, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 1.3}
+{"jeu": "y095", "niveau": 1, "k": 40, "coups_vie": 19, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y095", "niveau": 1, "k": 80, "coups_vie": 17, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y095", "niveau": 1, "k": 120, "coups_vie": 15, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y096", "niveau": 1, "k": 40, "coups_vie": 17, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y096", "niveau": 1, "k": 80, "coups_vie": 11, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y096", "niveau": 1, "k": 120, "coups_vie": 5, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y097", "niveau": 2, "k": 40, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.3}
+{"jeu": "y097", "niveau": 2, "k": 80, "coups_vie": 33, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.2}
+{"jeu": "y097", "niveau": 2, "k": 120, "coups_vie": 26, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.2}
+{"jeu": "y098", "niveau": 3, "k": 40, "coups_vie": 7, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.4}
+{"jeu": "y098", "niveau": 3, "k": 80, "coups_vie": 7, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.3}
+{"jeu": "y098", "niveau": 3, "k": 120, "coups_vie": 6, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.3}
+{"jeu": "y099", "niveau": 2, "k": 40, "coups_vie": 2, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.4}
+{"jeu": "y099", "niveau": 2, "k": 80, "coups_vie": 2, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.4}
+{"jeu": "y099", "niveau": 2, "k": 120, "coups_vie": 2, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.4}
+{"jeu": "y100", "niveau": 1, "k": 40, "coups_vie": 19, "plan": null, "refus": "pas de but (aucun but supposé planifiable)", "origine": null, "s": 0.1}
+{"jeu": "y100", "niveau": 1, "k": 80, "coups_vie": 17, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y100", "niveau": 1, "k": 120, "coups_vie": 15, "plan": null, "refus": "ne rejoue pas (C)", "origine": null, "s": 0.1}
+{"jeu": "y104", "niveau": 2, "k": 40, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.4}
+{"jeu": "y104", "niveau": 2, "k": 80, "coups_vie": 33, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.4}
+{"jeu": "y104", "niveau": 2, "k": 120, "coups_vie": 26, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.3}
+{"jeu": "y105", "niveau": 3, "k": 40, "coups_vie": 40, "plan": 5, "refus": null, "origine": "planifier", "s": 0.9}
+{"jeu": "y105", "niveau": 3, "k": 80, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.8}
+{"jeu": "y105", "niveau": 3, "k": 120, "coups_vie": 39, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 0.8}
+{"jeu": "y106", "niveau": 2, "k": 40, "coups_vie": 40, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 1.3}
+{"jeu": "y106", "niveau": 2, "k": 80, "coups_vie": 37, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 1.0}
+{"jeu": "y106", "niveau": 2, "k": 120, "coups_vie": 34, "plan": null, "refus": "ne rejoue pas (C) ; ne rejoue pas (C)", "origine": null, "s": 1.1}
+{"appels": 309, "plans": 33, "niveaux_avec_plan": [["y000", 3], ["y002", 1], ["y007", 2], ["y013", 2], ["y014", 3], ["y018", 2], ["y019", 1], ["y026", 2], ["y032", 3], ["y038", 2], ["y042", 1], ["y044", 2], ["y045", 1], ["y046", 1], ["y047", 2], ["y052", 2], ["y055", 2], ["y056", 2], ["y059", 1], ["y064", 1], ["y066", 2], ["y071", 2], ["y080", 3], ["y087", 1], ["y105", 3]]}

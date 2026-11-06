@@ -1,0 +1,8 @@
+{"marque": "(8, (42, 36))", "coups": 4, "cumul": 4, "faites": 1, "cpu": 0.5}
+{"marque": "(8, (51, 27))", "coups": 6, "cumul": 10, "faites": 2, "cpu": 0.9}
+{"marque": "(9, (21, 6))", "coups": 18, "cumul": 28, "faites": 3, "cpu": 5.1}
+{"marque": "(9, (33, 45))", "coups": 3, "cumul": 31, "faites": 4, "cpu": 41.2}
+{"marque": "(9, (24, 51))", "coups": 11, "cumul": 42, "faites": 5, "cpu": 56.4}
+{"marque": "(9, (33, 60))", "coups": 2, "cumul": 44, "faites": 6, "cpu": 56.6}
+{"marque": "(9, (39, 6))", "coups": 2, "cumul": 46, "faites": 7, "cpu": 56.9}
+{"resultat": "partiel", "faites": 7, "sur": 8, "coups": ["DOWN", "RIGHT", "RIGHT", "RIGHT", "UP", "UP", "UP", "RIGHT", "RIGHT", "RIGHT", "RIGHT", "UP", "UP", "UP", "UP", "UP", "UP", "UP", "UP", "UP", "UP", "LEFT", "LEFT", "LEFT", "LEFT", "LEFT", "LEFT", "LEFT", "SPACE", "DOWN", "LEFT", "SPACE", "DOWN", "DOWN", "DOWN", "DOWN", "DOWN", "DOWN", "DOWN", "DOWN", "DOWN", "DOWN", "DOWN", "DOWN", "UP", "DOWN"], "cpu": 310.0}

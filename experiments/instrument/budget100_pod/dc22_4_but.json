@@ -1,0 +1,19 @@
+{
+ "jeu": "dc22",
+ "niveau": 4,
+ "bras": "but",
+ "budget_s": 30000.0,
+ "memoire_go": 8.0,
+ "backend": "1",
+ "prefixe": "prefixes_r0.json",
+ "gagne": true,
+ "plan": 65,
+ "noeuds": 92583,
+ "etats": 2438,
+ "raison": null,
+ "profondeur": null,
+ "table": null,
+ "t_victoire": 74.3,
+ "duree_s": 74.3,
+ "memoire_max_go": 0.12
+}

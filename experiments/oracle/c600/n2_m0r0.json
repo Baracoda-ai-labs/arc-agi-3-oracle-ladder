@@ -1,0 +1,13 @@
+{
+ "m0r0": {
+  "jeu": "m0r0",
+  "niveau": 2,
+  "C600": {
+   "but": null,
+   "gagne": false,
+   "raison": "aucun candidat atteint (budget)",
+   "candidats": 16
+  },
+  "secondes": 600.4
+ }
+}

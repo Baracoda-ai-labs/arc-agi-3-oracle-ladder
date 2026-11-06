@@ -1,0 +1,8 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 17:35:12 | INFO | Created new scorecard: e887e6e2-7414-40d5-8c87-aa73a42cb278
+2026-10-20 17:35:12 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+2026-10-20 17:35:12 | INFO | Successfully loaded game class Dc22 from /workspace/chrysalide3/experiments/arc3/environment_files/dc22/fdcac232/dc22.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 17:39:17 | INFO | Created new scorecard: 0708d8e8-5a24-44cf-bd79-dae62b2fa78a
+2026-10-20 17:39:17 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+{"jeu": "dc22", "niveau": 2, "bras": "profondeur", "budget_s": 300.0, "memoire_go": 4.0, "backend": "1", "prefixe": "plafonds.prefixe", "gagne": true, "plan": 64, "noeuds": 522009, "etats": null, "raison": null, "profondeur": null, "table": null, "t_victoire": 246.2, "duree_s": 246.2, "memoire_max_go": 0.29}

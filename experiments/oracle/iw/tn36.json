@@ -1,0 +1,18 @@
+{
+ "iw1": {
+  "gagne": null,
+  "raison": "espace épuisé sans issue",
+  "plan": null,
+  "noeuds": 5644,
+  "etats": 1869,
+  "secondes": 3.8
+ },
+ "iw2": {
+  "gagne": null,
+  "raison": "espace épuisé sans issue",
+  "plan": null,
+  "noeuds": 46397,
+  "etats": 14626,
+  "secondes": 42.6
+ }
+}

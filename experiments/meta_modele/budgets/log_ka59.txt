@@ -1,0 +1,17 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:27:02 | INFO | Created new scorecard: 40b59e99-a097-4494-98be-e3ffbb947db0
+2026-10-21 02:27:02 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+2026-10-21 02:27:02 | INFO | Successfully loaded game class Ka59 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ka59/38d34dbb/ka59.py
+ka59 1 100 {'UP': ((100, 'defaite'), (100, 'defaite')), 'DOWN': ((100, 'defaite'), (100, 'defaite')), 'LEFT': ((100, 'defaite'), (100, 'defaite')), 'RIGHT': ((100, 'defaite'), (100, 'defaite')), 'MOUSE@0,0': ((100, 'defaite'), (100, 'defaite')), 'MOUSE@32,32': ((100, 'defaite'), (100, 'defaite')), 'MOUSE@63,63': ((100, 'defaite'), (100, 'defaite'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:27:02 | INFO | Created new scorecard: 5a8eef3d-29ff-4996-ab43-4e868469ac5c
+2026-10-21 02:27:02 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+ka59 2 127 {'UP': ((127, 'defaite'), (127, 'defaite')), 'DOWN': ((127, 'defaite'), (127, 'defaite')), 'LEFT': ((127, 'defaite'), (127, 'defaite')), 'RIGHT': ((127, 'defaite'), (127, 'defaite')), 'MOUSE@0,0': ((127, 'defaite'), (127, 'defaite')), 'MOUSE@32,32': ((127, 'defaite'), (127, 'defaite')), 'MOUSE@63,63': ((127, 'defaite'), (127, 'defaite'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:27:03 | INFO | Created new scorecard: ada55717-1a2d-4e32-aa97-ebb439445371
+2026-10-21 02:27:03 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+ka59 3 100 {'UP': ((100, 'defaite'), (100, 'defaite')), 'DOWN': ((100, 'defaite'), (100, 'defaite')), 'LEFT': ((100, 'defaite'), (100, 'defaite')), 'RIGHT': ((100, 'defaite'), (100, 'defaite')), 'MOUSE@0,0': ((100, 'defaite'), (100, 'defaite')), 'MOUSE@32,32': ((100, 'defaite'), (100, 'defaite')), 'MOUSE@63,63': ((100, 'defaite'), (100, 'defaite'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:27:04 | INFO | Created new scorecard: c614b91b-14f5-4a9e-860e-5532d3394629
+2026-10-21 02:27:04 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+ka59 4 127 {'UP': ((127, 'defaite'), (127, 'defaite')), 'DOWN': ((127, 'defaite'), (127, 'defaite')), 'LEFT': ((127, 'defaite'), (127, 'defaite')), 'RIGHT': ((127, 'defaite'), (127, 'defaite')), 'MOUSE@0,0': ((127, 'defaite'), (127, 'defaite')), 'MOUSE@32,32': ((127, 'defaite'), (127, 'defaite')), 'MOUSE@63,63': ((127, 'defaite'), (127, 'defaite'))}

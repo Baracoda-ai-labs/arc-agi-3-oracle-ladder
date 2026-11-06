@@ -1,0 +1,66 @@
+{
+ "jeu": "ls20",
+ "condition": "seuil",
+ "graine": 0,
+ "prefixe": 0,
+ "niveau_depart": null,
+ "minutes": 10.0,
+ "max_coups": 30000,
+ "duree_s": 600.1,
+ "niveaux": 1,
+ "niveaux_coup_final_moteur": 1,
+ "gagne": false,
+ "morts": 8,
+ "coups": {
+  "hasard": 518,
+  "hasard_effet": 508,
+  "moteur": 150,
+  "moteur_effet": 149
+ },
+ "dernier_refus_par_niveau": {
+  "1": "ne rejoue pas (C) ; partiel : garde : passabilité inconnue (c12 → 5)",
+  "2": "ne rejoue pas (C) ; partiel : but induit ancre sans plan (138 mondes) ; ne rejoue pas (C) ; partiel : garde : déplacement supposé (c12, a2) ; ne rejoue pas (C) "
+ },
+ "refus": {
+  "ne rejoue pas (C) ; partiel": 487,
+  "pas de but (aucun but supposé planifiable)": 1
+ },
+ "drapeaux": {
+  "CHRYS_BUT_SUPPOSE": "1",
+  "CHRYS_PARTIEL": "2",
+  "CHRYS_MOTEUR_BUDGET_S": "2",
+  "CHRYS_POURSUITE_UTILE": "1",
+  "CHRYS_AMODAL": "1",
+  "CHRYS_MDL": "0",
+  "CHRYS_MOTEUR": "1"
+ },
+ "explorateur": "hasard",
+ "explo_mesures": null,
+ "bilan": {
+  "moteur_appels": 594,
+  "moteur_refus_porte": 0,
+  "moteur_plans": 98,
+  "moteur_tours": 150,
+  "moteur_coups_plan": 150,
+  "moteur_divergences": 12,
+  "moteur_cpu_s": 198.44,
+  "moteur_porte1_ok": 13,
+  "moteur_porte1_refus": 0,
+  "moteur_porte2_ok": 13,
+  "moteur_porte2_refus": 0,
+  "moteur_plans_gagnants_reels": 1,
+  "moteur_partiel_appels": 85,
+  "moteur_porte1_partielle_ok": 85,
+  "moteur_plans_partiels": 85,
+  "part_coups_moteur": 0.225,
+  "coups_plan_par_niveau": [
+   {
+    "niveau": 1,
+    "coups": 31,
+    "coups_plan": 8,
+    "plan_gagnant": true,
+    "cpu_moteur_s": 5.242
+   }
+  ]
+ }
+}

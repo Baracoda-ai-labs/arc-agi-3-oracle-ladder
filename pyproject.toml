@@ -1,0 +1,38 @@
+[project]
+name = "chrysalide"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "mlx-lm>=0.31.3",
+    "pyyaml>=6.0.3",
+    "scikit-learn>=1.9.1",
+    "scipy>=1.18.1",
+    "sqlmodel>=0.0.47",
+    "statsmodels>=0.15.0",
+    "tabpfn>=9.2.0",
+]
+
+[dependency-groups]
+arc3 = [
+    "arc-agi>=0.9.9",
+]
+dev = [
+    "pytest>=9.1.1",
+    "ruff>=0.16.9",
+]
+logique = [
+    "clingo>=5.8.2",
+    "z3-solver>=5.3.1.0",
+]
+pod = [
+    "peft>=0.21.0",
+    "torch>=2.14.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+
+[tool.ruff]
+line-length = 130
+target-version = "py312"

@@ -1,0 +1,21 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:27:02 | INFO | Created new scorecard: 4e161ac9-b348-4593-a277-cbd46b322e8c
+2026-10-21 02:27:02 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+2026-10-21 02:27:02 | INFO | Successfully loaded game class Re86 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/re86/8af5384d/re86.py
+re86 1 100 {'UP': ((100, 'defaite'), (100, 'defaite')), 'DOWN': ((100, 'defaite'), (100, 'defaite')), 'LEFT': ((100, 'defaite'), (100, 'defaite')), 'RIGHT': ((100, 'defaite'), (100, 'defaite')), 'SPACE': ((100, 'defaite'), (100, 'defaite'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:27:08 | INFO | Created new scorecard: ddaa93dd-f277-42d4-a6fb-767ff611ff11
+2026-10-21 02:27:08 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+re86 2 100 {'UP': ((100, 'defaite'), (100, 'defaite')), 'DOWN': ((100, 'defaite'), (100, 'defaite')), 'LEFT': ((100, 'defaite'), (100, 'defaite')), 'RIGHT': ((100, 'defaite'), (100, 'defaite')), 'SPACE': ((100, 'defaite'), (100, 'defaite'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:27:17 | INFO | Created new scorecard: 449518a7-7780-442b-9073-32dcd8b66b14
+2026-10-21 02:27:17 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+re86 3 200 {'UP': ((200, 'defaite'), (200, 'defaite')), 'DOWN': ((200, 'defaite'), (200, 'defaite')), 'LEFT': ((200, 'defaite'), (200, 'defaite')), 'RIGHT': ((200, 'defaite'), (200, 'defaite')), 'SPACE': ((200, 'defaite'), (200, 'defaite'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:27:27 | INFO | Created new scorecard: f3b4b761-815b-49a5-b1d8-b1bd6c813d26
+2026-10-21 02:27:27 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+re86 4 200 {'UP': ((200, 'defaite'), (200, 'defaite')), 'DOWN': ((200, 'defaite'), (200, 'defaite')), 'LEFT': ((200, 'defaite'), (200, 'defaite')), 'RIGHT': ((200, 'defaite'), (200, 'defaite')), 'SPACE': ((200, 'defaite'), (200, 'defaite'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:27:39 | INFO | Created new scorecard: 290dcf5a-b16c-4439-9a7e-edd25246c017
+2026-10-21 02:27:39 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+re86 5 250 {'UP': ((250, 'defaite'), (250, 'defaite')), 'DOWN': ((250, 'defaite'), (250, 'defaite')), 'LEFT': ((250, 'defaite'), (250, 'defaite')), 'RIGHT': ((250, 'defaite'), (250, 'defaite')), 'SPACE': ((250, 'defaite'), (250, 'defaite'))}

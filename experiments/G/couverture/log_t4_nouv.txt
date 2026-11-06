@@ -1,0 +1,422 @@
+{"jeu": "y000", "niveau": 1, "victoire": true, "coups": 21, "resets": 0, "secondes": 0.1}
+{"jeu": "y000", "niveau": 2, "victoire": true, "coups": 55, "resets": 1, "secondes": 0.2}
+{"jeu": "y000", "niveau": 3, "victoire": false, "coups": 150, "resets": 3, "secondes": 1.2}
+LIGNE {"bras": "generique", "jeu": "y000", "niveau": 1, "victoire": true, "coups": 21, "etats": 11, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y000", "niveau": 2, "victoire": true, "coups": 55, "etats": 16, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y000", "niveau": 3, "victoire": false, "coups": 150, "etats": 32, "erreur": null}
+{"jeu": "y001", "niveau": 1, "victoire": false, "coups": 150, "resets": 6, "secondes": 1.0}
+LIGNE {"bras": "generique", "jeu": "y001", "niveau": 1, "victoire": false, "coups": 150, "etats": 37, "erreur": null}
+{"jeu": "y002", "niveau": 1, "victoire": false, "coups": 150, "resets": 7, "secondes": 1.3}
+LIGNE {"bras": "generique", "jeu": "y002", "niveau": 1, "victoire": false, "coups": 150, "etats": 42, "erreur": null}
+{"jeu": "y003", "niveau": 1, "victoire": false, "coups": 150, "resets": 6, "secondes": 1.1}
+LIGNE {"bras": "generique", "jeu": "y003", "niveau": 1, "victoire": false, "coups": 150, "etats": 49, "erreur": null}
+{"jeu": "y004", "niveau": 1, "victoire": false, "coups": 150, "resets": 7, "secondes": 1.3}
+LIGNE {"bras": "generique", "jeu": "y004", "niveau": 1, "victoire": false, "coups": 150, "etats": 50, "erreur": null}
+{"jeu": "y005", "niveau": 1, "victoire": false, "coups": 150, "resets": 7, "secondes": 0.9}
+LIGNE {"bras": "generique", "jeu": "y005", "niveau": 1, "victoire": false, "coups": 150, "etats": 41, "erreur": null}
+{"jeu": "y006", "niveau": 1, "victoire": true, "coups": 16, "resets": 0, "secondes": 0.1}
+{"jeu": "y006", "niveau": 2, "victoire": false, "coups": 150, "resets": 2, "secondes": 1.0}
+LIGNE {"bras": "generique", "jeu": "y006", "niveau": 1, "victoire": true, "coups": 16, "etats": 10, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y006", "niveau": 2, "victoire": false, "coups": 150, "etats": 65, "erreur": null}
+{"jeu": "y007", "niveau": 1, "victoire": true, "coups": 87, "resets": 2, "secondes": 0.4}
+{"jeu": "y007", "niveau": 2, "victoire": false, "coups": 150, "resets": 5, "secondes": 1.0}
+LIGNE {"bras": "generique", "jeu": "y007", "niveau": 1, "victoire": true, "coups": 87, "etats": 20, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y007", "niveau": 2, "victoire": false, "coups": 150, "etats": 23, "erreur": null}
+{"jeu": "y008", "niveau": 1, "victoire": true, "coups": 73, "resets": 2, "secondes": 0.3}
+{"jeu": "y008", "niveau": 2, "victoire": false, "coups": 150, "resets": 15, "secondes": 1.0}
+LIGNE {"bras": "generique", "jeu": "y008", "niveau": 1, "victoire": true, "coups": 73, "etats": 23, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y008", "niveau": 2, "victoire": false, "coups": 150, "etats": 14, "erreur": null}
+{"jeu": "y009", "niveau": 1, "victoire": true, "coups": 13, "resets": 0, "secondes": 0.1}
+{"jeu": "y009", "niveau": 2, "victoire": true, "coups": 51, "resets": 1, "secondes": 0.5}
+{"jeu": "y009", "niveau": 3, "victoire": true, "coups": 148, "resets": 4, "secondes": 1.4}
+{"jeu": "y009", "niveau": 4, "victoire": false, "coups": 150, "resets": 16, "secondes": 1.7}
+LIGNE {"bras": "generique", "jeu": "y009", "niveau": 1, "victoire": true, "coups": 13, "etats": 9, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y009", "niveau": 2, "victoire": true, "coups": 51, "etats": 11, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y009", "niveau": 3, "victoire": true, "coups": 148, "etats": 27, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y009", "niveau": 4, "victoire": false, "coups": 150, "etats": 9, "erreur": null}
+{"jeu": "y010", "niveau": 1, "victoire": true, "coups": 19, "resets": 0, "secondes": 0.2}
+{"jeu": "y010", "niveau": 2, "victoire": true, "coups": 16, "resets": 0, "secondes": 0.2}
+{"jeu": "y010", "niveau": 3, "victoire": false, "coups": 150, "resets": 3, "secondes": 1.2}
+LIGNE {"bras": "generique", "jeu": "y010", "niveau": 1, "victoire": true, "coups": 19, "etats": 8, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y010", "niveau": 2, "victoire": true, "coups": 16, "etats": 10, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y010", "niveau": 3, "victoire": false, "coups": 150, "etats": 37, "erreur": null}
+{"jeu": "y011", "niveau": 1, "victoire": false, "coups": 150, "resets": 7, "secondes": 1.0}
+LIGNE {"bras": "generique", "jeu": "y011", "niveau": 1, "victoire": false, "coups": 150, "etats": 55, "erreur": null}
+{"jeu": "y012", "niveau": 1, "victoire": false, "coups": 150, "resets": 7, "secondes": 1.0}
+LIGNE {"bras": "generique", "jeu": "y012", "niveau": 1, "victoire": false, "coups": 150, "etats": 40, "erreur": null}
+{"jeu": "y013", "niveau": 1, "victoire": true, "coups": 32, "resets": 0, "secondes": 0.1}
+{"jeu": "y013", "niveau": 2, "victoire": false, "coups": 150, "resets": 7, "secondes": 1.0}
+LIGNE {"bras": "generique", "jeu": "y013", "niveau": 1, "victoire": true, "coups": 32, "etats": 18, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y013", "niveau": 2, "victoire": false, "coups": 150, "etats": 20, "erreur": null}
+{"jeu": "y014", "niveau": 1, "victoire": false, "coups": 150, "resets": 5, "secondes": 1.2}
+LIGNE {"bras": "generique", "jeu": "y014", "niveau": 1, "victoire": false, "coups": 150, "etats": 7, "erreur": null}
+{"jeu": "y015", "niveau": 1, "victoire": true, "coups": 31, "resets": 0, "secondes": 0.1}
+{"jeu": "y015", "niveau": 2, "victoire": false, "coups": 150, "resets": 3, "secondes": 1.0}
+LIGNE {"bras": "generique", "jeu": "y015", "niveau": 1, "victoire": true, "coups": 31, "etats": 15, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y015", "niveau": 2, "victoire": false, "coups": 150, "etats": 53, "erreur": null}
+{"jeu": "y016", "niveau": 1, "victoire": true, "coups": 49, "resets": 1, "secondes": 0.2}
+{"jeu": "y016", "niveau": 2, "victoire": false, "coups": 150, "resets": 3, "secondes": 1.1}
+LIGNE {"bras": "generique", "jeu": "y016", "niveau": 1, "victoire": true, "coups": 49, "etats": 27, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y016", "niveau": 2, "victoire": false, "coups": 150, "etats": 37, "erreur": null}
+{"jeu": "y017", "niveau": 1, "victoire": true, "coups": 21, "resets": 0, "secondes": 0.1}
+{"jeu": "y017", "niveau": 2, "victoire": false, "coups": 150, "resets": 2, "secondes": 0.9}
+LIGNE {"bras": "generique", "jeu": "y017", "niveau": 1, "victoire": true, "coups": 21, "etats": 12, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y017", "niveau": 2, "victoire": false, "coups": 150, "etats": 37, "erreur": null}
+{"jeu": "y018", "niveau": 1, "victoire": true, "coups": 74, "resets": 2, "secondes": 0.2}
+{"jeu": "y018", "niveau": 2, "victoire": true, "coups": 50, "resets": 1, "secondes": 0.2}
+{"jeu": "y018", "niveau": 3, "victoire": false, "coups": 150, "resets": 4, "secondes": 1.1}
+LIGNE {"bras": "generique", "jeu": "y018", "niveau": 1, "victoire": true, "coups": 74, "etats": 17, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y018", "niveau": 2, "victoire": true, "coups": 50, "etats": 22, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y018", "niveau": 3, "victoire": false, "coups": 150, "etats": 60, "erreur": null}
+{"jeu": "y019", "niveau": 1, "victoire": false, "coups": 150, "resets": 6, "secondes": 1.3}
+LIGNE {"bras": "generique", "jeu": "y019", "niveau": 1, "victoire": false, "coups": 150, "etats": 38, "erreur": null}
+{"jeu": "y020", "niveau": 1, "victoire": false, "coups": 150, "resets": 7, "secondes": 1.3}
+LIGNE {"bras": "generique", "jeu": "y020", "niveau": 1, "victoire": false, "coups": 150, "etats": 41, "erreur": null}
+{"jeu": "y021", "niveau": 1, "victoire": true, "coups": 16, "resets": 0, "secondes": 0.1}
+{"jeu": "y021", "niveau": 2, "victoire": true, "coups": 46, "resets": 0, "secondes": 0.2}
+{"jeu": "y021", "niveau": 3, "victoire": false, "coups": 150, "resets": 5, "secondes": 1.1}
+LIGNE {"bras": "generique", "jeu": "y021", "niveau": 1, "victoire": true, "coups": 16, "etats": 11, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y021", "niveau": 2, "victoire": true, "coups": 46, "etats": 20, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y021", "niveau": 3, "victoire": false, "coups": 150, "etats": 22, "erreur": null}
+{"jeu": "y022", "niveau": 1, "victoire": true, "coups": 54, "resets": 1, "secondes": 0.6}
+{"jeu": "y022", "niveau": 2, "victoire": false, "coups": 150, "resets": 2, "secondes": 1.7}
+LIGNE {"bras": "generique", "jeu": "y022", "niveau": 1, "victoire": true, "coups": 54, "etats": 26, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y022", "niveau": 2, "victoire": false, "coups": 150, "etats": 60, "erreur": null}
+{"jeu": "y023", "niveau": 1, "victoire": true, "coups": 13, "resets": 0, "secondes": 0.1}
+{"jeu": "y023", "niveau": 2, "victoire": true, "coups": 26, "resets": 0, "secondes": 0.2}
+{"jeu": "y023", "niveau": 3, "victoire": true, "coups": 94, "resets": 2, "secondes": 0.9}
+LIGNE {"bras": "generique", "jeu": "y023", "niveau": 1, "victoire": true, "coups": 13, "etats": 9, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y023", "niveau": 2, "victoire": true, "coups": 26, "etats": 14, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y023", "niveau": 3, "victoire": true, "coups": 94, "etats": 26, "erreur": null}
+{"jeu": "y024", "niveau": 1, "victoire": false, "coups": 150, "resets": 7, "secondes": 1.4}
+LIGNE {"bras": "generique", "jeu": "y024", "niveau": 1, "victoire": false, "coups": 150, "etats": 38, "erreur": null}
+{"jeu": "y025", "niveau": 1, "victoire": true, "coups": 61, "resets": 1, "secondes": 0.3}
+{"jeu": "y025", "niveau": 2, "victoire": true, "coups": 137, "resets": 3, "secondes": 0.8}
+{"jeu": "y025", "niveau": 3, "victoire": true, "coups": 110, "resets": 2, "secondes": 0.6}
+LIGNE {"bras": "generique", "jeu": "y025", "niveau": 1, "victoire": true, "coups": 61, "etats": 24, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y025", "niveau": 2, "victoire": true, "coups": 137, "etats": 29, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y025", "niveau": 3, "victoire": true, "coups": 110, "etats": 29, "erreur": null}
+{"jeu": "y026", "niveau": 1, "victoire": true, "coups": 56, "resets": 1, "secondes": 0.2}
+{"jeu": "y026", "niveau": 2, "victoire": true, "coups": 56, "resets": 1, "secondes": 0.2}
+{"jeu": "y026", "niveau": 3, "victoire": true, "coups": 86, "resets": 1, "secondes": 0.4}
+{"jeu": "y026", "niveau": 4, "victoire": false, "coups": 150, "resets": 2, "secondes": 1.0}
+LIGNE {"bras": "generique", "jeu": "y026", "niveau": 1, "victoire": true, "coups": 56, "etats": 29, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y026", "niveau": 2, "victoire": true, "coups": 56, "etats": 21, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y026", "niveau": 3, "victoire": true, "coups": 86, "etats": 40, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y026", "niveau": 4, "victoire": false, "coups": 150, "etats": 61, "erreur": null}
+{"jeu": "y027", "niveau": 1, "victoire": true, "coups": 18, "resets": 0, "secondes": 0.0}
+{"jeu": "y027", "niveau": 2, "victoire": false, "coups": 150, "resets": 3, "secondes": 0.8}
+LIGNE {"bras": "generique", "jeu": "y027", "niveau": 1, "victoire": true, "coups": 18, "etats": 10, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y027", "niveau": 2, "victoire": false, "coups": 150, "etats": 38, "erreur": null}
+{"jeu": "y028", "niveau": 1, "victoire": false, "coups": 150, "resets": 7, "secondes": 0.9}
+LIGNE {"bras": "generique", "jeu": "y028", "niveau": 1, "victoire": false, "coups": 150, "etats": 42, "erreur": null}
+{"jeu": "y029", "niveau": 1, "victoire": true, "coups": 79, "resets": 2, "secondes": 0.3}
+{"jeu": "y029", "niveau": 2, "victoire": false, "coups": 150, "resets": 2, "secondes": 0.8}
+LIGNE {"bras": "generique", "jeu": "y029", "niveau": 1, "victoire": true, "coups": 79, "etats": 18, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y029", "niveau": 2, "victoire": false, "coups": 150, "etats": 41, "erreur": null}
+{"jeu": "y030", "niveau": 1, "victoire": false, "coups": 150, "resets": 7, "secondes": 1.1}
+LIGNE {"bras": "generique", "jeu": "y030", "niveau": 1, "victoire": false, "coups": 150, "etats": 42, "erreur": null}
+{"jeu": "y031", "niveau": 1, "victoire": true, "coups": 19, "resets": 0, "secondes": 0.1}
+{"jeu": "y031", "niveau": 2, "victoire": true, "coups": 49, "resets": 1, "secondes": 0.2}
+{"jeu": "y031", "niveau": 3, "victoire": true, "coups": 106, "resets": 1, "secondes": 0.5}
+{"jeu": "y031", "niveau": 4, "victoire": false, "coups": 150, "resets": 1, "secondes": 1.0}
+LIGNE {"bras": "generique", "jeu": "y031", "niveau": 1, "victoire": true, "coups": 19, "etats": 12, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y031", "niveau": 2, "victoire": true, "coups": 49, "etats": 23, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y031", "niveau": 3, "victoire": true, "coups": 106, "etats": 44, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y031", "niveau": 4, "victoire": false, "coups": 150, "etats": 72, "erreur": null}
+{"jeu": "y032", "niveau": 1, "victoire": true, "coups": 13, "resets": 0, "secondes": 0.0}
+{"jeu": "y032", "niveau": 2, "victoire": true, "coups": 74, "resets": 1, "secondes": 0.4}
+{"jeu": "y032", "niveau": 3, "victoire": false, "coups": 150, "resets": 6, "secondes": 1.1}
+LIGNE {"bras": "generique", "jeu": "y032", "niveau": 1, "victoire": true, "coups": 13, "etats": 7, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y032", "niveau": 2, "victoire": true, "coups": 74, "etats": 28, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y032", "niveau": 3, "victoire": false, "coups": 150, "etats": 27, "erreur": null}
+{"jeu": "y033", "niveau": 1, "victoire": true, "coups": 51, "resets": 2, "secondes": 0.3}
+{"jeu": "y033", "niveau": 2, "victoire": false, "coups": 150, "resets": 7, "secondes": 1.1}
+LIGNE {"bras": "generique", "jeu": "y033", "niveau": 1, "victoire": true, "coups": 51, "etats": 23, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y033", "niveau": 2, "victoire": false, "coups": 150, "etats": 35, "erreur": null}
+{"jeu": "y034", "niveau": 1, "victoire": true, "coups": 8, "resets": 0, "secondes": 0.0}
+{"jeu": "y034", "niveau": 2, "victoire": true, "coups": 24, "resets": 0, "secondes": 0.1}
+{"jeu": "y034", "niveau": 3, "victoire": true, "coups": 29, "resets": 0, "secondes": 0.1}
+{"jeu": "y034", "niveau": 4, "victoire": false, "coups": 150, "resets": 12, "secondes": 0.9}
+LIGNE {"bras": "generique", "jeu": "y034", "niveau": 1, "victoire": true, "coups": 8, "etats": 6, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y034", "niveau": 2, "victoire": true, "coups": 24, "etats": 9, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y034", "niveau": 3, "victoire": true, "coups": 29, "etats": 16, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y034", "niveau": 4, "victoire": false, "coups": 150, "etats": 71, "erreur": null}
+{"jeu": "y035", "niveau": 1, "victoire": true, "coups": 15, "resets": 0, "secondes": 0.1}
+{"jeu": "y035", "niveau": 2, "victoire": false, "coups": 150, "resets": 12, "secondes": 1.1}
+LIGNE {"bras": "generique", "jeu": "y035", "niveau": 1, "victoire": true, "coups": 15, "etats": 10, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y035", "niveau": 2, "victoire": false, "coups": 150, "etats": 24, "erreur": null}
+{"jeu": "y036", "niveau": 1, "victoire": true, "coups": 12, "resets": 0, "secondes": 0.1}
+{"jeu": "y036", "niveau": 2, "victoire": true, "coups": 133, "resets": 3, "secondes": 0.9}
+{"jeu": "y036", "niveau": 3, "victoire": false, "coups": 150, "resets": 3, "secondes": 1.1}
+LIGNE {"bras": "generique", "jeu": "y036", "niveau": 1, "victoire": true, "coups": 12, "etats": 9, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y036", "niveau": 2, "victoire": true, "coups": 133, "etats": 28, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y036", "niveau": 3, "victoire": false, "coups": 150, "etats": 43, "erreur": null}
+{"jeu": "y037", "niveau": 1, "victoire": true, "coups": 41, "resets": 1, "secondes": 0.2}
+{"jeu": "y037", "niveau": 2, "victoire": false, "coups": 150, "resets": 21, "secondes": 1.2}
+LIGNE {"bras": "generique", "jeu": "y037", "niveau": 1, "victoire": true, "coups": 41, "etats": 19, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y037", "niveau": 2, "victoire": false, "coups": 150, "etats": 37, "erreur": null}
+{"jeu": "y038", "niveau": 1, "victoire": true, "coups": 32, "resets": 0, "secondes": 0.1}
+{"jeu": "y038", "niveau": 2, "victoire": false, "coups": 150, "resets": 3, "secondes": 0.8}
+LIGNE {"bras": "generique", "jeu": "y038", "niveau": 1, "victoire": true, "coups": 32, "etats": 18, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y038", "niveau": 2, "victoire": false, "coups": 150, "etats": 43, "erreur": null}
+{"jeu": "y039", "niveau": 1, "victoire": true, "coups": 32, "resets": 0, "secondes": 0.3}
+{"jeu": "y039", "niveau": 2, "victoire": false, "coups": 150, "resets": 3, "secondes": 1.2}
+LIGNE {"bras": "generique", "jeu": "y039", "niveau": 1, "victoire": true, "coups": 32, "etats": 20, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y039", "niveau": 2, "victoire": false, "coups": 150, "etats": 47, "erreur": null}
+{"jeu": "y040", "niveau": 1, "victoire": true, "coups": 112, "resets": 2, "secondes": 0.5}
+{"jeu": "y040", "niveau": 2, "victoire": false, "coups": 150, "resets": 4, "secondes": 0.9}
+LIGNE {"bras": "generique", "jeu": "y040", "niveau": 1, "victoire": true, "coups": 112, "etats": 27, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y040", "niveau": 2, "victoire": false, "coups": 150, "etats": 15, "erreur": null}
+{"jeu": "y041", "niveau": 1, "victoire": true, "coups": 115, "resets": 3, "secondes": 0.5}
+{"jeu": "y041", "niveau": 2, "victoire": true, "coups": 59, "resets": 3, "secondes": 0.3}
+{"jeu": "y041", "niveau": 3, "victoire": false, "coups": 150, "resets": 23, "secondes": 1.2}
+LIGNE {"bras": "generique", "jeu": "y041", "niveau": 1, "victoire": true, "coups": 115, "etats": 21, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y041", "niveau": 2, "victoire": true, "coups": 59, "etats": 10, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y041", "niveau": 3, "victoire": false, "coups": 150, "etats": 32, "erreur": null}
+{"jeu": "y042", "niveau": 1, "victoire": true, "coups": 139, "resets": 3, "secondes": 0.8}
+{"jeu": "y042", "niveau": 2, "victoire": false, "coups": 150, "resets": 3, "secondes": 0.9}
+LIGNE {"bras": "generique", "jeu": "y042", "niveau": 1, "victoire": true, "coups": 139, "etats": 38, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y042", "niveau": 2, "victoire": false, "coups": 150, "etats": 50, "erreur": null}
+{"jeu": "y043", "niveau": 1, "victoire": false, "coups": 150, "resets": 6, "secondes": 0.8}
+LIGNE {"bras": "generique", "jeu": "y043", "niveau": 1, "victoire": false, "coups": 150, "etats": 39, "erreur": null}
+{"jeu": "y044", "niveau": 1, "victoire": true, "coups": 11, "resets": 0, "secondes": 0.1}
+{"jeu": "y044", "niveau": 2, "victoire": false, "coups": 150, "resets": 14, "secondes": 1.0}
+LIGNE {"bras": "generique", "jeu": "y044", "niveau": 1, "victoire": true, "coups": 11, "etats": 8, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y044", "niveau": 2, "victoire": false, "coups": 150, "etats": 16, "erreur": null}
+{"jeu": "y045", "niveau": 1, "victoire": true, "coups": 102, "resets": 2, "secondes": 0.4}
+{"jeu": "y045", "niveau": 2, "victoire": false, "coups": 150, "resets": 2, "secondes": 1.0}
+LIGNE {"bras": "generique", "jeu": "y045", "niveau": 1, "victoire": true, "coups": 102, "etats": 25, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y045", "niveau": 2, "victoire": false, "coups": 150, "etats": 87, "erreur": null}
+{"jeu": "y046", "niveau": 1, "victoire": true, "coups": 31, "resets": 0, "secondes": 0.1}
+{"jeu": "y046", "niveau": 2, "victoire": false, "coups": 150, "resets": 7, "secondes": 1.0}
+LIGNE {"bras": "generique", "jeu": "y046", "niveau": 1, "victoire": true, "coups": 31, "etats": 18, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y046", "niveau": 2, "victoire": false, "coups": 150, "etats": 26, "erreur": null}
+{"jeu": "y047", "niveau": 1, "victoire": true, "coups": 16, "resets": 0, "secondes": 0.0}
+{"jeu": "y047", "niveau": 2, "victoire": false, "coups": 150, "resets": 2, "secondes": 0.9}
+LIGNE {"bras": "generique", "jeu": "y047", "niveau": 1, "victoire": true, "coups": 16, "etats": 8, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y047", "niveau": 2, "victoire": false, "coups": 150, "etats": 48, "erreur": null}
+{"jeu": "y048", "niveau": 1, "victoire": true, "coups": 13, "resets": 0, "secondes": 0.2}
+{"jeu": "y048", "niveau": 2, "victoire": true, "coups": 102, "resets": 3, "secondes": 0.5}
+{"jeu": "y048", "niveau": 3, "victoire": false, "coups": 150, "resets": 9, "secondes": 1.1}
+LIGNE {"bras": "generique", "jeu": "y048", "niveau": 1, "victoire": true, "coups": 13, "etats": 8, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y048", "niveau": 2, "victoire": true, "coups": 102, "etats": 42, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y048", "niveau": 3, "victoire": false, "coups": 150, "etats": 28, "erreur": null}
+{"jeu": "y049", "niveau": 1, "victoire": true, "coups": 51, "resets": 1, "secondes": 0.2}
+{"jeu": "y049", "niveau": 2, "victoire": true, "coups": 104, "resets": 3, "secondes": 0.5}
+{"jeu": "y049", "niveau": 3, "victoire": false, "coups": 150, "resets": 3, "secondes": 0.9}
+LIGNE {"bras": "generique", "jeu": "y049", "niveau": 1, "victoire": true, "coups": 51, "etats": 15, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y049", "niveau": 2, "victoire": true, "coups": 104, "etats": 21, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y049", "niveau": 3, "victoire": false, "coups": 150, "etats": 42, "erreur": null}
+{"jeu": "y050", "niveau": 1, "victoire": true, "coups": 35, "resets": 1, "secondes": 0.1}
+{"jeu": "y050", "niveau": 2, "victoire": false, "coups": 150, "resets": 2, "secondes": 1.0}
+LIGNE {"bras": "generique", "jeu": "y050", "niveau": 1, "victoire": true, "coups": 35, "etats": 11, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y050", "niveau": 2, "victoire": false, "coups": 150, "etats": 37, "erreur": null}
+{"jeu": "y051", "niveau": 1, "victoire": true, "coups": 46, "resets": 1, "secondes": 0.2}
+{"jeu": "y051", "niveau": 2, "victoire": false, "coups": 150, "resets": 3, "secondes": 1.1}
+LIGNE {"bras": "generique", "jeu": "y051", "niveau": 1, "victoire": true, "coups": 46, "etats": 28, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y051", "niveau": 2, "victoire": false, "coups": 150, "etats": 42, "erreur": null}
+{"jeu": "y052", "niveau": 1, "victoire": true, "coups": 25, "resets": 0, "secondes": 0.1}
+{"jeu": "y052", "niveau": 2, "victoire": false, "coups": 150, "resets": 3, "secondes": 0.8}
+LIGNE {"bras": "generique", "jeu": "y052", "niveau": 1, "victoire": true, "coups": 25, "etats": 17, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y052", "niveau": 2, "victoire": false, "coups": 150, "etats": 30, "erreur": null}
+{"jeu": "y053", "niveau": 1, "victoire": true, "coups": 16, "resets": 0, "secondes": 0.1}
+{"jeu": "y053", "niveau": 2, "victoire": true, "coups": 42, "resets": 1, "secondes": 0.2}
+{"jeu": "y053", "niveau": 3, "victoire": false, "coups": 150, "resets": 2, "secondes": 0.9}
+LIGNE {"bras": "generique", "jeu": "y053", "niveau": 1, "victoire": true, "coups": 16, "etats": 9, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y053", "niveau": 2, "victoire": true, "coups": 42, "etats": 15, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y053", "niveau": 3, "victoire": false, "coups": 150, "etats": 46, "erreur": null}
+{"jeu": "y054", "niveau": 1, "victoire": true, "coups": 19, "resets": 0, "secondes": 0.1}
+{"jeu": "y054", "niveau": 2, "victoire": true, "coups": 33, "resets": 0, "secondes": 0.1}
+{"jeu": "y054", "niveau": 3, "victoire": false, "coups": 150, "resets": 9, "secondes": 1.1}
+LIGNE {"bras": "generique", "jeu": "y054", "niveau": 1, "victoire": true, "coups": 19, "etats": 11, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y054", "niveau": 2, "victoire": true, "coups": 33, "etats": 16, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y054", "niveau": 3, "victoire": false, "coups": 150, "etats": 25, "erreur": null}
+{"jeu": "y055", "niveau": 1, "victoire": true, "coups": 14, "resets": 0, "secondes": 0.1}
+{"jeu": "y055", "niveau": 2, "victoire": false, "coups": 150, "resets": 2, "secondes": 0.9}
+LIGNE {"bras": "generique", "jeu": "y055", "niveau": 1, "victoire": true, "coups": 14, "etats": 11, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y055", "niveau": 2, "victoire": false, "coups": 150, "etats": 49, "erreur": null}
+{"jeu": "y056", "niveau": 1, "victoire": true, "coups": 86, "resets": 2, "secondes": 0.4}
+{"jeu": "y056", "niveau": 2, "victoire": false, "coups": 150, "resets": 3, "secondes": 0.9}
+LIGNE {"bras": "generique", "jeu": "y056", "niveau": 1, "victoire": true, "coups": 86, "etats": 24, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y056", "niveau": 2, "victoire": false, "coups": 150, "etats": 30, "erreur": null}
+{"jeu": "y057", "niveau": 1, "victoire": false, "coups": 150, "resets": 6, "secondes": 0.8}
+LIGNE {"bras": "generique", "jeu": "y057", "niveau": 1, "victoire": false, "coups": 150, "etats": 42, "erreur": null}
+{"jeu": "y058", "niveau": 1, "victoire": true, "coups": 94, "resets": 3, "secondes": 0.4}
+{"jeu": "y058", "niveau": 2, "victoire": true, "coups": 79, "resets": 2, "secondes": 0.3}
+{"jeu": "y058", "niveau": 3, "victoire": false, "coups": 150, "resets": 13, "secondes": 1.1}
+LIGNE {"bras": "generique", "jeu": "y058", "niveau": 1, "victoire": true, "coups": 94, "etats": 17, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y058", "niveau": 2, "victoire": true, "coups": 79, "etats": 14, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y058", "niveau": 3, "victoire": false, "coups": 150, "etats": 17, "erreur": null}
+{"jeu": "y059", "niveau": 1, "victoire": false, "coups": 150, "resets": 3, "secondes": 0.9}
+LIGNE {"bras": "generique", "jeu": "y059", "niveau": 1, "victoire": false, "coups": 150, "etats": 27, "erreur": null}
+{"jeu": "y060", "niveau": 1, "victoire": true, "coups": 11, "resets": 0, "secondes": 0.1}
+{"jeu": "y060", "niveau": 2, "victoire": true, "coups": 68, "resets": 2, "secondes": 0.4}
+{"jeu": "y060", "niveau": 3, "victoire": false, "coups": 150, "resets": 7, "secondes": 1.1}
+LIGNE {"bras": "generique", "jeu": "y060", "niveau": 1, "victoire": true, "coups": 11, "etats": 8, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y060", "niveau": 2, "victoire": true, "coups": 68, "etats": 30, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y060", "niveau": 3, "victoire": false, "coups": 150, "etats": 32, "erreur": null}
+{"jeu": "y061", "niveau": 1, "victoire": true, "coups": 104, "resets": 3, "secondes": 0.4}
+{"jeu": "y061", "niveau": 2, "victoire": false, "coups": 150, "resets": 3, "secondes": 1.3}
+LIGNE {"bras": "generique", "jeu": "y061", "niveau": 1, "victoire": true, "coups": 104, "etats": 22, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y061", "niveau": 2, "victoire": false, "coups": 150, "etats": 15, "erreur": null}
+{"jeu": "y062", "niveau": 1, "victoire": false, "coups": 150, "resets": 4, "secondes": 0.9}
+LIGNE {"bras": "generique", "jeu": "y062", "niveau": 1, "victoire": false, "coups": 150, "etats": 32, "erreur": null}
+{"jeu": "y063", "niveau": 1, "victoire": false, "coups": 150, "resets": 3, "secondes": 1.1}
+LIGNE {"bras": "generique", "jeu": "y063", "niveau": 1, "victoire": false, "coups": 150, "etats": 37, "erreur": null}
+{"jeu": "y064", "niveau": 1, "victoire": false, "coups": 150, "resets": 4, "secondes": 0.9}
+LIGNE {"bras": "generique", "jeu": "y064", "niveau": 1, "victoire": false, "coups": 150, "etats": 24, "erreur": null}
+{"jeu": "y065", "niveau": 1, "victoire": true, "coups": 28, "resets": 0, "secondes": 0.1}
+{"jeu": "y065", "niveau": 2, "victoire": true, "coups": 50, "resets": 1, "secondes": 0.2}
+{"jeu": "y065", "niveau": 3, "victoire": false, "coups": 150, "resets": 2, "secondes": 1.2}
+LIGNE {"bras": "generique", "jeu": "y065", "niveau": 1, "victoire": true, "coups": 28, "etats": 21, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y065", "niveau": 2, "victoire": true, "coups": 50, "etats": 21, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y065", "niveau": 3, "victoire": false, "coups": 150, "etats": 43, "erreur": null}
+{"jeu": "y066", "niveau": 1, "victoire": true, "coups": 15, "resets": 0, "secondes": 0.1}
+{"jeu": "y066", "niveau": 2, "victoire": false, "coups": 150, "resets": 3, "secondes": 0.9}
+LIGNE {"bras": "generique", "jeu": "y066", "niveau": 1, "victoire": true, "coups": 15, "etats": 8, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y066", "niveau": 2, "victoire": false, "coups": 150, "etats": 44, "erreur": null}
+{"jeu": "y067", "niveau": 1, "victoire": false, "coups": 150, "resets": 6, "secondes": 0.8}
+LIGNE {"bras": "generique", "jeu": "y067", "niveau": 1, "victoire": false, "coups": 150, "etats": 49, "erreur": null}
+{"jeu": "y068", "niveau": 1, "victoire": false, "coups": 150, "resets": 7, "secondes": 0.8}
+LIGNE {"bras": "generique", "jeu": "y068", "niveau": 1, "victoire": false, "coups": 150, "etats": 40, "erreur": null}
+{"jeu": "y069", "niveau": 1, "victoire": true, "coups": 135, "resets": 3, "secondes": 0.7}
+{"jeu": "y069", "niveau": 2, "victoire": false, "coups": 150, "resets": 4, "secondes": 0.9}
+LIGNE {"bras": "generique", "jeu": "y069", "niveau": 1, "victoire": true, "coups": 135, "etats": 25, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y069", "niveau": 2, "victoire": false, "coups": 150, "etats": 33, "erreur": null}
+{"jeu": "y070", "niveau": 1, "victoire": true, "coups": 12, "resets": 0, "secondes": 0.1}
+{"jeu": "y070", "niveau": 2, "victoire": false, "coups": 150, "resets": 16, "secondes": 1.0}
+LIGNE {"bras": "generique", "jeu": "y070", "niveau": 1, "victoire": true, "coups": 12, "etats": 9, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y070", "niveau": 2, "victoire": false, "coups": 150, "etats": 43, "erreur": null}
+{"jeu": "y071", "niveau": 1, "victoire": true, "coups": 16, "resets": 0, "secondes": 0.0}
+{"jeu": "y071", "niveau": 2, "victoire": false, "coups": 150, "resets": 4, "secondes": 0.8}
+LIGNE {"bras": "generique", "jeu": "y071", "niveau": 1, "victoire": true, "coups": 16, "etats": 8, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y071", "niveau": 2, "victoire": false, "coups": 150, "etats": 33, "erreur": null}
+{"jeu": "y072", "niveau": 1, "victoire": false, "coups": 150, "resets": 7, "secondes": 1.1}
+LIGNE {"bras": "generique", "jeu": "y072", "niveau": 1, "victoire": false, "coups": 150, "etats": 36, "erreur": null}
+{"jeu": "y073", "niveau": 1, "victoire": true, "coups": 14, "resets": 0, "secondes": 0.1}
+{"jeu": "y073", "niveau": 2, "victoire": true, "coups": 60, "resets": 1, "secondes": 0.2}
+{"jeu": "y073", "niveau": 3, "victoire": false, "coups": 150, "resets": 21, "secondes": 1.1}
+LIGNE {"bras": "generique", "jeu": "y073", "niveau": 1, "victoire": true, "coups": 14, "etats": 11, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y073", "niveau": 2, "victoire": true, "coups": 60, "etats": 22, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y073", "niveau": 3, "victoire": false, "coups": 150, "etats": 9, "erreur": null}
+{"jeu": "y074", "niveau": 1, "victoire": true, "coups": 51, "resets": 1, "secondes": 0.3}
+{"jeu": "y074", "niveau": 2, "victoire": true, "coups": 131, "resets": 3, "secondes": 1.1}
+{"jeu": "y074", "niveau": 3, "victoire": true, "coups": 19, "resets": 0, "secondes": 0.2}
+LIGNE {"bras": "generique", "jeu": "y074", "niveau": 1, "victoire": true, "coups": 51, "etats": 21, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y074", "niveau": 2, "victoire": true, "coups": 131, "etats": 38, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y074", "niveau": 3, "victoire": true, "coups": 19, "etats": 15, "erreur": null}
+{"jeu": "y075", "niveau": 1, "victoire": false, "coups": 150, "resets": 7, "secondes": 1.0}
+LIGNE {"bras": "generique", "jeu": "y075", "niveau": 1, "victoire": false, "coups": 150, "etats": 45, "erreur": null}
+{"jeu": "y076", "niveau": 1, "victoire": true, "coups": 18, "resets": 0, "secondes": 0.1}
+{"jeu": "y076", "niveau": 2, "victoire": false, "coups": 150, "resets": 3, "secondes": 0.8}
+LIGNE {"bras": "generique", "jeu": "y076", "niveau": 1, "victoire": true, "coups": 18, "etats": 10, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y076", "niveau": 2, "victoire": false, "coups": 150, "etats": 46, "erreur": null}
+{"jeu": "y077", "niveau": 1, "victoire": true, "coups": 33, "resets": 0, "secondes": 0.1}
+{"jeu": "y077", "niveau": 2, "victoire": true, "coups": 46, "resets": 0, "secondes": 0.2}
+{"jeu": "y077", "niveau": 3, "victoire": false, "coups": 150, "resets": 2, "secondes": 1.0}
+LIGNE {"bras": "generique", "jeu": "y077", "niveau": 1, "victoire": true, "coups": 33, "etats": 16, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y077", "niveau": 2, "victoire": true, "coups": 46, "etats": 26, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y077", "niveau": 3, "victoire": false, "coups": 150, "etats": 51, "erreur": null}
+{"jeu": "y078", "niveau": 1, "victoire": true, "coups": 13, "resets": 0, "secondes": 0.1}
+{"jeu": "y078", "niveau": 2, "victoire": true, "coups": 44, "resets": 1, "secondes": 0.2}
+{"jeu": "y078", "niveau": 3, "victoire": true, "coups": 78, "resets": 2, "secondes": 0.5}
+{"jeu": "y078", "niveau": 4, "victoire": false, "coups": 150, "resets": 2, "secondes": 1.2}
+LIGNE {"bras": "generique", "jeu": "y078", "niveau": 1, "victoire": true, "coups": 13, "etats": 9, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y078", "niveau": 2, "victoire": true, "coups": 44, "etats": 22, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y078", "niveau": 3, "victoire": true, "coups": 78, "etats": 37, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y078", "niveau": 4, "victoire": false, "coups": 150, "etats": 66, "erreur": null}
+{"jeu": "y079", "niveau": 1, "victoire": true, "coups": 24, "resets": 0, "secondes": 0.2}
+{"jeu": "y079", "niveau": 2, "victoire": false, "coups": 150, "resets": 2, "secondes": 1.0}
+LIGNE {"bras": "generique", "jeu": "y079", "niveau": 1, "victoire": true, "coups": 24, "etats": 14, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y079", "niveau": 2, "victoire": false, "coups": 150, "etats": 65, "erreur": null}
+{"jeu": "y080", "niveau": 1, "victoire": true, "coups": 15, "resets": 0, "secondes": 0.0}
+{"jeu": "y080", "niveau": 2, "victoire": true, "coups": 71, "resets": 2, "secondes": 0.2}
+{"jeu": "y080", "niveau": 3, "victoire": false, "coups": 150, "resets": 3, "secondes": 0.9}
+LIGNE {"bras": "generique", "jeu": "y080", "niveau": 1, "victoire": true, "coups": 15, "etats": 9, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y080", "niveau": 2, "victoire": true, "coups": 71, "etats": 15, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y080", "niveau": 3, "victoire": false, "coups": 150, "etats": 32, "erreur": null}
+{"jeu": "y081", "niveau": 1, "victoire": false, "coups": 150, "resets": 7, "secondes": 1.1}
+LIGNE {"bras": "generique", "jeu": "y081", "niveau": 1, "victoire": false, "coups": 150, "etats": 41, "erreur": null}
+{"jeu": "y082", "niveau": 1, "victoire": false, "coups": 150, "resets": 3, "secondes": 0.7}
+LIGNE {"bras": "generique", "jeu": "y082", "niveau": 1, "victoire": false, "coups": 150, "etats": 30, "erreur": null}
+{"jeu": "y083", "niveau": 1, "victoire": false, "coups": 150, "resets": 2, "secondes": 0.8}
+LIGNE {"bras": "generique", "jeu": "y083", "niveau": 1, "victoire": false, "coups": 150, "etats": 38, "erreur": null}
+{"jeu": "y084", "niveau": 1, "victoire": true, "coups": 50, "resets": 1, "secondes": 0.2}
+{"jeu": "y084", "niveau": 2, "victoire": false, "coups": 150, "resets": 2, "secondes": 0.9}
+LIGNE {"bras": "generique", "jeu": "y084", "niveau": 1, "victoire": true, "coups": 50, "etats": 20, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y084", "niveau": 2, "victoire": false, "coups": 150, "etats": 70, "erreur": null}
+{"jeu": "y085", "niveau": 1, "victoire": true, "coups": 20, "resets": 0, "secondes": 0.1}
+{"jeu": "y085", "niveau": 2, "victoire": true, "coups": 22, "resets": 0, "secondes": 0.1}
+{"jeu": "y085", "niveau": 3, "victoire": false, "coups": 150, "resets": 16, "secondes": 1.0}
+LIGNE {"bras": "generique", "jeu": "y085", "niveau": 1, "victoire": true, "coups": 20, "etats": 10, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y085", "niveau": 2, "victoire": true, "coups": 22, "etats": 14, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y085", "niveau": 3, "victoire": false, "coups": 150, "etats": 24, "erreur": null}
+{"jeu": "y086", "niveau": 1, "victoire": true, "coups": 24, "resets": 0, "secondes": 0.1}
+{"jeu": "y086", "niveau": 2, "victoire": false, "coups": 150, "resets": 15, "secondes": 1.2}
+LIGNE {"bras": "generique", "jeu": "y086", "niveau": 1, "victoire": true, "coups": 24, "etats": 13, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y086", "niveau": 2, "victoire": false, "coups": 150, "etats": 4, "erreur": null}
+{"jeu": "y087", "niveau": 1, "victoire": false, "coups": 150, "resets": 2, "secondes": 0.8}
+LIGNE {"bras": "generique", "jeu": "y087", "niveau": 1, "victoire": false, "coups": 150, "etats": 36, "erreur": null}
+{"jeu": "y088", "niveau": 1, "victoire": true, "coups": 20, "resets": 0, "secondes": 0.1}
+{"jeu": "y088", "niveau": 2, "victoire": true, "coups": 25, "resets": 0, "secondes": 0.1}
+{"jeu": "y088", "niveau": 3, "victoire": false, "coups": 150, "resets": 3, "secondes": 0.8}
+LIGNE {"bras": "generique", "jeu": "y088", "niveau": 1, "victoire": true, "coups": 20, "etats": 13, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y088", "niveau": 2, "victoire": true, "coups": 25, "etats": 17, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y088", "niveau": 3, "victoire": false, "coups": 150, "etats": 39, "erreur": null}
+{"jeu": "y089", "niveau": 1, "victoire": false, "coups": 150, "resets": 3, "secondes": 0.9}
+LIGNE {"bras": "generique", "jeu": "y089", "niveau": 1, "victoire": false, "coups": 150, "etats": 42, "erreur": null}
+{"jeu": "y090", "niveau": 1, "victoire": true, "coups": 32, "resets": 0, "secondes": 0.1}
+{"jeu": "y090", "niveau": 2, "victoire": false, "coups": 150, "resets": 5, "secondes": 0.7}
+LIGNE {"bras": "generique", "jeu": "y090", "niveau": 1, "victoire": true, "coups": 32, "etats": 19, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y090", "niveau": 2, "victoire": false, "coups": 150, "etats": 29, "erreur": null}
+{"jeu": "y091", "niveau": 1, "victoire": true, "coups": 35, "resets": 0, "secondes": 0.1}
+{"jeu": "y091", "niveau": 2, "victoire": true, "coups": 35, "resets": 0, "secondes": 0.1}
+{"jeu": "y091", "niveau": 3, "victoire": false, "coups": 150, "resets": 3, "secondes": 0.8}
+LIGNE {"bras": "generique", "jeu": "y091", "niveau": 1, "victoire": true, "coups": 35, "etats": 19, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y091", "niveau": 2, "victoire": true, "coups": 35, "etats": 22, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y091", "niveau": 3, "victoire": false, "coups": 150, "etats": 15, "erreur": null}
+{"jeu": "y092", "niveau": 1, "victoire": true, "coups": 14, "resets": 0, "secondes": 0.0}
+{"jeu": "y092", "niveau": 2, "victoire": false, "coups": 150, "resets": 7, "secondes": 0.8}
+LIGNE {"bras": "generique", "jeu": "y092", "niveau": 1, "victoire": true, "coups": 14, "etats": 11, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y092", "niveau": 2, "victoire": false, "coups": 150, "etats": 23, "erreur": null}
+{"jeu": "y093", "niveau": 1, "victoire": true, "coups": 21, "resets": 0, "secondes": 0.1}
+{"jeu": "y093", "niveau": 2, "victoire": false, "coups": 150, "resets": 3, "secondes": 0.8}
+LIGNE {"bras": "generique", "jeu": "y093", "niveau": 1, "victoire": true, "coups": 21, "etats": 13, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y093", "niveau": 2, "victoire": false, "coups": 150, "etats": 41, "erreur": null}
+{"jeu": "y094", "niveau": 1, "victoire": true, "coups": 83, "resets": 1, "secondes": 0.5}
+{"jeu": "y094", "niveau": 2, "victoire": false, "coups": 150, "resets": 7, "secondes": 1.2}
+LIGNE {"bras": "generique", "jeu": "y094", "niveau": 1, "victoire": true, "coups": 83, "etats": 33, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y094", "niveau": 2, "victoire": false, "coups": 150, "etats": 48, "erreur": null}
+{"jeu": "y095", "niveau": 1, "victoire": false, "coups": 150, "resets": 7, "secondes": 1.0}
+LIGNE {"bras": "generique", "jeu": "y095", "niveau": 1, "victoire": false, "coups": 150, "etats": 34, "erreur": null}
+{"jeu": "y096", "niveau": 1, "victoire": false, "coups": 150, "resets": 6, "secondes": 0.8}
+LIGNE {"bras": "generique", "jeu": "y096", "niveau": 1, "victoire": false, "coups": 150, "etats": 43, "erreur": null}
+{"jeu": "y097", "niveau": 1, "victoire": true, "coups": 13, "resets": 0, "secondes": 0.0}
+{"jeu": "y097", "niveau": 2, "victoire": false, "coups": 150, "resets": 3, "secondes": 0.8}
+LIGNE {"bras": "generique", "jeu": "y097", "niveau": 1, "victoire": true, "coups": 13, "etats": 8, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y097", "niveau": 2, "victoire": false, "coups": 150, "etats": 21, "erreur": null}
+{"jeu": "y098", "niveau": 1, "victoire": true, "coups": 91, "resets": 2, "secondes": 0.3}
+{"jeu": "y098", "niveau": 2, "victoire": true, "coups": 70, "resets": 1, "secondes": 0.3}
+{"jeu": "y098", "niveau": 3, "victoire": false, "coups": 150, "resets": 15, "secondes": 1.0}
+LIGNE {"bras": "generique", "jeu": "y098", "niveau": 1, "victoire": true, "coups": 91, "etats": 30, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y098", "niveau": 2, "victoire": true, "coups": 70, "etats": 20, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y098", "niveau": 3, "victoire": false, "coups": 150, "etats": 42, "erreur": null}
+{"jeu": "y099", "niveau": 1, "victoire": true, "coups": 18, "resets": 0, "secondes": 0.1}
+{"jeu": "y099", "niveau": 2, "victoire": false, "coups": 150, "resets": 18, "secondes": 1.1}
+LIGNE {"bras": "generique", "jeu": "y099", "niveau": 1, "victoire": true, "coups": 18, "etats": 10, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y099", "niveau": 2, "victoire": false, "coups": 150, "etats": 10, "erreur": null}
+{"jeu": "y100", "niveau": 1, "victoire": false, "coups": 150, "resets": 7, "secondes": 0.8}
+LIGNE {"bras": "generique", "jeu": "y100", "niveau": 1, "victoire": false, "coups": 150, "etats": 35, "erreur": null}
+{"jeu": "y104", "niveau": 1, "victoire": true, "coups": 17, "resets": 0, "secondes": 0.1}
+{"jeu": "y104", "niveau": 2, "victoire": false, "coups": 150, "resets": 3, "secondes": 0.9}
+LIGNE {"bras": "generique", "jeu": "y104", "niveau": 1, "victoire": true, "coups": 17, "etats": 11, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y104", "niveau": 2, "victoire": false, "coups": 150, "etats": 43, "erreur": null}
+{"jeu": "y105", "niveau": 1, "victoire": true, "coups": 140, "resets": 3, "secondes": 0.7}
+{"jeu": "y105", "niveau": 2, "victoire": false, "coups": 150, "resets": 3, "secondes": 0.9}
+LIGNE {"bras": "generique", "jeu": "y105", "niveau": 1, "victoire": true, "coups": 140, "etats": 25, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y105", "niveau": 2, "victoire": false, "coups": 150, "etats": 56, "erreur": null}
+{"jeu": "y106", "niveau": 1, "victoire": true, "coups": 18, "resets": 0, "secondes": 0.2}
+{"jeu": "y106", "niveau": 2, "victoire": false, "coups": 150, "resets": 3, "secondes": 0.9}
+LIGNE {"bras": "generique", "jeu": "y106", "niveau": 1, "victoire": true, "coups": 18, "etats": 9, "erreur": null}
+LIGNE {"bras": "generique", "jeu": "y106", "niveau": 2, "victoire": false, "coups": 150, "etats": 18, "erreur": null}

@@ -1,0 +1,33 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:34:51 | INFO | Created new scorecard: faeb1059-8158-412b-91a5-d7d06f5d5dbe
+2026-10-21 02:34:51 | INFO | Found latest version of sb26: sb26-7fbdac44 (downloaded: 2026-09-30 05:48:12.305196+00:00)
+2026-10-21 02:34:51 | INFO | Successfully loaded game class Sb26 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sb26/7fbdac44/sb26.py
+sb26 1 64 {'SPACE': ((64, 'defaite'), (64, 'defaite')), 'MOUSE@0,0': ((None, 'plafond'), (None, 'plafond')), 'MOUSE@32,32': ((None, 'plafond'), (None, 'plafond')), 'MOUSE@63,63': ((None, 'plafond'), (None, 'plafond'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:34:53 | INFO | Created new scorecard: ae8619d3-5283-46ad-849c-59e51c136b90
+2026-10-21 02:34:53 | INFO | Found latest version of sb26: sb26-7fbdac44 (downloaded: 2026-09-30 05:48:12.305196+00:00)
+sb26 2 64 {'SPACE': ((64, 'defaite'), (64, 'defaite')), 'MOUSE@0,0': ((None, 'plafond'), (None, 'plafond')), 'MOUSE@32,32': ((None, 'plafond'), (64, 'defaite')), 'MOUSE@63,63': ((None, 'plafond'), (None, 'plafond'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:34:54 | INFO | Created new scorecard: bf7e1225-2c7f-4db7-b25a-1e7b0a7af119
+2026-10-21 02:34:54 | INFO | Found latest version of sb26: sb26-7fbdac44 (downloaded: 2026-09-30 05:48:12.305196+00:00)
+sb26 3 64 {'SPACE': ((64, 'defaite'), (64, 'defaite')), 'MOUSE@0,0': ((None, 'plafond'), (None, 'plafond')), 'MOUSE@32,32': ((None, 'plafond'), (None, 'plafond')), 'MOUSE@63,63': ((None, 'plafond'), (None, 'plafond'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:34:56 | INFO | Created new scorecard: 48ba033e-d001-40e1-92f2-0e371096560d
+2026-10-21 02:34:56 | INFO | Found latest version of sb26: sb26-7fbdac44 (downloaded: 2026-09-30 05:48:12.305196+00:00)
+sb26 4 64 {'SPACE': ((64, 'defaite'), (64, 'defaite')), 'MOUSE@0,0': ((None, 'plafond'), (None, 'plafond')), 'MOUSE@32,32': ((None, 'plafond'), (64, 'defaite')), 'MOUSE@63,63': ((None, 'plafond'), (None, 'plafond'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:34:58 | INFO | Created new scorecard: ab133cea-629b-4d24-95f1-3a13e79f287c
+2026-10-21 02:34:58 | INFO | Found latest version of sb26: sb26-7fbdac44 (downloaded: 2026-09-30 05:48:12.305196+00:00)
+sb26 5 64 {'SPACE': ((64, 'defaite'), (64, 'defaite')), 'MOUSE@0,0': ((None, 'plafond'), (64, 'defaite')), 'MOUSE@32,32': ((None, 'plafond'), (64, 'defaite')), 'MOUSE@63,63': ((None, 'plafond'), (None, 'plafond'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:35:00 | INFO | Created new scorecard: df37f0c8-b4af-4641-b9a3-6633c7a25d38
+2026-10-21 02:35:00 | INFO | Found latest version of sb26: sb26-7fbdac44 (downloaded: 2026-09-30 05:48:12.305196+00:00)
+sb26 6 64 {'SPACE': ((64, 'defaite'), (64, 'defaite')), 'MOUSE@0,0': ((None, 'plafond'), (64, 'defaite')), 'MOUSE@32,32': ((None, 'plafond'), (None, 'plafond')), 'MOUSE@63,63': ((None, 'plafond'), (None, 'plafond'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:35:02 | INFO | Created new scorecard: 120e8e1f-84f1-4b7b-be90-1ae545c42009
+2026-10-21 02:35:02 | INFO | Found latest version of sb26: sb26-7fbdac44 (downloaded: 2026-09-30 05:48:12.305196+00:00)
+sb26 7 64 {'SPACE': ((64, 'defaite'), (64, 'defaite')), 'MOUSE@0,0': ((None, 'plafond'), (None, 'plafond')), 'MOUSE@32,32': ((None, 'plafond'), (None, 'plafond')), 'MOUSE@63,63': ((None, 'plafond'), (None, 'plafond'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:35:04 | INFO | Created new scorecard: 364b1786-fb43-48c1-a7ec-e367457668aa
+2026-10-21 02:35:04 | INFO | Found latest version of sb26: sb26-7fbdac44 (downloaded: 2026-09-30 05:48:12.305196+00:00)
+sb26 8 64 {'SPACE': ((64, 'defaite'), (64, 'defaite')), 'MOUSE@0,0': ((None, 'plafond'), (None, 'plafond')), 'MOUSE@32,32': ((None, 'plafond'), (None, 'plafond')), 'MOUSE@63,63': ((None, 'plafond'), (None, 'plafond'))}

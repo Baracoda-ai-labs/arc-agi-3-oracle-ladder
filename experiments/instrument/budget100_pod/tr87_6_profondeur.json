@@ -1,0 +1,19 @@
+{
+ "jeu": "tr87",
+ "niveau": 6,
+ "bras": "profondeur",
+ "budget_s": 30000.0,
+ "memoire_go": 8.0,
+ "backend": "1",
+ "prefixe": "prefixes_r0.json",
+ "gagne": null,
+ "plan": null,
+ "noeuds": 31166556,
+ "etats": null,
+ "raison": "budget",
+ "profondeur": null,
+ "table": null,
+ "t_victoire": null,
+ "duree_s": 30001.7,
+ "memoire_max_go": 2.44
+}

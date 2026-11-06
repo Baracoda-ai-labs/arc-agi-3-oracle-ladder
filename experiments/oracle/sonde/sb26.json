@@ -1,0 +1,58 @@
+{
+ "sb26:1": {
+  "jeu": "sb26",
+  "niveau": 1,
+  "actions": 25,
+  "humain": 18,
+  "derniere_couche_incomplete": true,
+  "etats_par_profondeur": [
+   11,
+   64,
+   347,
+   1399,
+   7522,
+   31739,
+   93625
+  ],
+  "profondeur_atteinte": 7,
+  "gagne_en_largeur_a": null,
+  "etats": 134708,
+  "branchement_effectif": 4.18,
+  "chemin": {
+   "longueur": 11,
+   "resets_avant": false,
+   "fin_programme": "niveau",
+   "h_depart": 2,
+   "h_min": 2,
+   "h_baisse": 0,
+   "h_plat": 10,
+   "h_monte": 0
+  }
+ },
+ "r11l:2": {
+  "jeu": "r11l",
+  "niveau": 2,
+  "actions": 67,
+  "humain": 33,
+  "derniere_couche_incomplete": true,
+  "etats_par_profondeur": [
+   67,
+   2203,
+   2203
+  ],
+  "profondeur_atteinte": 3,
+  "gagne_en_largeur_a": null,
+  "etats": 4474,
+  "branchement_effectif": 16.94,
+  "chemin": {
+   "longueur": 14,
+   "resets_avant": false,
+   "fin_programme": "niveau",
+   "h_depart": 2,
+   "h_min": 1,
+   "h_baisse": 2,
+   "h_plat": 10,
+   "h_monte": 1
+  }
+ }
+}

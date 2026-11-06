@@ -1,0 +1,24 @@
+{"jeu": "ar25", "niveau": 1, "objets": 4, "pilote": 0, "selectionnables": [], "rang_temoin": {}, "temoin_top3": [3, 1, 2]}
+{"jeu": "ar25", "niveau": 2, "objets": 4, "pilote": 2, "selectionnables": [1], "rang_temoin": {"1": 1}, "temoin_top3": [1, 0, 3]}
+{"jeu": "ar25", "niveau": 3, "objets": 8, "pilote": 2, "selectionnables": [0, 1], "rang_temoin": {"0": 6, "1": 3}, "temoin_top3": [3, 5, 1]}
+{"jeu": "ar25", "niveau": 4, "objets": 8, "pilote": 4, "selectionnables": [2, 3], "rang_temoin": {"2": 2, "3": 5}, "temoin_top3": [5, 2, 0]}
+{"jeu": "ar25", "niveau": 5, "objets": 7, "pilote": 3, "selectionnables": [0, 1], "rang_temoin": {"0": 3, "1": 2}, "temoin_top3": [2, 1, 0]}
+{"jeu": "cd82", "niveau": 1, "objets": 9, "pilote": 7, "selectionnables": [3], "rang_temoin": {"3": 6}, "temoin_top3": [6, 0, 8]}
+{"jeu": "cd82", "niveau": 2, "objets": 11, "pilote": 9, "selectionnables": [3], "rang_temoin": {"3": 5}, "temoin_top3": [8, 10, 1]}
+{"jeu": "cd82", "niveau": 3, "objets": 20, "pilote": 17, "selectionnables": [2, 3, 19], "rang_temoin": {"2": 6, "3": 11, "19": 2}, "temoin_top3": [15, 19, 18]}
+{"jeu": "cd82", "niveau": 4, "objets": 19, "pilote": 16, "selectionnables": [2, 3, 18], "rang_temoin": {"2": 5, "3": 10, "18": 2}, "temoin_top3": [15, 18, 17]}
+{"jeu": "cd82", "niveau": 5, "objets": 20, "pilote": 17, "selectionnables": [2, 3, 19], "rang_temoin": {"2": 4, "3": 9, "19": 1}, "temoin_top3": [19, 18, 1]}
+{"jeu": "dc22", "niveau": 1, "objets": 27, "pilote": 16, "selectionnables": [26], "rang_temoin": {"26": 12}, "temoin_top3": [17, 15, 20]}
+{"jeu": "dc22", "niveau": 2, "objets": 33, "pilote": 32, "selectionnables": [12, 28], "rang_temoin": {"12": 16, "28": 18}, "temoin_top3": [30, 5, 6]}
+{"jeu": "dc22", "niveau": 3, "objets": 33, "pilote": 16, "selectionnables": [31], "rang_temoin": {"31": 10}, "temoin_top3": [17, 15, 13]}
+{"jeu": "dc22", "niveau": 4, "objets": 32, "pilote": 14, "selectionnables": [31], "rang_temoin": {"31": 16}, "temoin_top3": [15, 17, 19]}
+{"jeu": "ka59", "niveau": 1, "objets": 8, "pilote": 0, "selectionnables": [5, 6], "rang_temoin": {"5": 6, "6": 7}, "temoin_top3": [2, 1, 7]}
+{"jeu": "ka59", "niveau": 2, "objets": 12, "pilote": 8, "selectionnables": [6, 7, 9, 10], "rang_temoin": {"6": 1, "7": 2, "9": 3, "10": 4}, "temoin_top3": [6, 7, 9]}
+{"jeu": "ka59", "niveau": 3, "objets": 11, "pilote": 10, "selectionnables": [], "rang_temoin": {}, "temoin_top3": [3, 7, 1]}
+{"jeu": "lf52", "niveau": 1, "objets": 58, "pilote": 0, "selectionnables": [], "rang_temoin": {}, "temoin_top3": [1, 51, 50]}
+{"jeu": "lf52", "niveau": 2, "objets": 56, "pilote": 43, "selectionnables": [0, 7, 8, 10, 11, 13, 14, 16, 17, 45, 46, 49, 50], "rang_temoin": {"0": 1, "7": 36, "8": 38, "10": 37, "11": 40, "13": 39, "14": 42, "16": 41, "17": 43, "45": 34, "46": 33, "49": 4, "50": 24}, "temoin_top3": [0, 1, 2]}
+{"jeu": "m0r0", "niveau": 5, "objets": 23, "pilote": 13, "selectionnables": [14], "rang_temoin": {"14": 1}, "temoin_top3": [14, 20, 4]}
+{"jeu": "sc25", "niveau": 1, "objets": 22, "pilote": null, "selectionnables": [5, 14, 16], "rang_temoin": null, "temoin_top3": []}
+{"jeu": "sc25", "niveau": 2, "objets": 23, "pilote": 6, "selectionnables": [], "rang_temoin": {}, "temoin_top3": [3, 4, 9]}
+{"jeu": "sc25", "niveau": 3, "objets": 25, "pilote": 7, "selectionnables": [], "rang_temoin": {}, "temoin_top3": [3, 8, 5]}
+{"jeu": "sc25", "niveau": 4, "objets": 31, "pilote": 3, "selectionnables": [], "rang_temoin": {}, "temoin_top3": [2, 0, 4]}

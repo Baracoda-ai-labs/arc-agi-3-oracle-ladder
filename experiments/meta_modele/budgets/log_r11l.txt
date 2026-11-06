@@ -1,0 +1,25 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:28:15 | INFO | Created new scorecard: 3222c3a3-abc4-43e4-841e-39113f53d3db
+2026-10-21 02:28:15 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+2026-10-21 02:28:15 | INFO | Successfully loaded game class R11l from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/r11l/495a7899/r11l.py
+r11l 1 60 {'MOUSE@0,0': ((60, 'defaite'), (60, 'defaite')), 'MOUSE@32,32': ((60, 'defaite'), (60, 'defaite')), 'MOUSE@63,63': ((60, 'defaite'), (60, 'defaite'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:28:15 | INFO | Created new scorecard: cb7d702f-5eb1-484e-9b30-fde5339ead05
+2026-10-21 02:28:15 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+r11l 2 60 {'MOUSE@0,0': ((60, 'defaite'), (60, 'defaite')), 'MOUSE@32,32': ((5, 'defaite'), (60, 'defaite')), 'MOUSE@63,63': ((60, 'defaite'), (60, 'defaite'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:28:37 | INFO | Created new scorecard: ffa0192f-4c13-4525-9f8c-8225c588db2f
+2026-10-21 02:28:37 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+r11l 3 60 {'MOUSE@0,0': ((60, 'defaite'), (60, 'defaite')), 'MOUSE@32,32': ((60, 'defaite'), (60, 'defaite')), 'MOUSE@63,63': ((5, 'defaite'), (60, 'defaite'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:28:58 | INFO | Created new scorecard: 9cfdb5aa-1718-47fc-9166-45bf210747b2
+2026-10-21 02:28:58 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+r11l 4 60 {'MOUSE@0,0': ((60, 'defaite'), (60, 'defaite')), 'MOUSE@32,32': ((60, 'defaite'), (60, 'defaite')), 'MOUSE@63,63': ((60, 'defaite'), (60, 'defaite'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:29:01 | INFO | Created new scorecard: 88be17a6-6043-44ca-b69c-af95336d0a98
+2026-10-21 02:29:01 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+r11l 5 60 {'MOUSE@0,0': ((60, 'defaite'), (60, 'defaite')), 'MOUSE@32,32': ((60, 'defaite'), (60, 'defaite')), 'MOUSE@63,63': ((60, 'defaite'), (60, 'defaite'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:29:01 | INFO | Created new scorecard: efbcaaaf-2d96-49ee-a2b9-c8871ff7edd5
+2026-10-21 02:29:01 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+r11l 6 60 {'MOUSE@0,0': ((60, 'defaite'), (60, 'defaite')), 'MOUSE@32,32': ((60, 'defaite'), (60, 'defaite')), 'MOUSE@63,63': ((60, 'defaite'), (60, 'defaite'))}

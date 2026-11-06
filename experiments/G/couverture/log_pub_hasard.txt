@@ -1,0 +1,42 @@
+{"jeu": "ar25", "niveau": 1, "victoire": false, "coups": 150, "resets": 0, "secondes": 1.4}
+LIGNE {"bras": "hasard", "jeu": "ar25", "niveau": 1, "victoire": false, "coups": 150, "etats": 16, "erreur": null}
+{"jeu": "bp35", "niveau": 1, "victoire": false, "coups": 150, "resets": 2, "secondes": 2.8}
+LIGNE {"bras": "hasard", "jeu": "bp35", "niveau": 1, "victoire": false, "coups": 150, "etats": 30, "erreur": null}
+{"jeu": "cd82", "niveau": 1, "victoire": false, "coups": 150, "resets": 1, "secondes": 1.5}
+LIGNE {"bras": "hasard", "jeu": "cd82", "niveau": 1, "victoire": false, "coups": 150, "etats": 12, "erreur": null}
+{"jeu": "dc22", "niveau": 1, "victoire": false, "coups": 150, "resets": 1, "secondes": 2.0}
+LIGNE {"bras": "hasard", "jeu": "dc22", "niveau": 1, "victoire": false, "coups": 150, "etats": 12, "erreur": null}
+{"jeu": "ft09", "niveau": 1, "victoire": false, "coups": 150, "resets": 0, "secondes": 2.8}
+LIGNE {"bras": "hasard", "jeu": "ft09", "niveau": 1, "victoire": false, "coups": 150, "etats": 9, "erreur": null}
+{"jeu": "g50t", "niveau": 1, "victoire": false, "coups": 150, "resets": 1, "secondes": 2.5}
+LIGNE {"bras": "hasard", "jeu": "g50t", "niveau": 1, "victoire": false, "coups": 150, "etats": 20, "erreur": null}
+{"jeu": "ka59", "niveau": 1, "victoire": false, "coups": 150, "resets": 1, "secondes": 1.5}
+LIGNE {"bras": "hasard", "jeu": "ka59", "niveau": 1, "victoire": false, "coups": 150, "etats": 20, "erreur": null}
+{"jeu": "lf52", "niveau": 1, "victoire": false, "coups": 150, "resets": 2, "secondes": 4.3}
+LIGNE {"bras": "hasard", "jeu": "lf52", "niveau": 1, "victoire": false, "coups": 150, "etats": 7, "erreur": null}
+{"jeu": "lp85", "niveau": 1, "victoire": false, "coups": 150, "resets": 1, "secondes": 1.5}
+LIGNE {"bras": "hasard", "jeu": "lp85", "niveau": 1, "victoire": false, "coups": 150, "etats": 4, "erreur": null}
+{"jeu": "ls20", "niveau": 1, "victoire": false, "coups": 150, "resets": 1, "secondes": 2.1}
+LIGNE {"bras": "hasard", "jeu": "ls20", "niveau": 1, "victoire": false, "coups": 150, "etats": 138, "erreur": null}
+{"jeu": "m0r0", "niveau": 1, "victoire": false, "coups": 150, "resets": 0, "secondes": 1.9}
+LIGNE {"bras": "hasard", "jeu": "m0r0", "niveau": 1, "victoire": false, "coups": 150, "etats": 13, "erreur": null}
+{"jeu": "r11l", "niveau": 1, "victoire": true, "coups": 32, "resets": 0, "secondes": 0.2}
+{"jeu": "r11l", "niveau": 2, "victoire": false, "coups": 150, "resets": 5, "secondes": 3.6}
+LIGNE {"bras": "hasard", "jeu": "r11l", "niveau": 1, "victoire": true, "coups": 32, "etats": 25, "erreur": null}
+LIGNE {"bras": "hasard", "jeu": "r11l", "niveau": 2, "victoire": false, "coups": 150, "etats": 106, "erreur": null}
+{"jeu": "re86", "niveau": 1, "victoire": false, "coups": 150, "resets": 1, "secondes": 1.4}
+LIGNE {"bras": "hasard", "jeu": "re86", "niveau": 1, "victoire": false, "coups": 150, "etats": 112, "erreur": null}
+{"jeu": "sb26", "niveau": 1, "victoire": false, "coups": 150, "resets": 0, "secondes": 1.8}
+LIGNE {"bras": "hasard", "jeu": "sb26", "niveau": 1, "victoire": false, "coups": 150, "etats": 28, "erreur": null}
+{"jeu": "sc25", "niveau": 1, "victoire": false, "coups": 150, "resets": 1, "secondes": 2.7}
+LIGNE {"bras": "hasard", "jeu": "sc25", "niveau": 1, "victoire": false, "coups": 150, "etats": 73, "erreur": null}
+{"jeu": "sk48", "niveau": 1, "victoire": false, "coups": 150, "resets": 0, "secondes": 1.4}
+LIGNE {"bras": "hasard", "jeu": "sk48", "niveau": 1, "victoire": false, "coups": 150, "etats": 9, "erreur": null}
+{"jeu": "sp80", "niveau": 1, "victoire": false, "coups": 150, "resets": 4, "secondes": 2.0}
+LIGNE {"bras": "hasard", "jeu": "sp80", "niveau": 1, "victoire": false, "coups": 150, "etats": 18, "erreur": null}
+{"jeu": "su15", "niveau": 1, "victoire": false, "coups": 150, "resets": 3, "secondes": 1.9}
+LIGNE {"bras": "hasard", "jeu": "su15", "niveau": 1, "victoire": false, "coups": 150, "etats": 7, "erreur": null}
+{"jeu": "tn36", "niveau": 1, "victoire": false, "coups": 150, "resets": 2, "secondes": 1.9}
+LIGNE {"bras": "hasard", "jeu": "tn36", "niveau": 1, "victoire": false, "coups": 150, "etats": 71, "erreur": null}
+{"jeu": "tr87", "niveau": 1, "victoire": false, "coups": 150, "resets": 1, "secondes": 2.2}
+LIGNE {"bras": "hasard", "jeu": "tr87", "niveau": 1, "victoire": false, "coups": 150, "etats": 95, "erreur": null}

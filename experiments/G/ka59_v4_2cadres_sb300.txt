@@ -1,0 +1,7 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 20:36:44 | INFO | Created new scorecard: 5c8bf5aa-c82a-463e-89f9-57ef30c94832
+2026-10-21 20:36:44 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+2026-10-21 20:36:44 | INFO | Successfully loaded game class Ka59 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ka59/38d34dbb/ka59.py
+{"cas": "ka59_n4_creux", "but": "('emboite', ((78, 108), (102, 60)), (14, 8206))", "non_exportes": [], "niveaux_avant": 3, "clics_candidats": 15}
+{"recherche": "sous-buts", "coups": ["RIGHT", "RIGHT", "RIGHT", "DOWN", "CLICK(47, 30)", "DOWN", "DOWN", "RIGHT", "RIGHT", "RIGHT", "CLICK(29, 30)", "RIGHT", "RIGHT", "RIGHT", "RIGHT", "RIGHT", "RIGHT", "RIGHT"], "plan": 18, "journal": [{"ordre": [[78, 108], [102, 60]], "faites": 2, "coups": 18, "cpu": 219.0}]}
+{"rejeu_reel": {"coups": 18, "sur": 18, "etat": "NOT_FINISHED", "franchi": false}}

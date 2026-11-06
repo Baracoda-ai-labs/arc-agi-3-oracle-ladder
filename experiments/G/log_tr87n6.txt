@@ -1,0 +1,8 @@
+[début] G tr87 N6 15:38:57
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:38:59 | INFO | Created new scorecard: d6f987f1-1d17-430c-92b5-612dd17847bb
+2026-10-20 15:38:59 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+2026-10-20 15:38:59 | INFO | Successfully loaded game class Tr87 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/tr87/cd924810/tr87.py
+[fin] G tr87 N6 cpu 317.6 mural 782.1
+{"bras": "G", "jeu": "tr87", "niveau": 6, "gagne": null, "noeuds": 212096, "etats": 167656, "cpu": 317.6, "raison": "budget épuisé"}
+

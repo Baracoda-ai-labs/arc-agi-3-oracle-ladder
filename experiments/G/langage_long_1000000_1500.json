@@ -1,0 +1,112 @@
+[
+ {
+  "jeu": "ka59",
+  "niveau": 4,
+  "recherche": "langage_but",
+  "actions": 19,
+  "noeuds": 1000008,
+  "secondes": 109.0,
+  "plan": null,
+  "raison": "budget",
+  "cpu": 109.4
+ },
+ {
+  "jeu": "lf52",
+  "niveau": 3,
+  "recherche": "langage_but",
+  "actions": 81,
+  "noeuds": 131787,
+  "secondes": 93.7,
+  "plan": null,
+  "raison": "espace \u00e9puis\u00e9",
+  "cpu": 93.7
+ },
+ {
+  "jeu": "g50t",
+  "niveau": 1,
+  "recherche": "langage_but",
+  "actions": 5,
+  "noeuds": 1000000,
+  "secondes": 318.5,
+  "plan": null,
+  "raison": "budget",
+  "cpu": 318.9
+ },
+ {
+  "jeu": "m0r0",
+  "niveau": 6,
+  "recherche": "langage_but",
+  "actions": 511,
+  "noeuds": 1000027,
+  "secondes": 426.9,
+  "plan": null,
+  "raison": "budget",
+  "cpu": 426.9
+ },
+ {
+  "jeu": "sk48",
+  "niveau": 2,
+  "recherche": "langage_but",
+  "actions": 59,
+  "noeuds": 1000050,
+  "secondes": 289.1,
+  "plan": null,
+  "raison": "budget",
+  "cpu": 289.1
+ },
+ {
+  "jeu": "sc25",
+  "niveau": 5,
+  "recherche": "langage_but",
+  "actions": 67,
+  "noeuds": 1000042,
+  "secondes": 678.0,
+  "plan": null,
+  "raison": "budget",
+  "cpu": 678.0
+ },
+ {
+  "jeu": "sp80",
+  "niveau": 4,
+  "recherche": "langage_but",
+  "actions": 20,
+  "noeuds": 1000000,
+  "secondes": 222.6,
+  "plan": null,
+  "raison": "budget",
+  "cpu": 222.6
+ },
+ {
+  "jeu": "bp35",
+  "niveau": 2,
+  "recherche": "langage_but",
+  "actions": 226,
+  "noeuds": 802300,
+  "secondes": 1501.0,
+  "plan": null,
+  "raison": "budget",
+  "cpu": 1501.4
+ },
+ {
+  "jeu": "su15",
+  "niveau": 4,
+  "recherche": "langage_but",
+  "actions": 23,
+  "noeuds": 1000017,
+  "secondes": 881.0,
+  "plan": null,
+  "raison": "budget",
+  "cpu": 881.0
+ },
+ {
+  "jeu": "tr87",
+  "niveau": 6,
+  "recherche": "langage_but",
+  "actions": 4,
+  "noeuds": 1000000,
+  "secondes": 1076.4,
+  "plan": null,
+  "raison": "budget",
+  "cpu": 1076.4
+ }
+]

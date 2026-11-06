@@ -1,0 +1,16 @@
+[
+ {
+  "jeu": "p000",
+  "titre": "Block Faker",
+  "coups": 147,
+  "exacts": 147,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "erreurs": 0,
+  "details": [],
+  "s_total": 10.3,
+  "s_p95": 0.19,
+  "s_jeu": 11.4
+ }
+]

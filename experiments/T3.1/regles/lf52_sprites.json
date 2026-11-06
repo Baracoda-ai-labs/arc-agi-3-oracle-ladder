@@ -1,0 +1,3699 @@
+{
+ "jeu": "lf52",
+ "note": "Le niveau arcengine de lf52 est factice (sprite 1×1 sur 8×8) : le vrai plateau vit dans une scène interne dessinée par le HUD, hors banc. Les règles tiennent ce plateau en objets du langage CACHÉS (visible = faux, coordonnées vraies du jeu, libres pour le banc) ; caméra, compteur, sélection et pile d'annulation en état nommé. Niveau lu par `niveau` ; plateau construit par `au_debut` à partir des plans (données). Les déclencheurs d'impasse et de caméra à l'arrivée d'un saut, et les décalages de caméra des flèches par niveau, sont écrits en dur DANS la source du jeu (chaîne if/elif par niveau) : recopiés fidèlement, ce ne sont pas des contournements.",
+ "etat": {
+  "n": 1,
+  "sel": null,
+  "marq": [],
+  "pile": [],
+  "gagne": false,
+  "ox": 5,
+  "oy": 5,
+  "coups": 0,
+  "impasse": false,
+  "bleus0": 0
+ },
+ "mots": {
+  "plan": {
+   "params": [
+    "$n"
+   ],
+   "sorte": "terme",
+   "corps": [
+    "table",
+    {
+     "1": [
+      "",
+      ".......",
+      ".xx.x..",
+      ".....x.",
+      "    ...",
+      "    .x.",
+      "    ...",
+      "    ..."
+     ],
+     "2": [
+      "....... ",
+      ".xx.x.x->",
+      "....... |",
+      "        |",
+      " <--,---3",
+      " |      ",
+      " |    ..",
+      " L----x."
+     ],
+     "3": [
+      ".. ..     ..",
+      ".x .x-,--x..",
+      ".x.x      .xx.",
+      "..x.      ..",
+      "          .xx.",
+      "      <-> ..",
+      "      | | x..",
+      ".x.x-,3 L-.x",
+      "...       .."
+     ],
+     "4": [
+      "",
+      "",
+      ".......",
+      ".xp.p.x-,---x...x.",
+      ".......     .p..p.",
+      "            ......",
+      "            .p..p.",
+      "        <---,..p..",
+      "        |",
+      "    .x. | ",
+      "   .p p.p..",
+      "   .----,-.",
+      "   .p p....",
+      "    .x."
+     ],
+     "5": [
+      " -,-T-P-      ..p..x",
+      "    |        <---T-P>",
+      " ...|  <--> .|...|. |",
+      " xp.|.x|  Lx.|.p.|..|",
+      " ...|  |    .|..p|x.|",
+      "    |  |     L---t--3",
+      "  <-t--3       .",
+      "  |            p",
+      "  |           ..x"
+     ],
+     "6": [
+      "",
+      " ....         ....   ",
+      " .r..         .x.........>. ",
+      " .x..         p..p     p |x",
+      " ....         |  |    .?.|.",
+      " ......       |  |    x| |",
+      " ......,,-----t--3  ...L-3",
+      " x.....             x",
+      "   x                ."
+     ],
+     "7": [
+      "                 <--->",
+      "x     r    <-->  |   |",
+      "p     p    |  ; <tTPTt>",
+      "L--T--3  <-t-p. | D D |",
+      "   |     |    .   | | ;",
+      " <-t-,> <t->  .p.p. | .",
+      " |    | |  |  .p.p.   x",
+      " p    p L->p           ",
+      " .p.p.....3."
+     ],
+     "8": [
+      "       ",
+      "",
+      " ........",
+      " xp...p..",
+      " ......p.",
+      "<-p...p..",
+      "|...b....",
+      "|...b...x",
+      "|       |",
+      "L-,>   <3",
+      "   |   ;",
+      " ......bb",
+      " L--P,P-3"
+     ],
+     "9": [
+      "       ",
+      "           x..p.p......",
+      "  ..b..    .........bb.",
+      "  ...b.    .p.....p.p..",
+      "  .....              ..",
+      "  ....,--------------..",
+      "  xb..   ",
+      "  .b..x  "
+     ],
+     "10": [
+      "   .x. ",
+      "<-T-T-T->",
+      "| ; ; ; |",
+      "| L-t-3 |",
+      "|       |",
+      "| ...bb |",
+      "L--b... |",
+      "  ..b.. |",
+      "  b.... |",
+      "  ....x 7",
+      "        7",
+      "        7",
+      "        7",
+      "        7"
+     ]
+    },
+    "$n",
+    [
+     "liste"
+    ]
+   ]
+  },
+  "legende": {
+   "params": [
+    "$c"
+   ],
+   "sorte": "terme",
+   "corps": [
+    "table",
+    {
+     "x": [
+      {
+       "nom": "fozwvlovdui",
+       "tags": [
+        "lf",
+        "pion"
+       ],
+       "pixels": [
+        [
+         1
+        ]
+       ],
+       "couche": 3,
+       "visible": false
+      },
+      {
+       "nom": "hupkpseyuim",
+       "tags": [
+        "lf",
+        "case"
+       ],
+       "pixels": [
+        [
+         1
+        ]
+       ],
+       "couche": 1,
+       "visible": false
+      }
+     ],
+     "r": [
+      {
+       "nom": "fozwvlovdui_red",
+       "tags": [
+        "lf",
+        "pion"
+       ],
+       "pixels": [
+        [
+         1
+        ]
+       ],
+       "couche": 3,
+       "visible": false
+      },
+      {
+       "nom": "hupkpseyuim",
+       "tags": [
+        "lf",
+        "case"
+       ],
+       "pixels": [
+        [
+         1
+        ]
+       ],
+       "couche": 1,
+       "visible": false
+      }
+     ],
+     "b": [
+      {
+       "nom": "fozwvlovdui_blue",
+       "tags": [
+        "lf",
+        "pion"
+       ],
+       "pixels": [
+        [
+         1
+        ]
+       ],
+       "couche": 3,
+       "visible": false
+      },
+      {
+       "nom": "hupkpseyuim",
+       "tags": [
+        "lf",
+        "case"
+       ],
+       "pixels": [
+        [
+         1
+        ]
+       ],
+       "couche": 1,
+       "visible": false
+      }
+     ],
+     "o": [
+      {
+       "nom": "jmbixtieild",
+       "tags": [
+        "lf",
+        "autre"
+       ],
+       "pixels": [
+        [
+         1
+        ]
+       ],
+       "couche": 3,
+       "visible": false
+      },
+      {
+       "nom": "hupkpseyuim",
+       "tags": [
+        "lf",
+        "case"
+       ],
+       "pixels": [
+        [
+         1
+        ]
+       ],
+       "couche": 1,
+       "visible": false
+      }
+     ],
+     ".": [
+      {
+       "nom": "hupkpseyuim",
+       "tags": [
+        "lf",
+        "case"
+       ],
+       "pixels": [
+        [
+         1
+        ]
+       ],
+       "couche": 1,
+       "visible": false
+      }
+     ],
+     ",": [
+      {
+       "nom": "hupkpseyuim2",
+       "tags": [
+        "lf",
+        "plat"
+       ],
+       "pixels": [
+        [
+         1
+        ]
+       ],
+       "couche": 2,
+       "visible": false
+      },
+      {
+       "nom": "kraubslpehi",
+       "tags": [
+        "lf",
+        "rail"
+       ],
+       "pixels": [
+        [
+         1
+        ]
+       ],
+       "couche": 0,
+       "visible": false
+      }
+     ],
+     "p": [
+      {
+       "nom": "dgxfozncuiz",
+       "tags": [
+        "lf",
+        "bloc"
+       ],
+       "pixels": [
+        [
+         1
+        ]
+       ],
+       "couche": 3,
+       "visible": false
+      },
+      {
+       "nom": "hupkpseyuim",
+       "tags": [
+        "lf",
+        "case"
+       ],
+       "pixels": [
+        [
+         1
+        ]
+       ],
+       "couche": 1,
+       "visible": false
+      }
+     ],
+     "P": [
+      {
+       "nom": "dgxfozncuiz",
+       "tags": [
+        "lf",
+        "bloc"
+       ],
+       "pixels": [
+        [
+         1
+        ]
+       ],
+       "couche": 3,
+       "visible": false
+      },
+      {
+       "nom": "hupkpseyuim2",
+       "tags": [
+        "lf",
+        "plat"
+       ],
+       "pixels": [
+        [
+         1
+        ]
+       ],
+       "couche": 2,
+       "visible": false
+      },
+      {
+       "nom": "kraubslpehi",
+       "tags": [
+        "lf",
+        "rail"
+       ],
+       "pixels": [
+        [
+         1
+        ]
+       ],
+       "couche": 0,
+       "visible": false
+      }
+     ],
+     "D": [
+      {
+       "nom": "dgxfozncuiz",
+       "tags": [
+        "lf",
+        "bloc"
+       ],
+       "pixels": [
+        [
+         1
+        ]
+       ],
+       "couche": 3,
+       "visible": false
+      },
+      {
+       "nom": "hupkpseyuim2",
+       "tags": [
+        "lf",
+        "plat"
+       ],
+       "pixels": [
+        [
+         1
+        ]
+       ],
+       "couche": 2,
+       "visible": false
+      },
+      {
+       "nom": "kraubslpehi-up",
+       "tags": [
+        "lf",
+        "rail"
+       ],
+       "pixels": [
+        [
+         1
+        ]
+       ],
+       "couche": 0,
+       "visible": false
+      }
+     ],
+     ";": [
+      {
+       "nom": "hupkpseyuim2",
+       "tags": [
+        "lf",
+        "plat"
+       ],
+       "pixels": [
+        [
+         1
+        ]
+       ],
+       "couche": 2,
+       "visible": false
+      },
+      {
+       "nom": "kraubslpehi-up",
+       "tags": [
+        "lf",
+        "rail"
+       ],
+       "pixels": [
+        [
+         1
+        ]
+       ],
+       "couche": 0,
+       "visible": false
+      }
+     ],
+     "?": [
+      {
+       "nom": "hupkpseyuim2",
+       "tags": [
+        "lf",
+        "plat"
+       ],
+       "pixels": [
+        [
+         1
+        ]
+       ],
+       "couche": 2,
+       "visible": false
+      },
+      {
+       "nom": "kraubslpehi-up",
+       "tags": [
+        "lf",
+        "rail"
+       ],
+       "pixels": [
+        [
+         1
+        ]
+       ],
+       "couche": 0,
+       "visible": false
+      }
+     ],
+     "7": [
+      {
+       "nom": "fozwvlovdui_blue",
+       "tags": [
+        "lf",
+        "pion"
+       ],
+       "pixels": [
+        [
+         1
+        ]
+       ],
+       "couche": 3,
+       "visible": false
+      },
+      {
+       "nom": "hupkpseyuim2",
+       "tags": [
+        "lf",
+        "plat"
+       ],
+       "pixels": [
+        [
+         1
+        ]
+       ],
+       "couche": 2,
+       "visible": false
+      },
+      {
+       "nom": "kraubslpehi-up",
+       "tags": [
+        "lf",
+        "rail"
+       ],
+       "pixels": [
+        [
+         1
+        ]
+       ],
+       "couche": 0,
+       "visible": false
+      }
+     ],
+     "-": [
+      {
+       "nom": "kraubslpehi",
+       "tags": [
+        "lf",
+        "rail"
+       ],
+       "pixels": [
+        [
+         1
+        ]
+       ],
+       "couche": 0,
+       "visible": false
+      }
+     ],
+     "|": [
+      {
+       "nom": "kraubslpehi-up",
+       "tags": [
+        "lf",
+        "rail"
+       ],
+       "pixels": [
+        [
+         1
+        ]
+       ],
+       "couche": 0,
+       "visible": false
+      }
+     ],
+     "L": [
+      {
+       "nom": "kraubslpehi-L",
+       "tags": [
+        "lf",
+        "rail"
+       ],
+       "pixels": [
+        [
+         1
+        ]
+       ],
+       "couche": 0,
+       "visible": false
+      }
+     ],
+     "3": [
+      {
+       "nom": "kraubslpehi-3",
+       "tags": [
+        "lf",
+        "rail"
+       ],
+       "pixels": [
+        [
+         1
+        ]
+       ],
+       "couche": 0,
+       "visible": false
+      }
+     ],
+     "<": [
+      {
+       "nom": "kraubslpehi-<",
+       "tags": [
+        "lf",
+        "rail"
+       ],
+       "pixels": [
+        [
+         1
+        ]
+       ],
+       "couche": 0,
+       "visible": false
+      }
+     ],
+     ">": [
+      {
+       "nom": "kraubslpehi->",
+       "tags": [
+        "lf",
+        "rail"
+       ],
+       "pixels": [
+        [
+         1
+        ]
+       ],
+       "couche": 0,
+       "visible": false
+      }
+     ],
+     "T": [
+      {
+       "nom": "kraubslpehi-T",
+       "tags": [
+        "lf",
+        "rail"
+       ],
+       "pixels": [
+        [
+         1
+        ]
+       ],
+       "couche": 0,
+       "visible": false
+      }
+     ],
+     "t": [
+      {
+       "nom": "kraubslpehi-t",
+       "tags": [
+        "lf",
+        "rail"
+       ],
+       "pixels": [
+        [
+         1
+        ]
+       ],
+       "couche": 0,
+       "visible": false
+      }
+     ]
+    },
+    "$c",
+    [
+     "liste"
+    ]
+   ]
+  },
+  "ici": {
+   "params": [
+    "$x",
+    "$y"
+   ],
+   "sorte": "terme",
+   "corps": [
+    "filtrer",
+    "$o",
+    [
+     "objets",
+     {
+      "tag": "lf"
+     }
+    ],
+    [
+     "et",
+     [
+      "=",
+      [
+       "x",
+       "$o"
+      ],
+      "$x"
+     ],
+     [
+      "=",
+      [
+       "y",
+       "$o"
+      ],
+      "$y"
+     ]
+    ]
+   ]
+  },
+  "a_nom": {
+   "params": [
+    "$x",
+    "$y",
+    "$n"
+   ],
+   "sorte": "terme",
+   "corps": [
+    "existe",
+    "$o",
+    [
+     "ici",
+     "$x",
+     "$y"
+    ],
+    [
+     "=",
+     [
+      "nom",
+      "$o"
+     ],
+     "$n"
+    ]
+   ]
+  },
+  "a_genre": {
+   "params": [
+    "$x",
+    "$y",
+    "$t"
+   ],
+   "sorte": "terme",
+   "corps": [
+    "existe",
+    "$o",
+    [
+     "ici",
+     "$x",
+     "$y"
+    ],
+    [
+     "a_tag",
+     "$o",
+     "$t"
+    ]
+   ]
+  },
+  "sautable": {
+   "params": [
+    "$x",
+    "$y"
+   ],
+   "sorte": "terme",
+   "corps": [
+    "ou",
+    [
+     "a_genre",
+     "$x",
+     "$y",
+     "pion"
+    ],
+    [
+     "a_genre",
+     "$x",
+     "$y",
+     "bloc"
+    ]
+   ]
+  },
+  "case_libre": {
+   "params": [
+    "$x",
+    "$y"
+   ],
+   "sorte": "terme",
+   "corps": [
+    "ou",
+    [
+     "et",
+     [
+      "=",
+      [
+       "longueur",
+       [
+        "ici",
+        "$x",
+        "$y"
+       ]
+      ],
+      1
+     ],
+     [
+      "contient",
+      [
+       "liste",
+       "hupkpseyuim",
+       "hupkpseyuim2"
+      ],
+      [
+       "nom",
+       [
+        "premier",
+        [
+         "ici",
+         "$x",
+         "$y"
+        ]
+       ]
+      ]
+     ]
+    ],
+    [
+     "et",
+     [
+      "=",
+      [
+       "longueur",
+       [
+        "ici",
+        "$x",
+        "$y"
+       ]
+      ],
+      2
+     ],
+     [
+      "a_nom",
+      "$x",
+      "$y",
+      "hupkpseyuim2"
+     ]
+    ]
+   ]
+  },
+  "restants": {
+   "params": [],
+   "sorte": "terme",
+   "corps": [
+    "-",
+    [
+     "longueur",
+     [
+      "objets",
+      {
+       "tag": "pion"
+      }
+     ]
+    ],
+    [
+     "etat",
+     "bleus0"
+    ]
+   ]
+  },
+  "dans": {
+   "params": [
+    "$v",
+    "$debut"
+   ],
+   "sorte": "terme",
+   "corps": [
+    "et",
+    [
+     "<=",
+     "$debut",
+     "$v"
+    ],
+    [
+     "<",
+     "$v",
+     [
+      "+",
+      "$debut",
+      6
+     ]
+    ]
+   ]
+  },
+  "pion_sel": {
+   "params": [],
+   "sorte": "terme",
+   "corps": [
+    "premier_tel_que",
+    "$o",
+    [
+     "ici",
+     [
+      "elem",
+      [
+       "etat",
+       "sel"
+      ],
+      0
+     ],
+     [
+      "elem",
+      [
+       "etat",
+       "sel"
+      ],
+      1
+     ]
+    ],
+    [
+     "a_tag",
+     "$o",
+     "pion"
+    ]
+   ]
+  },
+  "deselect": {
+   "params": [],
+   "sorte": "effet",
+   "corps": [
+    [
+     "poser",
+     "sel",
+     null
+    ],
+    [
+     "poser",
+     "marq",
+     [
+      "liste"
+     ]
+    ]
+   ]
+  },
+  "cliche": {
+   "params": [],
+   "sorte": "effet",
+   "corps": [
+    [
+     "empiler",
+     "pile",
+     [
+      "liste",
+      [
+       "objets",
+       {
+        "tag": "lf"
+       }
+      ],
+      [
+       "etat",
+       "ox"
+      ],
+      [
+       "etat",
+       "oy"
+      ],
+      [
+       "etat",
+       "coups"
+      ],
+      [
+       "etat",
+       "impasse"
+      ],
+      [
+       "etat",
+       "sel"
+      ],
+      [
+       "etat",
+       "marq"
+      ]
+     ]
+    ]
+   ]
+  },
+  "restaurer_jeu": {
+   "params": [
+    "$c"
+   ],
+   "sorte": "effet",
+   "corps": [
+    [
+     "pour",
+     "$o",
+     [
+      "objets",
+      {
+       "tag": "lf"
+      }
+     ],
+     [
+      [
+       "retirer",
+       "$o"
+      ]
+     ]
+    ],
+    [
+     "pour",
+     "$s",
+     [
+      "elem",
+      "$c",
+      0
+     ],
+     [
+      [
+       "creer",
+       "$s",
+       [
+        "x",
+        "$s"
+       ],
+       [
+        "y",
+        "$s"
+       ]
+      ]
+     ]
+    ],
+    [
+     "poser",
+     "ox",
+     [
+      "elem",
+      "$c",
+      1
+     ]
+    ],
+    [
+     "poser",
+     "oy",
+     [
+      "elem",
+      "$c",
+      2
+     ]
+    ],
+    [
+     "poser",
+     "coups",
+     [
+      "elem",
+      "$c",
+      3
+     ]
+    ],
+    [
+     "poser",
+     "impasse",
+     [
+      "elem",
+      "$c",
+      4
+     ]
+    ],
+    [
+     "poser",
+     "sel",
+     [
+      "elem",
+      "$c",
+      5
+     ]
+    ],
+    [
+     "poser",
+     "marq",
+     [
+      "elem",
+      "$c",
+      6
+     ]
+    ]
+   ]
+  },
+  "construire": {
+   "params": [
+    "$n"
+   ],
+   "sorte": "effet",
+   "corps": [
+    [
+     "pour",
+     "$o",
+     [
+      "objets",
+      {
+       "tag": "lf"
+      }
+     ],
+     [
+      [
+       "retirer",
+       "$o"
+      ]
+     ]
+    ],
+    [
+     "pour",
+     "$y",
+     [
+      "intervalle",
+      0,
+      [
+       "longueur",
+       [
+        "plan",
+        "$n"
+       ]
+      ]
+     ],
+     [
+      [
+       "pour",
+       "$x",
+       [
+        "intervalle",
+        0,
+        [
+         "longueur",
+         [
+          "elem",
+          [
+           "plan",
+           "$n"
+          ],
+          "$y"
+         ]
+        ]
+       ],
+       [
+        [
+         "pour",
+         "$m",
+         [
+          "legende",
+          [
+           "elem",
+           [
+            "elem",
+            [
+             "plan",
+             "$n"
+            ],
+            "$y"
+           ],
+           "$x"
+          ]
+         ],
+         [
+          [
+           "creer",
+           "$m",
+           "$x",
+           "$y"
+          ]
+         ]
+        ]
+       ]
+      ]
+     ]
+    ],
+    [
+     "poser",
+     "n",
+     "$n"
+    ],
+    [
+     "poser",
+     "ox",
+     [
+      "elem",
+      [
+       "table",
+       {
+        "1": [
+         10,
+         5
+        ],
+        "2": [
+         6,
+         8
+        ],
+        "10": [
+         5,
+         3
+        ]
+       },
+       "$n",
+       [
+        "liste",
+        5,
+        5
+       ]
+      ],
+      0
+     ]
+    ],
+    [
+     "poser",
+     "oy",
+     [
+      "elem",
+      [
+       "table",
+       {
+        "1": [
+         10,
+         5
+        ],
+        "2": [
+         6,
+         8
+        ],
+        "10": [
+         5,
+         3
+        ]
+       },
+       "$n",
+       [
+        "liste",
+        5,
+        5
+       ]
+      ],
+      1
+     ]
+    ],
+    [
+     "poser",
+     "coups",
+     0
+    ],
+    [
+     "poser",
+     "impasse",
+     false
+    ],
+    [
+     "deselect"
+    ],
+    [
+     "poser",
+     "pile",
+     [
+      "liste"
+     ]
+    ],
+    [
+     "poser",
+     "bleus0",
+     [
+      "si",
+      [
+       ">=",
+       "$n",
+       8
+      ],
+      [
+       "longueur",
+       [
+        "objets",
+        {
+         "nom": "fozwvlovdui_blue"
+        }
+       ]
+      ],
+      0
+     ]
+    ]
+   ]
+  }
+ },
+ "au_debut": [
+  [
+   "construire",
+   [
+    "+",
+    [
+     "niveau"
+    ],
+    1
+   ]
+  ]
+ ],
+ "regles": [
+  {
+   "nom": "tour : drapeau de victoire baissé",
+   "quand": true,
+   "alors": [
+    [
+     "poser",
+     "gagne",
+     false
+    ]
+   ],
+   "puis": "continuer"
+  },
+  {
+   "nom": "clic",
+   "quand": [
+    "=",
+    [
+     "action"
+    ],
+    "CLICK"
+   ],
+   "alors": [
+    [
+     "poser",
+     "X",
+     [
+      "+",
+      [
+       "*",
+       [
+        "elem",
+        [
+         "case_clic"
+        ],
+        0
+       ],
+       8
+      ],
+      4
+     ]
+    ],
+    [
+     "poser",
+     "Y",
+     [
+      "+",
+      [
+       "*",
+       [
+        "elem",
+        [
+         "case_clic"
+        ],
+        1
+       ],
+       8
+      ],
+      4
+     ]
+    ],
+    [
+     "si_alors",
+     [
+      "et",
+      [
+       "etat",
+       "impasse"
+      ],
+      [
+       "<",
+       [
+        "etat",
+        "X"
+       ],
+       16
+      ],
+      [
+       ">",
+       [
+        "etat",
+        "Y"
+       ],
+       48
+      ]
+     ],
+     [
+      [
+       "construire",
+       [
+        "etat",
+        "n"
+       ]
+      ]
+     ],
+     [
+      [
+       "cliche"
+      ],
+      [
+       "poser",
+       "coups",
+       [
+        "+",
+        [
+         "etat",
+         "coups"
+        ],
+        1
+       ]
+      ],
+      [
+       "poser",
+       "d",
+       [
+        "si",
+        [
+         "=",
+         [
+          "etat",
+          "sel"
+         ],
+         null
+        ],
+        null,
+        [
+         "premier_tel_que",
+         "$d",
+         [
+          "etat",
+          "marq"
+         ],
+         [
+          "et",
+          [
+           "dans",
+           [
+            "etat",
+            "X"
+           ],
+           [
+            "+",
+            [
+             "+",
+             [
+              "etat",
+              "ox"
+             ],
+             [
+              "*",
+              6,
+              [
+               "elem",
+               [
+                "etat",
+                "sel"
+               ],
+               0
+              ]
+             ]
+            ],
+            [
+             "*",
+             12,
+             [
+              "elem",
+              "$d",
+              0
+             ]
+            ]
+           ]
+          ],
+          [
+           "dans",
+           [
+            "etat",
+            "Y"
+           ],
+           [
+            "+",
+            [
+             "+",
+             [
+              "etat",
+              "oy"
+             ],
+             [
+              "*",
+              6,
+              [
+               "elem",
+               [
+                "etat",
+                "sel"
+               ],
+               1
+              ]
+             ]
+            ],
+            [
+             "*",
+             12,
+             [
+              "elem",
+              "$d",
+              1
+             ]
+            ]
+           ]
+          ]
+         ]
+        ]
+       ]
+      ],
+      [
+       "poser",
+       "touche",
+       [
+        "premier_tel_que",
+        "$o",
+        [
+         "objets",
+         {
+          "tag": "pion"
+         }
+        ],
+        [
+         "et",
+         [
+          "dans",
+          [
+           "etat",
+           "X"
+          ],
+          [
+           "+",
+           [
+            "etat",
+            "ox"
+           ],
+           [
+            "*",
+            6,
+            [
+             "x",
+             "$o"
+            ]
+           ]
+          ]
+         ],
+         [
+          "dans",
+          [
+           "etat",
+           "Y"
+          ],
+          [
+           "+",
+           [
+            "etat",
+            "oy"
+           ],
+           [
+            "*",
+            6,
+            [
+             "y",
+             "$o"
+            ]
+           ]
+          ]
+         ]
+        ]
+       ]
+      ],
+      [
+       "si_alors",
+       [
+        "non",
+        [
+         "=",
+         [
+          "etat",
+          "d"
+         ],
+         null
+        ]
+       ],
+       [
+        [
+         "poser",
+         "coul",
+         [
+          "nom",
+          [
+           "pion_sel"
+          ]
+         ]
+        ],
+        [
+         "poser",
+         "C",
+         [
+          "liste",
+          [
+           "+",
+           [
+            "elem",
+            [
+             "etat",
+             "sel"
+            ],
+            0
+           ],
+           [
+            "*",
+            2,
+            [
+             "elem",
+             [
+              "etat",
+              "d"
+             ],
+             0
+            ]
+           ]
+          ],
+          [
+           "+",
+           [
+            "elem",
+            [
+             "etat",
+             "sel"
+            ],
+            1
+           ],
+           [
+            "*",
+            2,
+            [
+             "elem",
+             [
+              "etat",
+              "d"
+             ],
+             1
+            ]
+           ]
+          ]
+         ]
+        ],
+        [
+         "poser",
+         "M",
+         [
+          "liste",
+          [
+           "+",
+           [
+            "elem",
+            [
+             "etat",
+             "sel"
+            ],
+            0
+           ],
+           [
+            "elem",
+            [
+             "etat",
+             "d"
+            ],
+            0
+           ]
+          ],
+          [
+           "+",
+           [
+            "elem",
+            [
+             "etat",
+             "sel"
+            ],
+            1
+           ],
+           [
+            "elem",
+            [
+             "etat",
+             "d"
+            ],
+            1
+           ]
+          ]
+         ]
+        ],
+        [
+         "poser",
+         "milieu",
+         [
+          "premier_tel_que",
+          "$o",
+          [
+           "ici",
+           [
+            "elem",
+            [
+             "etat",
+             "M"
+            ],
+            0
+           ],
+           [
+            "elem",
+            [
+             "etat",
+             "M"
+            ],
+            1
+           ]
+          ],
+          [
+           "contient",
+           [
+            "liste",
+            "fozwvlovdui",
+            "fozwvlovdui_red"
+           ],
+           [
+            "nom",
+            "$o"
+           ]
+          ]
+         ]
+        ],
+        [
+         "placer",
+         [
+          "pion_sel"
+         ],
+         [
+          "elem",
+          [
+           "etat",
+           "C"
+          ],
+          0
+         ],
+         [
+          "elem",
+          [
+           "etat",
+           "C"
+          ],
+          1
+         ]
+        ],
+        [
+         "si_alors",
+         [
+          "et",
+          [
+           "non",
+           [
+            "=",
+            [
+             "etat",
+             "milieu"
+            ],
+            null
+           ]
+          ],
+          [
+           "=",
+           [
+            "nom",
+            [
+             "etat",
+             "milieu"
+            ]
+           ],
+           [
+            "etat",
+            "coul"
+           ]
+          ]
+         ],
+         [
+          [
+           "retirer",
+           [
+            "etat",
+            "milieu"
+           ]
+          ]
+         ]
+        ],
+        [
+         "poser",
+         "milieu",
+         null
+        ],
+        [
+         "deselect"
+        ],
+        [
+         "si_alors",
+         [
+          "et",
+          [
+           "=",
+           [
+            "etat",
+            "n"
+           ],
+           1
+          ],
+          [
+           "contient",
+           [
+            "liste",
+            [
+             "liste",
+             0,
+             2
+            ],
+            [
+             "liste",
+             2,
+             2
+            ],
+            [
+             "liste",
+             5,
+             1
+            ]
+           ],
+           [
+            "etat",
+            "C"
+           ]
+          ]
+         ],
+         [
+          [
+           "poser",
+           "impasse",
+           true
+          ]
+         ],
+         [
+          [
+           "si_alors",
+           [
+            "et",
+            [
+             "=",
+             [
+              "etat",
+              "n"
+             ],
+             2
+            ],
+            [
+             "contient",
+             [
+              "liste",
+              [
+               "liste",
+               0,
+               1
+              ],
+              [
+               "liste",
+               2,
+               1
+              ],
+              [
+               "liste",
+               4,
+               1
+              ]
+             ],
+             [
+              "etat",
+              "C"
+             ]
+            ]
+           ],
+           [
+            [
+             "poser",
+             "impasse",
+             true
+            ]
+           ],
+           [
+            [
+             "si_alors",
+             [
+              "et",
+              [
+               "=",
+               [
+                "etat",
+                "n"
+               ],
+               3
+              ],
+              [
+               "ou",
+               [
+                "contient",
+                [
+                 "liste",
+                 [
+                  "liste",
+                  1,
+                  0
+                 ],
+                 [
+                  "liste",
+                  0,
+                  3
+                 ],
+                 [
+                  "liste",
+                  10,
+                  0
+                 ],
+                 [
+                  "liste",
+                  13,
+                  2
+                 ],
+                 [
+                  "liste",
+                  13,
+                  4
+                 ]
+                ],
+                [
+                 "etat",
+                 "C"
+                ]
+               ],
+               [
+                "et",
+                [
+                 "=",
+                 [
+                  "etat",
+                  "C"
+                 ],
+                 [
+                  "liste",
+                  10,
+                  2
+                 ]
+                ],
+                [
+                 "<=",
+                 [
+                  "restants"
+                 ],
+                 5
+                ]
+               ],
+               [
+                "et",
+                [
+                 "=",
+                 [
+                  "etat",
+                  "C"
+                 ],
+                 [
+                  "liste",
+                  10,
+                  4
+                 ]
+                ],
+                [
+                 "<=",
+                 [
+                  "restants"
+                 ],
+                 4
+                ]
+               ]
+              ]
+             ],
+             [
+              [
+               "poser",
+               "impasse",
+               true
+              ]
+             ],
+             [
+              [
+               "si_alors",
+               [
+                "et",
+                [
+                 "=",
+                 [
+                  "etat",
+                  "n"
+                 ],
+                 4
+                ],
+                [
+                 "=",
+                 [
+                  "etat",
+                  "C"
+                 ],
+                 [
+                  "liste",
+                  7,
+                  3
+                 ]
+                ]
+               ],
+               [
+                [
+                 "poser",
+                 "ox",
+                 [
+                  "+",
+                  [
+                   "etat",
+                   "ox"
+                  ],
+                  -30
+                 ]
+                ],
+                [
+                 "poser",
+                 "oy",
+                 [
+                  "+",
+                  [
+                   "etat",
+                   "oy"
+                  ],
+                  0
+                 ]
+                ]
+               ],
+               [
+                [
+                 "si_alors",
+                 [
+                  "et",
+                  [
+                   "=",
+                   [
+                    "etat",
+                    "n"
+                   ],
+                   4
+                  ],
+                  [
+                   "=",
+                   [
+                    "etat",
+                    "C"
+                   ],
+                   [
+                    "liste",
+                    12,
+                    7
+                   ]
+                  ]
+                 ],
+                 [
+                  [
+                   "poser",
+                   "ox",
+                   [
+                    "+",
+                    [
+                     "etat",
+                     "ox"
+                    ],
+                    15
+                   ]
+                  ],
+                  [
+                   "poser",
+                   "oy",
+                   [
+                    "+",
+                    [
+                     "etat",
+                     "oy"
+                    ],
+                    -30
+                   ]
+                  ]
+                 ],
+                 [
+                  [
+                   "si_alors",
+                   [
+                    "et",
+                    [
+                     "=",
+                     [
+                      "etat",
+                      "n"
+                     ],
+                     5
+                    ],
+                    [
+                     "=",
+                     [
+                      "etat",
+                      "C"
+                     ],
+                     [
+                      "liste",
+                      7,
+                      3
+                     ]
+                    ]
+                   ],
+                   [
+                    [
+                     "poser",
+                     "ox",
+                     [
+                      "+",
+                      [
+                       "etat",
+                       "ox"
+                      ],
+                      -18
+                     ]
+                    ],
+                    [
+                     "poser",
+                     "oy",
+                     [
+                      "+",
+                      [
+                       "etat",
+                       "oy"
+                      ],
+                      0
+                     ]
+                    ]
+                   ],
+                   [
+                    [
+                     "si_alors",
+                     [
+                      "et",
+                      [
+                       "=",
+                       [
+                        "etat",
+                        "n"
+                       ],
+                       5
+                      ],
+                      [
+                       "=",
+                       [
+                        "etat",
+                        "C"
+                       ],
+                       [
+                        "liste",
+                        12,
+                        3
+                       ]
+                      ]
+                     ],
+                     [
+                      [
+                       "poser",
+                       "ox",
+                       [
+                        "+",
+                        [
+                         "etat",
+                         "ox"
+                        ],
+                        -33
+                       ]
+                      ],
+                      [
+                       "poser",
+                       "oy",
+                       [
+                        "+",
+                        [
+                         "etat",
+                         "oy"
+                        ],
+                        0
+                       ]
+                      ]
+                     ],
+                     [
+                      [
+                       "si_alors",
+                       [
+                        "et",
+                        [
+                         "=",
+                         [
+                          "etat",
+                          "n"
+                         ],
+                         6
+                        ],
+                        [
+                         "et",
+                         [
+                          "=",
+                          [
+                           "etat",
+                           "C"
+                          ],
+                          [
+                           "liste",
+                           16,
+                           2
+                          ]
+                         ],
+                         [
+                          "=",
+                          [
+                           "etat",
+                           "coul"
+                          ],
+                          "fozwvlovdui"
+                         ],
+                         [
+                          "existe",
+                          "$r",
+                          [
+                           "objets",
+                           {
+                            "nom": "fozwvlovdui_red"
+                           }
+                          ],
+                          [
+                           "et",
+                           [
+                            "=",
+                            [
+                             "x",
+                             "$r"
+                            ],
+                            6
+                           ],
+                           [
+                            "=",
+                            [
+                             "y",
+                             "$r"
+                            ],
+                            6
+                           ]
+                          ]
+                         ]
+                        ]
+                       ],
+                       [
+                        [
+                         "poser",
+                         "impasse",
+                         true
+                        ]
+                       ],
+                       [
+                        [
+                         "si_alors",
+                         [
+                          "et",
+                          [
+                           "=",
+                           [
+                            "etat",
+                            "n"
+                           ],
+                           6
+                          ],
+                          [
+                           "et",
+                           [
+                            "=",
+                            [
+                             "etat",
+                             "C"
+                            ],
+                            [
+                             "liste",
+                             7,
+                             6
+                            ]
+                           ],
+                           [
+                            "et",
+                            [
+                             "=",
+                             [
+                              "etat",
+                              "ox"
+                             ],
+                             5
+                            ],
+                            [
+                             "=",
+                             [
+                              "etat",
+                              "oy"
+                             ],
+                             5
+                            ]
+                           ]
+                          ]
+                         ],
+                         [
+                          [
+                           "poser",
+                           "ox",
+                           [
+                            "+",
+                            [
+                             "etat",
+                             "ox"
+                            ],
+                            -20
+                           ]
+                          ],
+                          [
+                           "poser",
+                           "oy",
+                           [
+                            "+",
+                            [
+                             "etat",
+                             "oy"
+                            ],
+                            0
+                           ]
+                          ]
+                         ],
+                         [
+                          [
+                           "si_alors",
+                           [
+                            "et",
+                            [
+                             "=",
+                             [
+                              "etat",
+                              "n"
+                             ],
+                             6
+                            ],
+                            [
+                             "et",
+                             [
+                              "=",
+                              [
+                               "etat",
+                               "C"
+                              ],
+                              [
+                               "liste",
+                               18,
+                               2
+                              ]
+                             ],
+                             [
+                              "=",
+                              [
+                               "etat",
+                               "coul"
+                              ],
+                              "fozwvlovdui"
+                             ],
+                             [
+                              "et",
+                              [
+                               "=",
+                               [
+                                "etat",
+                                "ox"
+                               ],
+                               -57
+                              ],
+                              [
+                               "=",
+                               [
+                                "etat",
+                                "oy"
+                               ],
+                               5
+                              ]
+                             ]
+                            ]
+                           ],
+                           [
+                            [
+                             "poser",
+                             "ox",
+                             [
+                              "+",
+                              [
+                               "etat",
+                               "ox"
+                              ],
+                              -44
+                             ]
+                            ],
+                            [
+                             "poser",
+                             "oy",
+                             [
+                              "+",
+                              [
+                               "etat",
+                               "oy"
+                              ],
+                              0
+                             ]
+                            ]
+                           ],
+                           [
+                            [
+                             "si_alors",
+                             [
+                              "et",
+                              [
+                               "=",
+                               [
+                                "etat",
+                                "n"
+                               ],
+                               7
+                              ],
+                              [
+                               "et",
+                               [
+                                "=",
+                                [
+                                 "etat",
+                                 "C"
+                                ],
+                                [
+                                 "liste",
+                                 8,
+                                 8
+                                ]
+                               ],
+                               [
+                                "et",
+                                [
+                                 "=",
+                                 [
+                                  "etat",
+                                  "ox"
+                                 ],
+                                 5
+                                ],
+                                [
+                                 "=",
+                                 [
+                                  "etat",
+                                  "oy"
+                                 ],
+                                 5
+                                ]
+                               ]
+                              ]
+                             ],
+                             [
+                              [
+                               "poser",
+                               "ox",
+                               [
+                                "+",
+                                [
+                                 "etat",
+                                 "ox"
+                                ],
+                                -44
+                               ]
+                              ],
+                              [
+                               "poser",
+                               "oy",
+                               [
+                                "+",
+                                [
+                                 "etat",
+                                 "oy"
+                                ],
+                                0
+                               ]
+                              ]
+                             ],
+                             [
+                              [
+                               "si_alors",
+                               [
+                                "et",
+                                [
+                                 "=",
+                                 [
+                                  "etat",
+                                  "n"
+                                 ],
+                                 7
+                                ],
+                                [
+                                 "et",
+                                 [
+                                  "=",
+                                  [
+                                   "elem",
+                                   [
+                                    "etat",
+                                    "C"
+                                   ],
+                                   0
+                                  ],
+                                  16
+                                 ],
+                                 [
+                                  "et",
+                                  [
+                                   "=",
+                                   [
+                                    "etat",
+                                    "ox"
+                                   ],
+                                   -39
+                                  ],
+                                  [
+                                   "=",
+                                   [
+                                    "etat",
+                                    "oy"
+                                   ],
+                                   5
+                                  ]
+                                 ]
+                                ]
+                               ],
+                               [
+                                [
+                                 "poser",
+                                 "ox",
+                                 [
+                                  "+",
+                                  [
+                                   "etat",
+                                   "ox"
+                                  ],
+                                  -40
+                                 ]
+                                ],
+                                [
+                                 "poser",
+                                 "oy",
+                                 [
+                                  "+",
+                                  [
+                                   "etat",
+                                   "oy"
+                                  ],
+                                  0
+                                 ]
+                                ]
+                               ],
+                               [
+                                [
+                                 "si_alors",
+                                 [
+                                  "et",
+                                  [
+                                   "=",
+                                   [
+                                    "etat",
+                                    "n"
+                                   ],
+                                   9
+                                  ],
+                                  [
+                                   "=",
+                                   [
+                                    "etat",
+                                    "C"
+                                   ],
+                                   [
+                                    "liste",
+                                    6,
+                                    5
+                                   ]
+                                  ]
+                                 ],
+                                 [
+                                  [
+                                   "poser",
+                                   "ox",
+                                   [
+                                    "+",
+                                    [
+                                     "etat",
+                                     "ox"
+                                    ],
+                                    -20
+                                   ]
+                                  ],
+                                  [
+                                   "poser",
+                                   "oy",
+                                   [
+                                    "+",
+                                    [
+                                     "etat",
+                                     "oy"
+                                    ],
+                                    0
+                                   ]
+                                  ]
+                                 ],
+                                 []
+                                ]
+                               ]
+                              ]
+                             ]
+                            ]
+                           ]
+                          ]
+                         ]
+                        ]
+                       ]
+                      ]
+                     ]
+                    ]
+                   ]
+                  ]
+                 ]
+                ]
+               ]
+              ]
+             ]
+            ]
+           ]
+          ]
+         ]
+        ],
+        [
+         "poser",
+         "gagne",
+         [
+          "ou",
+          [
+           "=",
+           [
+            "restants"
+           ],
+           1
+          ],
+          [
+           "et",
+           [
+            "contient",
+            [
+             "liste",
+             6,
+             7
+            ],
+            [
+             "etat",
+             "n"
+            ]
+           ],
+           [
+            "=",
+            [
+             "restants"
+            ],
+            2
+           ]
+          ]
+         ]
+        ]
+       ],
+       [
+        [
+         "si_alors",
+         [
+          "non",
+          [
+           "=",
+           [
+            "etat",
+            "touche"
+           ],
+           null
+          ]
+         ],
+         [
+          [
+           "deselect"
+          ],
+          [
+           "poser",
+           "m",
+           [
+            "filtrer",
+            "$d",
+            [
+             "liste",
+             [
+              "liste",
+              0,
+              -1
+             ],
+             [
+              "liste",
+              1,
+              0
+             ],
+             [
+              "liste",
+              0,
+              1
+             ],
+             [
+              "liste",
+              -1,
+              0
+             ]
+            ],
+            [
+             "et",
+             [
+              "sautable",
+              [
+               "+",
+               [
+                "x",
+                [
+                 "etat",
+                 "touche"
+                ]
+               ],
+               [
+                "elem",
+                "$d",
+                0
+               ]
+              ],
+              [
+               "+",
+               [
+                "y",
+                [
+                 "etat",
+                 "touche"
+                ]
+               ],
+               [
+                "elem",
+                "$d",
+                1
+               ]
+              ]
+             ],
+             [
+              "case_libre",
+              [
+               "+",
+               [
+                "x",
+                [
+                 "etat",
+                 "touche"
+                ]
+               ],
+               [
+                "*",
+                2,
+                [
+                 "elem",
+                 "$d",
+                 0
+                ]
+               ]
+              ],
+              [
+               "+",
+               [
+                "y",
+                [
+                 "etat",
+                 "touche"
+                ]
+               ],
+               [
+                "*",
+                2,
+                [
+                 "elem",
+                 "$d",
+                 1
+                ]
+               ]
+              ]
+             ]
+            ]
+           ]
+          ],
+          [
+           "si_alors",
+           [
+            "non",
+            [
+             "vide",
+             [
+              "etat",
+              "m"
+             ]
+            ]
+           ],
+           [
+            [
+             "poser",
+             "sel",
+             [
+              "liste",
+              [
+               "x",
+               [
+                "etat",
+                "touche"
+               ]
+              ],
+              [
+               "y",
+               [
+                "etat",
+                "touche"
+               ]
+              ]
+             ]
+            ],
+            [
+             "poser",
+             "marq",
+             [
+              "etat",
+              "m"
+             ]
+            ]
+           ]
+          ]
+         ],
+         [
+          [
+           "si_alors",
+           [
+            "non",
+            [
+             "ou",
+             [
+              "et",
+              [
+               "etat",
+               "impasse"
+              ],
+              [
+               "<=",
+               2,
+               [
+                "etat",
+                "X"
+               ]
+              ],
+              [
+               "<",
+               [
+                "etat",
+                "X"
+               ],
+               13
+              ],
+              [
+               "<=",
+               51,
+               [
+                "etat",
+                "Y"
+               ]
+              ],
+              [
+               "<",
+               [
+                "etat",
+                "Y"
+               ],
+               64
+              ]
+             ],
+             [
+              "et",
+              [
+               "=",
+               [
+                "etat",
+                "n"
+               ],
+               1
+              ],
+              [
+               "ou",
+               [
+                "etat",
+                "impasse"
+               ],
+               [
+                "=",
+                [
+                 "longueur",
+                 [
+                  "objets",
+                  {
+                   "nom": "fozwvlovdui"
+                  }
+                 ]
+                ],
+                5
+               ]
+              ]
+             ]
+            ]
+           ],
+           [
+            [
+             "deselect"
+            ]
+           ]
+          ]
+         ]
+        ]
+       ]
+      ],
+      [
+       "poser",
+       "touche",
+       null
+      ]
+     ]
+    ]
+   ],
+   "puis": "continuer"
+  },
+  {
+   "nom": "flèche : plateformes sur rails",
+   "quand": [
+    "contient",
+    [
+     "liste",
+     "UP",
+     "DOWN",
+     "LEFT",
+     "RIGHT"
+    ],
+    [
+     "action"
+    ]
+   ],
+   "alors": [
+    [
+     "cliche"
+    ],
+    [
+     "poser",
+     "coups",
+     [
+      "+",
+      [
+       "etat",
+       "coups"
+      ],
+      1
+     ]
+    ],
+    [
+     "poser",
+     "dx",
+     [
+      "table",
+      {
+       "RIGHT": 1,
+       "LEFT": -1
+      },
+      [
+       "action"
+      ],
+      0
+     ]
+    ],
+    [
+     "poser",
+     "dy",
+     [
+      "table",
+      {
+       "DOWN": 1,
+       "UP": -1
+      },
+      [
+       "action"
+      ],
+      0
+     ]
+    ],
+    [
+     "poser",
+     "deja",
+     false
+    ],
+    [
+     "poser",
+     "fini",
+     false
+    ],
+    [
+     "pour",
+     "$p",
+     [
+      "si",
+      [
+       "!=",
+       [
+        "etat",
+        "dx"
+       ],
+       0
+      ],
+      [
+       "si",
+       [
+        ">",
+        [
+         "etat",
+         "dx"
+        ],
+        0
+       ],
+       [
+        "trier_desc",
+        [
+         "objets",
+         {
+          "nom": "hupkpseyuim2"
+         }
+        ],
+        "$q",
+        [
+         "x",
+         "$q"
+        ]
+       ],
+       [
+        "trier",
+        [
+         "objets",
+         {
+          "nom": "hupkpseyuim2"
+         }
+        ],
+        "$q",
+        [
+         "x",
+         "$q"
+        ]
+       ]
+      ],
+      [
+       "si",
+       [
+        ">",
+        [
+         "etat",
+         "dy"
+        ],
+        0
+       ],
+       [
+        "trier_desc",
+        [
+         "objets",
+         {
+          "nom": "hupkpseyuim2"
+         }
+        ],
+        "$q",
+        [
+         "y",
+         "$q"
+        ]
+       ],
+       [
+        "trier",
+        [
+         "objets",
+         {
+          "nom": "hupkpseyuim2"
+         }
+        ],
+        "$q",
+        [
+         "y",
+         "$q"
+        ]
+       ]
+      ]
+     ],
+     [
+      [
+       "si_alors",
+       [
+        "et",
+        [
+         "non",
+         [
+          "etat",
+          "fini"
+         ]
+        ],
+        [
+         "non",
+         [
+          "a_nom",
+          [
+           "+",
+           [
+            "x",
+            "$p"
+           ],
+           [
+            "etat",
+            "dx"
+           ]
+          ],
+          [
+           "+",
+           [
+            "y",
+            "$p"
+           ],
+           [
+            "etat",
+            "dy"
+           ]
+          ],
+          "hupkpseyuim2"
+         ]
+        ],
+        [
+         "a_genre",
+         [
+          "+",
+          [
+           "x",
+           "$p"
+          ],
+          [
+           "etat",
+           "dx"
+          ]
+         ],
+         [
+          "+",
+          [
+           "y",
+           "$p"
+          ],
+          [
+           "etat",
+           "dy"
+          ]
+         ],
+         "rail"
+        ]
+       ],
+       [
+        [
+         "poser",
+         "vx",
+         0
+        ],
+        [
+         "poser",
+         "vy",
+         0
+        ],
+        [
+         "deselect"
+        ],
+        [
+         "pour",
+         "$o",
+         [
+          "filtrer",
+          "$q",
+          [
+           "ici",
+           [
+            "x",
+            "$p"
+           ],
+           [
+            "y",
+            "$p"
+           ]
+          ],
+          [
+           "non",
+           [
+            "a_tag",
+            "$q",
+            "rail"
+           ]
+          ]
+         ],
+         [
+          [
+           "si_alors",
+           [
+            "=",
+            [
+             "nom",
+             "$o"
+            ],
+            "fozwvlovdui"
+           ],
+           [
+            [
+             "poser",
+             "vx",
+             [
+              "si",
+              [
+               "ou",
+               [
+                "<=",
+                [
+                 "etat",
+                 "n"
+                ],
+                2
+               ],
+               [
+                "contient",
+                [
+                 "liste",
+                 7,
+                 8,
+                 10
+                ],
+                [
+                 "etat",
+                 "n"
+                ]
+               ],
+               [
+                "et",
+                [
+                 "=",
+                 [
+                  "etat",
+                  "n"
+                 ],
+                 4
+                ],
+                [
+                 ">=",
+                 [
+                  "y",
+                  "$o"
+                 ],
+                 11
+                ]
+               ]
+              ],
+              0,
+              [
+               "*",
+               [
+                "si",
+                [
+                 "=",
+                 [
+                  "etat",
+                  "n"
+                 ],
+                 3
+                ],
+                -8,
+                -6
+               ],
+               [
+                "etat",
+                "dx"
+               ]
+              ]
+             ]
+            ],
+            [
+             "poser",
+             "vy",
+             [
+              "si",
+              [
+               "ou",
+               [
+                "<=",
+                [
+                 "etat",
+                 "n"
+                ],
+                3
+               ],
+               [
+                "contient",
+                [
+                 "liste",
+                 5,
+                 6,
+                 7,
+                 10
+                ],
+                [
+                 "etat",
+                 "n"
+                ]
+               ],
+               [
+                "et",
+                [
+                 "=",
+                 [
+                  "etat",
+                  "n"
+                 ],
+                 4
+                ],
+                [
+                 ">=",
+                 [
+                  "y",
+                  "$o"
+                 ],
+                 11
+                ]
+               ]
+              ],
+              0,
+              [
+               "*",
+               -6,
+               [
+                "etat",
+                "dy"
+               ]
+              ]
+             ]
+            ]
+           ]
+          ],
+          [
+           "deplacer",
+           "$o",
+           [
+            "etat",
+            "dx"
+           ],
+           [
+            "etat",
+            "dy"
+           ]
+          ]
+         ]
+        ],
+        [
+         "si_alors",
+         [
+          "et",
+          [
+           "non",
+           [
+            "et",
+            [
+             "=",
+             [
+              "etat",
+              "vx"
+             ],
+             0
+            ],
+            [
+             "=",
+             [
+              "etat",
+              "vy"
+             ],
+             0
+            ]
+           ]
+          ],
+          [
+           "non",
+           [
+            "etat",
+            "deja"
+           ]
+          ]
+         ],
+         [
+          [
+           "poser",
+           "deja",
+           true
+          ],
+          [
+           "si_alors",
+           [
+            "et",
+            [
+             "!=",
+             [
+              "etat",
+              "n"
+             ],
+             5
+            ],
+            [
+             ">=",
+             [
+              "etat",
+              "ox"
+             ],
+             5
+            ],
+            [
+             ">",
+             [
+              "etat",
+              "vx"
+             ],
+             0
+            ]
+           ],
+           [
+            [
+             "poser",
+             "fini",
+             true
+            ]
+           ],
+           [
+            [
+             "poser",
+             "ox",
+             [
+              "+",
+              [
+               "etat",
+               "ox"
+              ],
+              [
+               "etat",
+               "vx"
+              ]
+             ]
+            ],
+            [
+             "poser",
+             "oy",
+             [
+              "+",
+              [
+               "etat",
+               "oy"
+              ],
+              [
+               "etat",
+               "vy"
+              ]
+             ]
+            ]
+           ]
+          ]
+         ]
+        ]
+       ]
+      ]
+     ]
+    ]
+   ],
+   "puis": "continuer"
+  },
+  {
+   "nom": "annuler",
+   "quand": [
+    "et",
+    [
+     "=",
+     [
+      "action"
+     ],
+     "UNDO"
+    ],
+    [
+     "non",
+     [
+      "vide",
+      [
+       "etat",
+       "pile"
+      ]
+     ]
+    ]
+   ],
+   "alors": [
+    [
+     "restaurer_jeu",
+     [
+      "elem",
+      [
+       "etat",
+       "pile"
+      ],
+      -1
+     ]
+    ],
+    [
+     "depiler",
+     "pile"
+    ]
+   ],
+   "puis": "continuer"
+  },
+  {
+   "nom": "espace : impasse",
+   "quand": [
+    "=",
+    [
+     "action"
+    ],
+    "SPACE"
+   ],
+   "alors": [
+    [
+     "cliche"
+    ],
+    [
+     "poser",
+     "coups",
+     [
+      "+",
+      [
+       "etat",
+       "coups"
+      ],
+      1
+     ]
+    ],
+    [
+     "poser",
+     "impasse",
+     true
+    ]
+   ],
+   "puis": "continuer"
+  },
+  {
+   "nom": "victoire",
+   "quand": [
+    "et",
+    [
+     "etat",
+     "gagne"
+    ],
+    [
+     "=",
+     [
+      "etat",
+      "n"
+     ],
+     10
+    ]
+   ],
+   "alors": [
+    [
+     "gagner"
+    ]
+   ],
+   "puis": "stop"
+  },
+  {
+   "nom": "niveau suivant",
+   "quand": [
+    "etat",
+    "gagne"
+   ],
+   "alors": [
+    [
+     "niveau_suivant"
+    ]
+   ],
+   "puis": "stop"
+  },
+  {
+   "nom": "défaite",
+   "quand": [
+    ">=",
+    [
+     "etat",
+     "coups"
+    ],
+    [
+     "si",
+     [
+      "=",
+      [
+       "etat",
+       "n"
+      ],
+      1
+     ],
+     64,
+     [
+      "si",
+      [
+       "<",
+       [
+        "etat",
+        "n"
+       ],
+       6
+      ],
+      320,
+      640
+     ]
+    ]
+   ],
+   "alors": [
+    [
+     "perdre"
+    ]
+   ],
+   "puis": "stop"
+  }
+ ],
+ "mots_manquants": [
+  {
+   "nom": "pixel_clic",
+   "besoin": "position du clic en pixels 64×64 : lf52 vise des cases de 6 px décalées par la caméra interne ; case_clic rend la case 8×8 de la vue factice (information perdue). Contourné par le centre de la case 8×8 : état interne exact 86/180 contre le vrai jeu (180/180 contre la référence nourrie du même clic approché)."
+  },
+  {
+   "nom": "scène interne / HUD",
+   "besoin": "le jeu vit dans une scène interne dessinée par l'interface (HUD), hors des sprites du niveau et hors _get_hidden_state (constant) : ni image_avec_hud, ni lecture de cette scène (plans, caméra, pions). Sans ce mot le banc reste à vide sur lf52 (témoin « aucune règle » = 100 %)."
+  }
+ ],
+ "contournements_restants": [
+  {
+   "quoi": "clic approché au centre de la case 8×8 (X = case_clic·8 + 4)",
+   "pourquoi": "pas de pixel_clic ; c'est la seule source d'écart à l'état interne du vrai jeu (94/180 coups faux)."
+  },
+  {
+   "quoi": "plateau tenu en objets cachés (visible = faux) aux coordonnées vraies du jeu",
+   "pourquoi": "la scène interne dessinée dans le HUD n'est pas représentable ; les sprites cachés sont libres pour le banc, donc rien de ce plateau n'y est vérifié."
+  },
+  {
+   "quoi": "plans des 10 niveaux et caméras initiales recopiés en données (mots plan, legende, table des caméras)",
+   "pourquoi": "le moteur ne les expose pas (niveau arcengine factice, 1 sprite) : aucune lecture possible de la scène interne au début du niveau."
+  }
+ ],
+ "sans_echappatoire": false
+}

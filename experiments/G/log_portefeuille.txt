@@ -1,0 +1,1871 @@
+[début] but ar25 N1 20:11:53
+[début] langage_but ar25 N1 20:11:53
+[début] langage_paliers ar25 N1 20:11:53
+[début] langage_generique ar25 N1 20:11:53
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:11:53 | INFO | Created new scorecard: afc37e8a-230b-460a-bc7d-8bf79654c37b
+2026-10-20 20:11:53 | INFO | Created new scorecard: 4b94149c-2b38-4297-aeca-8af2cb039274
+2026-10-20 20:11:53 | INFO | Created new scorecard: 404a96d4-2b67-4b8d-a4e2-fe69e6afc5a0
+2026-10-20 20:11:53 | INFO | Created new scorecard: a60ed69f-ff82-4986-9c3d-d79e903298ce
+2026-10-20 20:11:53 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+2026-10-20 20:11:53 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+2026-10-20 20:11:53 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+2026-10-20 20:11:53 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+2026-10-20 20:11:53 | INFO | Successfully loaded game class Ar25 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ar25/0c556536/ar25.py
+2026-10-20 20:11:53 | INFO | Successfully loaded game class Ar25 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ar25/0c556536/ar25.py
+2026-10-20 20:11:53 | INFO | Successfully loaded game class Ar25 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ar25/0c556536/ar25.py
+2026-10-20 20:11:53 | INFO | Successfully loaded game class Ar25 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ar25/0c556536/ar25.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:11:53 | INFO | Created new scorecard: 2aad0086-8028-4490-b6b3-bea5083815f9
+2026-10-20 20:11:53 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+[début] compile_but ar25 N1 20:11:53
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+{"strategie": "langage_generique", "jeu": "ar25", "niveau": 1, "gagne": true, "noeuds": 283, "cpu": 0.6, "raison": null}
+2026-10-20 20:11:53 | INFO | Created new scorecard: 4be5635a-a134-4075-b287-527cd591ad7f
+2026-10-20 20:11:53 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+[début] iw1 ar25 N1 20:12:41
+{"strategie": "but", "jeu": "ar25", "niveau": 1, "gagne": null, "noeuds": 200005, "cpu": 47.6, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:12:41 | INFO | Created new scorecard: 769b232b-9394-404d-b814-7189e8f57f20
+2026-10-20 20:12:41 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+[début] iw2 ar25 N1 20:12:46
+{"strategie": "langage_paliers", "jeu": "ar25", "niveau": 1, "gagne": null, "noeuds": 200006, "cpu": 52.9, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:12:46 | INFO | Created new scorecard: 51ac8342-9f9c-448c-8b84-1f80f1c8cd63
+2026-10-20 20:12:46 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+[début] largeur ar25 N1 20:12:47
+{"strategie": "compile_but", "jeu": "ar25", "niveau": 1, "gagne": null, "noeuds": 200005, "cpu": 52.6, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:12:47 | INFO | Created new scorecard: b5776e56-86f7-49c4-9bd5-47f68f5564d6
+2026-10-20 20:12:47 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:12:47 | INFO | Created new scorecard: cade5c78-3c38-490a-bd53-5aa93152e778
+2026-10-20 20:12:47 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+[début] but ar25 N2 20:12:47
+{"strategie": "iw1", "jeu": "ar25", "niveau": 1, "gagne": true, "noeuds": 26557, "cpu": 6.5, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:12:47 | INFO | Created new scorecard: 3c85a779-4efb-4615-8599-85b210423f36
+2026-10-20 20:12:47 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+[début] langage_but ar25 N2 20:12:48
+{"strategie": "langage_but", "jeu": "ar25", "niveau": 1, "gagne": null, "noeuds": 200005, "cpu": 55.0, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:12:48 | INFO | Created new scorecard: a9f07140-ba05-4541-a2b2-552189bb80b8
+2026-10-20 20:12:48 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+[début] langage_paliers ar25 N2 20:13:37
+{"strategie": "but", "jeu": "ar25", "niveau": 2, "gagne": null, "noeuds": 200013, "cpu": 48.1, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:13:37 | INFO | Created new scorecard: 637a75b7-d4cd-43dd-98bd-30e2a88c1f77
+2026-10-20 20:13:37 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:13:47 | INFO | Created new scorecard: 8185a0fa-e85f-4f4e-a491-dc4c5f128ff9
+2026-10-20 20:13:47 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+[début] langage_generique ar25 N2 20:13:47
+{"strategie": "langage_paliers", "jeu": "ar25", "niveau": 2, "gagne": true, "noeuds": 32484, "cpu": 9.6, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:13:47 | INFO | Created new scorecard: b5e9517b-564d-4e2d-a28c-0a576302b931
+2026-10-20 20:13:47 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:13:47 | INFO | Created new scorecard: 6a579a41-8818-4e06-86b7-58663614d932
+2026-10-20 20:13:47 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+[début] compile_but ar25 N2 20:13:47
+{"strategie": "langage_generique", "jeu": "ar25", "niveau": 2, "gagne": true, "noeuds": 714, "cpu": 0.7, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:13:48 | INFO | Created new scorecard: 144f8145-2920-4bf7-864d-eed210e30224
+2026-10-20 20:13:48 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+[début] iw1 ar25 N2 20:13:50
+{"strategie": "largeur", "jeu": "ar25", "niveau": 1, "gagne": null, "noeuds": 200005, "cpu": 61.6, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:13:50 | INFO | Created new scorecard: cccacbf5-0ecc-4e7f-b503-0ee1ee0c890f
+2026-10-20 20:13:50 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+[début] iw2 ar25 N2 20:13:50
+{"strategie": "langage_but", "jeu": "ar25", "niveau": 2, "gagne": null, "noeuds": 200013, "cpu": 60.0, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:13:50 | INFO | Created new scorecard: 8f732463-90e5-4a5d-a4d6-a5070954741d
+2026-10-20 20:13:50 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+[début] largeur ar25 N2 20:13:56
+{"strategie": "iw2", "jeu": "ar25", "niveau": 1, "gagne": null, "noeuds": 200005, "cpu": 68.2, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:13:56 | INFO | Created new scorecard: 77aa72f0-8e88-45ce-8626-69800e35e6eb
+2026-10-20 20:13:56 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+[début] but ar25 N3 20:14:40
+{"strategie": "iw2", "jeu": "ar25", "niveau": 2, "gagne": null, "noeuds": 200013, "cpu": 48.6, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:14:40 | INFO | Created new scorecard: 3d01c30e-39f3-4aec-9126-e53b519c2c19
+2026-10-20 20:14:40 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+[début] langage_but ar25 N3 20:14:42
+{"strategie": "largeur", "jeu": "ar25", "niveau": 2, "gagne": null, "noeuds": 200013, "cpu": 44.5, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:14:42 | INFO | Created new scorecard: a901e4d8-d61c-47a0-ae3c-018cc9ebd8c3
+2026-10-20 20:14:42 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+[début] langage_paliers ar25 N3 20:14:44
+{"strategie": "compile_but", "jeu": "ar25", "niveau": 2, "gagne": null, "noeuds": 200013, "cpu": 54.9, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:14:44 | INFO | Created new scorecard: 2e16ffd4-8f8b-403e-b2fb-13eb860a0018
+2026-10-20 20:14:44 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+[début] langage_generique ar25 N3 20:14:48
+{"strategie": "iw1", "jeu": "ar25", "niveau": 2, "gagne": null, "noeuds": 200013, "cpu": 56.9, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:14:48 | INFO | Created new scorecard: 13328f4e-57d6-4864-9f2d-ff0f5f82ba5c
+2026-10-20 20:14:48 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+[début] compile_but ar25 N3 20:16:14
+{"strategie": "langage_paliers", "jeu": "ar25", "niveau": 3, "gagne": null, "noeuds": 200030, "cpu": 89.5, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:16:14 | INFO | Created new scorecard: 44478c05-c0ce-4c08-af82-50dd4b032605
+2026-10-20 20:16:14 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+[début] iw1 ar25 N3 20:17:43
+{"strategie": "compile_but", "jeu": "ar25", "niveau": 3, "gagne": null, "noeuds": 200016, "cpu": 87.7, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:17:43 | INFO | Created new scorecard: 6ec356dc-e911-43c7-b667-7df10e2c383f
+2026-10-20 20:17:43 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+[début] iw2 ar25 N3 20:18:52
+{"strategie": "iw1", "jeu": "ar25", "niveau": 3, "gagne": null, "noeuds": 200016, "cpu": 68.4, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:18:52 | INFO | Created new scorecard: fd328194-1888-42de-8acc-359d34deafa9
+2026-10-20 20:18:52 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+[début] largeur ar25 N3 20:19:45
+{"strategie": "but", "jeu": "ar25", "niveau": 3, "gagne": null, "noeuds": 40284, "cpu": 301.6, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:19:45 | INFO | Created new scorecard: 3fa00c15-d9e7-4429-8913-a06da197002c
+2026-10-20 20:19:45 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+[début] but bp35 N1 20:19:47
+{"strategie": "langage_but", "jeu": "ar25", "niveau": 3, "gagne": null, "noeuds": 37404, "cpu": 301.7, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:19:47 | INFO | Created new scorecard: c64cd0f4-061f-418d-a86c-f78ae9ca28a5
+2026-10-20 20:19:47 | INFO | Found latest version of bp35: bp35-0a0ad940 (downloaded: 2026-09-30 05:48:18.671230+00:00)
+2026-10-20 20:19:47 | INFO | Successfully loaded game class Bp35 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/bp35/0a0ad940/bp35.py
+[début] langage_but bp35 N1 20:19:49
+{"strategie": "langage_generique", "jeu": "ar25", "niveau": 3, "gagne": null, "noeuds": 127894, "cpu": 297.0, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:19:49 | INFO | Created new scorecard: 0e16acd2-2e0b-4cf8-a9cc-a6f1f5ddd999
+2026-10-20 20:19:49 | INFO | Found latest version of bp35: bp35-0a0ad940 (downloaded: 2026-09-30 05:48:18.671230+00:00)
+2026-10-20 20:19:49 | INFO | Successfully loaded game class Bp35 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/bp35/0a0ad940/bp35.py
+[début] langage_paliers bp35 N1 20:20:02
+{"strategie": "iw2", "jeu": "ar25", "niveau": 3, "gagne": null, "noeuds": 200016, "cpu": 68.2, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:20:02 | INFO | Created new scorecard: 6aa11046-7f6b-43ff-92d2-7a21d18bd2f4
+2026-10-20 20:20:02 | INFO | Found latest version of bp35: bp35-0a0ad940 (downloaded: 2026-09-30 05:48:18.671230+00:00)
+2026-10-20 20:20:02 | INFO | Successfully loaded game class Bp35 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/bp35/0a0ad940/bp35.py
+[début] langage_generique bp35 N1 20:20:47
+{"strategie": "largeur", "jeu": "ar25", "niveau": 3, "gagne": null, "noeuds": 200016, "cpu": 59.5, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:20:47 | INFO | Created new scorecard: ef6714a0-d5b1-4260-bb4a-71c96a4fe8bd
+2026-10-20 20:20:47 | INFO | Found latest version of bp35: bp35-0a0ad940 (downloaded: 2026-09-30 05:48:18.671230+00:00)
+2026-10-20 20:20:47 | INFO | Successfully loaded game class Bp35 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/bp35/0a0ad940/bp35.py
+[début] compile_but bp35 N1 20:24:55
+{"strategie": "but", "jeu": "bp35", "niveau": 1, "gagne": null, "noeuds": 152277, "cpu": 300.2, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:24:55 | INFO | Created new scorecard: f1e1fc5a-128e-4124-861d-346f28c9b54d
+2026-10-20 20:24:55 | INFO | Found latest version of bp35: bp35-0a0ad940 (downloaded: 2026-09-30 05:48:18.671230+00:00)
+[début] iw1 bp35 N1 20:24:56
+{"strategie": "langage_but", "jeu": "bp35", "niveau": 1, "gagne": null, "noeuds": 156523, "cpu": 300.2, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:24:56 | INFO | Created new scorecard: 0352c32e-eab0-4743-bc0c-f41c29ea2d9e
+2026-10-20 20:24:56 | INFO | Found latest version of bp35: bp35-0a0ad940 (downloaded: 2026-09-30 05:48:18.671230+00:00)
+[début] iw2 bp35 N1 20:25:09
+{"strategie": "langage_paliers", "jeu": "bp35", "niveau": 1, "gagne": null, "noeuds": 158068, "cpu": 300.3, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:25:09 | INFO | Created new scorecard: 6aecafdf-7621-4938-b825-9bba7f3e0eee
+2026-10-20 20:25:09 | INFO | Found latest version of bp35: bp35-0a0ad940 (downloaded: 2026-09-30 05:48:18.671230+00:00)
+[début] largeur bp35 N1 20:25:47
+{"strategie": "langage_generique", "jeu": "bp35", "niveau": 1, "gagne": null, "noeuds": 118351, "cpu": 294.9, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:25:47 | INFO | Created new scorecard: 2a3616e0-d88c-45e9-9c9c-e12a8d7f92f9
+2026-10-20 20:25:47 | INFO | Found latest version of bp35: bp35-0a0ad940 (downloaded: 2026-09-30 05:48:18.671230+00:00)
+{"strategie": "compile_but", "jeu": "bp35", "niveau": 1, "gagne": null, "noeuds": 200141, "cpu": 283.6, "raison": "budget épuisé"}
+[début] but bp35 N2 20:29:39
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:29:39 | INFO | Created new scorecard: a53d6511-2278-4979-a7bb-699dd6ce0c67
+2026-10-20 20:29:39 | INFO | Found latest version of bp35: bp35-0a0ad940 (downloaded: 2026-09-30 05:48:18.671230+00:00)
+[début] langage_but bp35 N2 20:29:57
+{"strategie": "iw1", "jeu": "bp35", "niveau": 1, "gagne": null, "noeuds": 194737, "cpu": 300.1, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:29:57 | INFO | Created new scorecard: 32655f17-1e49-437c-a1d1-a9c85698f007
+2026-10-20 20:29:57 | INFO | Found latest version of bp35: bp35-0a0ad940 (downloaded: 2026-09-30 05:48:18.671230+00:00)
+[début] langage_paliers bp35 N2 20:30:04
+{"strategie": "iw2", "jeu": "bp35", "niveau": 1, "gagne": null, "noeuds": 200141, "cpu": 294.0, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:30:04 | INFO | Created new scorecard: 8133373f-f721-49d8-b945-315943ed0b2a
+2026-10-20 20:30:04 | INFO | Found latest version of bp35: bp35-0a0ad940 (downloaded: 2026-09-30 05:48:18.671230+00:00)
+[début] langage_generique bp35 N2 20:30:39
+{"strategie": "largeur", "jeu": "bp35", "niveau": 1, "gagne": null, "noeuds": 200141, "cpu": 291.4, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:30:39 | INFO | Created new scorecard: 22f22997-9284-4f5a-94ea-0bc593367d2e
+2026-10-20 20:30:39 | INFO | Found latest version of bp35: bp35-0a0ad940 (downloaded: 2026-09-30 05:48:18.671230+00:00)
+[début] compile_but bp35 N2 20:34:41
+{"strategie": "but", "jeu": "bp35", "niveau": 2, "gagne": null, "noeuds": 154132, "cpu": 300.5, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:34:42 | INFO | Created new scorecard: 5b58d486-f527-40fc-8387-e9ecc2e5ed01
+2026-10-20 20:34:42 | INFO | Found latest version of bp35: bp35-0a0ad940 (downloaded: 2026-09-30 05:48:18.671230+00:00)
+[début] iw1 bp35 N2 20:34:59
+{"strategie": "langage_but", "jeu": "bp35", "niveau": 2, "gagne": null, "noeuds": 160234, "cpu": 300.4, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:34:59 | INFO | Created new scorecard: 8cc5b1d8-fbf2-4c16-bd17-2944f3b274e5
+2026-10-20 20:34:59 | INFO | Found latest version of bp35: bp35-0a0ad940 (downloaded: 2026-09-30 05:48:18.671230+00:00)
+[début] iw2 bp35 N2 20:35:06
+{"strategie": "langage_paliers", "jeu": "bp35", "niveau": 2, "gagne": null, "noeuds": 157749, "cpu": 300.3, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:35:06 | INFO | Created new scorecard: 20d05b27-ced6-4ead-9e13-69b7eb045e4d
+2026-10-20 20:35:06 | INFO | Found latest version of bp35: bp35-0a0ad940 (downloaded: 2026-09-30 05:48:18.671230+00:00)
+[début] largeur bp35 N2 20:35:40
+{"strategie": "langage_generique", "jeu": "bp35", "niveau": 2, "gagne": null, "noeuds": 92161, "cpu": 298.5, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:35:40 | INFO | Created new scorecard: aa86c66b-2e74-49fb-8316-c8cd5e4a5332
+2026-10-20 20:35:40 | INFO | Found latest version of bp35: bp35-0a0ad940 (downloaded: 2026-09-30 05:48:18.671230+00:00)
+[début] but bp35 N3 20:39:43
+{"strategie": "compile_but", "jeu": "bp35", "niveau": 2, "gagne": null, "noeuds": 149386, "cpu": 300.1, "raison": "budget épuisé"}
+[début] langage_but bp35 N3 20:39:43
+{"strategie": "but", "jeu": "bp35", "niveau": 3, "gagne": null, "noeuds": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+[début] langage_paliers bp35 N3 20:39:43
+{"strategie": "langage_but", "jeu": "bp35", "niveau": 3, "gagne": null, "noeuds": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+[début] langage_generique bp35 N3 20:39:43
+{"strategie": "langage_paliers", "jeu": "bp35", "niveau": 3, "gagne": null, "noeuds": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+[début] compile_but bp35 N3 20:39:43
+{"strategie": "langage_generique", "jeu": "bp35", "niveau": 3, "gagne": null, "noeuds": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+[début] iw1 bp35 N3 20:39:43
+{"strategie": "compile_but", "jeu": "bp35", "niveau": 3, "gagne": null, "noeuds": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+[début] iw2 bp35 N3 20:39:43
+{"strategie": "iw1", "jeu": "bp35", "niveau": 3, "gagne": null, "noeuds": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+[début] largeur bp35 N3 20:39:43
+{"strategie": "iw2", "jeu": "bp35", "niveau": 3, "gagne": null, "noeuds": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+[début] but cd82 N1 20:39:43
+{"strategie": "largeur", "jeu": "bp35", "niveau": 3, "gagne": null, "noeuds": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:39:43 | INFO | Created new scorecard: cbc29c68-9c1a-41e9-8746-2a7036dc110e
+2026-10-20 20:39:43 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+2026-10-20 20:39:43 | INFO | Successfully loaded game class Cd82 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/cd82/fb555c5d/cd82.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:39:43 | INFO | Created new scorecard: 19a2f58b-b968-413a-be1c-8e2c1a98139d
+2026-10-20 20:39:43 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+[début] langage_but cd82 N1 20:39:43
+{"strategie": "but", "jeu": "cd82", "niveau": 1, "gagne": true, "noeuds": 743, "cpu": 0.1, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:39:43 | INFO | Created new scorecard: f3218940-8e9a-4dc5-89f1-b3637752e3cb
+2026-10-20 20:39:43 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:39:43 | INFO | Created new scorecard: dd789e56-80cb-46c2-aa78-4454c9948147
+2026-10-20 20:39:43 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+[début] langage_paliers cd82 N1 20:39:43
+{"strategie": "langage_but", "jeu": "cd82", "niveau": 1, "gagne": true, "noeuds": 239, "cpu": 0.1, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:39:43 | INFO | Created new scorecard: c9f09a47-b11d-41e6-a214-98d54fe99bfa
+2026-10-20 20:39:43 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:39:43 | INFO | Created new scorecard: d6ecd373-14af-4b30-9716-0ae355732564
+2026-10-20 20:39:43 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+[début] langage_generique cd82 N1 20:39:43
+{"strategie": "langage_paliers", "jeu": "cd82", "niveau": 1, "gagne": true, "noeuds": 260, "cpu": 0.1, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:39:43 | INFO | Created new scorecard: ce4b744b-c301-4491-aafc-1cd6b8167b5d
+2026-10-20 20:39:43 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:39:44 | INFO | Created new scorecard: a53bc595-e735-4eb3-8040-4e50a200f6d8
+2026-10-20 20:39:44 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+[début] compile_but cd82 N1 20:39:44
+{"strategie": "langage_generique", "jeu": "cd82", "niveau": 1, "gagne": true, "noeuds": 1737, "cpu": 0.9, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:39:44 | INFO | Created new scorecard: ff759d85-4685-4d85-accd-218cdc932f01
+2026-10-20 20:39:44 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:39:44 | INFO | Created new scorecard: 2a069f16-baef-4c8c-be70-11a93eda1500
+2026-10-20 20:39:44 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+[début] iw1 cd82 N1 20:39:44
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+{"strategie": "compile_but", "jeu": "cd82", "niveau": 1, "gagne": true, "noeuds": 239, "cpu": 0.1, "raison": null}
+2026-10-20 20:39:44 | INFO | Created new scorecard: 825e2cba-1cda-4c9b-ada3-88b9c9f81b5e
+2026-10-20 20:39:44 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:39:44 | INFO | Created new scorecard: 08c49f16-5ff3-48f2-b9c0-9809a2af42cd
+2026-10-20 20:39:44 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+[début] iw2 cd82 N1 20:39:44
+{"strategie": "iw1", "jeu": "cd82", "niveau": 1, "gagne": true, "noeuds": 383, "cpu": 0.0, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:39:44 | INFO | Created new scorecard: 56a59e7f-9bda-4bee-9c39-18cebeccfb74
+2026-10-20 20:39:44 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:39:44 | INFO | Created new scorecard: cc46127c-e3b3-4f89-96e3-33a31fd6f262
+2026-10-20 20:39:44 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+[début] largeur cd82 N1 20:39:44
+{"strategie": "iw2", "jeu": "cd82", "niveau": 1, "gagne": true, "noeuds": 1157, "cpu": 0.1, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:39:44 | INFO | Created new scorecard: 05991f12-6b38-44fb-8426-32801e4e9a9f
+2026-10-20 20:39:44 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:39:44 | INFO | Created new scorecard: e03ff08d-3423-4c46-b1e1-66f9baccae00
+2026-10-20 20:39:44 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+[début] but cd82 N2 20:39:44
+{"strategie": "largeur", "jeu": "cd82", "niveau": 1, "gagne": true, "noeuds": 1643, "cpu": 0.1, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:39:45 | INFO | Created new scorecard: a5fe8754-7360-48bf-8d46-597f81026b4e
+2026-10-20 20:39:45 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:39:45 | INFO | Created new scorecard: c1e371b2-bcfb-474c-a63e-d77d253b9339
+2026-10-20 20:39:45 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+[début] langage_but cd82 N2 20:39:45
+{"strategie": "but", "jeu": "cd82", "niveau": 2, "gagne": true, "noeuds": 6284, "cpu": 0.7, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:39:45 | INFO | Created new scorecard: d0977198-1386-4539-b797-42cb892ed5cd
+2026-10-20 20:39:45 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:39:46 | INFO | Created new scorecard: 8c35a6a6-0732-44e9-8b75-7b8be36f8bdb
+2026-10-20 20:39:46 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+[début] langage_paliers cd82 N2 20:39:46
+{"strategie": "langage_but", "jeu": "cd82", "niveau": 2, "gagne": true, "noeuds": 1748, "cpu": 0.5, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:39:46 | INFO | Created new scorecard: 89e475a9-e21f-4e16-8285-c5dd69bdaaef
+2026-10-20 20:39:46 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:39:52 | INFO | Created new scorecard: 67987c03-faf8-4cf4-b159-7728c69a6075
+2026-10-20 20:39:52 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+[début] langage_generique cd82 N2 20:39:52
+{"strategie": "langage_paliers", "jeu": "cd82", "niveau": 2, "gagne": true, "noeuds": 42611, "cpu": 6.1, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:39:52 | INFO | Created new scorecard: d3e889f9-caeb-4175-bce8-3a219c1982dd
+2026-10-20 20:39:52 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:39:54 | INFO | Created new scorecard: d91ea51f-1ded-4c1a-b039-abf3cc12c176
+2026-10-20 20:39:54 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+[début] compile_but cd82 N2 20:39:54
+{"strategie": "langage_generique", "jeu": "cd82", "niveau": 2, "gagne": true, "noeuds": 3201, "cpu": 1.8, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:39:54 | INFO | Created new scorecard: f8b932ab-6647-43ef-8d06-d7c2bc9ec031
+2026-10-20 20:39:54 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:39:54 | INFO | Created new scorecard: e26651e7-02a9-4a81-906a-ae38c6bcce62
+2026-10-20 20:39:54 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+[début] iw1 cd82 N2 20:39:54
+{"strategie": "compile_but", "jeu": "cd82", "niveau": 2, "gagne": true, "noeuds": 4058, "cpu": 0.6, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:39:55 | INFO | Created new scorecard: a4feb89f-52cc-4788-988c-e7b62cb18eba
+2026-10-20 20:39:55 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+[début] iw2 cd82 N2 20:39:55
+{"strategie": "iw1", "jeu": "cd82", "niveau": 2, "gagne": null, "noeuds": 2919, "cpu": 0.3, "raison": "espace épuisé sans issue"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:39:55 | INFO | Created new scorecard: a513eb07-516e-4b5f-a8bb-251726ced7f7
+2026-10-20 20:39:55 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:39:55 | INFO | Created new scorecard: 16629d26-49b2-4466-a4d0-b5111452d452
+2026-10-20 20:39:55 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+[début] largeur cd82 N2 20:39:55
+{"strategie": "iw2", "jeu": "cd82", "niveau": 2, "gagne": true, "noeuds": 6200, "cpu": 0.7, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:39:56 | INFO | Created new scorecard: 6be32fca-3801-4fb0-9294-008b8198b41d
+2026-10-20 20:39:56 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:39:56 | INFO | Created new scorecard: a4476ce6-f4de-4833-ab9a-43d102c34f32
+2026-10-20 20:39:56 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+[début] but cd82 N3 20:39:56
+{"strategie": "largeur", "jeu": "cd82", "niveau": 2, "gagne": true, "noeuds": 8993, "cpu": 0.9, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:39:56 | INFO | Created new scorecard: 7f1a7363-e816-494e-8771-06ea718e35d8
+2026-10-20 20:39:56 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+{"strategie": "iw1", "jeu": "bp35", "niveau": 2, "gagne": null, "noeuds": 137860, "cpu": 300.3, "raison": "budget épuisé"}
+[début] langage_but cd82 N3 20:40:01
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:40:01 | INFO | Created new scorecard: b8e89fa0-e40a-49af-a986-466b4bbb55d6
+2026-10-20 20:40:01 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+2026-10-20 20:40:01 | INFO | Successfully loaded game class Cd82 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/cd82/fb555c5d/cd82.py
+[début] langage_paliers cd82 N3 20:40:08
+{"strategie": "iw2", "jeu": "bp35", "niveau": 2, "gagne": null, "noeuds": 138990, "cpu": 300.7, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:40:08 | INFO | Created new scorecard: 665cc70e-2f5d-4962-8f61-4ea53d6e819c
+2026-10-20 20:40:08 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+2026-10-20 20:40:08 | INFO | Successfully loaded game class Cd82 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/cd82/fb555c5d/cd82.py
+[début] langage_generique cd82 N3 20:40:14
+{"strategie": "but", "jeu": "cd82", "niveau": 3, "gagne": null, "noeuds": 200022, "cpu": 17.6, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:40:14 | INFO | Created new scorecard: 3b6b23e6-f4ab-4829-8d14-7947e471dc9a
+2026-10-20 20:40:14 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+[début] compile_but cd82 N3 20:40:31
+{"strategie": "langage_but", "jeu": "cd82", "niveau": 3, "gagne": null, "noeuds": 200022, "cpu": 30.0, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:40:31 | INFO | Created new scorecard: c5762e07-1c02-4f54-9a2e-c9127cbf9adf
+2026-10-20 20:40:31 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+[début] iw1 cd82 N3 20:40:38
+{"strategie": "langage_paliers", "jeu": "cd82", "niveau": 3, "gagne": null, "noeuds": 200027, "cpu": 29.9, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:40:38 | INFO | Created new scorecard: d718cc7e-170f-42e8-a629-4d28b03ae2bc
+2026-10-20 20:40:38 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+[début] iw2 cd82 N3 20:40:39
+{"strategie": "iw1", "jeu": "cd82", "niveau": 3, "gagne": null, "noeuds": 7106, "cpu": 0.7, "raison": "espace épuisé sans issue"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:40:39 | INFO | Created new scorecard: cbbb1a0b-55ec-4412-85c7-ea22f27278dc
+2026-10-20 20:40:39 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+{"strategie": "largeur", "jeu": "bp35", "niveau": 2, "gagne": null, "noeuds": 138990, "cpu": 300.6, "raison": "budget épuisé"}
+[début] largeur cd82 N3 20:40:42
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:40:42 | INFO | Created new scorecard: 21d61a02-0318-4302-bdbc-37a4b2a49ff1
+2026-10-20 20:40:42 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+2026-10-20 20:40:42 | INFO | Successfully loaded game class Cd82 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/cd82/fb555c5d/cd82.py
+[début] but dc22 N1 20:40:57
+{"strategie": "iw2", "jeu": "cd82", "niveau": 3, "gagne": null, "noeuds": 200022, "cpu": 18.1, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:40:57 | INFO | Created new scorecard: f4e0f418-29fb-444c-b913-967928cdae70
+2026-10-20 20:40:57 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+2026-10-20 20:40:57 | INFO | Successfully loaded game class Dc22 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/dc22/fdcac232/dc22.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:40:57 | INFO | Created new scorecard: 3703c922-1175-4eff-9ad5-607a4e63b23c
+2026-10-20 20:40:57 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+[début] langage_but dc22 N1 20:40:57
+{"strategie": "but", "jeu": "dc22", "niveau": 1, "gagne": true, "noeuds": 1018, "cpu": 0.2, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:40:57 | INFO | Created new scorecard: 30d7f728-356c-432a-8bad-84662043a4b0
+2026-10-20 20:40:57 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:40:57 | INFO | Created new scorecard: 48d3c08e-28b5-465b-bd8e-d4c74b4ddda3
+2026-10-20 20:40:57 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+[début] langage_paliers dc22 N1 20:40:57
+{"strategie": "langage_but", "jeu": "dc22", "niveau": 1, "gagne": true, "noeuds": 1018, "cpu": 0.4, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:40:57 | INFO | Created new scorecard: 83323415-f302-463d-a162-4fa3ef26f1ba
+2026-10-20 20:40:57 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:40:58 | INFO | Created new scorecard: 4d5835f5-efa7-435c-abd8-58e310a44b6f
+2026-10-20 20:40:58 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+[début] langage_generique dc22 N1 20:40:58
+{"strategie": "langage_paliers", "jeu": "dc22", "niveau": 1, "gagne": true, "noeuds": 1289, "cpu": 0.5, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:40:58 | INFO | Created new scorecard: b6701e08-b50e-429e-82fd-9e56c4f66b6e
+2026-10-20 20:40:58 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+[début] compile_but dc22 N1 20:40:58
+{"strategie": "compile_but", "jeu": "cd82", "niveau": 3, "gagne": null, "noeuds": 200022, "cpu": 27.2, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:40:58 | INFO | Created new scorecard: c0c70843-9f25-497b-95c5-4e3dd7e35090
+2026-10-20 20:40:58 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+2026-10-20 20:40:58 | INFO | Successfully loaded game class Dc22 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/dc22/fdcac232/dc22.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:40:59 | INFO | Created new scorecard: 4362baf6-1d7f-4b9e-98ee-c3510e2fd7a0
+2026-10-20 20:40:59 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+[début] iw1 dc22 N1 20:40:59
+{"strategie": "compile_but", "jeu": "dc22", "niveau": 1, "gagne": true, "noeuds": 1018, "cpu": 0.3, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:40:59 | INFO | Created new scorecard: edbdc852-09d7-43a8-b85e-2203ce404c8d
+2026-10-20 20:40:59 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+[début] iw2 dc22 N1 20:40:59
+{"strategie": "iw1", "jeu": "dc22", "niveau": 1, "gagne": null, "noeuds": 429, "cpu": 0.1, "raison": "espace épuisé sans issue"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:40:59 | INFO | Created new scorecard: c2a11e22-9667-4cd0-b337-e5040daed265
+2026-10-20 20:40:59 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+[début] largeur dc22 N1 20:40:59
+{"strategie": "iw2", "jeu": "dc22", "niveau": 1, "gagne": null, "noeuds": 2496, "cpu": 0.5, "raison": "espace épuisé sans issue"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:40:59 | INFO | Created new scorecard: 144b3e68-a111-4f6b-8ef2-851515b8ca25
+2026-10-20 20:40:59 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:41:00 | INFO | Created new scorecard: 390cf344-4f17-4dda-ae38-3b952914cafd
+2026-10-20 20:41:00 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+[début] but dc22 N2 20:41:00
+{"strategie": "largeur", "jeu": "dc22", "niveau": 1, "gagne": true, "noeuds": 4567, "cpu": 0.8, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:41:00 | INFO | Created new scorecard: 96df9f8a-e296-44d2-9242-ced26236b767
+2026-10-20 20:41:00 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+[début] langage_but dc22 N2 20:41:00
+{"strategie": "largeur", "jeu": "cd82", "niveau": 3, "gagne": null, "noeuds": 200022, "cpu": 18.5, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:41:00 | INFO | Created new scorecard: 0f4a320f-601d-422a-8410-7008fa4030e0
+2026-10-20 20:41:00 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+2026-10-20 20:41:00 | INFO | Successfully loaded game class Dc22 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/dc22/fdcac232/dc22.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:41:01 | INFO | Created new scorecard: dce84ce9-cb3e-41c6-ba43-47e03c212bc2
+2026-10-20 20:41:01 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+[début] langage_paliers dc22 N2 20:41:01
+{"strategie": "langage_generique", "jeu": "dc22", "niveau": 1, "gagne": true, "noeuds": 2306, "cpu": 2.8, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:41:01 | INFO | Created new scorecard: 5fa16829-6677-4a8f-a1e6-8c888d8e83b4
+2026-10-20 20:41:01 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:41:04 | INFO | Created new scorecard: 9c3db3a9-0bbc-4c7c-af27-aaacd154ac7c
+2026-10-20 20:41:04 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+[début] langage_generique dc22 N2 20:41:04
+{"strategie": "but", "jeu": "dc22", "niveau": 2, "gagne": true, "noeuds": 14139, "cpu": 4.0, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:41:04 | INFO | Created new scorecard: e60f4aa9-d38f-4700-9aba-e2c8613c4f6a
+2026-10-20 20:41:04 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:41:05 | INFO | Created new scorecard: c9bf0f2f-e7ac-4e11-bca1-5c4789e9bb14
+2026-10-20 20:41:05 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+[début] compile_but dc22 N2 20:41:05
+{"strategie": "langage_but", "jeu": "dc22", "niveau": 2, "gagne": true, "noeuds": 14139, "cpu": 5.1, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:41:05 | INFO | Created new scorecard: f6d90c1f-2618-40d9-a9de-6331e5aacdf6
+2026-10-20 20:41:05 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:41:10 | INFO | Created new scorecard: 7756f2dc-0baf-4666-a284-fd4bac9925ec
+2026-10-20 20:41:10 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+[début] iw1 dc22 N2 20:41:10
+{"strategie": "compile_but", "jeu": "dc22", "niveau": 2, "gagne": true, "noeuds": 14799, "cpu": 4.4, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:41:10 | INFO | Created new scorecard: ae6d2236-a0a7-45a3-9ef1-520b941e0794
+2026-10-20 20:41:10 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:41:10 | INFO | Created new scorecard: a8eacf91-87e0-48fe-aec2-916f04fb3e96
+2026-10-20 20:41:10 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+[début] iw2 dc22 N2 20:41:10
+{"strategie": "langage_paliers", "jeu": "dc22", "niveau": 2, "gagne": true, "noeuds": 29579, "cpu": 9.5, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:41:10 | INFO | Created new scorecard: 062caed9-ee70-43d8-b26e-69dc4a611f3e
+2026-10-20 20:41:10 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+[début] largeur dc22 N2 20:41:11
+{"strategie": "iw1", "jeu": "dc22", "niveau": 2, "gagne": null, "noeuds": 3850, "cpu": 1.0, "raison": "espace épuisé sans issue"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:41:11 | INFO | Created new scorecard: 89c6bfea-c512-4fbc-bcbd-7a7a7597a282
+2026-10-20 20:41:11 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:41:14 | INFO | Created new scorecard: 79508db5-c4e6-493f-b065-f31e40c5381b
+2026-10-20 20:41:14 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+[début] but dc22 N3 20:41:14
+{"strategie": "iw2", "jeu": "dc22", "niveau": 2, "gagne": true, "noeuds": 13094, "cpu": 3.4, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:41:14 | INFO | Created new scorecard: a4ef55c2-9fbf-4eed-a803-a4be48fbd87c
+2026-10-20 20:41:14 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:41:20 | INFO | Created new scorecard: e3f08844-ace1-4d34-87f7-a2e4d23a00ed
+2026-10-20 20:41:20 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+[début] langage_but dc22 N3 20:41:20
+{"strategie": "largeur", "jeu": "dc22", "niveau": 2, "gagne": true, "noeuds": 38339, "cpu": 9.6, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:41:20 | INFO | Created new scorecard: 5fd2dc44-0c2b-4cde-ba6f-b1cbc9cf880b
+2026-10-20 20:41:20 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+[début] langage_paliers dc22 N3 20:41:33
+{"strategie": "langage_generique", "jeu": "cd82", "niveau": 3, "gagne": null, "noeuds": 200000, "cpu": 78.8, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:41:33 | INFO | Created new scorecard: f196087c-33cb-4789-a5eb-042a5a010b72
+2026-10-20 20:41:33 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+2026-10-20 20:41:33 | INFO | Successfully loaded game class Dc22 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/dc22/fdcac232/dc22.py
+[début] langage_generique dc22 N3 20:41:41
+{"strategie": "but", "jeu": "dc22", "niveau": 3, "gagne": null, "noeuds": 78208, "cpu": 26.9, "raison": "espace épuisé sans issue"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:41:41 | INFO | Created new scorecard: 947ac9e5-4e1b-42f0-883c-f4d71be03ad2
+2026-10-20 20:41:41 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+[début] compile_but dc22 N3 20:41:53
+{"strategie": "langage_but", "jeu": "dc22", "niveau": 3, "gagne": null, "noeuds": 78208, "cpu": 32.6, "raison": "espace épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:41:53 | INFO | Created new scorecard: b3321fc4-fde5-46f9-80cc-969524ad4df2
+2026-10-20 20:41:53 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+[début] iw1 dc22 N3 20:42:09
+{"strategie": "langage_paliers", "jeu": "dc22", "niveau": 3, "gagne": null, "noeuds": 86123, "cpu": 36.1, "raison": "palier introuvable"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:42:09 | INFO | Created new scorecard: 584ac361-838b-4e13-a3d3-31098eaf7e57
+2026-10-20 20:42:09 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+[début] iw2 dc22 N3 20:42:10
+{"strategie": "iw1", "jeu": "dc22", "niveau": 3, "gagne": null, "noeuds": 728, "cpu": 0.4, "raison": "espace épuisé sans issue"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:42:10 | INFO | Created new scorecard: 6108c4a1-bb29-4c2e-8f23-de434932da1c
+2026-10-20 20:42:10 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+[début] largeur dc22 N3 20:42:12
+{"strategie": "iw2", "jeu": "dc22", "niveau": 3, "gagne": null, "noeuds": 7384, "cpu": 2.6, "raison": "espace épuisé sans issue"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:42:12 | INFO | Created new scorecard: 28554688-bc44-4cb8-95bb-b945e8d20b37
+2026-10-20 20:42:12 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+[début] but dc22 N4 20:42:24
+{"strategie": "compile_but", "jeu": "dc22", "niveau": 3, "gagne": null, "noeuds": 78208, "cpu": 30.8, "raison": "espace épuisé sans issue"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:42:24 | INFO | Created new scorecard: 30fb2075-87ea-4d8c-a420-7beaca29abbc
+2026-10-20 20:42:24 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+[début] langage_but dc22 N4 20:42:40
+{"strategie": "largeur", "jeu": "dc22", "niveau": 3, "gagne": null, "noeuds": 78208, "cpu": 27.2, "raison": "espace épuisé sans issue"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:42:40 | INFO | Created new scorecard: e5c284b8-5769-47c0-b818-5ad3f8f2a5dd
+2026-10-20 20:42:40 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:43:37 | INFO | Created new scorecard: 09910175-4e3c-4683-b3a7-b7483ec9997a
+2026-10-20 20:43:37 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+[début] langage_paliers dc22 N4 20:43:37
+{"strategie": "but", "jeu": "dc22", "niveau": 4, "gagne": true, "noeuds": 92583, "cpu": 72.7, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:43:37 | INFO | Created new scorecard: b1c8b1a1-f7e2-424a-a8b8-7d719f7303de
+2026-10-20 20:43:37 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:44:05 | INFO | Created new scorecard: 1ff325e4-d1f3-4ba3-a018-831ceb591bac
+2026-10-20 20:44:05 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+[début] langage_generique dc22 N4 20:44:05
+{"strategie": "langage_but", "jeu": "dc22", "niveau": 4, "gagne": true, "noeuds": 92583, "cpu": 85.3, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:44:05 | INFO | Created new scorecard: b01c1c46-d703-4e15-9bf2-505c7b024ebb
+2026-10-20 20:44:05 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+[début] compile_but dc22 N4 20:46:04
+{"strategie": "langage_generique", "jeu": "dc22", "niveau": 2, "gagne": null, "noeuds": 193672, "cpu": 299.5, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:46:04 | INFO | Created new scorecard: b89b5881-e23e-4d5b-8948-0f83f503cfe2
+2026-10-20 20:46:04 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:46:19 | INFO | Created new scorecard: 9711e8fa-7ea0-4760-89b2-f61255a2a8c4
+2026-10-20 20:46:19 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+[début] iw1 dc22 N4 20:46:19
+{"strategie": "langage_paliers", "jeu": "dc22", "niveau": 4, "gagne": true, "noeuds": 188944, "cpu": 161.8, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:46:19 | INFO | Created new scorecard: dbddb113-b902-4369-9c24-47572a050165
+2026-10-20 20:46:19 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+[début] iw2 dc22 N4 20:46:20
+{"strategie": "iw1", "jeu": "dc22", "niveau": 4, "gagne": null, "noeuds": 731, "cpu": 0.8, "raison": "espace épuisé sans issue"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:46:20 | INFO | Created new scorecard: 8c126408-85f8-42ff-9950-c0b83d094606
+2026-10-20 20:46:20 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+[début] largeur dc22 N4 20:46:32
+{"strategie": "iw2", "jeu": "dc22", "niveau": 4, "gagne": null, "noeuds": 15308, "cpu": 12.2, "raison": "espace épuisé sans issue"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:46:32 | INFO | Created new scorecard: 3a9a0414-0aa6-45d4-8eea-c05afe781bb1
+2026-10-20 20:46:32 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+[début] but ft09 N1 20:46:41
+{"strategie": "langage_generique", "jeu": "dc22", "niveau": 3, "gagne": null, "noeuds": 144029, "cpu": 299.4, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:46:41 | INFO | Created new scorecard: 4050abad-8664-4568-867d-307c90a1cc7a
+2026-10-20 20:46:41 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+2026-10-20 20:46:41 | INFO | Successfully loaded game class Ft09 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ft09/0d8bbf25/ft09.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:46:41 | INFO | Created new scorecard: dc30388b-4499-4c6f-95b2-e075b77d9879
+2026-10-20 20:46:41 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+[début] langage_but ft09 N1 20:46:41
+{"strategie": "but", "jeu": "ft09", "niveau": 1, "gagne": true, "noeuds": 3195, "cpu": 0.3, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:46:41 | INFO | Created new scorecard: e05c0c7b-f420-4585-810a-6b35726dd707
+2026-10-20 20:46:41 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:46:42 | INFO | Created new scorecard: 19e4360b-965d-42c8-b6e1-d6df5486c1f4
+2026-10-20 20:46:42 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+[début] langage_paliers ft09 N1 20:46:42
+{"strategie": "langage_but", "jeu": "ft09", "niveau": 1, "gagne": true, "noeuds": 3195, "cpu": 0.5, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:46:42 | INFO | Created new scorecard: 155c0e7e-c238-4b7e-93cb-db430a28208c
+2026-10-20 20:46:42 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:46:42 | INFO | Created new scorecard: 4a1a4104-8154-439a-824f-2888c81aefed
+2026-10-20 20:46:42 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+[début] langage_generique ft09 N1 20:46:42
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+{"strategie": "langage_paliers", "jeu": "ft09", "niveau": 1, "gagne": true, "noeuds": 3132, "cpu": 0.5, "raison": null}
+2026-10-20 20:46:42 | INFO | Created new scorecard: 1d1bc7de-af61-4a70-9d98-4fc78b398779
+2026-10-20 20:46:42 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:46:42 | INFO | Created new scorecard: c71336bf-cb5b-4d89-8a47-c9bfb8332796
+2026-10-20 20:46:42 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+[début] compile_but ft09 N1 20:46:42
+{"strategie": "langage_generique", "jeu": "ft09", "niveau": 1, "gagne": true, "noeuds": 251, "cpu": 0.1, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:46:42 | INFO | Created new scorecard: a0eb43f5-5b78-4cca-8ee3-710a95fa4ef2
+2026-10-20 20:46:42 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:46:43 | INFO | Created new scorecard: ead47cb4-dc1f-43e5-b400-e3cded9e6be1
+2026-10-20 20:46:43 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+[début] iw1 ft09 N1 20:46:43
+{"strategie": "compile_but", "jeu": "ft09", "niveau": 1, "gagne": true, "noeuds": 3195, "cpu": 0.4, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:46:43 | INFO | Created new scorecard: d3d168b4-bb10-4dc0-b88f-4ebf0ddc6d89
+2026-10-20 20:46:43 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+[début] iw2 ft09 N1 20:46:43
+{"strategie": "iw1", "jeu": "ft09", "niveau": 1, "gagne": null, "noeuds": 192, "cpu": 0.0, "raison": "espace épuisé sans issue"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:46:43 | INFO | Created new scorecard: ee9b46ff-a886-497b-97eb-484221d20d2b
+2026-10-20 20:46:43 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+[début] largeur ft09 N1 20:46:43
+{"strategie": "iw2", "jeu": "ft09", "niveau": 1, "gagne": null, "noeuds": 192, "cpu": 0.0, "raison": "espace épuisé sans issue"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:46:43 | INFO | Created new scorecard: e4ac1804-9f21-4a76-8955-7400bde06968
+2026-10-20 20:46:43 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:46:43 | INFO | Created new scorecard: 099b7320-fa82-425b-af61-31931b47cda4
+2026-10-20 20:46:43 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+[début] but ft09 N2 20:46:43
+{"strategie": "largeur", "jeu": "ft09", "niveau": 1, "gagne": true, "noeuds": 3195, "cpu": 0.3, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:46:43 | INFO | Created new scorecard: 53895ee1-e1a8-40d2-85e9-0cfebc2120dc
+2026-10-20 20:46:43 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:46:45 | INFO | Created new scorecard: 018ec274-d41c-42d2-b59d-434b62ff3237
+2026-10-20 20:46:45 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+[début] langage_but ft09 N2 20:46:45
+{"strategie": "but", "jeu": "ft09", "niveau": 2, "gagne": true, "noeuds": 9530, "cpu": 1.9, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:46:45 | INFO | Created new scorecard: 7f907db1-7520-4aa1-8d2d-b9cabda7ad97
+2026-10-20 20:46:45 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:46:47 | INFO | Created new scorecard: bd5c4a6b-c872-4da3-8693-16e57f54ffac
+2026-10-20 20:46:47 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+[début] langage_paliers ft09 N2 20:46:47
+{"strategie": "langage_but", "jeu": "ft09", "niveau": 2, "gagne": true, "noeuds": 9530, "cpu": 1.9, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:46:47 | INFO | Created new scorecard: 3bb9868b-36bf-4a16-9d0f-ecc3ba694b33
+2026-10-20 20:46:47 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:46:49 | INFO | Created new scorecard: 6f0219f9-4c2a-4b70-ba59-7b87de80583f
+2026-10-20 20:46:49 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+[début] langage_generique ft09 N2 20:46:49
+{"strategie": "langage_paliers", "jeu": "ft09", "niveau": 2, "gagne": true, "noeuds": 9725, "cpu": 2.1, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:46:49 | INFO | Created new scorecard: 8699cd2d-01a9-41a9-9bd1-df0cb2414a6d
+2026-10-20 20:46:49 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:46:49 | INFO | Created new scorecard: ba689c94-3f48-4b5d-8b29-490e243ef9e3
+2026-10-20 20:46:49 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+[début] compile_but ft09 N2 20:46:49
+{"strategie": "langage_generique", "jeu": "ft09", "niveau": 2, "gagne": true, "noeuds": 194, "cpu": 0.3, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:46:49 | INFO | Created new scorecard: 0ebcb5bb-0a29-4f46-a8ca-fff935d6a035
+2026-10-20 20:46:49 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:46:55 | INFO | Created new scorecard: 9d80bc81-a764-42e1-adc0-dca7c35278db
+2026-10-20 20:46:55 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+[début] iw1 ft09 N2 20:46:55
+{"strategie": "compile_but", "jeu": "ft09", "niveau": 2, "gagne": true, "noeuds": 30866, "cpu": 6.2, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:46:55 | INFO | Created new scorecard: c3c59613-c9ed-4619-8429-a0a0e1111127
+2026-10-20 20:46:55 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+[début] iw2 ft09 N2 20:46:55
+{"strategie": "iw1", "jeu": "ft09", "niveau": 2, "gagne": null, "noeuds": 84, "cpu": 0.0, "raison": "espace épuisé sans issue"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:46:56 | INFO | Created new scorecard: b96294b1-3067-4227-8fcb-5b790149919e
+2026-10-20 20:46:56 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+[début] largeur ft09 N2 20:46:56
+{"strategie": "iw2", "jeu": "ft09", "niveau": 2, "gagne": null, "noeuds": 84, "cpu": 0.0, "raison": "espace épuisé sans issue"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:46:56 | INFO | Created new scorecard: a20d9aef-0723-45d5-aaf7-e1768c522490
+2026-10-20 20:46:56 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:47:08 | INFO | Created new scorecard: 3f73c0de-8bbc-4d87-b1d2-3c699794831c
+2026-10-20 20:47:08 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+[début] but ft09 N3 20:47:08
+{"strategie": "largeur", "jeu": "ft09", "niveau": 2, "gagne": true, "noeuds": 82038, "cpu": 12.0, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:47:08 | INFO | Created new scorecard: f1f3ca5e-8a24-44cb-841d-573119863364
+2026-10-20 20:47:08 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:47:28 | INFO | Created new scorecard: 0716ffd9-9135-4aee-af42-0f5ec83e66d9
+2026-10-20 20:47:28 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+[début] langage_but ft09 N3 20:47:28
+{"strategie": "but", "jeu": "ft09", "niveau": 3, "gagne": true, "noeuds": 66899, "cpu": 20.4, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:47:28 | INFO | Created new scorecard: 9b4c0ead-19c5-43ac-90ef-a7d7f982fda8
+2026-10-20 20:47:28 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:47:40 | INFO | Created new scorecard: 0c8910e7-0cb6-4fa5-ae98-a55209ad5a47
+2026-10-20 20:47:40 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+[début] langage_paliers ft09 N3 20:47:40
+{"strategie": "compile_but", "jeu": "dc22", "niveau": 4, "gagne": true, "noeuds": 109224, "cpu": 95.5, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:47:40 | INFO | Created new scorecard: 18267cbf-0306-4c1a-a251-00a80f3cf975
+2026-10-20 20:47:40 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+2026-10-20 20:47:40 | INFO | Successfully loaded game class Ft09 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ft09/0d8bbf25/ft09.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:47:52 | INFO | Created new scorecard: 85de02b4-7f39-40c5-9cbf-995bf3dba746
+2026-10-20 20:47:52 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+[début] langage_generique ft09 N3 20:47:52
+{"strategie": "langage_but", "jeu": "ft09", "niveau": 3, "gagne": true, "noeuds": 66899, "cpu": 23.7, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:47:52 | INFO | Created new scorecard: 2adff015-8468-4b48-a887-3614747ef9b6
+2026-10-20 20:47:52 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:47:53 | INFO | Created new scorecard: 51bbcca8-609f-46b8-b0d2-295a80826187
+2026-10-20 20:47:53 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+[début] compile_but ft09 N3 20:47:53
+{"strategie": "langage_generique", "jeu": "ft09", "niveau": 3, "gagne": true, "noeuds": 699, "cpu": 1.7, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:47:53 | INFO | Created new scorecard: a1d8bc77-c0ea-4cb5-8e5c-148a2e61a217
+2026-10-20 20:47:53 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:48:42 | INFO | Created new scorecard: 7c4e60c8-be14-46ea-883d-14e29a57c541
+2026-10-20 20:48:42 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+[début] iw1 ft09 N3 20:48:42
+{"strategie": "langage_paliers", "jeu": "ft09", "niveau": 3, "gagne": true, "noeuds": 179183, "cpu": 62.1, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:48:42 | INFO | Created new scorecard: 87e76da9-a511-4761-909b-88c96835037a
+2026-10-20 20:48:42 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+[début] iw2 ft09 N3 20:48:42
+{"strategie": "iw1", "jeu": "ft09", "niveau": 3, "gagne": null, "noeuds": 150, "cpu": 0.1, "raison": "espace épuisé sans issue"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:48:42 | INFO | Created new scorecard: 67ba62d1-0510-4619-b505-866582fe94cc
+2026-10-20 20:48:42 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+[début] largeur ft09 N3 20:48:42
+{"strategie": "iw2", "jeu": "ft09", "niveau": 3, "gagne": null, "noeuds": 150, "cpu": 0.1, "raison": "espace épuisé sans issue"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:48:42 | INFO | Created new scorecard: d007887b-8881-4d6c-8f4b-cacba40d28ef
+2026-10-20 20:48:42 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+[début] but g50t N1 20:48:59
+{"strategie": "compile_but", "jeu": "ft09", "niveau": 3, "gagne": null, "noeuds": 200000, "cpu": 65.5, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:48:59 | INFO | Created new scorecard: aae9454a-0a7f-4070-a57b-f02d44d0ff54
+2026-10-20 20:48:59 | INFO | Found latest version of g50t: g50t-5849a774 (downloaded: 2026-09-30 05:48:19.053741+00:00)
+2026-10-20 20:48:59 | INFO | Successfully loaded game class G50t from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/g50t/5849a774/g50t.py
+[début] langage_but g50t N1 20:49:07
+{"strategie": "langage_generique", "jeu": "dc22", "niveau": 4, "gagne": null, "noeuds": 89263, "cpu": 301.5, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:49:07 | INFO | Created new scorecard: bd519cce-92e0-45a0-84cb-07a4588ca9f5
+2026-10-20 20:49:07 | INFO | Found latest version of g50t: g50t-5849a774 (downloaded: 2026-09-30 05:48:19.053741+00:00)
+2026-10-20 20:49:07 | INFO | Successfully loaded game class G50t from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/g50t/5849a774/g50t.py
+[début] langage_paliers g50t N1 20:49:13
+{"strategie": "largeur", "jeu": "dc22", "niveau": 4, "gagne": null, "noeuds": 200036, "cpu": 161.0, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:49:13 | INFO | Created new scorecard: 9b750f59-a591-47a4-b556-0a9f6e55ad14
+2026-10-20 20:49:13 | INFO | Found latest version of g50t: g50t-5849a774 (downloaded: 2026-09-30 05:48:19.053741+00:00)
+2026-10-20 20:49:14 | INFO | Successfully loaded game class G50t from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/g50t/5849a774/g50t.py
+[début] langage_generique g50t N1 20:49:35
+{"strategie": "largeur", "jeu": "ft09", "niveau": 3, "gagne": null, "noeuds": 200000, "cpu": 52.2, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:49:35 | INFO | Created new scorecard: b77707bb-2746-4db6-b001-5603eab2f9d0
+2026-10-20 20:49:35 | INFO | Found latest version of g50t: g50t-5849a774 (downloaded: 2026-09-30 05:48:19.053741+00:00)
+2026-10-20 20:49:35 | INFO | Successfully loaded game class G50t from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/g50t/5849a774/g50t.py
+[début] compile_but g50t N1 20:49:37
+{"strategie": "but", "jeu": "g50t", "niveau": 1, "gagne": null, "noeuds": 200000, "cpu": 37.9, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:49:37 | INFO | Created new scorecard: 97c05842-dd0b-4e79-ac5c-2e184adfd3c0
+2026-10-20 20:49:37 | INFO | Found latest version of g50t: g50t-5849a774 (downloaded: 2026-09-30 05:48:19.053741+00:00)
+[début] iw1 g50t N1 20:50:03
+{"strategie": "langage_but", "jeu": "g50t", "niveau": 1, "gagne": null, "noeuds": 200000, "cpu": 55.6, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:50:03 | INFO | Created new scorecard: 594c610d-e72d-49d3-8637-ef2f49785013
+2026-10-20 20:50:03 | INFO | Found latest version of g50t: g50t-5849a774 (downloaded: 2026-09-30 05:48:19.053741+00:00)
+[début] iw2 g50t N1 20:50:10
+{"strategie": "langage_paliers", "jeu": "g50t", "niveau": 1, "gagne": null, "noeuds": 200001, "cpu": 56.3, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:50:10 | INFO | Created new scorecard: 3de5b102-edc4-4ff3-9317-268f8c2aee5c
+2026-10-20 20:50:10 | INFO | Found latest version of g50t: g50t-5849a774 (downloaded: 2026-09-30 05:48:19.053741+00:00)
+[début] largeur g50t N1 20:50:20
+{"strategie": "compile_but", "jeu": "g50t", "niveau": 1, "gagne": null, "noeuds": 200000, "cpu": 42.7, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:50:20 | INFO | Created new scorecard: 0b1e6f12-8737-4e60-9489-77b68ca1a5f3
+2026-10-20 20:50:20 | INFO | Found latest version of g50t: g50t-5849a774 (downloaded: 2026-09-30 05:48:19.053741+00:00)
+[début] but g50t N2 20:50:42
+{"strategie": "iw1", "jeu": "g50t", "niveau": 1, "gagne": null, "noeuds": 200000, "cpu": 39.1, "raison": "budget épuisé"}
+[début] langage_but g50t N2 20:50:42
+{"strategie": "but", "jeu": "g50t", "niveau": 2, "gagne": null, "noeuds": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+[début] langage_paliers g50t N2 20:50:42
+{"strategie": "langage_but", "jeu": "g50t", "niveau": 2, "gagne": null, "noeuds": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+[début] langage_generique g50t N2 20:50:42
+{"strategie": "langage_paliers", "jeu": "g50t", "niveau": 2, "gagne": null, "noeuds": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+[début] compile_but g50t N2 20:50:42
+{"strategie": "langage_generique", "jeu": "g50t", "niveau": 2, "gagne": null, "noeuds": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+[début] iw1 g50t N2 20:50:42
+{"strategie": "compile_but", "jeu": "g50t", "niveau": 2, "gagne": null, "noeuds": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+[début] iw2 g50t N2 20:50:42
+{"strategie": "iw1", "jeu": "g50t", "niveau": 2, "gagne": null, "noeuds": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+[début] largeur g50t N2 20:50:42
+{"strategie": "iw2", "jeu": "g50t", "niveau": 2, "gagne": null, "noeuds": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+[début] but g50t N3 20:50:42
+{"strategie": "largeur", "jeu": "g50t", "niveau": 2, "gagne": null, "noeuds": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+[début] langage_but g50t N3 20:50:42
+{"strategie": "but", "jeu": "g50t", "niveau": 3, "gagne": null, "noeuds": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+[début] langage_paliers g50t N3 20:50:42
+{"strategie": "langage_but", "jeu": "g50t", "niveau": 3, "gagne": null, "noeuds": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+[début] langage_generique g50t N3 20:50:42
+{"strategie": "langage_paliers", "jeu": "g50t", "niveau": 3, "gagne": null, "noeuds": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+[début] compile_but g50t N3 20:50:42
+{"strategie": "langage_generique", "jeu": "g50t", "niveau": 3, "gagne": null, "noeuds": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+[début] iw1 g50t N3 20:50:42
+{"strategie": "compile_but", "jeu": "g50t", "niveau": 3, "gagne": null, "noeuds": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+[début] iw2 g50t N3 20:50:42
+{"strategie": "iw1", "jeu": "g50t", "niveau": 3, "gagne": null, "noeuds": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+[début] largeur g50t N3 20:50:42
+{"strategie": "iw2", "jeu": "g50t", "niveau": 3, "gagne": null, "noeuds": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+[début] but ka59 N1 20:50:42
+{"strategie": "largeur", "jeu": "g50t", "niveau": 3, "gagne": null, "noeuds": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:50:42 | INFO | Created new scorecard: d69c49b2-f604-4400-ba1d-5f6162a2a8e8
+2026-10-20 20:50:42 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+2026-10-20 20:50:42 | INFO | Successfully loaded game class Ka59 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ka59/38d34dbb/ka59.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:50:48 | INFO | Created new scorecard: fd573055-a271-47df-9282-faab210352a5
+2026-10-20 20:50:48 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+[début] langage_but ka59 N1 20:50:48
+{"strategie": "but", "jeu": "ka59", "niveau": 1, "gagne": true, "noeuds": 101357, "cpu": 6.1, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:50:49 | INFO | Created new scorecard: 078d8083-afae-4efc-9bdf-d7dcc5a427fa
+2026-10-20 20:50:49 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+[début] langage_paliers ka59 N1 20:50:49
+{"strategie": "iw2", "jeu": "g50t", "niveau": 1, "gagne": null, "noeuds": 200000, "cpu": 39.2, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:50:49 | INFO | Created new scorecard: 67fe423d-7720-4603-a6b6-f5d5250a188d
+2026-10-20 20:50:49 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+2026-10-20 20:50:49 | INFO | Successfully loaded game class Ka59 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ka59/38d34dbb/ka59.py
+[début] langage_generique ka59 N1 20:50:56
+{"strategie": "largeur", "jeu": "g50t", "niveau": 1, "gagne": null, "noeuds": 200000, "cpu": 35.6, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:50:56 | INFO | Created new scorecard: 13adde85-c73a-4e3a-b618-48345a3394f0
+2026-10-20 20:50:56 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+2026-10-20 20:50:56 | INFO | Successfully loaded game class Ka59 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ka59/38d34dbb/ka59.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:50:58 | INFO | Created new scorecard: 59cf6d64-e361-435d-81ee-9428386ac8d9
+2026-10-20 20:50:58 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+[début] compile_but ka59 N1 20:50:58
+{"strategie": "langage_but", "jeu": "ka59", "niveau": 1, "gagne": true, "noeuds": 101357, "cpu": 9.4, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:50:58 | INFO | Created new scorecard: b23cb786-7876-4fee-bbec-ac50b292eb79
+2026-10-20 20:50:58 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+[début] iw1 ka59 N1 20:50:58
+{"strategie": "langage_generique", "jeu": "ka59", "niveau": 1, "gagne": null, "noeuds": null, "cpu": 2.4, "raison": "erreur ValueError: ('CLICK', 30, 43) is not in list"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:50:58 | INFO | Created new scorecard: cf637196-46c9-4c68-ab5d-71aadb48bb7d
+2026-10-20 20:50:58 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:51:03 | INFO | Created new scorecard: 5c362624-b4a2-4cd6-9fdd-609c898feabe
+2026-10-20 20:51:03 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+[début] iw2 ka59 N1 20:51:03
+{"strategie": "iw1", "jeu": "ka59", "niveau": 1, "gagne": true, "noeuds": 56696, "cpu": 5.4, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:51:03 | INFO | Created new scorecard: 22b31245-7742-4585-b54a-9cd61e3d31c0
+2026-10-20 20:51:03 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+[début] largeur ka59 N1 20:51:06
+{"strategie": "langage_paliers", "jeu": "ka59", "niveau": 1, "gagne": null, "noeuds": 200009, "cpu": 16.8, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:51:06 | INFO | Created new scorecard: c46eab55-9dae-4eb6-80e9-f246efda4fee
+2026-10-20 20:51:06 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+[début] but ka59 N2 20:51:13
+{"strategie": "compile_but", "jeu": "ka59", "niveau": 1, "gagne": null, "noeuds": 200005, "cpu": 15.3, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:51:13 | INFO | Created new scorecard: de68fc7b-9c59-44aa-b044-bfffd398ba02
+2026-10-20 20:51:13 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+[début] langage_but ka59 N2 20:51:19
+{"strategie": "largeur", "jeu": "ka59", "niveau": 1, "gagne": null, "noeuds": 200005, "cpu": 12.9, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:51:19 | INFO | Created new scorecard: 9bbd1ef2-a162-4b30-87f4-fd7101e3bcdf
+2026-10-20 20:51:19 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+[début] langage_paliers ka59 N2 20:51:21
+{"strategie": "iw2", "jeu": "ka59", "niveau": 1, "gagne": null, "noeuds": 200005, "cpu": 17.4, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:51:21 | INFO | Created new scorecard: fca333eb-57df-4aae-ad43-37a8a50f5ae0
+2026-10-20 20:51:21 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+[début] langage_generique ka59 N2 20:51:38
+{"strategie": "but", "jeu": "ka59", "niveau": 2, "gagne": null, "noeuds": 200000, "cpu": 24.8, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:51:38 | INFO | Created new scorecard: 7522cbcc-a8c0-4d0f-b4e5-884147842cf8
+2026-10-20 20:51:38 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+[début] compile_but ka59 N2 20:51:49
+{"strategie": "langage_but", "jeu": "ka59", "niveau": 2, "gagne": null, "noeuds": 200000, "cpu": 29.9, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:51:49 | INFO | Created new scorecard: 56d6c17b-7c47-42a8-b5cf-c989e5357611
+2026-10-20 20:51:49 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+[début] iw1 ka59 N2 20:51:50
+{"strategie": "langage_paliers", "jeu": "ka59", "niveau": 2, "gagne": null, "noeuds": 200005, "cpu": 29.5, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:51:50 | INFO | Created new scorecard: 691089f8-27c3-4554-97d1-c47a5efd5768
+2026-10-20 20:51:50 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+[début] iw2 ka59 N2 20:52:17
+{"strategie": "langage_generique", "jeu": "g50t", "niveau": 1, "gagne": null, "noeuds": 200000, "cpu": 161.9, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:52:17 | INFO | Created new scorecard: e4d8f35d-c06a-4fdc-86e4-c4f10496cf6a
+2026-10-20 20:52:17 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+2026-10-20 20:52:17 | INFO | Successfully loaded game class Ka59 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ka59/38d34dbb/ka59.py
+[début] largeur ka59 N2 20:52:19
+{"strategie": "compile_but", "jeu": "ka59", "niveau": 2, "gagne": null, "noeuds": 200000, "cpu": 30.4, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:52:19 | INFO | Created new scorecard: 791f1068-a789-4a7d-bf35-ea07c12513c4
+2026-10-20 20:52:19 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+[début] but ka59 N3 20:52:27
+{"strategie": "iw1", "jeu": "ka59", "niveau": 2, "gagne": null, "noeuds": 200000, "cpu": 36.9, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:52:27 | INFO | Created new scorecard: ab9871f4-f786-4239-90ed-3515432ad267
+2026-10-20 20:52:27 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:52:32 | INFO | Created new scorecard: fdeae713-eea2-4a12-a1bb-21357f939a6f
+2026-10-20 20:52:32 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+[début] langage_but ka59 N3 20:52:33
+{"strategie": "but", "jeu": "ka59", "niveau": 3, "gagne": true, "noeuds": 81397, "cpu": 5.3, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:52:33 | INFO | Created new scorecard: 114747cf-6a1c-4699-9da6-ba05e3e752f3
+2026-10-20 20:52:33 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:52:40 | INFO | Created new scorecard: 415599ea-374b-4e2e-b9a0-42a36cc02532
+2026-10-20 20:52:40 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+[début] langage_paliers ka59 N3 20:52:40
+{"strategie": "langage_but", "jeu": "ka59", "niveau": 3, "gagne": true, "noeuds": 81397, "cpu": 7.4, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:52:40 | INFO | Created new scorecard: 7e1461af-68be-46fc-be3f-167358901b04
+2026-10-20 20:52:40 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+[début] langage_generique ka59 N3 20:52:43
+{"strategie": "largeur", "jeu": "ka59", "niveau": 2, "gagne": null, "noeuds": 200000, "cpu": 23.9, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:52:43 | INFO | Created new scorecard: 79fe34b3-49ea-4bba-9cba-361fcb6b49be
+2026-10-20 20:52:43 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+[début] compile_but ka59 N3 20:52:49
+{"strategie": "iw2", "jeu": "ka59", "niveau": 2, "gagne": null, "noeuds": 200000, "cpu": 31.8, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:52:49 | INFO | Created new scorecard: 08d8067e-1569-48e6-99fd-26e89cf8c98b
+2026-10-20 20:52:49 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:52:50 | INFO | Created new scorecard: e46803d9-cfeb-4e58-882d-47f55f9baebc
+2026-10-20 20:52:50 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+[début] iw1 ka59 N3 20:52:50
+{"strategie": "langage_generique", "jeu": "ka59", "niveau": 3, "gagne": true, "noeuds": 18834, "cpu": 6.6, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:52:50 | INFO | Created new scorecard: d4f1c397-0919-4742-bbea-8bfdebf6b2df
+2026-10-20 20:52:50 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+[début] iw2 ka59 N3 20:52:57
+{"strategie": "langage_paliers", "jeu": "ka59", "niveau": 3, "gagne": null, "noeuds": 200000, "cpu": 16.8, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:52:57 | INFO | Created new scorecard: 3e08d2a3-8a70-4d91-8fb4-4bd5a3f9bcae
+2026-10-20 20:52:57 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+[début] largeur ka59 N3 20:53:06
+{"strategie": "compile_but", "jeu": "ka59", "niveau": 3, "gagne": null, "noeuds": 200005, "cpu": 17.4, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:53:06 | INFO | Created new scorecard: 9140ddf8-c029-4473-a52b-8b45c7fc0b38
+2026-10-20 20:53:06 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+[début] but ka59 N4 20:53:15
+{"strategie": "langage_generique", "jeu": "ka59", "niveau": 2, "gagne": null, "noeuds": null, "cpu": 97.1, "raison": "erreur ValueError: ('CLICK', 44, 15) is not in list"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:53:15 | INFO | Created new scorecard: 3f7b76e5-125d-4a60-9d26-1e1756d89707
+2026-10-20 20:53:15 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+[début] langage_but ka59 N4 20:53:19
+{"strategie": "largeur", "jeu": "ka59", "niveau": 3, "gagne": null, "noeuds": 200005, "cpu": 12.7, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:53:19 | INFO | Created new scorecard: 39539ac1-9c1d-44a4-a8f6-0ad78fd6af65
+2026-10-20 20:53:19 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+[début] langage_paliers ka59 N4 20:53:21
+{"strategie": "iw2", "jeu": "ka59", "niveau": 3, "gagne": null, "noeuds": 200005, "cpu": 24.2, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:53:21 | INFO | Created new scorecard: a439e8bd-362b-4988-9f46-f34062476333
+2026-10-20 20:53:21 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:53:23 | INFO | Created new scorecard: 29891c71-b250-4a7a-8a97-387bdf42600a
+2026-10-20 20:53:23 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+[début] langage_generique ka59 N4 20:53:23
+{"strategie": "iw1", "jeu": "ka59", "niveau": 3, "gagne": true, "noeuds": 192560, "cpu": 33.3, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:53:23 | INFO | Created new scorecard: 5d4b2d7d-1409-4134-8288-201c8b9e9e47
+2026-10-20 20:53:23 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+[début] compile_but ka59 N4 20:53:31
+{"strategie": "but", "jeu": "ka59", "niveau": 4, "gagne": null, "noeuds": 200013, "cpu": 15.6, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:53:31 | INFO | Created new scorecard: b50354e7-bd30-4189-b2a1-c91dcfa0cf6c
+2026-10-20 20:53:31 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+[début] iw1 ka59 N4 20:53:38
+{"strategie": "langage_but", "jeu": "ka59", "niveau": 4, "gagne": null, "noeuds": 200013, "cpu": 19.3, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:53:38 | INFO | Created new scorecard: 787204c2-15c6-49cd-92a5-d4e89fef01ed
+2026-10-20 20:53:38 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+[début] iw2 ka59 N4 20:53:41
+{"strategie": "langage_paliers", "jeu": "ka59", "niveau": 4, "gagne": null, "noeuds": 200014, "cpu": 19.9, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:53:41 | INFO | Created new scorecard: e5d7e9d8-8171-49f1-a2b8-10079c16f9b1
+2026-10-20 20:53:41 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+[début] largeur ka59 N4 20:53:49
+{"strategie": "compile_but", "jeu": "ka59", "niveau": 4, "gagne": null, "noeuds": 200013, "cpu": 18.2, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:53:49 | INFO | Created new scorecard: 3b862b8b-109d-4b5d-998b-5a82104ccb33
+2026-10-20 20:53:49 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+[début] but lf52 N1 20:54:02
+{"strategie": "langage_generique", "jeu": "ka59", "niveau": 4, "gagne": null, "noeuds": null, "cpu": 39.0, "raison": "erreur ValueError: ('CLICK', 47, 39) is not in list"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:54:02 | INFO | Created new scorecard: 7af06b2d-5d7e-4f36-a55b-aefcef762e83
+2026-10-20 20:54:02 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+2026-10-20 20:54:02 | INFO | Successfully loaded game class Lf52 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/lf52/271a04aa/lf52.py
+[début] langage_but lf52 N1 20:54:03
+{"strategie": "iw2", "jeu": "ka59", "niveau": 4, "gagne": null, "noeuds": 200013, "cpu": 21.7, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:54:03 | INFO | Created new scorecard: 0853306d-09cd-415f-bcbf-c59dea03aed9
+2026-10-20 20:54:03 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+2026-10-20 20:54:03 | INFO | Successfully loaded game class Lf52 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/lf52/271a04aa/lf52.py
+[début] langage_paliers lf52 N1 20:54:04
+{"strategie": "iw1", "jeu": "ka59", "niveau": 4, "gagne": null, "noeuds": 200013, "cpu": 25.9, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:54:04 | INFO | Created new scorecard: 09126186-8fbf-430e-8581-0346114abe95
+2026-10-20 20:54:04 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+2026-10-20 20:54:04 | INFO | Successfully loaded game class Lf52 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/lf52/271a04aa/lf52.py
+[début] langage_generique lf52 N1 20:54:05
+{"strategie": "largeur", "jeu": "ka59", "niveau": 4, "gagne": null, "noeuds": 200013, "cpu": 15.3, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:54:05 | INFO | Created new scorecard: df6ebf60-1978-47ed-95a8-935df47b39a7
+2026-10-20 20:54:05 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+2026-10-20 20:54:05 | INFO | Successfully loaded game class Lf52 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/lf52/271a04aa/lf52.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:54:05 | INFO | Created new scorecard: 820a4fcd-87b5-4106-b8b7-45367b057c6c
+2026-10-20 20:54:05 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+[début] compile_but lf52 N1 20:54:05
+{"strategie": "langage_but", "jeu": "lf52", "niveau": 1, "gagne": true, "noeuds": 4469, "cpu": 2.3, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:54:05 | INFO | Created new scorecard: f89bd8d3-2139-4d0d-beb3-c14cc9d31667
+2026-10-20 20:54:05 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:54:06 | INFO | Created new scorecard: 6cf47d1b-7e4f-42b6-a16d-2c0b657824ab
+2026-10-20 20:54:06 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+[début] iw1 lf52 N1 20:54:06
+{"strategie": "langage_paliers", "jeu": "lf52", "niveau": 1, "gagne": true, "noeuds": 3021, "cpu": 1.7, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:54:06 | INFO | Created new scorecard: 046735ae-0f83-4976-9d8d-074684bf8e84
+2026-10-20 20:54:06 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:54:07 | INFO | Created new scorecard: 36b8ec12-de9a-48d1-95f3-6fe0cdd9d303
+2026-10-20 20:54:07 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+[début] iw2 lf52 N1 20:54:07
+{"strategie": "compile_but", "jeu": "lf52", "niveau": 1, "gagne": true, "noeuds": 5225, "cpu": 2.4, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:54:07 | INFO | Created new scorecard: 5f1d4cda-55fe-46f9-bd00-314505324951
+2026-10-20 20:54:07 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:54:08 | INFO | Created new scorecard: 7f114721-b858-413f-8c5f-0b55b1fc014f
+2026-10-20 20:54:08 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+[début] largeur lf52 N1 20:54:08
+{"strategie": "iw1", "jeu": "lf52", "niveau": 1, "gagne": true, "noeuds": 6044, "cpu": 2.7, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:54:08 | INFO | Created new scorecard: 3df31e5f-9c1f-44ee-9a5e-8f507e1b65e7
+2026-10-20 20:54:08 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+[début] but lf52 N2 20:55:30
+{"strategie": "but", "jeu": "lf52", "niveau": 1, "gagne": null, "noeuds": 200025, "cpu": 87.4, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:55:30 | INFO | Created new scorecard: 54252346-80aa-45a1-aeeb-d46738da7880
+2026-10-20 20:55:30 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+[début] langage_but lf52 N2 20:55:35
+{"strategie": "largeur", "jeu": "lf52", "niveau": 1, "gagne": null, "noeuds": 200025, "cpu": 86.1, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:55:35 | INFO | Created new scorecard: 479c1d13-f33c-4e0a-9e29-4d54c9f26dee
+2026-10-20 20:55:35 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+[début] langage_paliers lf52 N2 20:55:37
+{"strategie": "iw2", "jeu": "lf52", "niveau": 1, "gagne": null, "noeuds": 200025, "cpu": 88.9, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:55:37 | INFO | Created new scorecard: 24685998-cd85-4da0-bfc6-a0d870cc6eb4
+2026-10-20 20:55:37 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+[début] langage_generique lf52 N2 20:56:00
+{"strategie": "langage_but", "jeu": "lf52", "niveau": 2, "gagne": null, "noeuds": 53253, "cpu": 24.9, "raison": "espace épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:56:00 | INFO | Created new scorecard: 9fc6a449-dae6-4fea-ab12-cb4995c8f43e
+2026-10-20 20:56:00 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+[début] compile_but lf52 N2 20:56:01
+{"strategie": "langage_paliers", "jeu": "lf52", "niveau": 2, "gagne": null, "noeuds": 51180, "cpu": 24.9, "raison": "palier introuvable"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:56:01 | INFO | Created new scorecard: f4ee4132-afea-4dd3-8309-d4d814141087
+2026-10-20 20:56:01 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+[début] iw1 lf52 N2 20:56:19
+{"strategie": "langage_generique", "jeu": "lf52", "niveau": 1, "gagne": null, "noeuds": 200000, "cpu": 134.5, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:56:19 | INFO | Created new scorecard: 3e0bda11-0a28-4ceb-a839-7089a10da46d
+2026-10-20 20:56:19 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+[début] iw2 lf52 N2 20:56:26
+{"strategie": "compile_but", "jeu": "lf52", "niveau": 2, "gagne": null, "noeuds": 53253, "cpu": 24.9, "raison": "espace épuisé sans issue"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:56:26 | INFO | Created new scorecard: 4a10f24d-abe2-4539-beb4-0180811f0a1f
+2026-10-20 20:56:26 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+[début] largeur lf52 N2 20:57:01
+{"strategie": "but", "jeu": "lf52", "niveau": 2, "gagne": null, "noeuds": 200019, "cpu": 90.4, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:57:01 | INFO | Created new scorecard: 32557af2-5df7-4f1e-89bf-84c3cf83c0e1
+2026-10-20 20:57:01 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+[début] but lf52 N3 20:57:59
+{"strategie": "iw2", "jeu": "lf52", "niveau": 2, "gagne": null, "noeuds": 200019, "cpu": 92.1, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:57:59 | INFO | Created new scorecard: d74d328a-55d5-4d30-86ee-d7c62e92bc45
+2026-10-20 20:57:59 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+[début] langage_but lf52 N3 20:58:18
+{"strategie": "langage_generique", "jeu": "lf52", "niveau": 2, "gagne": null, "noeuds": 200000, "cpu": 137.5, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:58:18 | INFO | Created new scorecard: 69496c2b-61fa-4207-914c-370ef2021109
+2026-10-20 20:58:18 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+[début] langage_paliers lf52 N3 20:58:30
+{"strategie": "largeur", "jeu": "lf52", "niveau": 2, "gagne": null, "noeuds": 200019, "cpu": 89.3, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:58:31 | INFO | Created new scorecard: 22a13cba-dec9-4fa0-937e-00cfb393567b
+2026-10-20 20:58:31 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+[début] langage_generique lf52 N3 20:59:44
+{"strategie": "langage_but", "jeu": "lf52", "niveau": 3, "gagne": null, "noeuds": 131787, "cpu": 86.4, "raison": "espace épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:59:45 | INFO | Created new scorecard: 55501672-a2ee-4dc6-8525-dee877e37507
+2026-10-20 20:59:45 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+[début] compile_but lf52 N3 20:59:55
+{"strategie": "langage_paliers", "jeu": "lf52", "niveau": 3, "gagne": null, "noeuds": 128953, "cpu": 84.7, "raison": "palier introuvable"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 20:59:56 | INFO | Created new scorecard: fd5b9eb2-a000-456f-ab04-b4c9f293e282
+2026-10-20 20:59:56 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+[début] iw1 lf52 N3 21:00:03
+{"strategie": "but", "jeu": "lf52", "niveau": 3, "gagne": null, "noeuds": 200070, "cpu": 123.5, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:00:03 | INFO | Created new scorecard: 77db5fe3-4f0d-4731-b12d-c92ac077b39f
+2026-10-20 21:00:03 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+[début] iw2 lf52 N3 21:00:29
+{"strategie": "iw1", "jeu": "lf52", "niveau": 2, "gagne": null, "noeuds": 200019, "cpu": 248.6, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:00:29 | INFO | Created new scorecard: cc18285d-7ff2-4beb-b0d1-10da94c42324
+2026-10-20 21:00:29 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+[début] largeur lf52 N3 21:01:21
+{"strategie": "compile_but", "jeu": "lf52", "niveau": 3, "gagne": null, "noeuds": 131787, "cpu": 84.9, "raison": "espace épuisé sans issue"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:01:21 | INFO | Created new scorecard: 4451abb8-d8c0-4e45-b013-4d94ff08bb99
+2026-10-20 21:01:21 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+[début] but lp85 N1 21:02:38
+{"strategie": "iw2", "jeu": "lf52", "niveau": 3, "gagne": null, "noeuds": 200070, "cpu": 128.5, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:02:38 | INFO | Created new scorecard: f7f4616d-877d-4dce-b26f-b16c0d4152a2
+2026-10-20 21:02:38 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+2026-10-20 21:02:38 | INFO | Successfully loaded game class Lp85 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/lp85/305b61c3/lp85.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:02:38 | INFO | Created new scorecard: ee871868-ba1c-4808-9864-e47562c8ab62
+2026-10-20 21:02:38 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+[début] langage_but lp85 N1 21:02:38
+{"strategie": "but", "jeu": "lp85", "niveau": 1, "gagne": true, "noeuds": 431, "cpu": 0.1, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:02:38 | INFO | Created new scorecard: d23067fa-3c3b-4fad-aad3-468a60d64634
+2026-10-20 21:02:38 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:02:38 | INFO | Created new scorecard: ce52ca29-3b03-4aaf-9e8c-2c16d6351614
+2026-10-20 21:02:38 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+[début] langage_paliers lp85 N1 21:02:38
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+{"strategie": "langage_but", "jeu": "lp85", "niveau": 1, "gagne": true, "noeuds": 431, "cpu": 0.2, "raison": null}
+2026-10-20 21:02:38 | INFO | Created new scorecard: e70bf1c9-73af-415e-b213-9a028a8da09e
+2026-10-20 21:02:38 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:02:38 | INFO | Created new scorecard: bc881c76-9719-4bc5-8fa7-7e85f1088f0c
+2026-10-20 21:02:38 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+[début] langage_generique lp85 N1 21:02:38
+{"strategie": "langage_paliers", "jeu": "lp85", "niveau": 1, "gagne": true, "noeuds": 395, "cpu": 0.2, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:02:38 | INFO | Created new scorecard: c20f2436-3538-44ba-b5f1-3cebb40bca2e
+2026-10-20 21:02:38 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:02:39 | INFO | Created new scorecard: b7fb5b33-09a0-4072-819c-929d104c030c
+2026-10-20 21:02:39 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+[début] compile_but lp85 N1 21:02:39
+{"strategie": "langage_generique", "jeu": "lp85", "niveau": 1, "gagne": true, "noeuds": 453, "cpu": 0.2, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:02:39 | INFO | Created new scorecard: 6065c7f8-40c7-48c3-88d0-9ce702b2a17d
+2026-10-20 21:02:39 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:02:39 | INFO | Created new scorecard: 8ae48e74-5dac-4807-8287-09d05fc56606
+2026-10-20 21:02:39 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+[début] iw1 lp85 N1 21:02:39
+{"strategie": "compile_but", "jeu": "lp85", "niveau": 1, "gagne": true, "noeuds": 431, "cpu": 0.1, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:02:39 | INFO | Created new scorecard: 0688edfe-130d-4b6d-9f97-c3f34cafe90f
+2026-10-20 21:02:39 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:02:39 | INFO | Created new scorecard: 3488ef37-4336-40b8-aa1a-3667f2e9806c
+2026-10-20 21:02:39 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+[début] iw2 lp85 N1 21:02:39
+{"strategie": "iw1", "jeu": "lp85", "niveau": 1, "gagne": true, "noeuds": 320, "cpu": 0.1, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:02:39 | INFO | Created new scorecard: a90cf9eb-9e10-4896-846f-f2652f55cc0b
+2026-10-20 21:02:39 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:02:39 | INFO | Created new scorecard: 10792579-63d3-48e5-9ea0-3e78aee4d0f8
+2026-10-20 21:02:39 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+[début] largeur lp85 N1 21:02:39
+{"strategie": "iw2", "jeu": "lp85", "niveau": 1, "gagne": true, "noeuds": 394, "cpu": 0.1, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:02:39 | INFO | Created new scorecard: 52421c44-fe9a-48cd-a618-91361b88772b
+2026-10-20 21:02:39 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:02:39 | INFO | Created new scorecard: 900f6e67-acb6-4376-bdad-3af36396562b
+2026-10-20 21:02:39 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+[début] but lp85 N2 21:02:39
+{"strategie": "largeur", "jeu": "lp85", "niveau": 1, "gagne": true, "noeuds": 431, "cpu": 0.1, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:02:39 | INFO | Created new scorecard: 873b2bad-87ae-4992-ad7f-56fefe02e46b
+2026-10-20 21:02:39 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+[début] langage_but lp85 N2 21:02:52
+{"strategie": "langage_generique", "jeu": "lf52", "niveau": 3, "gagne": null, "noeuds": 200000, "cpu": 186.7, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:02:52 | INFO | Created new scorecard: 73c6d3d2-5116-4b3c-98d3-25e277946467
+2026-10-20 21:02:52 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+2026-10-20 21:02:52 | INFO | Successfully loaded game class Lp85 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/lp85/305b61c3/lp85.py
+[début] langage_paliers lp85 N2 21:03:17
+{"strategie": "but", "jeu": "lp85", "niveau": 2, "gagne": null, "noeuds": 200022, "cpu": 38.0, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:03:17 | INFO | Created new scorecard: 5ea546bc-7e80-41ef-9f70-935258fb789d
+2026-10-20 21:03:17 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+[début] langage_generique lp85 N2 21:03:25
+{"strategie": "largeur", "jeu": "lf52", "niveau": 3, "gagne": null, "noeuds": 200070, "cpu": 123.4, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:03:25 | INFO | Created new scorecard: 21c6251b-4d7b-49df-a7b0-44c1aa721fdb
+2026-10-20 21:03:25 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+2026-10-20 21:03:25 | INFO | Successfully loaded game class Lp85 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/lp85/305b61c3/lp85.py
+[début] compile_but lp85 N2 21:03:50
+{"strategie": "langage_but", "jeu": "lp85", "niveau": 2, "gagne": null, "noeuds": 200022, "cpu": 58.3, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:03:50 | INFO | Created new scorecard: bbfb6b0a-6064-4565-a284-b2f7b9ac0ee1
+2026-10-20 21:03:50 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+[début] iw1 lp85 N2 21:04:13
+{"strategie": "langage_paliers", "jeu": "lp85", "niveau": 2, "gagne": null, "noeuds": 200038, "cpu": 56.1, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:04:13 | INFO | Created new scorecard: fd59d215-d918-4144-92a0-fca55ca8ffd1
+2026-10-20 21:04:13 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+[début] iw2 lp85 N2 21:04:15
+{"strategie": "iw1", "jeu": "lp85", "niveau": 2, "gagne": null, "noeuds": 8362, "cpu": 1.4, "raison": "espace épuisé sans issue"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:04:15 | INFO | Created new scorecard: 46338a66-0b7b-4f4e-b804-0bb810704e46
+2026-10-20 21:04:15 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:04:36 | INFO | Created new scorecard: c342a232-a169-48e0-96b1-77bfbcf1d4d4
+2026-10-20 21:04:36 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+[début] largeur lp85 N2 21:04:36
+{"strategie": "iw2", "jeu": "lp85", "niveau": 2, "gagne": true, "noeuds": 112616, "cpu": 20.8, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:04:36 | INFO | Created new scorecard: 5fd9b1eb-ab1b-400b-91b4-d27f790e2441
+2026-10-20 21:04:36 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+[début] but lp85 N3 21:04:39
+{"strategie": "compile_but", "jeu": "lp85", "niveau": 2, "gagne": null, "noeuds": 200022, "cpu": 49.0, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:04:40 | INFO | Created new scorecard: c820c2c9-c8a4-49ae-86c1-b55bdbfb855f
+2026-10-20 21:04:40 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+[début] langage_but lp85 N3 21:05:04
+{"strategie": "iw1", "jeu": "lf52", "niveau": 3, "gagne": null, "noeuds": 199098, "cpu": 300.2, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:05:04 | INFO | Created new scorecard: 34c43ebd-ec7c-469e-84cf-ba8dded82fb3
+2026-10-20 21:05:04 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+2026-10-20 21:05:04 | INFO | Successfully loaded game class Lp85 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/lp85/305b61c3/lp85.py
+[début] langage_paliers lp85 N3 21:05:06
+{"strategie": "but", "jeu": "lp85", "niveau": 3, "gagne": null, "noeuds": 200032, "cpu": 26.0, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:05:06 | INFO | Created new scorecard: 617fc7cd-6051-41df-92a2-5684d0023579
+2026-10-20 21:05:06 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+[début] langage_generique lp85 N3 21:05:12
+{"strategie": "largeur", "jeu": "lp85", "niveau": 2, "gagne": null, "noeuds": 200022, "cpu": 36.6, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:05:12 | INFO | Created new scorecard: 8f1454c6-35f9-4adf-baf4-336c1519fee2
+2026-10-20 21:05:12 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+[début] compile_but lp85 N3 21:05:46
+{"strategie": "langage_but", "jeu": "lp85", "niveau": 3, "gagne": null, "noeuds": 200032, "cpu": 42.1, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:05:46 | INFO | Created new scorecard: da0000c5-e368-407e-bd84-7c74a488879b
+2026-10-20 21:05:46 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+[début] iw1 lp85 N3 21:05:47
+{"strategie": "langage_paliers", "jeu": "lp85", "niveau": 3, "gagne": null, "noeuds": 200033, "cpu": 41.2, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:05:47 | INFO | Created new scorecard: 3ea74fa1-a273-436d-ab9e-f41ea5dbd575
+2026-10-20 21:05:47 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+[début] iw2 lp85 N3 21:05:48
+{"strategie": "iw1", "jeu": "lp85", "niveau": 3, "gagne": null, "noeuds": 8008, "cpu": 1.1, "raison": "espace épuisé sans issue"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:05:48 | INFO | Created new scorecard: 0b7b4977-0c6c-40da-b2f5-3a9f86e355c3
+2026-10-20 21:05:48 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:06:09 | INFO | Created new scorecard: f75e33a8-aed5-4f74-8d5b-ef1f50b68bd8
+2026-10-20 21:06:09 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+[début] largeur lp85 N3 21:06:09
+{"strategie": "iw2", "jeu": "lp85", "niveau": 3, "gagne": true, "noeuds": 158255, "cpu": 20.7, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:06:09 | INFO | Created new scorecard: 4971b794-7df2-4afa-a486-8d11b25d6914
+2026-10-20 21:06:09 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+[début] but ls20 N1 21:06:21
+{"strategie": "compile_but", "jeu": "lp85", "niveau": 3, "gagne": null, "noeuds": 200032, "cpu": 34.9, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:06:21 | INFO | Created new scorecard: 0842ffd9-04b9-46ca-b16e-01b7e7bc917f
+2026-10-20 21:06:21 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+2026-10-20 21:06:21 | INFO | Successfully loaded game class Ls20 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ls20/9607627b/ls20.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:06:23 | INFO | Created new scorecard: 9b4f6d3c-a93f-4af2-96a9-f3c11075551a
+2026-10-20 21:06:23 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+[début] langage_but ls20 N1 21:06:23
+{"strategie": "but", "jeu": "ls20", "niveau": 1, "gagne": true, "noeuds": 3377, "cpu": 2.2, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:06:23 | INFO | Created new scorecard: 073493b2-7ab0-44e7-9b56-9f698484e01e
+2026-10-20 21:06:23 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:06:25 | INFO | Created new scorecard: 8ed8e419-ec1d-4943-a6b1-c089116e4f81
+2026-10-20 21:06:25 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+[début] langage_paliers ls20 N1 21:06:25
+{"strategie": "langage_but", "jeu": "ls20", "niveau": 1, "gagne": true, "noeuds": 625, "cpu": 1.1, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:06:25 | INFO | Created new scorecard: 2037ad5c-4c15-4613-bff1-f91c56c6e6ad
+2026-10-20 21:06:25 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:06:26 | INFO | Created new scorecard: 98839e7c-448b-4c6a-a093-14cd3c617cf9
+2026-10-20 21:06:26 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+[début] langage_generique ls20 N1 21:06:26
+{"strategie": "langage_paliers", "jeu": "ls20", "niveau": 1, "gagne": true, "noeuds": 622, "cpu": 1.1, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:06:26 | INFO | Created new scorecard: 4b011141-311d-4087-8ddc-4597f03efb90
+2026-10-20 21:06:26 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:06:32 | INFO | Created new scorecard: 965b844f-6568-4906-aaf8-20d2cde8388f
+2026-10-20 21:06:32 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+[début] compile_but ls20 N1 21:06:32
+{"strategie": "langage_generique", "jeu": "ls20", "niveau": 1, "gagne": true, "noeuds": 3341, "cpu": 6.8, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:06:32 | INFO | Created new scorecard: 71c46b9e-8317-4437-a007-a39b8c51de30
+2026-10-20 21:06:32 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:06:33 | INFO | Created new scorecard: 4e171f72-5a2f-4fa5-aab2-45cde54d37af
+2026-10-20 21:06:33 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+[début] iw1 ls20 N1 21:06:33
+{"strategie": "compile_but", "jeu": "ls20", "niveau": 1, "gagne": true, "noeuds": 625, "cpu": 0.8, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:06:33 | INFO | Created new scorecard: 4c4c4c01-0a0d-4e7e-9c7f-c9e7d098a7c9
+2026-10-20 21:06:33 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+[début] iw2 ls20 N1 21:06:33
+{"strategie": "iw1", "jeu": "ls20", "niveau": 1, "gagne": null, "noeuds": 316, "cpu": 0.2, "raison": "espace épuisé sans issue"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:06:33 | INFO | Created new scorecard: af5a749e-155c-48bc-86de-494ef99cc426
+2026-10-20 21:06:33 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+[début] largeur ls20 N1 21:06:34
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+{"strategie": "largeur", "jeu": "lp85", "niveau": 3, "gagne": null, "noeuds": 200032, "cpu": 25.2, "raison": "budget épuisé"}
+2026-10-20 21:06:34 | INFO | Created new scorecard: a2f389d9-9d3c-4e87-91ee-aa9afb8f928a
+2026-10-20 21:06:34 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+2026-10-20 21:06:34 | INFO | Successfully loaded game class Ls20 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ls20/9607627b/ls20.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:06:34 | INFO | Created new scorecard: e7610845-45cf-4010-8ffe-015a284c8416
+2026-10-20 21:06:34 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+[début] but ls20 N2 21:06:34
+{"strategie": "iw2", "jeu": "ls20", "niveau": 1, "gagne": true, "noeuds": 1721, "cpu": 1.0, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:06:35 | INFO | Created new scorecard: 5c5cdb85-d2ab-4e6d-8a20-19523948965a
+2026-10-20 21:06:35 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:06:36 | INFO | Created new scorecard: 53324a8e-0e5b-4374-adb4-0248cad36fdf
+2026-10-20 21:06:36 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+[début] langage_but ls20 N2 21:06:36
+{"strategie": "largeur", "jeu": "ls20", "niveau": 1, "gagne": true, "noeuds": 3377, "cpu": 1.7, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:06:36 | INFO | Created new scorecard: 3502e105-e240-46c5-9ca9-e45264a7664c
+2026-10-20 21:06:36 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:06:49 | INFO | Created new scorecard: fb7d1b25-1165-434a-b628-c5f4b55f32db
+2026-10-20 21:06:49 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+[début] langage_paliers ls20 N2 21:06:49
+{"strategie": "langage_but", "jeu": "ls20", "niveau": 2, "gagne": true, "noeuds": 10782, "cpu": 12.5, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:06:49 | INFO | Created new scorecard: 00446799-927c-4e5d-adca-2194588e92d5
+2026-10-20 21:06:49 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+[début] langage_generique ls20 N2 21:06:57
+{"strategie": "langage_generique", "jeu": "lp85", "niveau": 2, "gagne": null, "noeuds": 200000, "cpu": 210.5, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:06:57 | INFO | Created new scorecard: 7cf21501-0ff5-46ad-a28d-5e41a9edbfd3
+2026-10-20 21:06:57 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+2026-10-20 21:06:57 | INFO | Successfully loaded game class Ls20 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ls20/9607627b/ls20.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:07:02 | INFO | Created new scorecard: 6b8f36df-05e1-435d-8ab9-c1bc6f22d34f
+2026-10-20 21:07:02 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+[début] compile_but ls20 N2 21:07:02
+{"strategie": "langage_paliers", "jeu": "ls20", "niveau": 2, "gagne": true, "noeuds": 10779, "cpu": 12.8, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:07:02 | INFO | Created new scorecard: e5943a6e-674a-4c45-81af-0286000947c0
+2026-10-20 21:07:02 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:07:10 | INFO | Created new scorecard: 1940bfd6-82fb-4585-901d-1b20b7d99dfe
+2026-10-20 21:07:10 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+[début] iw1 ls20 N2 21:07:10
+{"strategie": "compile_but", "jeu": "ls20", "niveau": 2, "gagne": true, "noeuds": 10794, "cpu": 7.8, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:07:10 | INFO | Created new scorecard: 7aa21f1a-9c57-4251-bd3f-7e6911ad3fc5
+2026-10-20 21:07:10 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+[début] iw2 ls20 N2 21:07:12
+{"strategie": "iw1", "jeu": "ls20", "niveau": 2, "gagne": null, "noeuds": 352, "cpu": 1.9, "raison": "espace épuisé sans issue"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:07:12 | INFO | Created new scorecard: b1d7b1e7-01f6-4ac6-b79c-f35e6109fc6f
+2026-10-20 21:07:12 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+[début] largeur ls20 N2 21:07:16
+{"strategie": "iw2", "jeu": "ls20", "niveau": 2, "gagne": null, "noeuds": 6324, "cpu": 3.7, "raison": "espace épuisé sans issue"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:07:16 | INFO | Created new scorecard: 215a720e-09b1-4cf2-8de3-bd7fabaa33b0
+2026-10-20 21:07:16 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:07:21 | INFO | Created new scorecard: c61a5969-9374-4728-9a93-cab9a62672b9
+2026-10-20 21:07:21 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+[début] but ls20 N3 21:07:21
+{"strategie": "but", "jeu": "ls20", "niveau": 2, "gagne": true, "noeuds": 77366, "cpu": 45.5, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:07:21 | INFO | Created new scorecard: f3c96d96-4b40-4274-9f7e-66f30f76a7d2
+2026-10-20 21:07:21 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+[début] langage_but ls20 N3 21:07:35
+{"strategie": "langage_generique", "jeu": "lp85", "niveau": 3, "gagne": null, "noeuds": 200000, "cpu": 140.6, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:07:35 | INFO | Created new scorecard: 31bb86ef-7b7c-49fe-85d9-fc1388f40db3
+2026-10-20 21:07:35 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+2026-10-20 21:07:35 | INFO | Successfully loaded game class Ls20 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ls20/9607627b/ls20.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:07:43 | INFO | Created new scorecard: f3551f30-def6-4c93-bd53-f29cde0ecbd5
+2026-10-20 21:07:43 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+[début] langage_paliers ls20 N3 21:07:43
+{"strategie": "langage_but", "jeu": "ls20", "niveau": 3, "gagne": true, "noeuds": 9074, "cpu": 8.6, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:07:43 | INFO | Created new scorecard: 548d5714-e502-43c5-be9b-cebe59e3ac0b
+2026-10-20 21:07:43 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:07:51 | INFO | Created new scorecard: e4d14bd0-4951-4d48-9e0b-cbe6ef1c38f5
+2026-10-20 21:07:51 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+[début] langage_generique ls20 N3 21:07:51
+{"strategie": "langage_paliers", "jeu": "ls20", "niveau": 3, "gagne": true, "noeuds": 9071, "cpu": 8.2, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:07:52 | INFO | Created new scorecard: 173f786a-8916-46ad-8a6f-0ee4cf2f167c
+2026-10-20 21:07:52 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:07:57 | INFO | Created new scorecard: 2bbacaa9-6d57-478a-8501-f9b01571d921
+2026-10-20 21:07:57 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+[début] compile_but ls20 N3 21:07:57
+{"strategie": "largeur", "jeu": "ls20", "niveau": 2, "gagne": true, "noeuds": 77366, "cpu": 40.8, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:07:57 | INFO | Created new scorecard: 22d11e97-0ce6-4d28-9c31-9894cadce31e
+2026-10-20 21:07:57 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:07:58 | INFO | Created new scorecard: 7cbe7a87-6b5f-4098-8bb6-568c5f502420
+2026-10-20 21:07:58 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+[début] iw1 ls20 N3 21:07:58
+{"strategie": "but", "jeu": "ls20", "niveau": 3, "gagne": true, "noeuds": 75142, "cpu": 36.6, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:07:58 | INFO | Created new scorecard: e0c117b8-adb5-40f0-a528-0f7f01a10881
+2026-10-20 21:07:58 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+[début] iw2 ls20 N3 21:07:59
+{"strategie": "iw1", "jeu": "ls20", "niveau": 3, "gagne": null, "noeuds": 308, "cpu": 0.3, "raison": "espace épuisé sans issue"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:07:59 | INFO | Created new scorecard: 0836324b-da11-4d99-932f-df40526d5350
+2026-10-20 21:07:59 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:08:01 | INFO | Created new scorecard: 47d41062-b433-47d2-990f-85669205b6ff
+2026-10-20 21:08:01 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+[début] largeur ls20 N3 21:08:01
+{"strategie": "iw2", "jeu": "ls20", "niveau": 3, "gagne": true, "noeuds": 6234, "cpu": 2.9, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:08:02 | INFO | Created new scorecard: 08decc34-4d31-4ad1-9216-20f1c45e3718
+2026-10-20 21:08:02 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:08:35 | INFO | Created new scorecard: d60c7870-e1b6-4937-8dbc-0f9cf4db4135
+2026-10-20 21:08:35 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+[début] but ls20 N4 21:08:35
+{"strategie": "largeur", "jeu": "ls20", "niveau": 3, "gagne": true, "noeuds": 75142, "cpu": 33.6, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:08:35 | INFO | Created new scorecard: e214a57c-c98f-4d83-bff7-3e389e380ff4
+2026-10-20 21:08:35 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:08:40 | INFO | Created new scorecard: cb9295fc-5364-4203-b0f1-8d1c0328c11d
+2026-10-20 21:08:40 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+[début] langage_but ls20 N4 21:08:40
+{"strategie": "compile_but", "jeu": "ls20", "niveau": 3, "gagne": true, "noeuds": 71582, "cpu": 43.2, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:08:41 | INFO | Created new scorecard: 98ae0a51-fbb2-42ab-ac3d-b131728cf1f1
+2026-10-20 21:08:41 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:09:08 | INFO | Created new scorecard: 31973b25-2b9a-481d-bfbe-ed6830e3b711
+2026-10-20 21:09:08 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+[début] langage_paliers ls20 N4 21:09:08
+{"strategie": "langage_generique", "jeu": "ls20", "niveau": 2, "gagne": true, "noeuds": 74146, "cpu": 130.1, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:09:08 | INFO | Created new scorecard: 1950d92c-43aa-43fc-8cb9-77ee6c9e574c
+2026-10-20 21:09:08 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:09:23 | INFO | Created new scorecard: ea2985b4-7c14-4582-a1ad-b823925f25dd
+2026-10-20 21:09:23 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+[début] langage_generique ls20 N4 21:09:23
+{"strategie": "langage_but", "jeu": "ls20", "niveau": 4, "gagne": true, "noeuds": 40991, "cpu": 42.0, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:09:23 | INFO | Created new scorecard: 0b966b53-9e39-4fd9-84d2-6718eaaaf601
+2026-10-20 21:09:23 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:09:38 | INFO | Created new scorecard: 47748eeb-131a-473a-bf73-2efe6fd86a1c
+2026-10-20 21:09:38 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+[début] compile_but ls20 N4 21:09:38
+{"strategie": "langage_generique", "jeu": "ls20", "niveau": 3, "gagne": true, "noeuds": 74466, "cpu": 105.7, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:09:38 | INFO | Created new scorecard: e5c202b9-1476-4c2f-9a3b-51806dafcc59
+2026-10-20 21:09:38 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:09:51 | INFO | Created new scorecard: ef9f41a3-6d29-4ec0-8bf4-327c20b6498d
+2026-10-20 21:09:51 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+[début] iw1 ls20 N4 21:09:51
+{"strategie": "langage_paliers", "jeu": "ls20", "niveau": 4, "gagne": true, "noeuds": 41584, "cpu": 42.8, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:09:51 | INFO | Created new scorecard: afcf86f9-4c40-42c8-9ab9-80733d0bbcc6
+2026-10-20 21:09:51 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+[début] iw2 ls20 N4 21:09:52
+{"strategie": "iw1", "jeu": "ls20", "niveau": 4, "gagne": null, "noeuds": 456, "cpu": 0.5, "raison": "espace épuisé sans issue"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:09:52 | INFO | Created new scorecard: 91ad7a1a-e658-4fc4-9b1f-ef382e7675c5
+2026-10-20 21:09:52 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:10:02 | INFO | Created new scorecard: d23bdd82-ad8c-40ca-808f-68bf7fa1f77c
+2026-10-20 21:10:02 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+[début] largeur ls20 N4 21:10:03
+{"strategie": "iw2", "jeu": "ls20", "niveau": 4, "gagne": true, "noeuds": 18923, "cpu": 10.9, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:10:03 | INFO | Created new scorecard: 58d75232-1a7f-4a12-bbb8-6f12eaddc1cc
+2026-10-20 21:10:03 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+[début] but m0r0 N1 21:10:27
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+{"strategie": "but", "jeu": "ls20", "niveau": 4, "gagne": null, "noeuds": 200000, "cpu": 110.5, "raison": "budget épuisé"}
+2026-10-20 21:10:27 | INFO | Created new scorecard: 294a251b-9f4f-48b9-8706-d30cb1775eda
+2026-10-20 21:10:27 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+2026-10-20 21:10:27 | INFO | Successfully loaded game class M0r0 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/m0r0/492f87ba/m0r0.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:10:28 | INFO | Created new scorecard: 12ab164e-5448-4dd1-87ec-e1809aa09d71
+2026-10-20 21:10:28 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+[début] langage_but m0r0 N1 21:10:28
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+{"strategie": "but", "jeu": "m0r0", "niveau": 1, "gagne": true, "noeuds": 18166, "cpu": 0.7, "raison": null}
+2026-10-20 21:10:28 | INFO | Created new scorecard: 6c6398ee-1540-4dec-93fd-6f37dbf22647
+2026-10-20 21:10:28 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:10:30 | INFO | Created new scorecard: aa0223e4-2624-4406-b272-85411dc6938e
+2026-10-20 21:10:30 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+[début] langage_paliers m0r0 N1 21:10:30
+{"strategie": "langage_but", "jeu": "m0r0", "niveau": 1, "gagne": true, "noeuds": 18166, "cpu": 2.0, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:10:30 | INFO | Created new scorecard: b6966c1c-bb55-4813-9b80-a244f002021e
+2026-10-20 21:10:30 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:10:31 | INFO | Created new scorecard: d75d982b-2f4c-41b3-9136-a4c5e3ae44f4
+2026-10-20 21:10:31 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+[début] langage_generique m0r0 N1 21:10:31
+{"strategie": "langage_paliers", "jeu": "m0r0", "niveau": 1, "gagne": true, "noeuds": 18104, "cpu": 1.0, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:10:31 | INFO | Created new scorecard: 810e6a29-f900-4d39-8a6f-9f7c88ceb96c
+2026-10-20 21:10:31 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:10:32 | INFO | Created new scorecard: fcc21c1a-ee87-4c5c-948b-a417fcdf448d
+2026-10-20 21:10:32 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+[début] compile_but m0r0 N1 21:10:32
+{"strategie": "langage_generique", "jeu": "m0r0", "niveau": 1, "gagne": true, "noeuds": 4700, "cpu": 0.9, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:10:32 | INFO | Created new scorecard: eb82fdfa-b8d6-4abb-bc5b-fa24a8a93f79
+2026-10-20 21:10:32 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:10:33 | INFO | Created new scorecard: 12484866-7431-475f-a697-e8423b81cf65
+2026-10-20 21:10:33 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+[début] iw1 m0r0 N1 21:10:33
+{"strategie": "compile_but", "jeu": "m0r0", "niveau": 1, "gagne": true, "noeuds": 18166, "cpu": 0.8, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:10:33 | INFO | Created new scorecard: 4d4594a2-1fa9-4275-9b67-45c0e0c02430
+2026-10-20 21:10:33 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:10:33 | INFO | Created new scorecard: 074890f1-64d6-4c7f-838d-875c0f9c3a18
+2026-10-20 21:10:33 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+[début] iw2 m0r0 N1 21:10:33
+{"strategie": "iw1", "jeu": "m0r0", "niveau": 1, "gagne": true, "noeuds": 768, "cpu": 0.1, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:10:33 | INFO | Created new scorecard: 7844502e-ec02-4027-8f89-53dd9b591f37
+2026-10-20 21:10:33 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:10:33 | INFO | Created new scorecard: 0df1a44d-7b42-4376-b771-fba56a8cd3fe
+2026-10-20 21:10:33 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+[début] largeur m0r0 N1 21:10:33
+{"strategie": "iw2", "jeu": "m0r0", "niveau": 1, "gagne": true, "noeuds": 4306, "cpu": 0.2, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:10:33 | INFO | Created new scorecard: 4c7b3e31-f7d2-4c5d-8e97-855d6c66aa4b
+2026-10-20 21:10:33 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:10:34 | INFO | Created new scorecard: 38553ebd-3e81-4948-aa32-a110cc959d84
+2026-10-20 21:10:34 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+[début] but m0r0 N2 21:10:34
+{"strategie": "largeur", "jeu": "m0r0", "niveau": 1, "gagne": true, "noeuds": 18166, "cpu": 0.7, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:10:34 | INFO | Created new scorecard: f801a354-426e-40e0-a673-9d9f5f929c3d
+2026-10-20 21:10:34 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+[début] langage_but m0r0 N2 21:10:53
+{"strategie": "but", "jeu": "m0r0", "niveau": 2, "gagne": null, "noeuds": 200074, "cpu": 19.5, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:10:53 | INFO | Created new scorecard: 7baafe04-bbf9-42df-ac3b-0391bad4a2a8
+2026-10-20 21:10:53 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+[début] langage_paliers m0r0 N2 21:11:23
+{"strategie": "langage_but", "jeu": "m0r0", "niveau": 2, "gagne": null, "noeuds": 200074, "cpu": 29.8, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:11:23 | INFO | Created new scorecard: bb9700d5-46fc-4788-a9c8-5636331240e3
+2026-10-20 21:11:23 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+[début] langage_generique m0r0 N2 21:11:55
+{"strategie": "langage_paliers", "jeu": "m0r0", "niveau": 2, "gagne": null, "noeuds": 200075, "cpu": 30.9, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:11:55 | INFO | Created new scorecard: 46dfcfce-91fc-4bbe-9134-b8f17bc6ceb2
+2026-10-20 21:11:55 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+[début] compile_but m0r0 N2 21:11:56
+{"strategie": "largeur", "jeu": "ls20", "niveau": 4, "gagne": null, "noeuds": 200000, "cpu": 112.1, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:11:56 | INFO | Created new scorecard: f8a91c59-ac7b-4595-9871-ae3bd4adcd3c
+2026-10-20 21:11:56 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+2026-10-20 21:11:56 | INFO | Successfully loaded game class M0r0 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/m0r0/492f87ba/m0r0.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:12:17 | INFO | Created new scorecard: 909680db-fbb0-4c34-abec-e06bcbac6c22
+2026-10-20 21:12:17 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+[début] iw1 m0r0 N2 21:12:17
+{"strategie": "langage_generique", "jeu": "m0r0", "niveau": 2, "gagne": true, "noeuds": 58697, "cpu": 22.0, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:12:17 | INFO | Created new scorecard: 7c01dc8a-7d0f-48ed-b481-bd163bc7b765
+2026-10-20 21:12:17 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+[début] iw2 m0r0 N2 21:12:18
+{"strategie": "iw1", "jeu": "m0r0", "niveau": 2, "gagne": null, "noeuds": 8246, "cpu": 0.8, "raison": "espace épuisé sans issue"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:12:18 | INFO | Created new scorecard: 773d3eaa-d99a-4be9-97c6-78e7f231885d
+2026-10-20 21:12:18 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+[début] largeur m0r0 N2 21:12:22
+{"strategie": "compile_but", "jeu": "m0r0", "niveau": 2, "gagne": null, "noeuds": 200074, "cpu": 26.2, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:12:22 | INFO | Created new scorecard: ea104073-6655-438e-bfae-e135923d79d0
+2026-10-20 21:12:22 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:12:35 | INFO | Created new scorecard: a4b20904-998d-4070-9c19-edf533f1577e
+2026-10-20 21:12:35 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+[début] but m0r0 N3 21:12:35
+{"strategie": "iw2", "jeu": "m0r0", "niveau": 2, "gagne": true, "noeuds": 181849, "cpu": 17.6, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:12:35 | INFO | Created new scorecard: 1ed8f33c-92e9-486a-8dfb-cccd3a09ad9d
+2026-10-20 21:12:35 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+[début] langage_but m0r0 N3 21:12:42
+{"strategie": "largeur", "jeu": "m0r0", "niveau": 2, "gagne": null, "noeuds": 200074, "cpu": 19.4, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:12:42 | INFO | Created new scorecard: 7377611b-1738-4c90-b075-5de76e1264c6
+2026-10-20 21:12:42 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+[début] langage_paliers m0r0 N3 21:12:45
+{"strategie": "compile_but", "jeu": "ls20", "niveau": 4, "gagne": null, "noeuds": 200000, "cpu": 185.0, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:12:45 | INFO | Created new scorecard: 7fadd539-203b-4a05-8833-5224a4010184
+2026-10-20 21:12:45 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+2026-10-20 21:12:45 | INFO | Successfully loaded game class M0r0 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/m0r0/492f87ba/m0r0.py
+[début] langage_generique m0r0 N3 21:12:45
+{"strategie": "but", "jeu": "m0r0", "niveau": 3, "gagne": null, "noeuds": 200004, "cpu": 10.1, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:12:45 | INFO | Created new scorecard: a0a6ac94-923a-40f7-b01c-402f21f9c114
+2026-10-20 21:12:45 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+[début] compile_but m0r0 N3 21:12:55
+{"strategie": "langage_but", "jeu": "m0r0", "niveau": 3, "gagne": null, "noeuds": 200004, "cpu": 13.0, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:12:55 | INFO | Created new scorecard: 43bb7ff4-ff7c-4984-a2bb-1a65ef17e3bd
+2026-10-20 21:12:55 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+[début] iw1 m0r0 N3 21:12:57
+{"strategie": "langage_paliers", "jeu": "m0r0", "niveau": 3, "gagne": null, "noeuds": 200005, "cpu": 11.8, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:12:57 | INFO | Created new scorecard: 0ef32dbf-f0c3-49bf-9760-f05ccfda7b46
+2026-10-20 21:12:57 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+[début] iw2 m0r0 N3 21:12:57
+{"strategie": "iw1", "jeu": "m0r0", "niveau": 3, "gagne": null, "noeuds": 868, "cpu": 0.1, "raison": "espace épuisé sans issue"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:12:57 | INFO | Created new scorecard: 935ded08-67e9-4fbd-a41a-0986f6c6ec89
+2026-10-20 21:12:57 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+[début] largeur m0r0 N3 21:13:00
+{"strategie": "iw2", "jeu": "m0r0", "niveau": 3, "gagne": null, "noeuds": 18914, "cpu": 2.8, "raison": "espace épuisé sans issue"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:13:00 | INFO | Created new scorecard: 5689ac0a-0b2a-4a95-af0e-e1a53a4baec8
+2026-10-20 21:13:00 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+[début] but m0r0 N6 21:13:06
+{"strategie": "compile_but", "jeu": "m0r0", "niveau": 3, "gagne": null, "noeuds": 200004, "cpu": 11.4, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:13:06 | INFO | Created new scorecard: 72056ec6-fc2e-4353-8ed9-cbe96da6ae9b
+2026-10-20 21:13:06 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+[début] langage_but m0r0 N6 21:13:08
+{"strategie": "largeur", "jeu": "m0r0", "niveau": 3, "gagne": null, "noeuds": 200004, "cpu": 7.7, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:13:08 | INFO | Created new scorecard: f9f95eac-7076-4407-bb31-54f354afe742
+2026-10-20 21:13:08 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+[début] langage_paliers m0r0 N6 21:13:29
+{"strategie": "langage_generique", "jeu": "m0r0", "niveau": 3, "gagne": null, "noeuds": 200000, "cpu": 43.8, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:13:29 | INFO | Created new scorecard: c639a470-5780-4e9e-b265-5b8913fe9cd2
+2026-10-20 21:13:29 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+[début] langage_generique m0r0 N6 21:13:50
+{"strategie": "but", "jeu": "m0r0", "niveau": 6, "gagne": null, "noeuds": 200312, "cpu": 43.6, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:13:50 | INFO | Created new scorecard: 6a3d1f5a-ddf3-4f30-93f5-bcd0a4b2c6a1
+2026-10-20 21:13:50 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+[début] compile_but m0r0 N6 21:14:21
+{"strategie": "langage_but", "jeu": "m0r0", "niveau": 6, "gagne": null, "noeuds": 200312, "cpu": 72.7, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:14:22 | INFO | Created new scorecard: ac58fec4-1c14-4b04-a23a-13aa59504bf2
+2026-10-20 21:14:22 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+[début] iw1 m0r0 N6 21:14:24
+{"strategie": "langage_generique", "jeu": "ls20", "niveau": 4, "gagne": null, "noeuds": 176473, "cpu": 297.8, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:14:24 | INFO | Created new scorecard: 120a5989-ea7b-4af6-9572-a43684a5a43e
+2026-10-20 21:14:24 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+2026-10-20 21:14:24 | INFO | Successfully loaded game class M0r0 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/m0r0/492f87ba/m0r0.py
+[début] iw2 m0r0 N6 21:14:33
+{"strategie": "iw1", "jeu": "m0r0", "niveau": 6, "gagne": null, "noeuds": 38325, "cpu": 9.0, "raison": "espace épuisé sans issue"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:14:33 | INFO | Created new scorecard: 16ac629e-4b5e-4eb7-b2e1-a3058da32b95
+2026-10-20 21:14:33 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+[début] largeur m0r0 N6 21:14:45
+{"strategie": "langage_paliers", "jeu": "m0r0", "niveau": 6, "gagne": null, "noeuds": 200313, "cpu": 74.7, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:14:46 | INFO | Created new scorecard: e9aaa2e3-5bf9-43ec-9b33-f4d49cbf55e3
+2026-10-20 21:14:46 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+[début] but r11l N1 21:15:20
+{"strategie": "iw2", "jeu": "m0r0", "niveau": 6, "gagne": null, "noeuds": 200312, "cpu": 46.1, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:15:20 | INFO | Created new scorecard: 59b31cbb-4702-476c-a20d-2f5b44a7549c
+2026-10-20 21:15:20 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+2026-10-20 21:15:20 | INFO | Successfully loaded game class R11l from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/r11l/495a7899/r11l.py
+[début] langage_but r11l N1 21:15:24
+{"strategie": "compile_but", "jeu": "m0r0", "niveau": 6, "gagne": null, "noeuds": 200312, "cpu": 61.6, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:15:24 | INFO | Created new scorecard: c4589452-47c8-4159-8124-08032807ea2b
+2026-10-20 21:15:24 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+2026-10-20 21:15:24 | INFO | Successfully loaded game class R11l from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/r11l/495a7899/r11l.py
+[début] langage_paliers r11l N1 21:15:31
+{"strategie": "largeur", "jeu": "m0r0", "niveau": 6, "gagne": null, "noeuds": 200312, "cpu": 44.8, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:15:31 | INFO | Created new scorecard: 4310e918-aa3b-4853-a026-357e57440565
+2026-10-20 21:15:31 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+2026-10-20 21:15:31 | INFO | Successfully loaded game class R11l from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/r11l/495a7899/r11l.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:15:37 | INFO | Created new scorecard: ef373171-88cd-43da-98b7-4a29c53f1192
+2026-10-20 21:15:37 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+[début] langage_generique r11l N1 21:15:37
+{"strategie": "but", "jeu": "r11l", "niveau": 1, "gagne": true, "noeuds": 2596, "cpu": 17.5, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:15:37 | INFO | Created new scorecard: 1337e768-418a-41b7-a3f5-cc2895bb8afb
+2026-10-20 21:15:37 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:15:41 | INFO | Created new scorecard: e5462ecc-9cad-4d8e-9047-55ff21cc7946
+2026-10-20 21:15:41 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+[début] compile_but r11l N1 21:15:41
+{"strategie": "langage_but", "jeu": "r11l", "niveau": 1, "gagne": true, "noeuds": 2152, "cpu": 16.6, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:15:41 | INFO | Created new scorecard: 29c4bcc4-32e2-4cdc-8410-57af620b3b83
+2026-10-20 21:15:41 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:15:48 | INFO | Created new scorecard: b27a8cbe-0a9d-47ab-86b0-0cd5748c24ad
+2026-10-20 21:15:48 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+[début] iw1 r11l N1 21:15:48
+{"strategie": "langage_paliers", "jeu": "r11l", "niveau": 1, "gagne": true, "noeuds": 2116, "cpu": 16.6, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:15:48 | INFO | Created new scorecard: 081ec6e1-edd5-4f42-8fc1-bbdce08686d2
+2026-10-20 21:15:48 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:15:53 | INFO | Created new scorecard: 75f3f16c-faba-49bd-8096-6723a06f5cae
+2026-10-20 21:15:53 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+[début] iw2 r11l N1 21:15:53
+{"strategie": "langage_generique", "jeu": "r11l", "niveau": 1, "gagne": true, "noeuds": 296, "cpu": 15.7, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:15:53 | INFO | Created new scorecard: 2df67489-5936-4413-8bd2-b1299df5a9d5
+2026-10-20 21:15:53 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:15:57 | INFO | Created new scorecard: 297aa9e5-46d2-4bda-8cd3-649c00ac1df2
+2026-10-20 21:15:57 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+[début] largeur r11l N1 21:15:57
+{"strategie": "iw1", "jeu": "r11l", "niveau": 1, "gagne": true, "noeuds": 1523, "cpu": 8.9, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:15:57 | INFO | Created new scorecard: 81008ed0-df35-4c0f-a6fd-85017019bfeb
+2026-10-20 21:15:57 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:16:01 | INFO | Created new scorecard: 30b742e2-f078-4aef-bab0-363d62aac6f6
+2026-10-20 21:16:01 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+[début] but r11l N2 21:16:01
+{"strategie": "compile_but", "jeu": "r11l", "niveau": 1, "gagne": true, "noeuds": 2522, "cpu": 20.2, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:16:01 | INFO | Created new scorecard: f069bc67-4840-44b0-a606-d7c8774aed51
+2026-10-20 21:16:01 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:16:08 | INFO | Created new scorecard: 85b439d1-53f4-4d3f-8a39-dac0910bf09c
+2026-10-20 21:16:08 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+[début] langage_but r11l N2 21:16:08
+{"strategie": "iw2", "jeu": "r11l", "niveau": 1, "gagne": true, "noeuds": 2596, "cpu": 14.5, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:16:08 | INFO | Created new scorecard: d5ec1103-7e44-4ab8-89f3-971aa1cf1c7e
+2026-10-20 21:16:08 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:16:10 | INFO | Created new scorecard: 5a19549d-7880-49ec-8820-c2d4d954a6a5
+2026-10-20 21:16:10 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+[début] langage_paliers r11l N2 21:16:10
+{"strategie": "largeur", "jeu": "r11l", "niveau": 1, "gagne": true, "noeuds": 2596, "cpu": 13.2, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:16:10 | INFO | Created new scorecard: ce6670ce-0c43-4b97-8ec7-389869999d8e
+2026-10-20 21:16:10 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+[début] langage_generique r11l N2 21:16:51
+{"strategie": "langage_generique", "jeu": "m0r0", "niveau": 6, "gagne": null, "noeuds": 200000, "cpu": 177.9, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:16:51 | INFO | Created new scorecard: cf4fb3ec-d00e-4908-adc2-eb726fbc660b
+2026-10-20 21:16:51 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+2026-10-20 21:16:51 | INFO | Successfully loaded game class R11l from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/r11l/495a7899/r11l.py
+{"strategie": "but", "jeu": "r11l", "niveau": 2, "gagne": null, "noeuds": 13266, "cpu": 300.1, "raison": "budget épuisé"}
+[début] compile_but r11l N2 21:21:06
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:21:06 | INFO | Created new scorecard: 061af046-1840-4db0-ba4a-adfc2d32a4ff
+2026-10-20 21:21:06 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+[début] iw1 r11l N2 21:21:13
+{"strategie": "langage_but", "jeu": "r11l", "niveau": 2, "gagne": null, "noeuds": 15544, "cpu": 300.7, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:21:13 | INFO | Created new scorecard: d406134e-e356-4503-9747-5ffc358d5ad6
+2026-10-20 21:21:13 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+[début] iw2 r11l N2 21:21:15
+{"strategie": "langage_paliers", "jeu": "r11l", "niveau": 2, "gagne": null, "noeuds": 15880, "cpu": 300.1, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:21:15 | INFO | Created new scorecard: d95f5014-9011-47b3-bba5-6b271139ae20
+2026-10-20 21:21:15 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+[début] largeur r11l N2 21:21:51
+{"strategie": "langage_generique", "jeu": "r11l", "niveau": 2, "gagne": null, "noeuds": 849, "cpu": 295.8, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 21:21:51 | INFO | Created new scorecard: 6457808f-a43e-4fa6-9f6d-801bd78d2ebc
+2026-10-20 21:21:51 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+/Users/ts/.local/share/uv/python/cpython-3.12.13-macos-aarch64-none/lib/python3.12/multiprocessing/resource_tracker.py:279: UserWarning: resource_tracker: There appear to be 6 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '

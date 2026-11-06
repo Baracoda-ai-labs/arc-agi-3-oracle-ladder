@@ -1,0 +1,53 @@
+{
+ "jeu": "dc22",
+ "niveau": 4,
+ "franzen_r0": "3/6",
+ "prefixe_source": "prefixes_r0.json",
+ "prefixe_franzen": 198,
+ "sous_buts": {
+  "plan": null,
+  "gagne": null,
+  "raison": "budget",
+  "secondes": 300.3
+ },
+ "plafond_exact": {
+  "recherche": "but",
+  "noeuds": 92583,
+  "etats": 2438,
+  "plan": 65,
+  "gagne": true,
+  "raison": null
+ },
+ "plafond_s": 414.3,
+ "moteur": {
+  "niveau_depart": 3,
+  "niveaux": 3,
+  "niveaux_coup_final_moteur": 0,
+  "coups": {
+   "hasard": 167,
+   "hasard_effet": 101,
+   "moteur": 3,
+   "moteur_effet": 3
+  },
+  "refus": {
+   "ne rejoue pas (C) ; partiel": 166
+  },
+  "duree_s": 602.8,
+  "bilan": {
+   "moteur_appels": 168,
+   "moteur_refus_porte": 0,
+   "moteur_plans": 2,
+   "moteur_tours": 3,
+   "moteur_coups_plan": 3,
+   "moteur_divergences": 0,
+   "moteur_cpu_s": 601.833,
+   "moteur_porte1_ok": 2,
+   "moteur_porte1_refus": 0,
+   "moteur_porte2_ok": 2,
+   "moteur_porte2_refus": 0,
+   "moteur_plans_gagnants_reels": 0,
+   "part_coups_moteur": 0.008
+  }
+ },
+ "classe": "M"
+}

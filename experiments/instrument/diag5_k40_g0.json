@@ -1,0 +1,393 @@
+{
+ "ls20": {
+  "jeu": "ls20",
+  "amorce": 40,
+  "rejeu_amorce": [
+   39,
+   40
+  ],
+  "theorie": "move(c12,a1,0,-1). move(c12,a2,0,1). move(c12,a3,-1,0). move(c12,a4,1,0). solide(c5) [H_mur]. solide(c9) [H_mur]. fond_solide.",
+  "D": {
+   "gagne": true,
+   "recherche": "but",
+   "plan": 13,
+   "raison": null
+  },
+  "A": {
+   "but": "('sortie', 12, 5)",
+   "source_but": "supposé",
+   "mondes": 25,
+   "plan": 6,
+   "joues": 6,
+   "gagne": false,
+   "mort": false,
+   "predits_justes": 5,
+   "predits": 6,
+   "premiere_divergence": 0,
+   "cases_fausses": [
+    [
+     9,
+     6,
+     4,
+     3
+    ]
+   ]
+  },
+  "B": {
+   "but": "('ancre', 12, 5)",
+   "mondes": 32,
+   "plan": 7,
+   "joues": 7,
+   "gagne": false,
+   "mort": false,
+   "predits_justes": 5,
+   "predits": 7,
+   "premiere_divergence": 0,
+   "cases_fausses": [
+    [
+     9,
+     6,
+     4,
+     3
+    ]
+   ]
+  },
+  "C": {
+   "but": "('remplir', 12, 3)",
+   "gagne": true,
+   "plan": 13,
+   "noeuds": 1777,
+   "note": "vraie victoire atteinte pendant la recherche du but supposé"
+  },
+  "Bp": {
+   "gagne": false,
+   "premier_instant": 0,
+   "classe": "identité",
+   "sprite": "eqatonpohu",
+   "objets_manquants": [
+    "(3, frozenset({(4, 0), (4, 9), (5, 1), (8, 0), (5, 10), (8, 9), (10, 6), (9, 8),"
+   ]
+  },
+  "secondes": 78.6
+ },
+ "ft09": {
+  "jeu": "ft09",
+  "amorce": 40,
+  "rejeu_amorce": [
+   40,
+   40
+  ],
+  "theorie": "motif(0,0). bascule(c8,c9). bascule(c9,c8). zone(c4).",
+  "D": {
+   "gagne": true,
+   "recherche": "but",
+   "plan": 4,
+   "raison": null
+  },
+  "A": {
+   "but": "('motif_rel', 0, 2)",
+   "source_but": "supposé",
+   "mondes": 135,
+   "plan": 4,
+   "joues": 4,
+   "gagne": true,
+   "mort": false,
+   "predits_justes": 3,
+   "predits": 3,
+   "premiere_divergence": null
+  },
+  "B": {
+   "but": "('motif_rel', 0, 2)",
+   "mondes": 135,
+   "plan": 4,
+   "joues": 4,
+   "gagne": true,
+   "mort": false,
+   "predits_justes": 3,
+   "predits": 3,
+   "premiere_divergence": null
+  },
+  "C": {
+   "but": null,
+   "gagne": false,
+   "raison": "aucun candidat atteint (budget)",
+   "candidats": 4
+  },
+  "Bp": {
+   "gagne": false,
+   "premier_instant": 0,
+   "classe": "identité",
+   "sprite": "cgN",
+   "objets_manquants": [
+    "(4, frozenset({(0, 1), (1, 2), (2, 1), (0, 0), (1, 1), (2, 0), (0, 2), (2, 2), (",
+    "(4, frozenset({(0, 1), (1, 2), (2, 1), (0, 0), (1, 1), (2, 0), (0, 2), (2, 2), (",
+    "(4, frozenset({(0, 1), (1, 2), (2, 1), (0, 0), (1, 1), (2, 0), (0, 2), (2, 2), ("
+   ]
+  },
+  "secondes": 85.5
+ },
+ "tn36": {
+  "jeu": "tn36",
+  "amorce": 40,
+  "rejeu_amorce": [
+   36,
+   40
+  ],
+  "theorie": "",
+  "D": {
+   "gagne": true,
+   "recherche": "but",
+   "plan": 7,
+   "raison": null
+  },
+  "A": {
+   "but": null,
+   "raison": "aucun but planifiable",
+   "gagne": false
+  },
+  "B": {
+   "gagne": false,
+   "raison": "but exact inexprimable dans le langage de C (rien induit)"
+  },
+  "C": {
+   "but": null,
+   "gagne": false,
+   "raison": "aucun candidat",
+   "candidats": 0
+  },
+  "Bp": {
+   "gagne": false,
+   "premier_instant": 0,
+   "classe": "identité",
+   "sprite": "buojsacorqds",
+   "objets_manquants": [
+    "(0, frozenset({(11, 1), (0, 1), (12, 1), (7, 1), (2, 1), (8, 1), (3, 1), (6, 1),"
+   ]
+  },
+  "secondes": 214.6
+ },
+ "sp80": {
+  "jeu": "sp80",
+  "amorce": 29,
+  "rejeu_amorce": [
+   20,
+   29
+  ],
+  "theorie": "move(c9,a1,0,-1). move(c9,a2,0,1). move(c9,a3,-1,0). move(c9,a4,1,0). solide(c6) [H_mur]. solide(c11) [H_mur].",
+  "D": {
+   "gagne": true,
+   "recherche": "but",
+   "plan": 5,
+   "raison": null
+  },
+  "A": {
+   "but": "('remplir', 9, 6)",
+   "source_but": "supposé",
+   "mondes": 25,
+   "plan": 4,
+   "joues": 4,
+   "gagne": false,
+   "mort": false,
+   "predits_justes": 3,
+   "predits": 4,
+   "premiere_divergence": 0,
+   "cases_fausses": [
+    [
+     1,
+     2,
+     9,
+     12
+    ],
+    [
+     1,
+     3,
+     9,
+     12
+    ],
+    [
+     1,
+     4,
+     9,
+     12
+    ]
+   ]
+  },
+  "B": {
+   "gagne": false,
+   "raison": "but exact inexprimable dans le langage de C (rien induit)"
+  },
+  "C": {
+   "but": "('remplir', 9, 6)",
+   "gagne": true,
+   "plan": 4,
+   "noeuds": 449,
+   "note": "vraie victoire atteinte pendant la recherche du but supposé"
+  },
+  "Bp": {
+   "gagne": true,
+   "pas": 5
+  },
+  "secondes": 7.9
+ },
+ "re86": {
+  "jeu": "re86",
+  "amorce": 40,
+  "rejeu_amorce": [
+   0,
+   40
+  ],
+  "theorie": "move(c0,a1,0,-1). move(c0,a2,0,1). move(c0,a3,-1,0). move(c0,a4,1,0). move(c0,a5,-6,-5). solide(c4) [H_mur]. poussable(c9). poursuit(c9,c0). poursuit(c11,c0). teleporte_case(0,4,11,10). teleporte_case(5,9,2,1). teleporte_case(5,10,1,-1). teleporte_case(6,10,1,0).",
+  "D": {
+   "gagne": true,
+   "recherche": "but",
+   "plan": 21,
+   "raison": null
+  },
+  "A": {
+   "but": "('remplir', 9, 0)",
+   "source_but": "supposé",
+   "mondes": 2,
+   "plan": 1,
+   "joues": 1,
+   "gagne": false,
+   "mort": false,
+   "predits_justes": 0,
+   "predits": 1,
+   "premiere_divergence": 0,
+   "cases_fausses": [
+    [
+     1,
+     5,
+     5,
+     11
+    ],
+    [
+     1,
+     6,
+     11,
+     5
+    ],
+    [
+     3,
+     2,
+     5,
+     11
+    ],
+    [
+     3,
+     3,
+     11,
+     5
+    ],
+    [
+     3,
+     8,
+     5,
+     11
+    ],
+    [
+     3,
+     9,
+     11,
+     5
+    ],
+    [
+     6,
+     7,
+     5,
+     11
+    ],
+    [
+     6,
+     8,
+     11,
+     5
+    ],
+    [
+     7,
+     7,
+     5,
+     11
+    ],
+    [
+     7,
+     8,
+     11,
+     5
+    ],
+    [
+     8,
+     7,
+     5,
+     11
+    ],
+    [
+     8,
+     8,
+     11,
+     5
+    ]
+   ]
+  },
+  "B": {
+   "gagne": false,
+   "raison": "but exact inexprimable dans le langage de C (rien induit)"
+  },
+  "C": {
+   "but": null,
+   "gagne": false,
+   "raison": "aucun candidat atteint (budget)",
+   "candidats": 10
+  },
+  "Bp": {
+   "gagne": false,
+   "premier_instant": 7,
+   "classe": "position",
+   "sprite": "0030rxzjuipynt",
+   "objets_manquants": [
+    "(11, frozenset({(0, 1), (0, 2), (0, 0)}), 5, 2)"
+   ]
+  },
+  "secondes": 147.9
+ },
+ "tr87": {
+  "jeu": "tr87",
+  "amorce": 40,
+  "rejeu_amorce": [
+   0,
+   40
+  ],
+  "theorie": "move(c0,a3,28,0). move(c0,a4,7,0). solide(c10) [H_mur]. poursuit(c7,c0). teleporte_case(50,48,-35,0). teleporte_case(50,59,-35,0). teleporte_case(57,48,-35,0). teleporte_case(57,59,-35,0). teleporte_case(64,48,-35,0). teleporte_case(64,59,-35,0). teleporte_case(71,48,-35,0). teleporte_case(71,59,-35,0).",
+  "D": {
+   "gagne": true,
+   "recherche": "but",
+   "plan": 16,
+   "raison": null
+  },
+  "A": {
+   "but": null,
+   "raison": "budget des buts supposés épuisé",
+   "gagne": false
+  },
+  "B": {
+   "gagne": false,
+   "raison": "but exact inexprimable dans le langage de C (rien induit)"
+  },
+  "C": {
+   "but": null,
+   "gagne": false,
+   "raison": "aucun candidat atteint (budget)",
+   "candidats": 16
+  },
+  "Bp": {
+   "gagne": false,
+   "premier_instant": 0,
+   "classe": "identité",
+   "sprite": "background",
+   "objets_manquants": [
+    "(3, frozenset({(50, 6), (63, 25), (42, 2), (8, 9), (0, 5), (60, 19), (11, 14), ("
+   ]
+  },
+  "secondes": 412.2
+ }
+}

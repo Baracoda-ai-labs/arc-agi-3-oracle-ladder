@@ -1,0 +1,17 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:27:05 | INFO | Created new scorecard: 6ec4c932-dd7a-4bf8-b080-18faa5415c63
+2026-10-21 02:27:05 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+2026-10-21 02:27:05 | INFO | Successfully loaded game class Dc22 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/dc22/fdcac232/dc22.py
+dc22 1 128 {'UP': ((128, 'defaite'), (128, 'defaite')), 'DOWN': ((128, 'defaite'), (128, 'defaite')), 'LEFT': ((128, 'defaite'), (128, 'defaite')), 'RIGHT': ((128, 'defaite'), (128, 'defaite')), 'MOUSE@0,0': ((128, 'defaite'), (128, 'defaite')), 'MOUSE@32,32': ((128, 'defaite'), (128, 'defaite')), 'MOUSE@63,63': ((128, 'defaite'), (128, 'defaite'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:27:06 | INFO | Created new scorecard: 0d024a47-dda9-41be-928a-b058f82381f6
+2026-10-21 02:27:06 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+dc22 2 192 {'UP': ((192, 'defaite'), (192, 'defaite')), 'DOWN': ((192, 'defaite'), (192, 'defaite')), 'LEFT': ((192, 'defaite'), (192, 'defaite')), 'RIGHT': ((192, 'defaite'), (192, 'defaite')), 'MOUSE@0,0': ((192, 'defaite'), (192, 'defaite')), 'MOUSE@32,32': ((192, 'defaite'), (192, 'defaite')), 'MOUSE@63,63': ((192, 'defaite'), (192, 'defaite'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:27:08 | INFO | Created new scorecard: 5ea23be5-12a4-4744-ae07-b89d60fbdfe6
+2026-10-21 02:27:08 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+dc22 3 192 {'UP': ((192, 'defaite'), (192, 'defaite')), 'DOWN': ((192, 'defaite'), (192, 'defaite')), 'LEFT': ((192, 'defaite'), (192, 'defaite')), 'RIGHT': ((192, 'defaite'), (192, 'defaite')), 'MOUSE@0,0': ((192, 'defaite'), (192, 'defaite')), 'MOUSE@32,32': ((192, 'defaite'), (192, 'defaite')), 'MOUSE@63,63': ((192, 'defaite'), (192, 'defaite'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:27:09 | INFO | Created new scorecard: 0cd64fcd-8ac3-43f6-8e0d-d054a66095e0
+2026-10-21 02:27:09 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+dc22 4 192 {'UP': ((192, 'defaite'), (192, 'defaite')), 'DOWN': ((192, 'defaite'), (192, 'defaite')), 'LEFT': ((192, 'defaite'), (192, 'defaite')), 'RIGHT': ((192, 'defaite'), (192, 'defaite')), 'MOUSE@0,0': ((192, 'defaite'), (192, 'defaite')), 'MOUSE@32,32': ((192, 'defaite'), (192, 'defaite')), 'MOUSE@63,63': ((192, 'defaite'), (192, 'defaite'))}

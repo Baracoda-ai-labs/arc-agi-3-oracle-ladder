@@ -1,0 +1,80 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 22:21:58 | INFO | Created new scorecard: 9c284cd7-ebec-4566-8d61-11bc88defbaf
+2026-10-21 22:21:58 | INFO | Successfully loaded game class Ar25 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ar25/0c556536/ar25.py
+ar25 300 {'au6': 602, 'exemple': 240}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 22:21:58 | INFO | Created new scorecard: 75fbbbcc-1376-4dec-9b26-08f6fd2ad5e6
+2026-10-21 22:21:58 | INFO | Successfully loaded game class Bp35 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/bp35/0a0ad940/bp35.py
+bp35 43 {}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 22:21:58 | INFO | Created new scorecard: 9fea0f90-1e5d-4997-b125-13358fb9efd7
+2026-10-21 22:21:58 | INFO | Successfully loaded game class Cd82 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/cd82/fb555c5d/cd82.py
+cd82 176 {'au6': 6, 'exemple': 4}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 22:21:58 | INFO | Created new scorecard: 1b7ece85-0c97-4b31-a2a0-7c5493598277
+2026-10-21 22:21:58 | INFO | Successfully loaded game class Dc22 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/dc22/fdcac232/dc22.py
+dc22 200 {'au6': 20, 'exemple': 20}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 22:21:58 | INFO | Created new scorecard: 1dce5de5-7173-45a9-a6e9-fef225ba4596
+2026-10-21 22:21:58 | INFO | Successfully loaded game class Ft09 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ft09/0d8bbf25/ft09.py
+ft09 86 {}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 22:21:59 | INFO | Created new scorecard: 61143f87-baff-4e4b-a527-c55aa65b5584
+2026-10-21 22:21:59 | INFO | Successfully loaded game class G50t from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/g50t/5849a774/g50t.py
+g50t 44 {'au6': 28, 'exemple': 25}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 22:21:59 | INFO | Created new scorecard: 48fd8c0c-b0fa-4f56-a0de-7eff2056b4c4
+2026-10-21 22:21:59 | INFO | Successfully loaded game class Ka59 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ka59/38d34dbb/ka59.py
+ka59 244 {'au6': 1, 'exemple': 1}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 22:21:59 | INFO | Created new scorecard: a3bd318a-949d-47fc-8786-6a8303c3e782
+2026-10-21 22:21:59 | INFO | Successfully loaded game class Lf52 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/lf52/271a04aa/lf52.py
+lf52 182 {}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 22:21:59 | INFO | Created new scorecard: 177b6c30-8532-4369-87a2-f206f2d362d6
+2026-10-21 22:21:59 | INFO | Successfully loaded game class Lp85 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/lp85/305b61c3/lp85.py
+lp85 197 {'au6': 104, 'exemple': 104}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 22:22:00 | INFO | Created new scorecard: 79cde573-7c38-4433-ae71-8616a63626c9
+2026-10-21 22:22:00 | INFO | Successfully loaded game class Ls20 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ls20/9607627b/ls20.py
+ls20 300 {'au6': 125, 'exemple': 56}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 22:22:01 | INFO | Created new scorecard: 017f9670-8a74-4d30-ac84-7884bf673aab
+2026-10-21 22:22:01 | INFO | Successfully loaded game class M0r0 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/m0r0/492f87ba/m0r0.py
+m0r0 300 {'au6': 12, 'exemple': 12}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 22:22:01 | INFO | Created new scorecard: 53feca4c-629d-450d-9004-10c1911699da
+2026-10-21 22:22:01 | INFO | Successfully loaded game class R11l from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/r11l/495a7899/r11l.py
+r11l 115 {'au6': 43, 'exemple': 39}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 22:22:01 | INFO | Created new scorecard: 6abf428e-a65e-41c9-950d-cd25e47fb18d
+2026-10-21 22:22:01 | INFO | Successfully loaded game class Re86 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/re86/8af5384d/re86.py
+re86 300 {'au6': 76, 'exemple': 76}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 22:22:01 | INFO | Created new scorecard: bca0463f-fe9d-4017-be0e-35fb7cd491e7
+2026-10-21 22:22:01 | INFO | Successfully loaded game class Sb26 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sb26/7fbdac44/sb26.py
+sb26 171 {'au6': 519, 'exemple': 355}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 22:22:02 | INFO | Created new scorecard: 93cece88-a18b-42d8-85cd-dacc0a8460f7
+2026-10-21 22:22:02 | INFO | Successfully loaded game class Sc25 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sc25/635fd71a/sc25.py
+sc25 296 {'au6': 56, 'exemple': 41}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 22:22:02 | INFO | Created new scorecard: ca16d7d1-8e0f-4acf-92c5-dd82c6ea8d84
+2026-10-21 22:22:02 | INFO | Successfully loaded game class Sk48 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sk48/d8078629/sk48.py
+sk48 124 {'au6': 411, 'exemple': 301}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 22:22:02 | INFO | Created new scorecard: 1b42fa7d-da94-45b0-9346-c7a2f3e51b00
+2026-10-21 22:22:02 | INFO | Successfully loaded game class Sp80 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sp80/589a99af/sp80.py
+sp80 105 {'au6': 5, 'exemple': 5}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 22:22:02 | INFO | Created new scorecard: b9c77e61-290a-4308-bf07-9f1f640c5647
+2026-10-21 22:22:02 | INFO | Successfully loaded game class Su15 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/su15/1944f8ab/su15.py
+su15 167 {'au6': 29, 'exemple': 29}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 22:22:02 | INFO | Created new scorecard: 0359b8c0-62e6-4feb-8aec-ce9abea20224
+2026-10-21 22:22:03 | INFO | Successfully loaded game class Tn36 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/tn36/ef4dde99/tn36.py
+tn36 300 {'au6': 591, 'exemple': 188}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 22:22:04 | INFO | Created new scorecard: 04f7ae0d-fbbc-4f99-91a4-347845b0eb05
+2026-10-21 22:22:04 | INFO | Successfully loaded game class Tr87 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/tr87/cd924810/tr87.py
+tr87 300 {'au6': 839, 'exemple': 642}

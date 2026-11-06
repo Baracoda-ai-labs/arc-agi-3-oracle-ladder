@@ -1,0 +1,79 @@
+{
+ "cd82:2": {
+  "mesure": true,
+  "plan_du_niveau": 1,
+  "longueur": 5,
+  "joues": 5,
+  "issue": "rien"
+ },
+ "dc22:2": {
+  "mesure": true,
+  "plan_du_niveau": 1,
+  "longueur": 20,
+  "joues": 20,
+  "issue": "rien"
+ },
+ "ft09:2": {
+  "mesure": true,
+  "plan_du_niveau": 1,
+  "longueur": 4,
+  "joues": 4,
+  "issue": "rien"
+ },
+ "lf52:2": {
+  "mesure": true,
+  "plan_du_niveau": 1,
+  "longueur": 9,
+  "joues": 9,
+  "issue": "rien"
+ },
+ "lp85:3": {
+  "mesure": true,
+  "plan_du_niveau": 2,
+  "longueur": 10,
+  "joues": 10,
+  "issue": "rien"
+ },
+ "ls20:2": {
+  "mesure": true,
+  "plan_du_niveau": 1,
+  "longueur": 13,
+  "joues": 13,
+  "issue": "rien"
+ },
+ "m0r0:3": {
+  "mesure": true,
+  "plan_du_niveau": 2,
+  "longueur": 25,
+  "joues": 25,
+  "issue": "rien"
+ },
+ "re86:2": {
+  "mesure": true,
+  "plan_du_niveau": 1,
+  "longueur": 21,
+  "joues": 21,
+  "issue": "rien"
+ },
+ "sp80:2": {
+  "mesure": true,
+  "plan_du_niveau": 1,
+  "longueur": 5,
+  "joues": 5,
+  "issue": "rien"
+ },
+ "su15:2": {
+  "mesure": true,
+  "plan_du_niveau": 1,
+  "longueur": 8,
+  "joues": 8,
+  "issue": "rien"
+ },
+ "tr87:2": {
+  "mesure": true,
+  "plan_du_niveau": 1,
+  "longueur": 16,
+  "joues": 16,
+  "issue": "rien"
+ }
+}

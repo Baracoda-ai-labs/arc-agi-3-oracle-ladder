@@ -1,0 +1,52 @@
+{
+ "jeu": "sc25",
+ "niveau": 5,
+ "franzen_r0": "4/6",
+ "prefixe_source": "prefixes_r0.json",
+ "prefixe_franzen": 174,
+ "sous_buts": {
+  "plan": null,
+  "gagne": null,
+  "raison": "budget",
+  "secondes": 300.5
+ },
+ "plafond_exact": {
+  "recherche": "paliers",
+  "noeuds": 159997,
+  "etats": null,
+  "plan": null,
+  "gagne": null,
+  "raison": "budget épuisé"
+ },
+ "plafond_s": 901.1,
+ "moteur": {
+  "niveau_depart": 4,
+  "niveaux": 4,
+  "niveaux_coup_final_moteur": 0,
+  "coups": {
+   "hasard": 116,
+   "hasard_effet": 87
+  },
+  "refus": {
+   "ne rejoue pas (C) ; partiel": 112,
+   "pas de but (aucun but supposé planifiable) ; non exporté": 1
+  },
+  "duree_s": 602.3,
+  "bilan": {
+   "moteur_appels": 114,
+   "moteur_refus_porte": 0,
+   "moteur_plans": 0,
+   "moteur_tours": 0,
+   "moteur_coups_plan": 0,
+   "moteur_divergences": 0,
+   "moteur_cpu_s": 601.808,
+   "moteur_porte1_ok": 0,
+   "moteur_porte1_refus": 0,
+   "moteur_porte2_ok": 0,
+   "moteur_porte2_refus": 0,
+   "moteur_plans_gagnants_reels": 0,
+   "part_coups_moteur": 0.0
+  }
+ },
+ "classe": "S"
+}

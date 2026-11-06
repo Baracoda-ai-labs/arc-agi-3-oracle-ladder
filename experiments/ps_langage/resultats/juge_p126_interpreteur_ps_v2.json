@@ -1,0 +1,17 @@
+[
+ {
+  "jeu": "p126",
+  "titre": "SHELL CASE",
+  "coups": 134,
+  "exacts": 134,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "erreurs": 0,
+  "details": [],
+  "trop_lent": false,
+  "s_total": 31.8,
+  "s_p95": 0.358,
+  "s_jeu": 33.5
+ }
+]

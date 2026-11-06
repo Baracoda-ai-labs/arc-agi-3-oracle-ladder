@@ -1,0 +1,8 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 17:35:12 | INFO | Created new scorecard: 77cb92d7-371d-4f62-90cd-59074cd37805
+2026-10-20 17:35:12 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+2026-10-20 17:35:12 | INFO | Successfully loaded game class Cd82 from /workspace/chrysalide3/experiments/arc3/environment_files/cd82/fb555c5d/cd82.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 17:35:12 | INFO | Created new scorecard: 0914af33-f82e-4630-9556-84dbe4c49a62
+2026-10-20 17:35:12 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+{"jeu": "cd82", "niveau": 1, "bras": "profondeur", "budget_s": 300.0, "memoire_go": 4.0, "backend": "1", "prefixe": "plafonds.prefixe", "gagne": true, "plan": 5, "noeuds": 77, "etats": null, "raison": null, "profondeur": null, "table": null, "t_victoire": 1.2, "duree_s": 1.2, "memoire_max_go": 0.09}

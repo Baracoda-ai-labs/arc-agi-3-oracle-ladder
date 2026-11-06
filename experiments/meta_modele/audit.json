@@ -1,0 +1,1919 @@
+{
+ "jeux": {
+  "ar25": {
+   "a_jeu": {
+    "budget": true,
+    "vies": false,
+    "recharge": null,
+    "minuteur": null,
+    "compteur_cache": null,
+    "defaite_causes": [
+     "epuisement_budget"
+    ],
+    "defaite_hors_budget": [],
+    "interface": [
+     "budget_coups",
+     "autre"
+    ]
+   },
+   "b_programme": {
+    "budget": false,
+    "budget_variable": null,
+    "vies": null,
+    "defaite": false,
+    "victoire": true,
+    "contournements": 5
+   },
+   "c_moteur": {
+    "plateau": "appris (objets, rôles)",
+    "controle": "appris (actions, mobile contrôlé, clic)",
+    "dynamique": "appris (lois)",
+    "economie": "non : jauge masquée (sauf ressource.py pour ls20, hors chaîne)",
+    "defaite": "contact seulement (`mort`)",
+    "niveaux": "transfert sous drapeau (D)",
+    "interface": "masquée en bloc"
+   },
+   "trous": [
+    "budget non décrit"
+   ],
+   "lecture": {
+    "jeu": "ar25",
+    "interface": [
+     {
+      "classe": "toseucmfue",
+      "represente": "budget_coups",
+      "regle": "barre verticale colonne x=63, remplie depuis le haut par segments de 64 pas de couleurs différentes ; mouvement réel -1, ACTION5 -1 ; clic, annulation et mouvement hors grille gratuits ; remis au StepCounter à chaque niveau ; défaite à 0",
+      "lignes": "1092-1147"
+     },
+     {
+      "classe": "iywvsmblpj",
+      "represente": "autre",
+      "regle": "carte en surimpression : cibles, pièce sélectionnée ou son reflet, pièces fixes ; affichage seulement",
+      "lignes": "1150-1254"
+     }
+    ],
+    "defaite": [
+     {
+      "cause": "epuisement_budget",
+      "condition": "mouvement réel non gagnant qui amène le budget à 0",
+      "ligne": 1773
+     },
+     {
+      "cause": "epuisement_budget",
+      "condition": "ACTION5 (changer de sélection) qui amène le budget à 0",
+      "ligne": 1789
+     }
+    ],
+    "economie": {
+     "budget_coups": "StepCounter par niveau : 64, 64, 128, 128, 128, 320, 320, 320",
+     "vies": null,
+     "ressources": null,
+     "recharge": "seulement au début du niveau ; l'annulation ne rend rien",
+     "minuteur": null
+    },
+    "controle": {
+     "actions": [
+      "ACTION1",
+      "ACTION2",
+      "ACTION3",
+      "ACTION4",
+      "ACTION5",
+      "ACTION6",
+      "ACTION7"
+     ],
+     "avatar": "la pièce ou l'axe de symétrie sélectionné avance d'une case ; axe vertical : horizontalement seulement, et inversement ; certaines pièces tournent de 90° quand leur distance à l'axe change",
+     "selection": "ACTION5 parcourt les pièces et axes sélectionnables (coûte 1) ; pièces fixes non sélectionnables",
+     "clic": "ACTION6 sélectionne la pièce sous le clic, sinon un axe (gratuit) ; ACTION7 annule le dernier mouvement"
+    },
+    "victoire": "chaque case cible est couverte par une pièce ou l'un de ses reflets par les axes (reflets en chaîne jusqu'à 12)",
+    "niveaux": {
+     "nombre": 8,
+     "persiste": "rien",
+     "nouveau": "indice clignotant au niveau 2 si le joueur n'a jamais changé de sélection"
+    },
+    "incertain": [
+     "le coup gagnant est gratuit, le niveau avance au coup suivant",
+     "ACTION6 sélectionne la première pièce si rien n'est sélectionné"
+    ]
+   }
+  },
+  "bp35": {
+   "a_jeu": {
+    "budget": true,
+    "vies": false,
+    "recharge": null,
+    "minuteur": "plafond qui descend (niveaux 1-3)",
+    "compteur_cache": null,
+    "defaite_causes": [
+     "autre",
+     "contact",
+     "epuisement_budget",
+     "piege"
+    ],
+    "defaite_hors_budget": [
+     "autre",
+     "contact",
+     "piege"
+    ],
+    "interface": [
+     "budget_coups"
+    ]
+   },
+   "b_programme": {
+    "budget": false,
+    "budget_variable": null,
+    "vies": null,
+    "defaite": true,
+    "victoire": true,
+    "contournements": 0
+   },
+   "c_moteur": {
+    "plateau": "appris (objets, rôles)",
+    "controle": "appris (actions, mobile contrôlé, clic)",
+    "dynamique": "appris (lois)",
+    "economie": "non : jauge masquée (sauf ressource.py pour ls20, hors chaîne)",
+    "defaite": "contact seulement (`mort`)",
+    "niveaux": "transfert sous drapeau (D)",
+    "interface": "masquée en bloc"
+   },
+   "trous": [
+    "budget non décrit",
+    "minuteur non décrit"
+   ],
+   "lecture": {
+    "jeu": "bp35",
+    "interface": [
+     {
+      "classe": "qmjscfjptx",
+      "represente": "budget_coups",
+      "regle": "ligne 63, barre croissante (+1 par action ACTION3-7, annulation comprise) ; niveaux 1-6 : lose() à 64 ; niveaux 7-9 : seconde couleur par-dessus, lose() à 128 ; RESET remet à 0",
+      "lignes": "4404-4460"
+     }
+    ],
+    "defaite": [
+     {
+      "cause": "contact",
+      "condition": "niveaux 1-3 : après un pas de côté, le plafond qui descend (1 rangée toutes les 2 actions) est sur la rangée du joueur",
+      "ligne": 4113
+     },
+     {
+      "cause": "piege",
+      "condition": "après un pas dans le vide, la chute finit sur une pointe",
+      "ligne": 4190
+     },
+     {
+      "cause": "contact",
+      "condition": "niveaux 1-3 : le plafond atteint le joueur sur un pas de côté bloqué",
+      "ligne": 4209
+     },
+     {
+      "cause": "piege",
+      "condition": "un clic retire le bloc sous le joueur (ou inverse la gravité) et la chute finit sur une pointe",
+      "ligne": 4259
+     },
+     {
+      "cause": "epuisement_budget",
+      "condition": "niveaux ≤ 6 : compteur = 64",
+      "ligne": 4436
+     },
+     {
+      "cause": "epuisement_budget",
+      "condition": "niveaux ≤ 6 : compteur = 64 (chemin avec images en attente)",
+      "ligne": 4444
+     },
+     {
+      "cause": "epuisement_budget",
+      "condition": "niveaux 7-9 : compteur = 128",
+      "ligne": 4459
+     },
+     {
+      "cause": "epuisement_budget",
+      "condition": "niveau 10 (inaccessible) : compteur ≥ 192",
+      "ligne": 4427
+     },
+     {
+      "cause": "autre",
+      "condition": "transmission du drapeau interne de défaite après l'animation",
+      "ligne": 4500
+     }
+    ],
+    "economie": {
+     "budget_coups": "64 actions (niveaux 1-6), 128 (niveaux 7-9), annulation comprise",
+     "vies": null,
+     "ressources": "tuiles réactives au clic : cassable, qui fait naître des blocs, solide/traversable, inversion de gravité",
+     "recharge": null,
+     "minuteur": "niveaux 1-3 : plafond qui descend d'une rangée toutes les 2 actions"
+    },
+    "controle": {
+     "actions": [
+      "ACTION3",
+      "ACTION4",
+      "ACTION6",
+      "ACTION7"
+     ],
+     "avatar": "joueur soumis à la gravité ; ACTION3/4 = un pas à gauche/droite ; tombe si le dessous est vide",
+     "selection": null,
+     "clic": "ACTION6 agit sur la tuile cliquée ; si c'était la tuile sous le joueur, il tombe ; ACTION7 = annuler (coûte 1)"
+    },
+    "victoire": "le joueur atteint la gemme (en marchant ou en tombant)",
+    "niveaux": {
+     "nombre": 9,
+     "persiste": "rien : compteur remis à 0",
+     "nouveau": "plafond (1-3), pointes (3+), budget 128 à partir du niveau 7"
+    },
+    "incertain": [
+     "grille 10 et seuil 192 présents mais seulement 9 niveaux",
+     "test du plafond avant le mouvement vers le bas"
+    ]
+   }
+  },
+  "cd82": {
+   "a_jeu": {
+    "budget": true,
+    "vies": false,
+    "recharge": null,
+    "minuteur": null,
+    "compteur_cache": null,
+    "defaite_causes": [
+     "epuisement_budget"
+    ],
+    "defaite_hors_budget": [],
+    "interface": [
+     "budget_coups"
+    ]
+   },
+   "b_programme": {
+    "budget": true,
+    "budget_variable": "coups",
+    "vies": null,
+    "defaite": true,
+    "victoire": true,
+    "contournements": 3
+   },
+   "c_moteur": {
+    "plateau": "appris (objets, rôles)",
+    "controle": "appris (actions, mobile contrôlé, clic)",
+    "dynamique": "appris (lois)",
+    "economie": "non : jauge masquée (sauf ressource.py pour ls20, hors chaîne)",
+    "defaite": "contact seulement (`mort`)",
+    "niveaux": "transfert sous drapeau (D)",
+    "interface": "masquée en bloc"
+   },
+   "trous": [],
+   "lecture": {
+    "jeu": "cd82",
+    "interface": [
+     {
+      "classe": "aunldyudeb",
+      "represente": "budget_coups",
+      "regle": "ligne 63 : round(64*(100-actions)/100) pixels couleur 4, reste 5 ; +1 par action non-RESET ; remis à 100 à chaque niveau ; défaite à 100 actions",
+      "lignes": "366-388, 463, 631"
+     }
+    ],
+    "defaite": [
+     {
+      "cause": "epuisement_budget",
+      "condition": "au début d'un pas, 100 actions déjà jouées : la 100e est perdante et n'est pas exécutée (99 utilisables)",
+      "ligne": 633
+     }
+    ],
+    "economie": {
+     "budget_coups": "100 actions par niveau, pour tous les niveaux",
+     "vies": null,
+     "ressources": "palette de couleurs cliquables (2, 3 puis 7 couleurs)",
+     "recharge": "budget à 100 à chaque niveau",
+     "minuteur": null
+    },
+    "controle": {
+     "actions": [
+      "ACTION1",
+      "ACTION2",
+      "ACTION3",
+      "ACTION4",
+      "ACTION5",
+      "ACTION6"
+     ],
+     "avatar": "pot de peinture sur 8 positions autour d'une toile 10x10 ; ACTION1-4 changent de position ; ACTION5 peint (moitié depuis un côté, triangle diagonal depuis un coin)",
+     "selection": "couleur courante choisie par clic sur la palette",
+     "clic": "clic sur une couleur de la palette ; aux niveaux 3-6, clic sur la buse : bande 3x4 au milieu du bord"
+    },
+    "victoire": "la toile égale l'image cible partout sauf sur les deux diagonales",
+    "niveaux": {
+     "nombre": 6,
+     "persiste": "rien (budget à 100, pot en position 0, couleur 15)",
+     "nouveau": "2 couleurs (1), 3 couleurs et diagonales (2), 7 couleurs et buse (3-6)"
+    },
+    "incertain": [
+     "la toile n'est pas remise entre deux coups de peinture",
+     "les cases des diagonales ne sont jamais testées"
+    ]
+   }
+  },
+  "dc22": {
+   "a_jeu": {
+    "budget": true,
+    "vies": false,
+    "recharge": null,
+    "minuteur": null,
+    "compteur_cache": null,
+    "defaite_causes": [
+     "chute",
+     "epuisement_budget"
+    ],
+    "defaite_hors_budget": [
+     "chute"
+    ],
+    "interface": [
+     "budget_coups",
+     "autre"
+    ]
+   },
+   "b_programme": {
+    "budget": false,
+    "budget_variable": null,
+    "vies": null,
+    "defaite": false,
+    "victoire": true,
+    "contournements": 2
+   },
+   "c_moteur": {
+    "plateau": "appris (objets, rôles)",
+    "controle": "appris (actions, mobile contrôlé, clic)",
+    "dynamique": "appris (lois)",
+    "economie": "non : jauge masquée (sauf ressource.py pour ls20, hors chaîne)",
+    "defaite": "contact seulement (`mort`)",
+    "niveaux": "transfert sous drapeau (D)",
+    "interface": "masquée en bloc"
+   },
+   "trous": [
+    "budget non décrit",
+    "défaite hors budget non décrite : chute"
+   ],
+   "lecture": {
+    "jeu": "dc22",
+    "interface": [
+     {
+      "classe": "jktvoccigf",
+      "represente": "budget_coups",
+      "regle": "barre ligne 63 : part utilisée en couleur 3 depuis la gauche, reste 0 ; mouvement -1, clic -1 (-2 sur un bouton buezna), déplacement de grue raté -1, prise ratée 0, chute -20 ; remis au StepCounter à chaque niveau ou remise ; défaite à 0",
+      "lignes": "9890-9954"
+     },
+     {
+      "classe": "jktvoccigf (animation de chute)",
+      "represente": "autre",
+      "regle": "pendant une chute, tout ce qui est hors d'un cercle centré sur le joueur (qui se referme) est peint en couleur 5",
+      "lignes": "9933-9953"
+     }
+    ],
+    "defaite": [
+     {
+      "cause": "chute",
+      "condition": "après un clic, le joueur n'est plus sur un sol : chute de 14 images, budget -20 ; défaite si ≤ 0, sinon retour à l'état d'avant le clic",
+      "ligne": 10585
+     },
+     {
+      "cause": "epuisement_budget",
+      "condition": "clic de grue refusé (coûte 1) qui amène le budget à 0",
+      "ligne": 10843
+     },
+     {
+      "cause": "epuisement_budget",
+      "condition": "surcoût d'un clic sur un bouton buezna qui amène le budget à 0",
+      "ligne": 10855
+     },
+     {
+      "cause": "epuisement_budget",
+      "condition": "coût normal d'un clic (ou d'une action sans mouvement) qui amène le budget à 0",
+      "ligne": 10859
+     },
+     {
+      "cause": "epuisement_budget",
+      "condition": "mouvement (même bloqué) qui n'atteint pas le but et amène le budget à 0",
+      "ligne": 10887
+     }
+    ],
+    "economie": {
+     "budget_coups": "StepCounter par niveau : 128, 192, 192, 192, 512, 1024",
+     "vies": null,
+     "ressources": "pont ou objet porté par la grue ; clés à lettre qui activent les boutons de même lettre",
+     "recharge": "seulement au changement ou à la remise du niveau ; une chute coûte 20 puis annule le clic",
+     "minuteur": null
+    },
+    "controle": {
+     "actions": [
+      "ACTION1",
+      "ACTION2",
+      "ACTION3",
+      "ACTION4",
+      "ACTION6"
+     ],
+     "avatar": "sprite jfva, 2 px par ACTION1-4, refusé hors du sol ou sur collision",
+     "selection": null,
+     "clic": "bouton buezna : fait passer les plateformes de même lettre à leur variante suivante (le joueur dessus est porté) ; visible seulement quand le joueur est sur le plot de même lettre ; commandes de grue (haut, bas, gauche, droite, prendre)"
+    },
+    "victoire": "position du joueur = position du but goknoi, testée après un mouvement, avant le décompte",
+    "niveaux": {
+     "nombre": 6,
+     "persiste": "rien",
+     "nouveau": "cycle de couleurs au niveau 6 ; grue sur rails selon le niveau"
+    },
+    "incertain": [
+     "un clic sur un bouton semble coûter 2",
+     "pas d'action pour lâcher l'objet porté",
+     "l'instantané d'annulation ne sert qu'à la pénalité de chute"
+    ]
+   }
+  },
+  "ft09": {
+   "a_jeu": {
+    "budget": true,
+    "vies": false,
+    "recharge": null,
+    "minuteur": null,
+    "compteur_cache": null,
+    "defaite_causes": [
+     "epuisement_budget"
+    ],
+    "defaite_hors_budget": [],
+    "interface": [
+     "budget_coups"
+    ]
+   },
+   "b_programme": {
+    "budget": false,
+    "budget_variable": null,
+    "vies": null,
+    "defaite": false,
+    "victoire": true,
+    "contournements": 2
+   },
+   "c_moteur": {
+    "plateau": "appris (objets, rôles)",
+    "controle": "appris (actions, mobile contrôlé, clic)",
+    "dynamique": "appris (lois)",
+    "economie": "non : jauge masquée (sauf ressource.py pour ls20, hors chaîne)",
+    "defaite": "contact seulement (`mort`)",
+    "niveaux": "transfert sous drapeau (D)",
+    "interface": "masquée en bloc"
+   },
+   "trous": [
+    "budget non décrit"
+   ],
+   "lecture": {
+    "jeu": "ft09",
+    "interface": [
+     {
+      "classe": "sve (RenderableUserDisplay)",
+      "represente": "budget_coups",
+      "regle": "barre ligne 63, 64 px ; longueur round(64*dzy/oro) couleur 12, reste 11 ; dzy part du kCv du niveau, -1 par clic compté (clic sur une case Hkx/NTi non gagnant, ou clic hors grille) ; clic sur une case vide de la grille gratuit ; remis au plein à chaque niveau ; lose() à 0",
+      "lignes": "2272-2298, 2308-2312, 2431-2432"
+     }
+    ],
+    "defaite": [
+     {
+      "cause": "epuisement_budget",
+      "condition": "le kCv-ième clic compté non gagnant amène le compteur à 0",
+      "ligne": 2432
+     }
+    ],
+    "economie": {
+     "budget_coups": "kCv par niveau : 32, 32, 96, 96, 128, 128",
+     "vies": null,
+     "ressources": null,
+     "recharge": "remis au plein à chaque nouveau niveau seulement",
+     "minuteur": null
+    },
+    "controle": {
+     "actions": [
+      "ACTION6"
+     ],
+     "avatar": "aucun",
+     "selection": null,
+     "clic": "clic sur une case Hkx : couleur suivante de la palette du niveau ; clic sur une case NTi : la case et ses voisines marquées (motif 3x3) changent ; niveau 0 : clic dans le vide = indice clignotant, gratuit"
+    },
+    "victoire": "pour chaque contrainte bsT de couleur centrale c, chacune des 8 voisines vaut c là où le pixel de contrainte vaut 0 et diffère de c sinon ; vérifié après chaque clic, avant le décompte",
+    "niveaux": {
+     "nombre": 6,
+     "persiste": "rien ; budget au kCv du niveau, palette rechargée",
+     "nouveau": "budgets croissants, palette à 3 couleurs au niveau 4, cases NTi dans certains niveaux"
+    },
+    "incertain": [
+     "cadrage exact de la caméra (16x16, échelle 4) non vérifié",
+     "niveaux à cases NTi non listés"
+    ]
+   }
+  },
+  "g50t": {
+   "a_jeu": {
+    "budget": true,
+    "vies": false,
+    "recharge": null,
+    "minuteur": null,
+    "compteur_cache": null,
+    "defaite_causes": [
+     "contact",
+     "epuisement_budget"
+    ],
+    "defaite_hors_budget": [
+     "contact"
+    ],
+    "interface": [
+     "budget_coups",
+     "autre"
+    ]
+   },
+   "b_programme": {
+    "budget": true,
+    "budget_variable": "coups",
+    "vies": null,
+    "defaite": true,
+    "victoire": true,
+    "contournements": 7
+   },
+   "c_moteur": {
+    "plateau": "appris (objets, rôles)",
+    "controle": "appris (actions, mobile contrôlé, clic)",
+    "dynamique": "appris (lois)",
+    "economie": "non : jauge masquée (sauf ressource.py pour ls20, hors chaîne)",
+    "defaite": "contact seulement (`mort`)",
+    "niveaux": "transfert sous drapeau (D)",
+    "interface": "masquée en bloc"
+   },
+   "trous": [],
+   "lecture": {
+    "jeu": "g50t",
+    "interface": [
+     {
+      "classe": "sprite ppfvilwwnk (pas de RenderableUserDisplay)",
+      "represente": "budget_coups",
+      "regle": "barre 64x1 couleur 9 en (0,63) sur un rail couleur 1 ; chaque action non-RESET (ACTION1-5, mouvements bloqués compris) incrémente un compteur ; la barre recule d'1 px toutes les 2 actions ; défaite quand elle est entièrement sortie à gauche (≈ action 130) ; remise seulement au rechargement du niveau",
+      "lignes": "902-910, 2826-2828, 2844-2849"
+     },
+     {
+      "classe": "sprites gpkhwmwioo + curseur ovhuyqtghw",
+      "represente": "autre",
+      "regle": "cases d'enregistrement des fantômes en (0,0), (4,0), (8,0) : 2 au niveau 1, 3 ensuite ; le curseur avance après chaque ACTION5 ; après la dernière case, tous les fantômes sont effacés",
+      "lignes": "2402-2428, 2632-2639, 2736-2777"
+     }
+    ],
+    "defaite": [
+     {
+      "cause": "epuisement_budget",
+      "condition": "barre entièrement sortie à gauche ; lose() au coup suivant",
+      "ligne": 2810
+     },
+     {
+      "cause": "contact",
+      "condition": "fin de l'animation de mort du joueur : ennemi patrouilleur arrêté sur lui (niveaux 6-7) ou bloc/porte mobile qui l'écrase ; même appel lose()",
+      "ligne": 2810
+     }
+    ],
+    "economie": {
+     "budget_coups": "≈ 130 actions par niveau, pareil dans les 7 niveaux",
+     "vies": null,
+     "ressources": "enregistrements fantômes : 2 cases (niveau 1) ou 3 (niveaux 2-7)",
+     "recharge": "aucune dans un niveau",
+     "minuteur": null
+    },
+    "controle": {
+     "actions": [
+      "ACTION1",
+      "ACTION2",
+      "ACTION3",
+      "ACTION4",
+      "ACTION5"
+     ],
+     "avatar": "bloc qui avance de 6 px par action sur le sol libre ; plaques de pression qui ouvrent/déplacent portes et blocs ; plots de téléportation ; ACTION5 rembobine le trajet, ramène le joueur au départ et en fait un fantôme qui rejoue le trajet en même temps que les coups suivants",
+     "selection": null,
+     "clic": null
+    },
+    "victoire": "joueur sur le but gilbljmfbc (décalage +1, +1), vérifié hors animation",
+    "niveaux": {
+     "nombre": 7,
+     "persiste": "rien ; niveau recloné",
+     "nouveau": "plus de plaques et portes, téléporteurs (4+), plaques à bascule de couleur 11, ennemi patrouilleur (6-7)"
+    },
+    "incertain": [
+     "barre vide à l'action 128, défaite à l'action 130",
+     "blocs à bascule couleur 11 et plots d'échange lus rapidement"
+    ]
+   }
+  },
+  "ka59": {
+   "a_jeu": {
+    "budget": true,
+    "vies": false,
+    "recharge": null,
+    "minuteur": "bombes à retardement",
+    "compteur_cache": null,
+    "defaite_causes": [
+     "contact",
+     "epuisement_budget"
+    ],
+    "defaite_hors_budget": [
+     "contact"
+    ],
+    "interface": [
+     "budget_coups"
+    ]
+   },
+   "b_programme": {
+    "budget": false,
+    "budget_variable": null,
+    "vies": null,
+    "defaite": false,
+    "victoire": true,
+    "contournements": 5
+   },
+   "c_moteur": {
+    "plateau": "appris (objets, rôles)",
+    "controle": "appris (actions, mobile contrôlé, clic)",
+    "dynamique": "appris (lois)",
+    "economie": "non : jauge masquée (sauf ressource.py pour ls20, hors chaîne)",
+    "defaite": "contact seulement (`mort`)",
+    "niveaux": "transfert sous drapeau (D)",
+    "interface": "masquée en bloc"
+   },
+   "trous": [
+    "budget non décrit",
+    "défaite hors budget non décrite : contact",
+    "minuteur non décrit"
+   ],
+   "lecture": {
+    "jeu": "ka59",
+    "interface": [
+     {
+      "classe": "ckawyvsxuv",
+      "represente": "budget_coups",
+      "regle": "ligne 63 : round(64*restant/max) pixels couleur 4, reste 0 ; -1 par action ACTION1-4 et ACTION6 ; animations gratuites ; remis au StepCounter à chaque niveau ; défaite à 0 (après le test de victoire)",
+      "lignes": "41051-41086, 41147-41151"
+     }
+    ],
+    "defaite": [
+     {
+      "cause": "epuisement_budget",
+      "condition": "action terminée, niveau non gagné, compteur à 0",
+      "ligne": 41462
+     },
+     {
+      "cause": "contact",
+      "condition": "un sprite 'Enemy' sur l'objet 0001 : aucun sprite n'a ce tag, code mort",
+      "ligne": 41219
+     }
+    ],
+    "economie": {
+     "budget_coups": "StepCounter par niveau : 100, 127, 100, 127, 100, 150, 200",
+     "vies": null,
+     "ressources": null,
+     "recharge": "budget au plein à chaque début de niveau",
+     "minuteur": "bombes : chaque coup remplit une rangée ; pleine, la bombe explose, pousse les blocs voisins puis recommence ; une bombe 0002 part au premier coup"
+    },
+    "controle": {
+     "actions": [
+      "ACTION1",
+      "ACTION2",
+      "ACTION3",
+      "ACTION4",
+      "ACTION6"
+     ],
+     "avatar": "le bloc sélectionné avance de 3 px ; s'il heurte un bloc, une bombe ou un objet, il le pousse (15 px, glissade sur les zones 0015, chaînes de poussée)",
+     "selection": "clic sur un bloc 0022 : il devient le bloc contrôlé",
+     "clic": "ACTION6 sur un bloc le sélectionne ; tout autre clic ne fait rien mais coûte 1"
+    },
+    "victoire": "chaque cadre cible 0010 contient exactement un bloc 0022, et chaque cible 0027 un objet 0001",
+    "niveaux": {
+     "nombre": 7,
+     "persiste": "rien",
+     "nouveau": "4 blocs et 4 cibles (2), objets 0001 et cibles 0027 (3-4, 6-7), bombes (5-7), budgets 150 et 200 (6, 7)"
+    },
+    "incertain": [
+     "zones 0015 solides pour le bloc contrôlé mais glissantes pour les objets poussés",
+     "poursuite d'ennemi = code mort",
+     "poussée exacte des bombes non lue"
+    ]
+   }
+  },
+  "lf52": {
+   "a_jeu": {
+    "budget": true,
+    "vies": false,
+    "recharge": null,
+    "minuteur": null,
+    "compteur_cache": "le compteur affiché n'est pas celui qui fait perdre",
+    "defaite_causes": [
+     "autre",
+     "epuisement_budget"
+    ],
+    "defaite_hors_budget": [
+     "autre"
+    ],
+    "interface": [
+     "budget_coups"
+    ]
+   },
+   "b_programme": {
+    "budget": true,
+    "budget_variable": "coups",
+    "vies": null,
+    "defaite": true,
+    "victoire": true,
+    "contournements": 0
+   },
+   "c_moteur": {
+    "plateau": "appris (objets, rôles)",
+    "controle": "appris (actions, mobile contrôlé, clic)",
+    "dynamique": "appris (lois)",
+    "economie": "non : jauge masquée (sauf ressource.py pour ls20, hors chaîne)",
+    "defaite": "contact seulement (`mort`)",
+    "niveaux": "transfert sous drapeau (D)",
+    "interface": "masquée en bloc"
+   },
+   "trous": [],
+   "lecture": {
+    "jeu": "lf52",
+    "interface": [
+     {
+      "classe": "wnrtmoelug",
+      "represente": "budget_coups",
+      "regle": "ligne 0 : compteur affiché +1 par action de tout type (annulation et bouton de remise compris), 5 tours de couleur de 64 px ; non remis à chaque niveau ; AFFICHAGE SEULEMENT, ne cause pas la défaite",
+      "lignes": "5683-5695, 5716-5731"
+     }
+    ],
+    "defaite": [
+     {
+      "cause": "autre",
+      "condition": "drapeau interne evxflhofing, jamais levé (code mort)",
+      "ligne": 5768
+     },
+     {
+      "cause": "epuisement_budget",
+      "condition": "niveau 1 : compteur caché ≥ 64",
+      "ligne": 5772
+     },
+     {
+      "cause": "epuisement_budget",
+      "condition": "niveaux 6-10 : compteur caché ≥ 640",
+      "ligne": 5776
+     },
+     {
+      "cause": "epuisement_budget",
+      "condition": "niveaux 2-5 : compteur caché ≥ 320",
+      "ligne": 5780
+     }
+    ],
+    "economie": {
+     "budget_coups": "compteur CACHÉ asqvqzpfdi : +1 par flèche et par clic sur le plateau (ni le bouton de remise, ni ACTION7) ; limites 64 (1), 320 (2-5), 640 (6-10) ; remis à chaque nouveau niveau",
+     "vies": null,
+     "ressources": "solitaire : pièces sur des trous ; tuiles mobiles sur rails, déplacées par les flèches avec leurs pièces",
+     "recharge": null,
+     "minuteur": null
+    },
+    "controle": {
+     "actions": [
+      "ACTION1",
+      "ACTION2",
+      "ACTION3",
+      "ACTION4",
+      "ACTION6",
+      "ACTION7"
+     ],
+     "avatar": "aucun ; les flèches font glisser les tuiles sur rails",
+     "selection": "clic sur une pièce : marqueurs de saut possibles",
+     "clic": "clic sur un marqueur : la pièce saute 2 cases ; la pièce sautée est retirée si elle est de même couleur ; aux niveaux 1-3, certaines cases sont des impasses et font apparaître un bouton de remise ; ACTION7 = annuler"
+    },
+    "victoire": "après un saut, il reste 1 pièce (2 aux niveaux 6 et 7)",
+    "niveaux": {
+     "nombre": 10,
+     "persiste": "le compteur AFFICHÉ (non remis) ; le compteur de défaite est remis",
+     "nouveau": "rails et défilement de caméra (3-4), pièces rouges (6), bleues (8+), limites 64 puis 320 puis 640"
+    },
+    "incertain": [
+     "les deux compteurs (affiché et caché) diffèrent : l'affiché compte aussi l'annulation et persiste entre niveaux",
+     "remise du compteur caché par RESET non certaine",
+     "pénalité +20 jamais déclenchée"
+    ]
+   }
+  },
+  "lp85": {
+   "a_jeu": {
+    "budget": true,
+    "vies": false,
+    "recharge": null,
+    "minuteur": null,
+    "compteur_cache": null,
+    "defaite_causes": [
+     "epuisement_budget"
+    ],
+    "defaite_hors_budget": [],
+    "interface": [
+     "budget_coups",
+     "progression"
+    ]
+   },
+   "b_programme": {
+    "budget": true,
+    "budget_variable": "jauge",
+    "vies": null,
+    "defaite": true,
+    "victoire": true,
+    "contournements": 3
+   },
+   "c_moteur": {
+    "plateau": "appris (objets, rôles)",
+    "controle": "appris (actions, mobile contrôlé, clic)",
+    "dynamique": "appris (lois)",
+    "economie": "non : jauge masquée (sauf ressource.py pour ls20, hors chaîne)",
+    "defaite": "contact seulement (`mort`)",
+    "niveaux": "transfert sous drapeau (D)",
+    "interface": "masquée en bloc"
+   },
+   "trous": [],
+   "lecture": {
+    "jeu": "lp85",
+    "interface": [
+     {
+      "classe": "fonypcnqmf (colonne x=0, y=0..63)",
+      "represente": "budget_coups",
+      "regle": "pixels couleur 5 = round(64*(max-restant)/max), reste couleur 14 ; seul un clic sur un bouton (xsfawdkqoi) décrémente de 1 ; remis au StepCounter du niveau dans on_set_level ; lose() quand il atteint 0 après un clic de bouton non gagnant",
+      "lignes": "21289-21336, 21355-21360, 21438-21439"
+     },
+     {
+      "classe": "fonypcnqmf (marqueurs ligne y=1)",
+      "represente": "progression",
+      "regle": "8 marqueurs de 4 px à x=10+5i ; couleur 14 si i <= level_index, sinon 5 (min(level_index-1, 7))",
+      "lignes": "21312-21314, 21331-21335, 21369"
+     }
+    ],
+    "defaite": [
+     {
+      "cause": "epuisement_budget",
+      "condition": "après un clic de bouton qui ne résout pas le niveau, le compteur tombe à 0",
+      "ligne": 21439
+     }
+    ],
+    "economie": {
+     "budget_coups": "StepCounter par niveau : 13, 60, 80, 150, 80, 80, 80, 80 ; seuls les clics de bouton coûtent 1 ; le clic gagnant ne décompte pas",
+     "vies": null,
+     "ressources": null,
+     "recharge": "remis au plein au début de chaque niveau seulement",
+     "minuteur": null
+    },
+    "controle": {
+     "actions": [
+      "ACTION6"
+     ],
+     "avatar": "aucun",
+     "selection": null,
+     "clic": "clic sur un sprite tagué button_<carte>_<L|R> : rotation d'un cran des sprites sur les cases numérotées de la carte (R : n -> n+1, L : n -> n-1, avec bouclage) ; échelle 3 ; clic ailleurs gratuit et sans effet"
+    },
+    "victoire": "chaque sprite bghvgbtwcb a un sprite tagué 'goal' en (x+1, y+1) et chaque fdgmtkfrxl un 'goal-o' en (x+1, y+1) ; vérifié après chaque clic de bouton",
+    "niveaux": {
+     "nombre": 8,
+     "persiste": "rien ; budget remis au StepCounter du nouveau niveau",
+     "nouveau": "nouvelle grille, nouvelles cartes de permutation, nouveau StepCounter"
+    },
+    "incertain": [
+     "décalage level_index-1 des marqueurs de progression non vérifié à l'exécution",
+     "contenu des cartes de permutation non lu",
+     "avec 13, le 13e clic non gagnant fait perdre"
+    ]
+   }
+  },
+  "ls20": {
+   "a_jeu": {
+    "budget": true,
+    "vies": true,
+    "recharge": "cases de recharge (remet 42)",
+    "minuteur": null,
+    "compteur_cache": null,
+    "defaite_causes": [
+     "perte_vie"
+    ],
+    "defaite_hors_budget": [
+     "perte_vie"
+    ],
+    "interface": [
+     "budget_coups",
+     "vies",
+     "autre"
+    ]
+   },
+   "b_programme": {
+    "budget": true,
+    "budget_variable": "epuise (jauge)",
+    "vies": "vies",
+    "defaite": true,
+    "victoire": true,
+    "contournements": 5
+   },
+   "c_moteur": {
+    "plateau": "appris (objets, rôles)",
+    "controle": "appris (actions, mobile contrôlé, clic)",
+    "dynamique": "appris (lois)",
+    "economie": "non : jauge masquée (sauf ressource.py pour ls20, hors chaîne)",
+    "defaite": "contact seulement (`mort`)",
+    "niveaux": "transfert sous drapeau (D)",
+    "interface": "masquée en bloc"
+   },
+   "trous": [],
+   "lecture": {
+    "jeu": "ls20",
+    "interface": [
+     {
+      "classe": "hbuhvkxlhc (barre de pas)",
+      "represente": "budget_coups",
+      "regle": "StepCounter = 42 pixels ligne 61 (x=13..54) ; allumés = pas restants ; chaque mouvement coûte StepsDecrement (1 aux niveaux 1, 4, 6 ; 2 aux niveaux 2, 3, 5, 7) ; aller sur une recharge ne coûte rien et remet 42 ; heurter un mur coûte ; passer sous 0 coûte une vie et remet 42",
+      "lignes": "1492-1552"
+     },
+     {
+      "classe": "hbuhvkxlhc (cases de vie)",
+      "represente": "vies",
+      "regle": "3 cases 2x2 en x=56, 59, 62, ligne 61, couleur 8 tant que vies > i ; 3 au départ, -1 à chaque épuisement du budget ; lose() à 0",
+      "lignes": "1547-1551, 1843, 1982-1987"
+     },
+     {
+      "classe": "hbuhvkxlhc (brouillard + clé)",
+      "represente": "autre",
+      "regle": "niveau 7 seulement : tout ce qui est à plus de 20 px du joueur peint en couleur 5, clé courante redessinée en (3,55)",
+      "lignes": "1521-1542"
+     }
+    ],
+    "defaite": [
+     {
+      "cause": "perte_vie",
+      "condition": "dépassement du budget quand la dernière des 3 vies est déjà utilisée",
+      "ligne": 1985
+     }
+    ],
+    "economie": {
+     "budget_coups": "42 à tous les niveaux ; ≈ 42 mouvements (niveaux 1, 4, 6) ou ≈ 21 (niveaux 2, 3, 5, 7)",
+     "vies": 3,
+     "ressources": "cases de changement de la clé (forme : 6, couleur : 4, rotation +90°) ; pousseurs ; changeurs mobiles sur rails",
+     "recharge": "case npxgalaybz : remet la barre à 42, puis disparaît ; après une vie perdue, recharges, buts et plots reviennent, joueur et clé au départ",
+     "minuteur": null
+    },
+    "controle": {
+     "actions": [
+      "ACTION1",
+      "ACTION2",
+      "ACTION3",
+      "ACTION4"
+     ],
+     "avatar": "bloc qui avance de 5 px, arrêté par les murs",
+     "selection": null,
+     "clic": null
+    },
+    "victoire": "chaque but a été atteint avec une clé de même forme, couleur et rotation que lui ; entrer avec la mauvaise clé est bloqué, sans coût",
+    "niveaux": {
+     "nombre": 7,
+     "persiste": "rien : vies (3) et budget (42) remis à chaque niveau",
+     "nouveau": "recharges (2+), 3 recharges (5+), 2 buts et changeurs mobiles (6), brouillard de rayon 20 px et 6 recharges (7)"
+    },
+    "incertain": [
+     "la barre est cachée pendant l'animation de perte de vie",
+     "indice affiché au niveau 0 seulement"
+    ]
+   }
+  },
+  "m0r0": {
+   "a_jeu": {
+    "budget": true,
+    "vies": false,
+    "recharge": null,
+    "minuteur": null,
+    "compteur_cache": null,
+    "defaite_causes": [
+     "epuisement_budget"
+    ],
+    "defaite_hors_budget": [],
+    "interface": [
+     "budget_coups",
+     "autre"
+    ]
+   },
+   "b_programme": {
+    "budget": false,
+    "budget_variable": null,
+    "vies": null,
+    "defaite": false,
+    "victoire": true,
+    "contournements": 4
+   },
+   "c_moteur": {
+    "plateau": "appris (objets, rôles)",
+    "controle": "appris (actions, mobile contrôlé, clic)",
+    "dynamique": "appris (lois)",
+    "economie": "non : jauge masquée (sauf ressource.py pour ls20, hors chaîne)",
+    "defaite": "contact seulement (`mort`)",
+    "niveaux": "transfert sous drapeau (D)",
+    "interface": "masquée en bloc"
+   },
+   "trous": [
+    "budget non décrit"
+   ],
+   "lecture": {
+    "jeu": "m0r0",
+    "interface": [
+     {
+      "classe": "ckpxigfdkg",
+      "represente": "budget_coups",
+      "regle": "ligne 0 (depuis la gauche) et ligne 63 (depuis la droite) : round(64*(150-actions)/150) pixels couleur 5 ; -1 par action de tout type ; remis à 150 à chaque niveau ; défaite au-delà de 150",
+      "lignes": "583-612, 701, 724-725"
+     },
+     {
+      "classe": "uuyjjjqcvy",
+      "represente": "autre",
+      "regle": "fond coloré par moitiés ou quadrants ; contours des blocs mosdlc ; pointillé sur les cases danger",
+      "lignes": "615-677"
+     }
+    ],
+    "defaite": [
+     {
+      "cause": "epuisement_budget",
+      "condition": "plus de 150 actions : la 151e fait perdre",
+      "ligne": 727
+     }
+    ],
+    "economie": {
+     "budget_coups": "150 actions par niveau, pour tous les niveaux",
+     "vies": null,
+     "ressources": null,
+     "recharge": "budget à 150 à chaque niveau",
+     "minuteur": null
+    },
+    "controle": {
+     "actions": [
+      "ACTION1",
+      "ACTION2",
+      "ACTION3",
+      "ACTION4",
+      "ACTION5",
+      "ACTION6"
+     ],
+     "avatar": "deux pièces en miroir (gauche/droite inversées, haut/bas identiques), arrêtées par murs, blocs et portes ; sur une case danger, tout revient au départ du niveau (pas une défaite) ; deux pièces sur la même case fusionnent",
+     "selection": "clic sur un bloc mosdlc : ACTION1-4 déplacent alors ce bloc seul",
+     "clic": "ACTION6 sélectionne ou désélectionne un bloc ; coûte 1"
+    },
+    "victoire": "plus aucune pièce active : toutes ont fusionné deux à deux",
+    "niveaux": {
+     "nombre": 6,
+     "persiste": "rien",
+     "nouveau": "cases danger (2, 4, 6), blocs mobiles (3, 4, 6), portes à bouton de couleur (5-6)"
+    },
+    "incertain": [
+     "ACTION5 ne fait rien mais coûte 1",
+     "variantes de pièces jamais placées",
+     "le danger ramène aussi les blocs au départ"
+    ]
+   }
+  },
+  "r11l": {
+   "a_jeu": {
+    "budget": true,
+    "vies": true,
+    "recharge": null,
+    "minuteur": null,
+    "compteur_cache": "5 contacts de danger, non affichés",
+    "defaite_causes": [
+     "contact",
+     "epuisement_budget"
+    ],
+    "defaite_hors_budget": [
+     "contact"
+    ],
+    "interface": [
+     "budget_coups",
+     "autre"
+    ]
+   },
+   "b_programme": {
+    "budget": false,
+    "budget_variable": null,
+    "vies": null,
+    "defaite": false,
+    "victoire": true,
+    "contournements": 4
+   },
+   "c_moteur": {
+    "plateau": "appris (objets, rôles)",
+    "controle": "appris (actions, mobile contrôlé, clic)",
+    "dynamique": "appris (lois)",
+    "economie": "non : jauge masquée (sauf ressource.py pour ls20, hors chaîne)",
+    "defaite": "contact seulement (`mort`)",
+    "niveaux": "transfert sous drapeau (D)",
+    "interface": "masquée en bloc"
+   },
+   "trous": [
+    "budget non décrit",
+    "vies non décrites",
+    "défaite hors budget non décrite : contact"
+   ],
+   "lecture": {
+    "jeu": "r11l",
+    "interface": [
+     {
+      "classe": "rjtqizgnlf",
+      "represente": "budget_coups",
+      "regle": "barre verticale colonne x=0 : part restante (60 - actions)/60 en couleur 0 depuis le bas, reste 5 ; chaque action compte (clics de sélection et clics bloqués compris) ; remise à 60 à chaque niveau ; défaite à 60 actions",
+      "lignes": "1306-1331"
+     },
+     {
+      "classe": "xeuvojjxyk",
+      "represente": "autre",
+      "regle": "lignes de couleur 1 de chaque corps vers ses jambes",
+      "lignes": "1334-1401"
+     }
+    ],
+    "defaite": [
+     {
+      "cause": "contact",
+      "condition": "un corps touche un danger à la fin d'un mouvement de jambe ; compteur caché, défaite au 5e contact du niveau ; les contacts précédents ramènent la jambe",
+      "ligne": 1750
+     },
+     {
+      "cause": "epuisement_budget",
+      "condition": "60 actions au début d'un pas (59 utilisables)",
+      "ligne": 1810
+     }
+    ],
+    "economie": {
+     "budget_coups": "60 actions par niveau, sans StepCounter",
+     "vies": "5 contacts de danger par niveau (compteur caché, remis à chaque niveau)",
+     "ressources": "pièces de couleur : un corps qui en touche une prend ses couleurs et la pièce disparaît",
+     "recharge": null,
+     "minuteur": null
+    },
+    "controle": {
+     "actions": [
+      "ACTION6"
+     ],
+     "avatar": "plusieurs corps, recentrés sur leurs jambes après chaque mouvement de jambe",
+     "selection": "clic sur une jambe : elle est sélectionnée ; au départ, la plus proche de l'origine",
+     "clic": "clic ailleurs : la jambe sélectionnée vient s'y centrer, sauf collision avec un mur (l'action compte quand même)"
+    },
+    "victoire": "chaque corps qui a une cible à son nom la touche ; une cible sans corps nommé doit être touchée par un corps collecteur dont les couleurs égalent celles de la cible",
+    "niveaux": {
+     "nombre": 6,
+     "persiste": "rien",
+     "nouveau": "sprites multicolores (4+), corps collecteurs et pièces de couleur (5-6)"
+    },
+    "incertain": [
+     "la 60e action fait perdre : 59 utilisables",
+     "rôle des sprites dirwzt et hawffu incertain"
+    ]
+   }
+  },
+  "re86": {
+   "a_jeu": {
+    "budget": true,
+    "vies": false,
+    "recharge": null,
+    "minuteur": null,
+    "compteur_cache": null,
+    "defaite_causes": [
+     "epuisement_budget"
+    ],
+    "defaite_hors_budget": [],
+    "interface": [
+     "budget_coups"
+    ]
+   },
+   "b_programme": {
+    "budget": false,
+    "budget_variable": null,
+    "vies": null,
+    "defaite": false,
+    "victoire": true,
+    "contournements": 4
+   },
+   "c_moteur": {
+    "plateau": "appris (objets, rôles)",
+    "controle": "appris (actions, mobile contrôlé, clic)",
+    "dynamique": "appris (lois)",
+    "economie": "non : jauge masquée (sauf ressource.py pour ls20, hors chaîne)",
+    "defaite": "contact seulement (`mort`)",
+    "niveaux": "transfert sous drapeau (D)",
+    "interface": "masquée en bloc"
+   },
+   "trous": [
+    "budget non décrit"
+   ],
+   "lecture": {
+    "jeu": "re86",
+    "interface": [
+     {
+      "classe": "khxzqomkkk",
+      "represente": "budget_coups",
+      "regle": "barre ligne 63 : part restante en couleur 15 depuis la gauche, reste 1 ; chaque ACTION1-5 coûte 1, même bloquée ; remise au StepCounter à chaque niveau ; défaite à 0 sans victoire",
+      "lignes": "1826-1861"
+     }
+    ],
+    "defaite": [
+     {
+      "cause": "epuisement_budget",
+      "condition": "après l'action, la victoire échoue et le budget vaut 0",
+      "ligne": 2157
+     }
+    ],
+    "economie": {
+     "budget_coups": "StepCounter par niveau : 100, 100, 200, 200, 250, 200, 300, 400",
+     "vies": null,
+     "ressources": "zones de peinture : une pièce qui y entre prend la couleur de la zone",
+     "recharge": "seulement au début du niveau",
+     "minuteur": null
+    },
+    "controle": {
+     "actions": [
+      "ACTION1",
+      "ACTION2",
+      "ACTION3",
+      "ACTION4",
+      "ACTION5"
+     ],
+     "avatar": "la pièce sélectionnée (centre couleur 0) avance de 3 px ; les murs la déforment (rectangles qui s'allongent ou s'affinent, croix dont une barre se décale)",
+     "selection": "ACTION5 : pièce suivante, avec bouclage (coûte 1)",
+     "clic": null
+    },
+    "victoire": "toutes les pièces superposées au canevas : chaque pixel de chaque cible (hors -1 et 4) égale le pixel du canevas",
+    "niveaux": {
+     "nombre": 8,
+     "persiste": "rien",
+     "nouveau": "contenu des niveaux non inspecté"
+    },
+    "incertain": [
+     "le pas où une zone de peinture se déclenche sort tôt ; victoire et défaite testées à la fin de l'animation",
+     "géométrie exacte de la déformation des croix difficile à lire"
+    ]
+   }
+  },
+  "sb26": {
+   "a_jeu": {
+    "budget": true,
+    "vies": false,
+    "recharge": null,
+    "minuteur": null,
+    "compteur_cache": null,
+    "defaite_causes": [
+     "epuisement_budget"
+    ],
+    "defaite_hors_budget": [],
+    "interface": [
+     "budget_coups"
+    ]
+   },
+   "b_programme": {
+    "budget": false,
+    "budget_variable": null,
+    "vies": null,
+    "defaite": false,
+    "victoire": true,
+    "contournements": 0
+   },
+   "c_moteur": {
+    "plateau": "appris (objets, rôles)",
+    "controle": "appris (actions, mobile contrôlé, clic)",
+    "dynamique": "appris (lois)",
+    "economie": "non : jauge masquée (sauf ressource.py pour ls20, hors chaîne)",
+    "defaite": "contact seulement (`mort`)",
+    "niveaux": "transfert sous drapeau (D)",
+    "interface": "masquée en bloc"
+   },
+   "trous": [
+    "budget non décrit"
+   ],
+   "lecture": {
+    "jeu": "sb26",
+    "interface": [
+     {
+      "classe": "khmhhfucux (ligne y=53)",
+      "represente": "budget_coups",
+      "regle": "énergie de départ 64 ; ceil(64*énergie/64) pixels couleur 2, reste 3 ; ACTION5 (lancer), échange de deux pièces et pose dans une case vide coûtent 1 ; sélection, désélection et ACTION7 (annuler) gratuites ; lose() quand l'énergie vaut 0 à la fin d'un échange ou d'un lancer raté",
+      "lignes": "700-709, 723-724, 890, 1062, 1072, 836-837, 886-887"
+     }
+    ],
+    "defaite": [
+     {
+      "cause": "epuisement_budget",
+      "condition": "fin de l'animation d'un lancer raté avec énergie à 0",
+      "ligne": 837
+     },
+     {
+      "cause": "epuisement_budget",
+      "condition": "fin de l'animation d'un échange ou d'une pose avec énergie à 0",
+      "ligne": 887
+     }
+    ],
+    "economie": {
+     "budget_coups": "64 d'énergie par niveau, pour tous les niveaux",
+     "vies": null,
+     "ressources": "pièces de couleur et pièces d'appel dans une palette sous la ligne 53, à poser dans les cases des cadres",
+     "recharge": "énergie remise à 64 dans on_set_level seulement ; ACTION7 n'en rend pas",
+     "minuteur": null
+    },
+    "controle": {
+     "actions": [
+      "ACTION5",
+      "ACTION6",
+      "ACTION7"
+     ],
+     "avatar": "aucun ; un curseur de programme pendant l'exécution",
+     "selection": "ACTION6 sur une pièce la sélectionne ; reclic = désélection",
+     "clic": "avec une pièce sélectionnée : pose dans une case vide (-1) ou échange avec une autre pièce (-1) ; ACTION7 annule ; ACTION5 lance le programme (-1)"
+    },
+    "victoire": "le programme lit les cases du premier cadre dans l'ordre ; chaque pièce de couleur doit valoir la cible suivante ; une pièce d'appel exécute le cadre de sa couleur puis revient ; gagné quand la dernière cible est remplie",
+    "niveaux": {
+     "nombre": 8,
+     "persiste": "rien ; niveau recloné, énergie à 64",
+     "nouveau": "plus de cadres, de cibles et d'appels"
+    },
+    "incertain": [
+     "un échange qui amène l'énergie à 0 fait perdre aussitôt",
+     "clics hors palette non confirmés",
+     "rejet d'un appel récursif lu rapidement"
+    ]
+   }
+  },
+  "sc25": {
+   "a_jeu": {
+    "budget": true,
+    "vies": false,
+    "recharge": "objet qui rend 10 actions",
+    "minuteur": null,
+    "compteur_cache": null,
+    "defaite_causes": [
+     "epuisement_budget"
+    ],
+    "defaite_hors_budget": [],
+    "interface": [
+     "budget_coups"
+    ]
+   },
+   "b_programme": {
+    "budget": false,
+    "budget_variable": null,
+    "vies": null,
+    "defaite": true,
+    "victoire": true,
+    "contournements": 8
+   },
+   "c_moteur": {
+    "plateau": "appris (objets, rôles)",
+    "controle": "appris (actions, mobile contrôlé, clic)",
+    "dynamique": "appris (lois)",
+    "economie": "non : jauge masquée (sauf ressource.py pour ls20, hors chaîne)",
+    "defaite": "contact seulement (`mort`)",
+    "niveaux": "transfert sous drapeau (D)",
+    "interface": "masquée en bloc"
+   },
+   "trous": [
+    "budget non décrit",
+    "recharge non décrite"
+   ],
+   "lecture": {
+    "jeu": "sc25",
+    "interface": [
+     {
+      "classe": "sprite action-ui (pas de RenderableUserDisplay)",
+      "represente": "budget_coups",
+      "regle": "colonne 32x1 en (62,0) à l'échelle 2 (64 px de haut, bord droit) ; 'used' +1 pour chaque ACTION1-4 qui n'atteint pas la sortie (bloqués compris), chaque clic de bascule sur la grille 3x3 et chaque sort terminé ; clics sur les icônes de sort ou dans le vide gratuits ; ramasser enjehv-pahtoz retire 10 à 'used' (min 0) ; lose() quand used > slfh",
+      "lignes": "30-65, 1859-1898, 2317-2320, 2663-2668, 2721-2724"
+     }
+    ],
+    "defaite": [
+     {
+      "cause": "epuisement_budget",
+      "condition": "used > slfh après un coup compté ou un sort terminé",
+      "ligne": 1896
+     },
+     {
+      "cause": "epuisement_budget",
+      "condition": "used > slfh après un clic de bascule sur la grille de sort",
+      "ligne": 2666
+     }
+    ],
+    "economie": {
+     "budget_coups": "slfh par niveau : 50, 25, 50, 35, 65, 60 ; défaite à l'action slfh+1",
+     "vies": null,
+     "ressources": "sorts permis par niveau (un nouveau par niveau 1-3, puis combinaisons)",
+     "recharge": "objet enjehv-pahtoz (1 au niveau 4, 1 au 5, 2 au 6) : rend 10 actions et disparaît",
+     "minuteur": null
+    },
+    "controle": {
+     "actions": [
+      "ACTION1",
+      "ACTION2",
+      "ACTION3",
+      "ACTION4",
+      "ACTION6"
+     ],
+     "avatar": "pluyoo, 2 px à l'échelle 1 ou 4 px à l'échelle 2, bloqué par murs et portes",
+     "selection": "clic sur une icône de sort : montre le motif ; gratuit",
+     "clic": "clic sur une case de la grille 3x3 : bascule ; motif exact d'un sort permis = lancé (téléportation, changement d'échelle, boule de feu qui détruit cibles et portes) ; la grille se remet à zéro"
+    },
+    "victoire": "un mouvement qui heurte la sortie exydhv ; ce coup ne compte pas dans le budget",
+    "niveaux": {
+     "nombre": 6,
+     "persiste": "rien (compteur et grille remis à zéro) ; seule l'orientation de l'avatar est gardée",
+     "nouveau": "un sort de plus par niveau (1-3), interrupteurs et portes appariés et recharges à partir du niveau 4"
+    },
+    "incertain": [
+     "largeur exacte de la barre (≈ 2 px en x=62-63) supposée",
+     "un clic qui complète un sort coûte 1 pour le clic + 1 quand le sort se termine"
+    ]
+   }
+  },
+  "sk48": {
+   "a_jeu": {
+    "budget": true,
+    "vies": false,
+    "recharge": null,
+    "minuteur": null,
+    "compteur_cache": null,
+    "defaite_causes": [
+     "epuisement_budget"
+    ],
+    "defaite_hors_budget": [],
+    "interface": [
+     "budget_coups"
+    ]
+   },
+   "b_programme": {
+    "budget": true,
+    "budget_variable": "coups",
+    "vies": null,
+    "defaite": true,
+    "victoire": true,
+    "contournements": 3
+   },
+   "c_moteur": {
+    "plateau": "appris (objets, rôles)",
+    "controle": "appris (actions, mobile contrôlé, clic)",
+    "dynamique": "appris (lois)",
+    "economie": "non : jauge masquée (sauf ressource.py pour ls20, hors chaîne)",
+    "defaite": "contact seulement (`mort`)",
+    "niveaux": "transfert sous drapeau (D)",
+    "interface": "masquée en bloc"
+   },
+   "trous": [],
+   "lecture": {
+    "jeu": "sk48",
+    "interface": [
+     {
+      "classe": "wrlppxgbeu",
+      "represente": "budget_coups",
+      "regle": "ligne 53 : ceil(64*restant/196) pixels couleur 2, reste 3 ; -1 par mouvement ACTION1-4, même bloqué ; clic et annulation gratuits, l'annulation ne rend rien ; remis à 196 à chaque niveau ; défaite à 0",
+      "lignes": "629-639, 658-659, 769"
+     }
+    ],
+    "defaite": [
+     {
+      "cause": "epuisement_budget",
+      "condition": "restant = 0 après un mouvement animé qui ne termine pas le niveau",
+      "ligne": 744
+     },
+     {
+      "cause": "epuisement_budget",
+      "condition": "restant = 0 à la fin d'une action non animée",
+      "ligne": 765
+     }
+    ],
+    "economie": {
+     "budget_coups": "196 mouvements par niveau, pour tous les niveaux",
+     "vies": null,
+     "ressources": null,
+     "recharge": "budget à 196 à chaque niveau",
+     "minuteur": null
+    },
+    "controle": {
+     "actions": [
+      "ACTION1",
+      "ACTION2",
+      "ACTION3",
+      "ACTION4",
+      "ACTION6",
+      "ACTION7"
+     ],
+     "avatar": "tête active avec un bras de segments de 6 px : mouvement dans l'axe = allonger ou raccourcir ; de côté = glisser si un rail est à côté ; les blocs de couleur devant le bras sont poussés et portés",
+     "selection": "clic sur une tête (ou sa référence appariée) : cette paire devient active",
+     "clic": "ACTION6 sélectionne une paire ; ACTION7 = annuler"
+    },
+    "victoire": "pour chaque tête appariée à une tête de référence, les blocs de couleur sur son bras égalent, dans l'ordre, ceux du bras de référence",
+    "niveaux": {
+     "nombre": 8,
+     "persiste": "rien (niveau recloné, budget à 196, historique d'annulation vidé)",
+     "nouveau": "têtes fixes à bras verticaux (3-4), deux paires (4), obstacles (5-6), rails dans deux directions et second type de tête (6-8)"
+    },
+    "incertain": [
+     "appariement des têtes par la couleur du centre",
+     "règles de poussée complexes",
+     "restauration complète par l'annulation non vérifiée"
+    ]
+   }
+  },
+  "sp80": {
+   "a_jeu": {
+    "budget": true,
+    "vies": true,
+    "recharge": null,
+    "minuteur": null,
+    "compteur_cache": "4 versements ratés, non affichés",
+    "defaite_causes": [
+     "autre",
+     "epuisement_budget"
+    ],
+    "defaite_hors_budget": [
+     "autre"
+    ],
+    "interface": [
+     "budget_coups",
+     "autre"
+    ]
+   },
+   "b_programme": {
+    "budget": false,
+    "budget_variable": null,
+    "vies": "versements (essais ratés)",
+    "defaite": true,
+    "victoire": true,
+    "contournements": 2
+   },
+   "c_moteur": {
+    "plateau": "appris (objets, rôles)",
+    "controle": "appris (actions, mobile contrôlé, clic)",
+    "dynamique": "appris (lois)",
+    "economie": "non : jauge masquée (sauf ressource.py pour ls20, hors chaîne)",
+    "defaite": "contact seulement (`mort`)",
+    "niveaux": "transfert sous drapeau (D)",
+    "interface": "masquée en bloc"
+   },
+   "trous": [
+    "budget non décrit"
+   ],
+   "lecture": {
+    "jeu": "sp80",
+    "interface": [
+     {
+      "classe": "sklgkadoxw (ligne y=0, 64 px)",
+      "represente": "budget_coups",
+      "regle": "round(64*restant/max) pixels couleur 14, reste 0 ; chaque action autre que RESET décrémente de 1 en mode 'change' (clics et ACTION5 compris) ; remis à 'steps' dans on_set_level ; lose() à 0",
+      "lignes": "415-436, 557-560, 676-678, 861-867"
+     },
+     {
+      "classe": "ntashmkaxf",
+      "represente": "autre",
+      "regle": "rotation de toute l'image de k*90° (180° aux niveaux 2, 3, 5 : la barre passe en bas) ; flèches et coordonnées de clic remappées",
+      "lignes": "439-451, 564-566, 823-859"
+     }
+    ],
+    "defaite": [
+     {
+      "cause": "autre",
+      "condition": "ACTION5 (verser) alors que 4 versements ont déjà échoué dans le niveau (lyremoheq >= 4)",
+      "ligne": 718
+     },
+     {
+      "cause": "epuisement_budget",
+      "condition": "fin de l'animation d'un versement raté avec budget à 0",
+      "ligne": 743
+     },
+     {
+      "cause": "epuisement_budget",
+      "condition": "budget à 0 sur n'importe quelle action en mode 'change'",
+      "ligne": 866
+     }
+    ],
+    "economie": {
+     "budget_coups": "'steps' : 30, 45, 100, 120, 100, 120 (50 par défaut) ; 1 par action non-RESET en mode 'change'",
+     "vies": 4,
+     "ressources": "compteur caché lyremoheq des versements ratés, non affiché ; au 5e ACTION5 après 4 échecs : défaite",
+     "recharge": "budget remis au plein au début du niveau seulement ; un versement raté ne le rend pas",
+     "minuteur": null
+    },
+    "controle": {
+     "actions": [
+      "ACTION1",
+      "ACTION2",
+      "ACTION3",
+      "ACTION4",
+      "ACTION5",
+      "ACTION6"
+     ],
+     "avatar": "aucun ; ACTION1-4 déplacent la pièce sélectionnée d'une case (refusé si y<3 ou à moins d'une case d'une coupe)",
+     "selection": "plateformes et déflecteurs ; par défaut la pièce la plus proche de l'origine (couleur 9)",
+     "clic": "ACTION6 sur une pièce la sélectionne ; coûte 1"
+    },
+    "victoire": "ACTION5 verse l'eau (sources, émetteurs) ; elle descend, se divise sur les plateformes, tourne sur les déflecteurs ; gagné quand toutes les coupes sont remplies par le centre et que l'eau n'a touché aucun waoewejnqzc",
+    "niveaux": {
+     "nombre": 6,
+     "persiste": "rien ; budget, compteur d'échecs et rotation réinitialisés",
+     "nouveau": "nouveau budget, rotation 0/180°, plusieurs sources, émetteurs, déflecteurs, murs latéraux (5, 6)"
+    },
+    "incertain": [
+     "ligne 678 : lose() puis l'action continue",
+     "pas de coût pendant l'animation de versement",
+     "les 4 essais ratés ne sont pas affichés ; classés « vies » par analogie"
+    ]
+   }
+  },
+  "su15": {
+   "a_jeu": {
+    "budget": true,
+    "vies": false,
+    "recharge": null,
+    "minuteur": null,
+    "compteur_cache": null,
+    "defaite_causes": [
+     "autre",
+     "epuisement_budget"
+    ],
+    "defaite_hors_budget": [
+     "autre"
+    ],
+    "interface": [
+     "budget_coups"
+    ]
+   },
+   "b_programme": {
+    "budget": false,
+    "budget_variable": null,
+    "vies": null,
+    "defaite": false,
+    "victoire": true,
+    "contournements": 5
+   },
+   "c_moteur": {
+    "plateau": "appris (objets, rôles)",
+    "controle": "appris (actions, mobile contrôlé, clic)",
+    "dynamique": "appris (lois)",
+    "economie": "non : jauge masquée (sauf ressource.py pour ls20, hors chaîne)",
+    "defaite": "contact seulement (`mort`)",
+    "niveaux": "transfert sous drapeau (D)",
+    "interface": "masquée en bloc"
+   },
+   "trous": [
+    "budget non décrit",
+    "défaite hors budget non décrite : autre"
+   ],
+   "lecture": {
+    "jeu": "su15",
+    "interface": [
+     {
+      "classe": "cqrtilsbtt",
+      "represente": "budget_coups",
+      "regle": "ligne 63, largeur ceil(restant/steps*64), couleur 0, décroissante ; chaque clic coûte 1 ; une fusion interdite coûte 2+2*pénalité (pénalité +1 à chaque fois) et est suivie d'une annulation automatique ; ACTION7 (annuler) gratuit, ne rend rien ; lose() à 0",
+      "lignes": "826-856"
+     }
+    ],
+    "defaite": [
+     {
+      "cause": "autre",
+      "condition": "plus aucun fruit sur le plateau après l'animation d'un clic",
+      "ligne": 1091
+     },
+     {
+      "cause": "epuisement_budget",
+      "condition": "compteur ≤ 0 après un clic (la victoire est testée d'abord)",
+      "ligne": 1093
+     },
+     {
+      "cause": "epuisement_budget",
+      "condition": "compteur ≤ 0 après la pénalité d'une fusion interdite",
+      "ligne": 1103
+     }
+    ],
+    "economie": {
+     "budget_coups": "'steps' par niveau : 32, 32, 48, 48, 32, 32, 32, 48, 48",
+     "vies": null,
+     "ressources": "fruits de niveau 0 à 8 : deux fruits identiques qui se touchent fusionnent en niveau+1 ; ennemis de types 1-3 qui chassent le fruit le plus proche et lui font perdre un niveau",
+     "recharge": null,
+     "minuteur": null
+    },
+    "controle": {
+     "actions": [
+      "ACTION6",
+      "ACTION7"
+     ],
+     "avatar": "aucun",
+     "selection": null,
+     "clic": "ACTION6 (y entre 10 et 62) : un anneau de rayon 8 attire les fruits proches vers le clic ; les ennemis de type 1 sont poussés ; ACTION7 = annuler le dernier clic"
+    },
+    "victoire": "le nombre de fruits ou d'ennemis dont le centre est dans une zone but égale exactement la demande du niveau",
+    "niveaux": {
+     "nombre": 9,
+     "persiste": "rien : budget et pénalité remis à chaque niveau",
+     "nouveau": "deux cibles (3), ennemis (4+), cibles faites d'ennemis (6+), ennemis de types 2-3 et plusieurs cibles (8-9)"
+    },
+    "incertain": [
+     "si la valeur totale des fruits passe sous le besoin de la cible, le but devient couleur 2 (alerte, pas défaite)",
+     "pixels exacts des zones but non vérifiés"
+    ]
+   }
+  },
+  "tn36": {
+   "a_jeu": {
+    "budget": true,
+    "vies": false,
+    "recharge": null,
+    "minuteur": null,
+    "compteur_cache": null,
+    "defaite_causes": [
+     "epuisement_budget"
+    ],
+    "defaite_hors_budget": [],
+    "interface": [
+     "budget_coups",
+     "progression"
+    ]
+   },
+   "b_programme": {
+    "budget": false,
+    "budget_variable": null,
+    "vies": null,
+    "defaite": false,
+    "victoire": true,
+    "contournements": 2
+   },
+   "c_moteur": {
+    "plateau": "appris (objets, rôles)",
+    "controle": "appris (actions, mobile contrôlé, clic)",
+    "dynamique": "appris (lois)",
+    "economie": "non : jauge masquée (sauf ressource.py pour ls20, hors chaîne)",
+    "defaite": "contact seulement (`mort`)",
+    "niveaux": "transfert sous drapeau (D)",
+    "interface": "masquée en bloc"
+   },
+   "trous": [
+    "budget non décrit"
+   ],
+   "lecture": {
+    "jeu": "tn36",
+    "interface": [
+     {
+      "classe": "sprite sthpyhbizzhq sur un rail (pas de RenderableUserDisplay)",
+      "represente": "budget_coups",
+      "regle": "barre 61x1 couleur 9 en (1,1) sur un rail couleur 3 ; chaque clic traité hors animation de programme la fait reculer d'1 px (niveaux 1-5) ou d'1 px tous les 2 clics (niveaux 6-7) ; défaite après 61 clics (1-5) ou 122 (6-7) ; remise seulement au rechargement du niveau",
+      "lignes": "826-844, 2572-2592, 2627, 2640-2641"
+     },
+     {
+      "classe": "rangées de programme inwola, bits Maidxz",
+      "represente": "progression",
+      "regle": "pendant l'exécution, les rangées apparaissent une à une ; bit allumé = couleur 5",
+      "lignes": "1918-2061, 2358-2406"
+     }
+    ],
+    "defaite": [
+     {
+      "cause": "epuisement_budget",
+      "condition": "barre entièrement sortie du rail ; lose() au coup suivant",
+      "ligne": 2618
+     }
+    ],
+    "economie": {
+     "budget_coups": "61 clics (niveaux 1-5), 122 clics (niveaux 6-7)",
+     "vies": null,
+     "ressources": null,
+     "recharge": "aucune dans un niveau",
+     "minuteur": null
+    },
+    "controle": {
+     "actions": [
+      "ACTION6"
+     ],
+     "avatar": "aucun direct ; dans chaque panneau, une forme pilotée par un programme (opcodes : déplacements, rotations, échelle, recoloration) ; murs qui annulent un déplacement ; dangers qui font disparaître la forme ; portes de même échelle qui deviennent le nouveau départ",
+     "selection": "onglets (niveau 2+) : choisir et lancer un programme exemple, en lecture seule, à gauche",
+     "clic": "clic sur un bit du programme de droite : bascule ; bouton d'exécution : lance le programme de droite ; s'il ne réussit pas, la forme revient au départ"
+    },
+    "victoire": "après exécution du programme de droite, la forme coïncide avec la cible taptxx en position, échelle, rotation et couleur",
+    "niveaux": {
+     "nombre": 7,
+     "persiste": "rien ; niveau recloné, barre remise",
+     "nouveau": "exemples à partir du niveau 2, murs (3), échelle (4), couleur (5), portes (6), dangers (7) ; la barre se vide deux fois moins vite aux niveaux 6-7"
+    },
+    "incertain": [
+     "un clic sans effet fait quand même reculer la barre",
+     "défaite au 61e ou 62e clic selon l'arrondi"
+    ]
+   }
+  },
+  "tr87": {
+   "a_jeu": {
+    "budget": true,
+    "vies": false,
+    "recharge": null,
+    "minuteur": null,
+    "compteur_cache": null,
+    "defaite_causes": [
+     "epuisement_budget"
+    ],
+    "defaite_hors_budget": [],
+    "interface": [
+     "budget_coups"
+    ]
+   },
+   "b_programme": {
+    "budget": false,
+    "budget_variable": null,
+    "vies": null,
+    "defaite": false,
+    "victoire": true,
+    "contournements": 4
+   },
+   "c_moteur": {
+    "plateau": "appris (objets, rôles)",
+    "controle": "appris (actions, mobile contrôlé, clic)",
+    "dynamique": "appris (lois)",
+    "economie": "non : jauge masquée (sauf ressource.py pour ls20, hors chaîne)",
+    "defaite": "contact seulement (`mort`)",
+    "niveaux": "transfert sous drapeau (D)",
+    "interface": "masquée en bloc"
+   },
+   "trous": [
+    "budget non décrit"
+   ],
+   "lecture": {
+    "jeu": "tr87",
+    "interface": [
+     {
+      "classe": "cjcjtddeyl (dernière ligne, y=63)",
+      "represente": "budget_coups",
+      "regle": "ceil(64*restant/max) pixels couleur 1, reste 4 ; ACTION1-4 décrémentent de 1 ; 128 aux niveaux 1-5, 256 au niveau 6 ; remis au plein dans on_set_level ; lose() à 0",
+      "lignes": "888-898, 967-968, 1003, 1014, 1020-1021"
+     }
+    ],
+    "defaite": [
+     {
+      "cause": "epuisement_budget",
+      "condition": "budget à 0 après une action qui n'a pas résolu le niveau",
+      "ligne": 1021
+     }
+    ],
+    "economie": {
+     "budget_coups": "128 (niveaux 1-5), 256 (niveau 6) ; 1 par ACTION1-4",
+     "vies": null,
+     "ressources": null,
+     "recharge": "remis au plein au début du niveau seulement",
+     "minuteur": null
+    },
+    "controle": {
+     "actions": [
+      "ACTION1",
+      "ACTION2",
+      "ACTION3",
+      "ACTION4"
+     ],
+     "avatar": "aucun ; un curseur sur un élément",
+     "selection": "ACTION3/4 déplacent le curseur (-1/+1, bouclage) sur la rangée réponse, ou sur les moitiés de règles en alter_rules ; ACTION1/2 font passer la forme sélectionnée à la variante précédente/suivante (7 variantes)",
+     "clic": null
+    },
+    "victoire": "la rangée du haut se traduit exactement en la rangée réponse par les règles (paires gauche -> droite), en séquence ; variantes double_translation (4, 6), tree_translation (6), alter_rules (5, 6)",
+    "niveaux": {
+     "nombre": 6,
+     "persiste": "rien ; niveau recloné, budget au plein",
+     "nouveau": "rotations et décalages aléatoires à graines fixes ; règles de traduction de plus en plus composées"
+    },
+    "incertain": [
+     "le coup gagnant décompte aussi 1, mais on gagne même si le budget arrive à 0",
+     "sémantique de double et tree_translation lue rapidement"
+    ]
+   }
+  }
+ },
+ "synthese_trous": {
+  "budget non décrit": 14,
+  "minuteur non décrit": 2,
+  "défaite hors budget non décrite : chute": 1,
+  "défaite hors budget non décrite : contact": 2,
+  "vies non décrites": 1,
+  "recharge non décrite": 1,
+  "défaite hors budget non décrite : autre": 1
+ },
+ "causes_defaite": {
+  "epuisement_budget": 19,
+  "autre": 4,
+  "contact": 4,
+  "piege": 1,
+  "chute": 1,
+  "perte_vie": 1
+ },
+ "interfaces": {
+  "budget_coups": 20,
+  "autre": 7,
+  "progression": 2,
+  "vies": 1
+ },
+ "t4": {
+  "n": 104,
+  "jeux_avec": {},
+  "classe_jauge": 104,
+  "lose_moyen": 1.0
+ },
+ "moteur": {
+  "plateau": "appris (objets, rôles)",
+  "controle": "appris (actions, mobile contrôlé, clic)",
+  "dynamique": "appris (lois)",
+  "economie": "non : jauge masquée (sauf ressource.py pour ls20, hors chaîne)",
+  "defaite": "contact seulement (`mort`)",
+  "niveaux": "transfert sous drapeau (D)",
+  "interface": "masquée en bloc"
+ }
+}

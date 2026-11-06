@@ -1,0 +1,5 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:33:49 | INFO | Created new scorecard: 961f3570-ea2d-4221-9ba6-dcae560875a2
+2026-10-21 02:33:49 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+2026-10-21 02:33:49 | INFO | Successfully loaded game class Lf52 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/lf52/271a04aa/lf52.py
+{"jeu": "lf52", "niveau": 3, "gagne": null, "noeuds": 1000026, "plan": null, "cpu": 451.5, "raison": "budget"}

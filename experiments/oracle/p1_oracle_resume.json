@@ -1,0 +1,170 @@
+{
+ "ar25": {
+  "niveaux_gagnes": 2,
+  "coups": 216,
+  "gagnants": [
+   "generique",
+   "generique",
+   null
+  ]
+ },
+ "bp35": {
+  "niveaux_gagnes": 0,
+  "coups": 150,
+  "gagnants": [
+   null
+  ]
+ },
+ "cd82": {
+  "niveaux_gagnes": 1,
+  "coups": 155,
+  "gagnants": [
+   "oracle_plan",
+   null
+  ]
+ },
+ "dc22": {
+  "niveaux_gagnes": 1,
+  "coups": 170,
+  "gagnants": [
+   "oracle_plan",
+   null
+  ]
+ },
+ "ft09": {
+  "niveaux_gagnes": 1,
+  "coups": 154,
+  "gagnants": [
+   "oracle_plan",
+   null
+  ]
+ },
+ "g50t": {
+  "niveaux_gagnes": 7,
+  "coups": 348,
+  "gagnants": [
+   "v4_inventeur",
+   "v4_inventeur",
+   "v4_inventeur",
+   "v4_inventeur",
+   "v4_inventeur",
+   "v4_inventeur",
+   "v4_inventeur"
+  ]
+ },
+ "ka59": {
+  "niveaux_gagnes": 5,
+  "coups": 331,
+  "gagnants": [
+   "v4_poussee",
+   "v4_poussee",
+   "v4_poussee",
+   "v4_poussee",
+   "v4_poussee",
+   null
+  ]
+ },
+ "lf52": {
+  "niveaux_gagnes": 1,
+  "coups": 159,
+  "gagnants": [
+   "oracle_plan",
+   null
+  ]
+ },
+ "lp85": {
+  "niveaux_gagnes": 2,
+  "coups": 178,
+  "gagnants": [
+   "generique",
+   "oracle_plan",
+   null
+  ]
+ },
+ "ls20": {
+  "niveaux_gagnes": 1,
+  "coups": 163,
+  "gagnants": [
+   "oracle_plan",
+   null
+  ]
+ },
+ "m0r0": {
+  "niveaux_gagnes": 2,
+  "coups": 218,
+  "gagnants": [
+   "generique",
+   "oracle_plan",
+   null
+  ]
+ },
+ "r11l": {
+  "niveaux_gagnes": 1,
+  "coups": 168,
+  "gagnants": [
+   "generique",
+   null
+  ]
+ },
+ "re86": {
+  "niveaux_gagnes": 1,
+  "coups": 171,
+  "gagnants": [
+   "oracle_plan",
+   null
+  ]
+ },
+ "sb26": {
+  "niveaux_gagnes": 0,
+  "coups": 150,
+  "gagnants": [
+   null
+  ]
+ },
+ "sc25": {
+  "niveaux_gagnes": 0,
+  "coups": 150,
+  "gagnants": [
+   null
+  ]
+ },
+ "sk48": {
+  "niveaux_gagnes": 0,
+  "coups": 150,
+  "gagnants": [
+   null
+  ]
+ },
+ "sp80": {
+  "niveaux_gagnes": 1,
+  "coups": 155,
+  "gagnants": [
+   "oracle_plan",
+   null
+  ]
+ },
+ "su15": {
+  "niveaux_gagnes": 1,
+  "coups": 158,
+  "gagnants": [
+   "oracle_plan",
+   null
+  ]
+ },
+ "tn36": {
+  "niveaux_gagnes": 1,
+  "coups": 232,
+  "gagnants": [
+   "generique",
+   null
+  ]
+ },
+ "tr87": {
+  "niveaux_gagnes": 1,
+  "coups": 166,
+  "gagnants": [
+   "oracle_plan",
+   null
+  ]
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "jeu": "re86",
+ "niveau": 5,
+ "franzen_r0": "4/8",
+ "prefixe_franzen": 274,
+ "sous_buts": {
+  "plan": null,
+  "gagne": null,
+  "raison": "budget",
+  "secondes": 300.1
+ },
+ "plafond_exact": {
+  "recherche": "but",
+  "noeuds": 77804,
+  "etats": 38484,
+  "plan": 82,
+  "gagne": true,
+  "raison": null
+ },
+ "plafond_s": 510.6,
+ "moteur": {
+  "niveau_depart": 4,
+  "niveaux": 4,
+  "niveaux_coup_final_moteur": 0,
+  "coups": {
+   "hasard": 70,
+   "hasard_effet": 70
+  },
+  "refus": {
+   "ne rejoue pas (C) ; partiel": 68,
+   "pas de but (aucun but supposé planifiable) ; ne rejoue pas (": 1
+  },
+  "duree_s": 605.2,
+  "bilan": {
+   "moteur_appels": 69,
+   "moteur_refus_porte": 0,
+   "moteur_plans": 0,
+   "moteur_tours": 0,
+   "moteur_coups_plan": 0,
+   "moteur_divergences": 0,
+   "moteur_cpu_s": 604.865,
+   "moteur_porte1_ok": 0,
+   "moteur_porte1_refus": 0,
+   "moteur_porte2_ok": 0,
+   "moteur_porte2_refus": 0,
+   "moteur_plans_gagnants_reels": 0,
+   "part_coups_moteur": 0.0
+  }
+ },
+ "classe": "M"
+}

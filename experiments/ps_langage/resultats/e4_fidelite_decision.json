@@ -1,0 +1,220 @@
+{
+ "unites": [
+  {
+   "explorateur": "departage",
+   "jeu": "ar25",
+   "niveau": 0,
+   "fini": true,
+   "fini_moteur": true,
+   "plans_joues": 12,
+   "dernier": 0.789,
+   "max": 0.833,
+   "appels": 14
+  },
+  {
+   "explorateur": "departage",
+   "jeu": "dc22",
+   "niveau": 0,
+   "fini": false,
+   "fini_moteur": false,
+   "plans_joues": 3,
+   "dernier": 0.741,
+   "max": 0.811,
+   "appels": 3
+  },
+  {
+   "explorateur": "departage",
+   "jeu": "ka59",
+   "niveau": 0,
+   "fini": false,
+   "fini_moteur": false,
+   "plans_joues": 2,
+   "dernier": 0.774,
+   "max": 0.774,
+   "appels": 2
+  },
+  {
+   "explorateur": "departage",
+   "jeu": "ls20",
+   "niveau": 0,
+   "fini": false,
+   "fini_moteur": false,
+   "plans_joues": 0,
+   "dernier": 0.212,
+   "max": 0.452,
+   "appels": 146
+  },
+  {
+   "explorateur": "departage",
+   "jeu": "re86",
+   "niveau": 0,
+   "fini": false,
+   "fini_moteur": false,
+   "plans_joues": 4,
+   "dernier": 0.0,
+   "max": 0.75,
+   "appels": 116
+  },
+  {
+   "explorateur": "departage",
+   "jeu": "sp80",
+   "niveau": 0,
+   "fini": true,
+   "fini_moteur": false,
+   "plans_joues": 6,
+   "dernier": 0.722,
+   "max": 0.833,
+   "appels": 6
+  },
+  {
+   "explorateur": "departage",
+   "jeu": "sp80",
+   "niveau": 1,
+   "fini": false,
+   "fini_moteur": false,
+   "plans_joues": 2,
+   "dernier": 0.714,
+   "max": 0.8,
+   "appels": 2
+  },
+  {
+   "explorateur": "groupe",
+   "jeu": "ar25",
+   "niveau": 0,
+   "fini": false,
+   "fini_moteur": false,
+   "plans_joues": 10,
+   "dernier": 0.018,
+   "max": 0.692,
+   "appels": 28
+  },
+  {
+   "explorateur": "groupe",
+   "jeu": "dc22",
+   "niveau": 0,
+   "fini": false,
+   "fini_moteur": false,
+   "plans_joues": 1,
+   "dernier": 0.727,
+   "max": 0.727,
+   "appels": 1
+  },
+  {
+   "explorateur": "groupe",
+   "jeu": "ls20",
+   "niveau": 0,
+   "fini": false,
+   "fini_moteur": false,
+   "plans_joues": 54,
+   "dernier": 0.759,
+   "max": 0.91,
+   "appels": 285
+  },
+  {
+   "explorateur": "groupe",
+   "jeu": "re86",
+   "niveau": 0,
+   "fini": false,
+   "fini_moteur": false,
+   "plans_joues": 0,
+   "dernier": 0.0,
+   "max": 0.0,
+   "appels": 75
+  },
+  {
+   "explorateur": "hasard",
+   "jeu": "ar25",
+   "niveau": 0,
+   "fini": true,
+   "fini_moteur": true,
+   "plans_joues": 2,
+   "dernier": 0.562,
+   "max": 0.703,
+   "appels": 5
+  },
+  {
+   "explorateur": "hasard",
+   "jeu": "ar25",
+   "niveau": 1,
+   "fini": false,
+   "fini_moteur": false,
+   "plans_joues": 3,
+   "dernier": 0.6,
+   "max": 0.76,
+   "appels": 3
+  },
+  {
+   "explorateur": "hasard",
+   "jeu": "dc22",
+   "niveau": 0,
+   "fini": false,
+   "fini_moteur": false,
+   "plans_joues": 1,
+   "dernier": 0.316,
+   "max": 0.5,
+   "appels": 36
+  },
+  {
+   "explorateur": "hasard",
+   "jeu": "ls20",
+   "niveau": 0,
+   "fini": false,
+   "fini_moteur": false,
+   "plans_joues": 2,
+   "dernier": 0.245,
+   "max": 0.5,
+   "appels": 629
+  },
+  {
+   "explorateur": "hasard",
+   "jeu": "re86",
+   "niveau": 0,
+   "fini": false,
+   "fini_moteur": false,
+   "plans_joues": 0,
+   "dernier": 0.0,
+   "max": 0.0,
+   "appels": 238
+  },
+  {
+   "explorateur": "hasard",
+   "jeu": "sp80",
+   "niveau": 0,
+   "fini": true,
+   "fini_moteur": false,
+   "plans_joues": 8,
+   "dernier": 0.609,
+   "max": 0.75,
+   "appels": 10
+  },
+  {
+   "explorateur": "hasard",
+   "jeu": "sp80",
+   "niveau": 1,
+   "fini": false,
+   "fini_moteur": false,
+   "plans_joues": 12,
+   "dernier": 0.9,
+   "max": 0.9,
+   "appels": 12
+  }
+ ],
+ "fini": {
+  "n_oui": 4,
+  "n_non": 14,
+  "rho": 0.23229298226097575,
+  "p_spearman": 0.35363618804802943,
+  "p_mannwhitney": 0.36569898977627835,
+  "mediane_oui": 0.722,
+  "mediane_non": 0.6
+ },
+ "fini_moteur": {
+  "n_oui": 2,
+  "n_non": 16,
+  "rho": 0.20486315412269343,
+  "p_spearman": 0.41480565634461236,
+  "p_mannwhitney": 0.4387634222408122,
+  "mediane_oui": 0.789,
+  "mediane_non": 0.609
+ }
+}

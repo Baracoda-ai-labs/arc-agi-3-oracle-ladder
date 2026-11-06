@@ -1,0 +1,140 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 09:58:15 | INFO | Created new scorecard: 65cbc388-cd65-4bcd-817a-355a62f5003d
+2026-10-21 09:58:15 | INFO | Found latest version of bp35: bp35-0a0ad940 (downloaded: 2026-09-30 05:48:18.671230+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 09:58:15 | INFO | Created new scorecard: 35770f59-5e23-469f-9505-34965672a555
+2026-10-21 09:58:15 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+2026-10-21 09:58:15 | INFO | Successfully loaded game class Bp35 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/bp35/0a0ad940/bp35.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 09:58:15 | INFO | Created new scorecard: 9f2ef5e4-a5c9-43fe-8a6e-aa6b8a4e1082
+2026-10-21 09:58:15 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+2026-10-21 09:58:15 | INFO | Successfully loaded game class Ar25 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ar25/0c556536/ar25.py
+2026-10-21 09:58:15 | INFO | Successfully loaded game class Ar25 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ar25/0c556536/ar25.py
+{"jeu": "ar25", "niveau": 2, "heuristique": "hmax", "memoire_max_mo": 1134, "arret": "plafond de nœuds", "noeuds": 200013, "etats": 29311, "uniques_sur_transitions": 0.147, "erreurs": 0, "defaites": 0, "doublons": 170703, "profondeur_max": 12, "plan": null, "h0": [1, 9], "preferes": 0, "domines": 0, "nouveaux": null, "hmin": 8, "actions": 33, "file_restante": 23250, "cpu": 26.4, "cpu_preparation": 0.06, "cpu_copie": 6.67, "cpu_simulation": 12.2, "cpu_cle": 6.2, "cpu_heuristique": 1.09}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 09:58:42 | INFO | Created new scorecard: d93b38bd-c06a-4562-9c77-86772ee15b78
+2026-10-21 09:58:42 | INFO | Found latest version of bp35: bp35-0a0ad940 (downloaded: 2026-09-30 05:48:18.671230+00:00)
+2026-10-21 09:58:42 | INFO | Successfully loaded game class Bp35 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/bp35/0a0ad940/bp35.py
+{"jeu": "ar25", "niveau": 3, "heuristique": "hmax", "memoire_max_mo": 2132, "arret": "plafond de nœuds", "noeuds": 200016, "etats": 34952, "uniques_sur_transitions": 0.175, "erreurs": 0, "defaites": 225, "doublons": 164840, "profondeur_max": 128, "plan": null, "h0": [1, 27], "preferes": 0, "domines": 0, "nouveaux": null, "hmin": 22, "actions": 36, "file_restante": 29396, "cpu": 53.41, "cpu_preparation": 0.07, "cpu_copie": 21.86, "cpu_simulation": 13.03, "cpu_cle": 16.34, "cpu_heuristique": 1.87}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 09:59:09 | INFO | Created new scorecard: 57d51260-e19a-495a-8bd6-70e6763fbf76
+2026-10-21 09:59:09 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+2026-10-21 09:59:09 | INFO | Successfully loaded game class Cd82 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/cd82/fb555c5d/cd82.py
+{"jeu": "cd82", "niveau": 3, "heuristique": "hmax (but sans état caché : distance seule)", "memoire_max_mo": 2219, "arret": "plafond de nœuds", "noeuds": 200022, "etats": 11608, "uniques_sur_transitions": 0.058, "erreurs": 0, "defaites": 0, "doublons": 188415, "profondeur_max": 68, "plan": null, "h0": [0, 10], "preferes": 0, "domines": 0, "nouveaux": null, "hmin": 4, "actions": 34, "file_restante": 5725, "cpu": 12.29, "cpu_preparation": 0.11, "cpu_copie": 1.72, "cpu_simulation": 5.91, "cpu_cle": 3.94, "cpu_heuristique": 0.48}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 09:59:22 | INFO | Created new scorecard: 6d87fbf1-aad5-4374-a3bc-941c6aea2fc9
+2026-10-21 09:59:22 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+2026-10-21 09:59:22 | INFO | Successfully loaded game class Dc22 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/dc22/fdcac232/dc22.py
+{"jeu": "dc22", "niveau": 3, "heuristique": "hmax (but sans état caché : distance seule)", "memoire_max_mo": 2222, "arret": "plafond de nœuds", "noeuds": 200096, "etats": 4851, "uniques_sur_transitions": 0.024, "erreurs": 0, "defaites": 832, "doublons": 194414, "profondeur_max": 191, "plan": null, "h0": [0, 23], "preferes": 0, "domines": 0, "nouveaux": null, "hmin": 23, "actions": 104, "file_restante": 2927, "cpu": 50.85, "cpu_preparation": 0.12, "cpu_copie": 5.05, "cpu_simulation": 35.28, "cpu_cle": 10.19, "cpu_heuristique": 0.04}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 10:00:13 | INFO | Created new scorecard: 74fba875-c1a6-4b3d-97da-ced79dfadaaf
+2026-10-21 10:00:13 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+2026-10-21 10:00:13 | INFO | Successfully loaded game class Ka59 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ka59/38d34dbb/ka59.py
+{"jeu": "ka59", "niveau": 1, "heuristique": "hmax (but sans état caché : distance seule)", "memoire_max_mo": 2272, "arret": "plafond de nœuds", "noeuds": 200005, "etats": 22006, "uniques_sur_transitions": 0.11, "erreurs": 0, "defaites": 0, "doublons": 178000, "profondeur_max": 40, "plan": null, "h0": [0, 3], "preferes": 0, "domines": 0, "nouveaux": null, "hmin": 2, "actions": 17, "file_restante": 10241, "cpu": 8.98, "cpu_preparation": 0.05, "cpu_copie": 1.84, "cpu_simulation": 4.09, "cpu_cle": 2.72, "cpu_heuristique": 0.13}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 10:00:22 | INFO | Created new scorecard: b8b8da63-b472-43b5-8a7b-fd44b2dc04d6
+2026-10-21 10:00:22 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"jeu": "ka59", "niveau": 2, "heuristique": "hmax (but sans état caché : distance seule)", "memoire_max_mo": 2281, "arret": "plafond de nœuds", "noeuds": 200000, "etats": 33146, "uniques_sur_transitions": 0.166, "erreurs": 0, "defaites": 0, "doublons": 166855, "profondeur_max": 12, "plan": null, "h0": [0, 5], "preferes": 0, "domines": 0, "nouveaux": null, "hmin": 4, "actions": 20, "file_restante": 23146, "cpu": 16.52, "cpu_preparation": 0.06, "cpu_copie": 3.46, "cpu_simulation": 8.22, "cpu_cle": 4.33, "cpu_heuristique": 0.28}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 10:00:39 | INFO | Created new scorecard: 70c54fbc-bcd5-48c4-ad43-418295e9c9c7
+2026-10-21 10:00:39 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+2026-10-21 10:00:39 | INFO | Successfully loaded game class Lf52 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/lf52/271a04aa/lf52.py
+{"jeu": "lf52", "niveau": 1, "heuristique": "hmax (but sans état caché : distance seule)", "memoire_max_mo": 5011, "arret": "plafond de nœuds", "noeuds": 200025, "etats": 10663, "uniques_sur_transitions": 0.053, "erreurs": 0, "defaites": 0, "doublons": 189363, "profondeur_max": 5, "plan": null, "h0": [0, 2], "preferes": 0, "domines": 0, "nouveaux": null, "hmin": 2, "actions": 63, "file_restante": 7488, "cpu": 58.51, "cpu_preparation": 0.07, "cpu_copie": 3.28, "cpu_simulation": 49.21, "cpu_cle": 5.72, "cpu_heuristique": 0.07}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 10:01:38 | INFO | Created new scorecard: 44d81103-aefc-4be2-b0b8-44c74683d9fd
+2026-10-21 10:01:38 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+{"jeu": "bp35", "niveau": 1, "heuristique": "hmax", "memoire_max_mo": 3648, "arret": "plafond de nœuds", "noeuds": 200141, "etats": 8479, "uniques_sur_transitions": 0.042, "erreurs": 0, "defaites": 0, "doublons": 191663, "profondeur_max": 5, "plan": null, "h0": [1, 2], "preferes": 0, "domines": 0, "nouveaux": null, "hmin": 2, "actions": 193, "file_restante": 7442, "cpu": 218.79, "cpu_preparation": 0.04, "cpu_copie": 5.45, "cpu_simulation": 202.17, "cpu_cle": 10.46, "cpu_heuristique": 0.49}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 10:01:56 | INFO | Created new scorecard: 81b5ff5d-963d-4f80-b31a-a15285f9b53d
+2026-10-21 10:01:56 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+2026-10-21 10:01:56 | INFO | Successfully loaded game class Lf52 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/lf52/271a04aa/lf52.py
+{"jeu": "lf52", "niveau": 2, "heuristique": "hmax (but sans état caché : distance seule)", "memoire_max_mo": 5011, "arret": "plafond de nœuds", "noeuds": 200019, "etats": 16659, "uniques_sur_transitions": 0.083, "erreurs": 0, "defaites": 0, "doublons": 183361, "profondeur_max": 5, "plan": null, "h0": [0, 2], "preferes": 0, "domines": 0, "nouveaux": null, "hmin": 2, "actions": 61, "file_restante": 13380, "cpu": 60.86, "cpu_preparation": 0.08, "cpu_copie": 3.72, "cpu_simulation": 50.69, "cpu_cle": 6.08, "cpu_heuristique": 0.11}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 10:02:41 | INFO | Created new scorecard: 4aaebc95-065f-467a-9514-bb966f91c2f4
+2026-10-21 10:02:41 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+2026-10-21 10:02:41 | INFO | Successfully loaded game class Lp85 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/lp85/305b61c3/lp85.py
+{"jeu": "lp85", "niveau": 3, "heuristique": "hmax (but sans état caché : distance seule)", "memoire_max_mo": 5011, "arret": "plafond de nœuds", "noeuds": 200032, "etats": 10659, "uniques_sur_transitions": 0.053, "erreurs": 0, "defaites": 0, "doublons": 189374, "profondeur_max": 8, "plan": null, "h0": [0, 2], "preferes": 0, "domines": 0, "nouveaux": null, "hmin": 2, "actions": 56, "file_restante": 7087, "cpu": 18.66, "cpu_preparation": 0.06, "cpu_copie": 4.86, "cpu_simulation": 2.61, "cpu_cle": 10.74, "cpu_heuristique": 0.26}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 10:03:00 | INFO | Created new scorecard: c5b8ea54-edf6-452e-9f14-29369e1100a3
+2026-10-21 10:03:00 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+2026-10-21 10:03:00 | INFO | Successfully loaded game class M0r0 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/m0r0/492f87ba/m0r0.py
+{"jeu": "m0r0", "niveau": 3, "heuristique": "hmax (but sans état caché : distance seule)", "memoire_max_mo": 5011, "arret": "plafond de nœuds", "noeuds": 200004, "etats": 33930, "uniques_sur_transitions": 0.17, "erreurs": 0, "defaites": 0, "doublons": 166075, "profondeur_max": 8, "plan": null, "h0": [0, 2], "preferes": 0, "domines": 0, "nouveaux": null, "hmin": 2, "actions": 14, "file_restante": 19644, "cpu": 6.87, "cpu_preparation": 0.09, "cpu_copie": 1.84, "cpu_simulation": 1.65, "cpu_cle": 2.92, "cpu_heuristique": 0.2}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 10:03:07 | INFO | Created new scorecard: 8a7104a4-797e-4b15-8d8a-027187cd6e47
+2026-10-21 10:03:07 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+2026-10-21 10:03:07 | INFO | Successfully loaded game class R11l from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/r11l/495a7899/r11l.py
+{"jeu": "lf52", "niveau": 3, "heuristique": "hmax (but sans état caché : distance seule)", "memoire_max_mo": 3804, "arret": "plafond de nœuds", "noeuds": 200070, "etats": 12659, "uniques_sur_transitions": 0.063, "erreurs": 0, "defaites": 0, "doublons": 187412, "profondeur_max": 5, "plan": null, "h0": [0, 2], "preferes": 0, "domines": 0, "nouveaux": null, "hmin": 2, "actions": 81, "file_restante": 10189, "cpu": 84.7, "cpu_preparation": 0.27, "cpu_copie": 5.54, "cpu_simulation": 68.5, "cpu_cle": 10.12, "cpu_heuristique": 0.09}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 10:03:23 | INFO | Created new scorecard: efe2fd27-87fd-4d1c-bc91-218cf3a9e7c3
+2026-10-21 10:03:23 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+2026-10-21 10:03:23 | INFO | Successfully loaded game class R11l from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/r11l/495a7899/r11l.py
+{"jeu": "bp35", "niveau": 2, "heuristique": "hmax", "memoire_max_mo": 3074, "arret": "plafond de nœuds", "noeuds": 200010, "etats": 13346, "uniques_sur_transitions": 0.067, "erreurs": 0, "defaites": 933, "doublons": 185732, "profondeur_max": 4, "plan": null, "h0": [1, 2], "preferes": 0, "domines": 0, "nouveaux": null, "hmin": 2, "actions": 226, "file_restante": 12461, "cpu": 290.93, "cpu_preparation": 0.12, "cpu_copie": 14.7, "cpu_simulation": 245.85, "cpu_cle": 29.22, "cpu_heuristique": 0.81}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 10:03:37 | INFO | Created new scorecard: 47b11927-25d0-4539-9d29-62d8de60d36f
+2026-10-21 10:03:37 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+2026-10-21 10:03:38 | INFO | Successfully loaded game class Re86 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/re86/8af5384d/re86.py
+{"jeu": "re86", "niveau": 3, "heuristique": "hmax (but sans état caché : distance seule)", "memoire_max_mo": 3305, "arret": "plafond de nœuds", "noeuds": 200000, "etats": 135835, "uniques_sur_transitions": 0.679, "erreurs": 0, "defaites": 1020, "doublons": 63146, "profondeur_max": 199, "plan": null, "h0": [0, 1], "preferes": 0, "domines": 0, "nouveaux": null, "hmin": 1, "actions": 5, "file_restante": 95835, "cpu": 126.04, "cpu_preparation": 0.11, "cpu_copie": 3.55, "cpu_simulation": 113.48, "cpu_cle": 3.76, "cpu_heuristique": 4.58}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 10:05:46 | INFO | Created new scorecard: d32af6f5-28ca-42bd-a944-8007019bbcc2
+2026-10-21 10:05:46 | INFO | Found latest version of sb26: sb26-7fbdac44 (downloaded: 2026-09-30 05:48:12.305196+00:00)
+2026-10-21 10:05:46 | INFO | Successfully loaded game class Sb26 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sb26/7fbdac44/sb26.py
+{"jeu": "sb26", "niveau": 1, "heuristique": "hmax", "memoire_max_mo": 3305, "arret": "plafond de nœuds", "noeuds": 200000, "etats": 35813, "uniques_sur_transitions": 0.179, "erreurs": 0, "defaites": 0, "doublons": 164188, "profondeur_max": 6, "plan": null, "h0": [Infinity, 2], "preferes": 0, "domines": 0, "nouveaux": null, "hmin": 2, "actions": 25, "file_restante": 27813, "cpu": 36.41, "cpu_preparation": 0.04, "cpu_copie": 12.4, "cpu_simulation": 7.06, "cpu_cle": 15.66, "cpu_heuristique": 0.93}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 10:06:24 | INFO | Created new scorecard: f4f317c4-525c-491e-9f22-295b8b1f2504
+2026-10-21 10:06:24 | INFO | Found latest version of sb26: sb26-7fbdac44 (downloaded: 2026-09-30 05:48:12.305196+00:00)
+{"jeu": "sb26", "niveau": 2, "heuristique": "hmax", "memoire_max_mo": 3305, "arret": "plafond de nœuds", "noeuds": 200032, "etats": 41057, "uniques_sur_transitions": 0.205, "erreurs": 0, "defaites": 0, "doublons": 158976, "profondeur_max": 5, "plan": null, "h0": [Infinity, 2], "preferes": 0, "domines": 0, "nouveaux": null, "hmin": 2, "actions": 38, "file_restante": 35793, "cpu": 58.84, "cpu_preparation": 0.37, "cpu_copie": 20.25, "cpu_simulation": 10.46, "cpu_cle": 26.24, "cpu_heuristique": 1.16}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 10:07:26 | INFO | Created new scorecard: ba9a4202-a770-4c1c-b4a6-14977bc4baa5
+2026-10-21 10:07:26 | INFO | Found latest version of sb26: sb26-7fbdac44 (downloaded: 2026-09-30 05:48:12.305196+00:00)
+{"jeu": "r11l", "niveau": 2, "heuristique": "hmax", "memoire_max_mo": 5011, "arret": "plafond de temps", "noeuds": 15343, "etats": 7882, "uniques_sur_transitions": 0.514, "erreurs": 0, "defaites": 0, "doublons": 7462, "profondeur_max": 3, "plan": null, "h0": [0, 2], "preferes": 0, "domines": 0, "nouveaux": null, "hmin": 2, "actions": 67, "file_restante": 7653, "cpu": 300.49, "cpu_preparation": 0.08, "cpu_copie": 0.44, "cpu_simulation": 209.69, "cpu_cle": 1.08, "cpu_heuristique": 89.12}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 10:08:20 | INFO | Created new scorecard: da9fcfa5-c637-4c13-bdc8-2c82f11fc3e3
+2026-10-21 10:08:20 | INFO | Found latest version of sc25: sc25-635fd71a (downloaded: 2026-09-30 05:48:22.515492+00:00)
+2026-10-21 10:08:21 | INFO | Successfully loaded game class Sc25 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sc25/635fd71a/sc25.py
+{"jeu": "r11l", "niveau": 3, "heuristique": "hmax", "memoire_max_mo": 3828, "arret": "plafond de temps", "noeuds": 18349, "etats": 7127, "uniques_sur_transitions": 0.388, "erreurs": 0, "defaites": 0, "doublons": 11223, "profondeur_max": 3, "plan": null, "h0": [0, 2], "preferes": 0, "domines": 0, "nouveaux": null, "hmin": 2, "actions": 59, "file_restante": 6816, "cpu": 300.23, "cpu_preparation": 0.11, "cpu_copie": 0.52, "cpu_simulation": 216.96, "cpu_cle": 1.16, "cpu_heuristique": 81.41}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 10:08:39 | INFO | Created new scorecard: a3b86f9a-2da0-4a6d-9ce7-ca81ec2d8b68
+2026-10-21 10:08:39 | INFO | Found latest version of sc25: sc25-635fd71a (downloaded: 2026-09-30 05:48:22.515492+00:00)
+2026-10-21 10:08:39 | INFO | Successfully loaded game class Sc25 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sc25/635fd71a/sc25.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+{"jeu": "sb26", "niveau": 3, "heuristique": "hmax", "memoire_max_mo": 3305, "arret": "plafond de nœuds", "noeuds": 200039, "etats": 37451, "uniques_sur_transitions": 0.187, "erreurs": 0, "defaites": 0, "doublons": 162589, "profondeur_max": 5, "plan": null, "h0": [Infinity, 2], "preferes": 0, "domines": 0, "nouveaux": null, "hmin": 2, "actions": 41, "file_restante": 32572, "cpu": 63.61, "cpu_preparation": 0.52, "cpu_copie": 21.65, "cpu_simulation": 10.58, "cpu_cle": 29.32, "cpu_heuristique": 1.15}
+2026-10-21 10:08:39 | INFO | Created new scorecard: 297bc046-454c-4184-85f4-4ecfcfdaf6a1
+2026-10-21 10:08:39 | INFO | Found latest version of sk48: sk48-d8078629 (downloaded: 2026-09-30 05:48:14.833617+00:00)
+2026-10-21 10:08:39 | INFO | Successfully loaded game class Sk48 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sk48/d8078629/sk48.py
+{"jeu": "sk48", "niveau": 1, "heuristique": "hmax", "memoire_max_mo": 3305, "arret": "plafond de nœuds", "noeuds": 200000, "etats": 14030, "uniques_sur_transitions": 0.07, "erreurs": 0, "defaites": 0, "doublons": 185971, "profondeur_max": 7, "plan": null, "h0": [1, 1], "preferes": 0, "domines": 0, "nouveaux": null, "hmin": 1, "actions": 50, "file_restante": 10030, "cpu": 39.34, "cpu_preparation": 0.05, "cpu_copie": 10.87, "cpu_simulation": 6.66, "cpu_cle": 18.04, "cpu_heuristique": 3.45}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 10:09:20 | INFO | Created new scorecard: 388b21d7-e671-416f-a2b8-25677af3c32a
+2026-10-21 10:09:20 | INFO | Found latest version of sk48: sk48-d8078629 (downloaded: 2026-09-30 05:48:14.833617+00:00)
+{"jeu": "sc25", "niveau": 1, "heuristique": "hmax", "memoire_max_mo": 5011, "arret": "plafond de nœuds", "noeuds": 200018, "etats": 31706, "uniques_sur_transitions": 0.159, "erreurs": 0, "defaites": 0, "doublons": 168313, "profondeur_max": 6, "plan": null, "h0": [1, 2], "preferes": 0, "domines": 0, "nouveaux": null, "hmin": 2, "actions": 26, "file_restante": 24013, "cpu": 85.52, "cpu_preparation": 0.11, "cpu_copie": 8.76, "cpu_simulation": 52.91, "cpu_cle": 16.02, "cpu_heuristique": 7.33}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 10:09:52 | INFO | Created new scorecard: 2c7fb046-ddcf-4823-9054-9efefa9209c0
+2026-10-21 10:09:52 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+2026-10-21 10:09:52 | INFO | Successfully loaded game class Sp80 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sp80/589a99af/sp80.py
+{"jeu": "sc25", "niveau": 3, "heuristique": "hmax", "memoire_max_mo": 3828, "arret": "plafond de nœuds", "noeuds": 200012, "etats": 30495, "uniques_sur_transitions": 0.152, "erreurs": 0, "defaites": 0, "doublons": 169518, "profondeur_max": 5, "plan": null, "h0": [1, 2], "preferes": 0, "domines": 0, "nouveaux": null, "hmin": 2, "actions": 31, "file_restante": 24043, "cpu": 76.93, "cpu_preparation": 0.29, "cpu_copie": 8.69, "cpu_simulation": 44.3, "cpu_cle": 16.16, "cpu_heuristique": 7.16}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 10:09:58 | INFO | Created new scorecard: 3f8846f9-b46b-464a-b6cf-923c5a10c638
+2026-10-21 10:09:58 | INFO | Found latest version of su15: su15-1944f8ab (downloaded: 2026-09-30 05:48:13.830471+00:00)
+2026-10-21 10:09:58 | INFO | Successfully loaded game class Su15 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/su15/1944f8ab/su15.py
+{"jeu": "sk48", "niveau": 2, "heuristique": "hmax", "memoire_max_mo": 3305, "arret": "plafond de nœuds", "noeuds": 200010, "etats": 12006, "uniques_sur_transitions": 0.06, "erreurs": 0, "defaites": 0, "doublons": 188005, "profondeur_max": 7, "plan": null, "h0": [1, 1], "preferes": 0, "domines": 0, "nouveaux": null, "hmin": 1, "actions": 59, "file_restante": 8616, "cpu": 44.98, "cpu_preparation": 0.11, "cpu_copie": 14.13, "cpu_simulation": 6.1, "cpu_cle": 21.43, "cpu_heuristique": 2.95}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 10:10:06 | INFO | Created new scorecard: 99fab8bc-0421-4e3a-aea7-b0db761e0c98
+2026-10-21 10:10:06 | INFO | Found latest version of su15: su15-1944f8ab (downloaded: 2026-09-30 05:48:13.830471+00:00)
+2026-10-21 10:10:06 | INFO | Successfully loaded game class Su15 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/su15/1944f8ab/su15.py
+{"jeu": "sp80", "niveau": 3, "heuristique": "hmax", "memoire_max_mo": 5011, "arret": "plafond de nœuds", "noeuds": 200000, "etats": 35372, "uniques_sur_transitions": 0.177, "erreurs": 0, "defaites": 0, "doublons": 164629, "profondeur_max": 7, "plan": null, "h0": [0, 4], "preferes": 0, "domines": 0, "nouveaux": null, "hmin": 2, "actions": 20, "file_restante": 25372, "cpu": 34.74, "cpu_preparation": 0.11, "cpu_copie": 5.15, "cpu_simulation": 20.58, "cpu_cle": 7.73, "cpu_heuristique": 0.87}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 10:10:28 | INFO | Created new scorecard: 302b9d97-0cca-4289-9d42-924456276209
+2026-10-21 10:10:28 | INFO | Found latest version of su15: su15-1944f8ab (downloaded: 2026-09-30 05:48:13.830471+00:00)
+2026-10-21 10:10:28 | INFO | Successfully loaded game class Su15 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/su15/1944f8ab/su15.py
+{"jeu": "su15", "niveau": 1, "heuristique": "hmax (but sans état caché : distance seule)", "memoire_max_mo": 3828, "arret": "plafond de nœuds", "noeuds": 200004, "etats": 47231, "uniques_sur_transitions": 0.236, "erreurs": 0, "defaites": 0, "doublons": 152774, "profondeur_max": 5, "plan": null, "h0": [0, 2], "preferes": 0, "domines": 0, "nouveaux": null, "hmin": 2, "actions": 28, "file_restante": 40088, "cpu": 75.95, "cpu_preparation": 0.06, "cpu_copie": 7.04, "cpu_simulation": 58.14, "cpu_cle": 9.12, "cpu_heuristique": 1.25}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 10:11:17 | INFO | Created new scorecard: eb6395b5-b86b-4342-94c9-dbe93f136584
+2026-10-21 10:11:17 | INFO | Found latest version of tn36: tn36-ef4dde99 (downloaded: 2026-09-30 05:48:12.062346+00:00)
+2026-10-21 10:11:17 | INFO | Successfully loaded game class Tn36 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/tn36/ef4dde99/tn36.py
+{"jeu": "su15", "niveau": 2, "heuristique": "hmax (but sans état caché : distance seule)", "memoire_max_mo": 3305, "arret": "plafond de nœuds", "noeuds": 200005, "etats": 101943, "uniques_sur_transitions": 0.51, "erreurs": 0, "defaites": 0, "doublons": 98063, "profondeur_max": 5, "plan": null, "h0": [0, 2], "preferes": 0, "domines": 0, "nouveaux": null, "hmin": 2, "actions": 17, "file_restante": 90178, "cpu": 107.34, "cpu_preparation": 0.11, "cpu_copie": 12.68, "cpu_simulation": 75.23, "cpu_cle": 15.66, "cpu_heuristique": 3.14}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 10:11:57 | INFO | Created new scorecard: 44821338-655c-415d-803a-5286b9f77610
+2026-10-21 10:11:57 | INFO | Found latest version of tn36: tn36-ef4dde99 (downloaded: 2026-09-30 05:48:12.062346+00:00)
+2026-10-21 10:11:57 | INFO | Successfully loaded game class Tn36 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/tn36/ef4dde99/tn36.py
+{"jeu": "su15", "niveau": 3, "heuristique": "hmax (but sans état caché : distance seule)", "memoire_max_mo": 5011, "arret": "plafond de nœuds", "noeuds": 200000, "etats": 92790, "uniques_sur_transitions": 0.464, "erreurs": 0, "defaites": 0, "doublons": 107211, "profondeur_max": 5, "plan": null, "h0": [0, 2], "preferes": 0, "domines": 0, "nouveaux": null, "hmin": 2, "actions": 20, "file_restante": 82790, "cpu": 157.27, "cpu_preparation": 0.23, "cpu_copie": 18.57, "cpu_simulation": 108.75, "cpu_cle": 20.92, "cpu_heuristique": 8.24}
+{"jeu": "tn36", "niveau": 2, "heuristique": "hmax (but sans état caché : distance seule)", "memoire_max_mo": 3828, "arret": "plafond de nœuds", "noeuds": 200030, "etats": 24211, "uniques_sur_transitions": 0.121, "erreurs": 0, "defaites": 0, "doublons": 175820, "profondeur_max": 4, "plan": null, "h0": [0, 6], "preferes": 0, "domines": 0, "nouveaux": null, "hmin": 6, "actions": 83, "file_restante": 21801, "cpu": 113.79, "cpu_preparation": 0.15, "cpu_copie": 21.29, "cpu_simulation": 52.82, "cpu_cle": 36.28, "cpu_heuristique": 2.92}
+{"jeu": "tn36", "niveau": 3, "heuristique": "hmax (but sans état caché : distance seule)", "memoire_max_mo": 3305, "arret": "plafond de nœuds", "noeuds": 200070, "etats": 32536, "uniques_sur_transitions": 0.163, "erreurs": 0, "defaites": 0, "doublons": 167535, "profondeur_max": 4, "plan": null, "h0": [0, 6], "preferes": 0, "domines": 0, "nouveaux": null, "hmin": 6, "actions": 95, "file_restante": 30430, "cpu": 144.08, "cpu_preparation": 0.2, "cpu_copie": 24.28, "cpu_simulation": 76.45, "cpu_cle": 39.43, "cpu_heuristique": 3.4}

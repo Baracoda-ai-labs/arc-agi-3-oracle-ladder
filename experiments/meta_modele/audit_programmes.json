@@ -1,0 +1,1782 @@
+{
+ "programmes": {
+  "ar25": {
+   "programme": true,
+   "defaite": 1,
+   "budget_consommer": 1,
+   "compteurs_de_defaite": [
+    "budget_restant"
+   ],
+   "victoire": 1,
+   "etat_initial": [
+    "budget_restant",
+    "but_teste",
+    "front",
+    "hist",
+    "nouv",
+    "photo_m",
+    "photo_p",
+    "sel",
+    "vus"
+   ],
+   "variables_etat": true,
+   "dessin_interface": 0,
+   "notes_jauge_vies": [
+    "budget",
+    "compteur",
+    "jauge"
+   ],
+   "mots_manquants": [
+    {
+     "nom": "collecter(\"$v\", liste, expr)",
+     "besoin": "fabriquer une liste de valeurs (photo des positions, cases d'une pièce) ; contourné par des accumulateurs dans etat remplis par pour + poser(+ liste)"
+    },
+    {
+     "nom": "fermeture(depart, \"$c\", images, profondeur) / ensembles de cases",
+     "besoin": "orbite d'une case sous le groupe des miroirs (BFS ≤ 12 du moteur) ; écrite à la main avec tant_que et des listes vus/front/nouv"
+    },
+    {
+     "nom": "mots (macros)",
+     "besoin": "partager la peinture des reflets entre flèche et annuler ; dupliquée faute de macros"
+    },
+    {
+     "nom": "abs(x)",
+     "besoin": "distance pièce tournante ↔ miroir ; écrit si(x < 0, -x, x)"
+    },
+    {
+     "nom": "HUD / budget de coups",
+     "besoin": "StepCounter du niveau et défaite quand il est épuisé (jauge dessinée par l'interface) ; non modélisé (la défaite n'est pas jugée par le banc, le HUD n'est pas produit par le langage)"
+    },
+    {
+     "nom": "plusieurs images par coup",
+     "besoin": "clignotement du tutoriel au niveau 1 (8 images internes) ; l'image finale est identique, non modélisé"
+    }
+   ],
+   "contournements": 6
+  },
+  "bp35": {
+   "programme": true,
+   "defaite": 2,
+   "budget_consommer": 1,
+   "compteurs_de_defaite": [
+    "budget_restant"
+   ],
+   "victoire": 2,
+   "etat_initial": [
+    "budget_restant"
+   ],
+   "variables_etat": true,
+   "dessin_interface": 0,
+   "notes_jauge_vies": [],
+   "mots_manquants": [],
+   "contournements": 1
+  },
+  "cd82": {
+   "programme": true,
+   "defaite": 1,
+   "budget_consommer": 0,
+   "compteurs_de_defaite": [
+    "coups"
+   ],
+   "victoire": 2,
+   "etat_initial": [
+    "a_gobelet",
+    "coups"
+   ],
+   "variables_etat": true,
+   "dessin_interface": 0,
+   "notes_jauge_vies": [
+    "compteur",
+    "jauge",
+    "pastille"
+   ],
+   "mots_manquants": [
+    {
+     "nom": "constantes / mots (macros)",
+     "besoin": "les tables de l'anneau (décalages, cases, quarts) et les liaisons communes (toile, panier, poste, couleur) sont recopiées dans chaque règle"
+    },
+    {
+     "nom": "classe par préfixe de nom (ou rôle)",
+     "besoin": "le modèle s'appelle eoqnvkspoa-pqwme<k>-1 (un nom par niveau) : reconnu ici par sa taille = celle de la toile"
+    },
+    {
+     "nom": "plusieurs images par coup",
+     "besoin": "verser = 15 images (aller 7, peinture, retour 7) ; seule l'image finale est décrite"
+    },
+    {
+     "nom": "HUD (jauge)",
+     "besoin": "la jauge de la ligne 63 est dessinée par l'interface ; seule la défaite au 100e coup est décrite (compteur etat)"
+    }
+   ],
+   "contournements": 3
+  },
+  "dc22": {
+   "programme": true,
+   "defaite": 1,
+   "budget_consommer": 1,
+   "compteurs_de_defaite": [
+    "budget_restant"
+   ],
+   "victoire": 1,
+   "etat_initial": [
+    "budget_restant"
+   ],
+   "variables_etat": true,
+   "dessin_interface": 1,
+   "notes_jauge_vies": [],
+   "mots_manquants": [
+    {
+     "nom": "entier(chaine) / chiffre_final(nom)",
+     "besoin": "le numéro d'état est le dernier caractère du nom ; lu par indice dans \"0123456789\""
+    }
+   ],
+   "contournements": 3
+  },
+  "ft09": {
+   "programme": true,
+   "defaite": 1,
+   "budget_consommer": 1,
+   "compteurs_de_defaite": [
+    "budget_restant"
+   ],
+   "victoire": 1,
+   "etat_initial": [
+    "budget_restant",
+    "pal"
+   ],
+   "variables_etat": true,
+   "dessin_interface": 0,
+   "notes_jauge_vies": [
+    "compteur",
+    "jauge"
+   ],
+   "mots_manquants": [
+    {
+     "nom": "HUD / compteur de coups",
+     "besoin": "la jauge de coups (kCv) dessinée en bas de l'image et la défaite quand elle s'épuise ; non produite par le langage (image_hud)"
+    }
+   ],
+   "contournements": 3
+  },
+  "g50t": {
+   "programme": true,
+   "defaite": 1,
+   "budget_consommer": 0,
+   "compteurs_de_defaite": [
+    "coups"
+   ],
+   "victoire": 1,
+   "etat_initial": [
+    "pas",
+    "trajet"
+   ],
+   "variables_etat": true,
+   "dessin_interface": 8,
+   "notes_jauge_vies": [],
+   "mots_manquants": [
+    {
+     "nom": "soit dans les effets (liaison locale)",
+     "besoin": "nommer « la dalle sous le mobile » et « le fil de cette dalle » à l'intérieur d'un pour ; écrit comme pour sur filtrer(…) (liste à 0 ou 1 élément), et le déplacement voulu de chaque mobile est posé en attribut « vers »"
+    },
+    {
+     "nom": "procédure / mot défini (macro)",
+     "besoin": "le signal dalle→fil→porte et la pose des portes servent au départ des mobiles et à leur arrivée ; écrits une seule fois grâce à une boucle sur deux phases (pour $ph dans intervalle(0, 2)), au lieu d'un appel nommé"
+    }
+   ],
+   "contournements": 7
+  },
+  "ka59": {
+   "programme": true,
+   "defaite": 1,
+   "budget_consommer": 1,
+   "compteurs_de_defaite": [
+    "budget_restant"
+   ],
+   "victoire": 1,
+   "etat_initial": [
+    "budget_restant",
+    "mobiles",
+    "sel",
+    "tetes"
+   ],
+   "variables_etat": true,
+   "dessin_interface": 0,
+   "notes_jauge_vies": [
+    "vie"
+   ],
+   "mots_manquants": [
+    {
+     "nom": "classe = union de tags dans les filtres (objets/libre/pousser : {\"tags\": [..]} ou {\"classe\": ..})",
+     "besoin": "les mobiles du jeu = pièces + clé + explosifs (3 tags) ; le mot pousser (récursif) n'accepte qu'un tag de poussables, d'où une poussée en chaîne déroulée à profondeur bornée"
+    },
+    {
+     "nom": "récursion (règle/macro appelable : poussée en chaîne sur une classe quelconque)",
+     "besoin": "ifoelczjjh pousse récursivement chaque mobile touché, profondeur non bornée"
+    },
+    {
+     "nom": "modèle hors scène + zone(x, y, masque tourné)",
+     "besoin": "explosion : le souffle est un sprite explode-<l>-<i> absent de la scène, tourné (rotation + 180), dont on teste la collision avec les mobiles ; règle mèche/explosion absente (aucun explosif dans les niveaux de la trace)"
+    },
+    {
+     "nom": "rotation d'un objet (terme) / état initial par niveau",
+     "besoin": "sens du souffle = rotation de l'explosif (niveaux 5-7), non lisible dans la scène"
+    },
+    {
+     "nom": "bande adjacente d'un côté (zone(o, côté))",
+     "besoin": "le moteur teste le contact d'une bande d'1 pixel accolée à chaque côté ; écrit ici en décalant la pièce d'1 case puis en la remettant (équivalent pour une pièce rectangulaire pleine)"
+    }
+   ],
+   "contournements": 5
+  },
+  "lf52": {
+   "programme": true,
+   "defaite": 1,
+   "budget_consommer": 0,
+   "compteurs_de_defaite": [
+    "coups"
+   ],
+   "victoire": 2,
+   "etat_initial": [],
+   "variables_etat": true,
+   "dessin_interface": 0,
+   "notes_jauge_vies": [],
+   "mots_manquants": [
+    "animation_multitrame (tremblement, fondu du reset : seule l'image finale est décrite)"
+   ],
+   "contournements": 0
+  },
+  "lp85": {
+   "programme": true,
+   "defaite": 1,
+   "budget_consommer": 0,
+   "compteurs_de_defaite": [
+    "jauge"
+   ],
+   "victoire": 1,
+   "etat_initial": [
+    "jauge"
+   ],
+   "variables_etat": true,
+   "dessin_interface": 0,
+   "notes_jauge_vies": [
+    "jauge"
+   ],
+   "mots_manquants": [
+    "donnees_de_niveau / graphe_cache : déclarer (ou induire en ligne par observation) des données cachées propres à chaque niveau — ici les cycles et la jauge max — autrement que par une table indexée sur niveau",
+    "parametre_tag(o, prefixe) : lire le paramètre d'un tag (button_<c>_<s> → c) ; ici reconstruit par concaténation de chaînes avec + (non documentée) et a_tag sur les étiquettes de la table",
+    "HUD / jauge : jauge dessinée par l'interface (colonne 0) ; son max et sa valeur ne sont pas des objets de la scène"
+   ],
+   "contournements": 3
+  },
+  "ls20": {
+   "programme": true,
+   "defaite": 1,
+   "budget_consommer": 0,
+   "compteurs_de_defaite": [
+    "vies"
+   ],
+   "victoire": 1,
+   "etat_initial": [],
+   "variables_etat": true,
+   "dessin_interface": 12,
+   "notes_jauge_vies": [
+    "jauge"
+   ],
+   "mots_manquants": [
+    {
+     "nom": "données cachées du niveau / lecture du HUD",
+     "besoin": "le cran de jauge par coup (StepsDecrement du moteur : 1 aux niveaux 1, 4, 6, sinon 2) n'est écrit nulle part dans la scène ; il ne se voit que dans la jauge du HUD, que le langage ne lit pas. Contourné par une table sur l'indice de niveau (seul contournement non légitime restant ; avec cran 2 partout, 327/329)"
+    },
+    {
+     "nom": "chevauche au sens du moteur pour des objets non bloquants",
+     "besoin": "rattacher un modificateur à son rail : le moteur teste le recouvrement de pixels où −2 compte plein ; `chevauche` ignore les −2 et `contact_moteur` exige deux objets bloquants. Remplacé (sans perte, 7 niveaux) par « l'origine du modificateur est sur un pixel du rail », la même règle que pour le faire avancer"
+    }
+   ],
+   "contournements": 5
+  },
+  "m0r0": {
+   "programme": true,
+   "defaite": 1,
+   "budget_consommer": 1,
+   "compteurs_de_defaite": [
+    "budget_restant"
+   ],
+   "victoire": 1,
+   "etat_initial": [
+    "budget_restant"
+   ],
+   "variables_etat": true,
+   "dessin_interface": 2,
+   "notes_jauge_vies": [
+    "compteur"
+   ],
+   "mots_manquants": [
+    {
+     "nom": "segment(nom, i) ou attribut de sens",
+     "besoin": "le moteur lit le sens du miroir de chaque jumeau dans son nom (leklkn/rivmdg, toljda/boweok) ; sans découpe du nom, table nom -> [mx, my]"
+    },
+    {
+     "nom": "sans_tag(o) / prefixe(nom)",
+     "besoin": "reconnaître portes (gayktr-*) et plaques (unobxw-*) : faute de mot, rôle déduit de l'absence des tags du jeu et de la forme (porte = plus d'une case, plaque = une case), appariement par couleur"
+    }
+   ],
+   "contournements": 4
+  },
+  "r11l": {
+   "programme": true,
+   "defaite": 1,
+   "budget_consommer": 1,
+   "compteurs_de_defaite": [
+    "budget_restant"
+   ],
+   "victoire": 1,
+   "etat_initial": [
+    "M",
+    "P",
+    "ax",
+    "ay",
+    "budget_restant",
+    "bx",
+    "by",
+    "c",
+    "danger",
+    "gx",
+    "gy",
+    "sel"
+   ],
+   "variables_etat": true,
+   "dessin_interface": 0,
+   "notes_jauge_vies": [],
+   "mots_manquants": [
+    {
+     "nom": "prefixe(nom, p) / suffixe(nom, p)",
+     "besoin": "familles de sprites et appariements patte/corps/cible par suffixe de nom, comme le moteur ; remplacés par des critères structurels (tag, calque, couleurs, barycentre) qui marchent sur les 6 niveaux mais ne sont pas la règle du jeu."
+    },
+    {
+     "nom": "somme(liste, \"$v\", expr) / moyenne",
+     "besoin": "R3 barycentre des pattes ; fait par accumulation pour + poser dans l'état (macro barycentre)."
+    },
+    {
+     "nom": "couleurs(o)",
+     "besoin": "ensemble des couleurs > 0 d'un objet ; écrit en macro par balayage des pixels (pixel + intervalle), coûteux mais exact."
+    }
+   ],
+   "contournements": 4
+  },
+  "re86": {
+   "programme": true,
+   "defaite": 1,
+   "budget_consommer": 1,
+   "compteurs_de_defaite": [
+    "budget_restant"
+   ],
+   "victoire": 1,
+   "etat_initial": [
+    "budget_restant",
+    "front",
+    "marques",
+    "pot",
+    "sel"
+   ],
+   "variables_etat": true,
+   "dessin_interface": 0,
+   "notes_jauge_vies": [
+    "jauge"
+   ],
+   "mots_manquants": [
+    {
+     "nom": "redimensionner(o, h, w, pixels) / nouvelle forme",
+     "besoin": "pièce creuse contre un mur : devient un rectangle-contour (h±3)×(w∓3) recentré, position arrondie au multiple de 3 ; remodeler (échelle) ne change pas la forme ; règle non écrite (murs absents des niveaux joués : N6-N8)"
+    },
+    {
+     "nom": "jauge / HUD du moteur",
+     "besoin": "jauge ligne 63 (round(64·restant/max)) et défaite à 0 : le max par niveau (100,100,200,200,250,200,300,400) n'est pas visible au départ ; seule une table par niveau l'écrirait (refusée) ; non écrit, non jugé (HUD non produit)"
+    },
+    {
+     "nom": "plusieurs images par coup",
+     "besoin": "la peinture se propage une couronne par image dans la même action ; seul l'état final est écrit (tant_que) et jugé"
+    },
+    {
+     "nom": "soit en cours d'effets / macros (mots)",
+     "besoin": "liaison locale après un effet (pot touché après déplacement, front de propagation) : passe par l'état caché pot/front ; couleur et centre naturel recopiés pour $s et $p faute de macro"
+    }
+   ],
+   "contournements": 4
+  },
+  "sb26": {
+   "programme": true,
+   "defaite": 1,
+   "budget_consommer": 1,
+   "compteurs_de_defaite": [
+    "budget_restant"
+   ],
+   "victoire": 1,
+   "etat_initial": [
+    "budget_restant",
+    "m",
+    "pile",
+    "pmy",
+    "pps",
+    "statut",
+    "verts"
+   ],
+   "variables_etat": true,
+   "dessin_interface": 6,
+   "notes_jauge_vies": [],
+   "mots_manquants": [
+    {
+     "nom": "dessiner_contour(o, largeur, coins)",
+     "besoin": "redimensionner le cadre d'exécution ; contourné par 20 ecrire aux coins (hauteur 12 recopiée)"
+    },
+    {
+     "nom": "sous-chaîne / chiffre final du nom",
+     "besoin": "nombre de cases d'un cadre (int(nom[-1]) dans le moteur) ; contourné par (largeur - 4) // 6"
+    },
+    {
+     "nom": "tranche(l, a, b)",
+     "besoin": "pile sans son sommet (test de récursion) ; contourné par existe sur intervalle d'indices"
+    }
+   ],
+   "contournements": 1
+  },
+  "sc25": {
+   "programme": true,
+   "defaite": 2,
+   "budget_consommer": 1,
+   "compteurs_de_defaite": [
+    "budget_restant",
+    "n"
+   ],
+   "victoire": 1,
+   "etat_initial": [
+    "budget_restant",
+    "regard"
+   ],
+   "variables_etat": true,
+   "dessin_interface": 4,
+   "notes_jauge_vies": [
+    "jauge"
+   ],
+   "mots_manquants": [
+    {
+     "nom": "limite de coups du niveau (donnée du moteur)",
+     "besoin": "le maximum de la jauge (50, 25, 50, 35, 65, 60) est une donnée de niveau invisible dans la scène (la jauge part vide) ; table indexée par niveau en attendant un mot qui l'expose."
+    },
+    {
+     "nom": "famille de noms (prefixe(o, p)) ou lien interrupteur → portes",
+     "besoin": "les interrupteurs sont deux sortes nommées (tagsmh, seofsw-tagsmh) ; les portes sont retrouvées par la couleur du cœur, mais reconnaître « un interrupteur » sans son nom demande un mot de famille."
+    },
+    {
+     "nom": "motif non tourné (base(o) / rotation(o))",
+     "besoin": "le moteur prend le centre de la sortie et la boîte des portes sur leur motif NON tourné (sortie 5×6, porte 4×3) ; la scène ne donne que l'image rendue, d'où ces dimensions en dur."
+    },
+    {
+     "nom": "objet_au_clic comme le moteur (get_sprite_at, invisibles compris)",
+     "besoin": "les zones de clic clcbko sont invisibles : a(x, y) ne les voit pas ; contourné par un test de boîte (elles sont pleines) — légitime mais plus long."
+    }
+   ],
+   "contournements": 9
+  },
+  "sk48": {
+   "programme": true,
+   "defaite": 1,
+   "budget_consommer": 0,
+   "compteurs_de_defaite": [
+    "coups"
+   ],
+   "victoire": 1,
+   "etat_initial": [],
+   "variables_etat": true,
+   "dessin_interface": 1,
+   "notes_jauge_vies": [],
+   "mots_manquants": [
+    {
+     "nom": "mot-effet qui rend une valeur (ou récursion bornée)",
+     "besoin": "la poussée bnrdrdiakd est récursive (segment -> blocs -> file de blocs) ; sans récursion ni valeur de retour, la file est parcourue par tant_que et les résultats passent par des états nommés (f_res, s_ok)"
+    },
+    {
+     "nom": "liste calculée (map : [\"chaque\", \"$v\", liste, terme]) ou instantané de scène",
+     "besoin": "UNDO : impossible de bâtir la liste des positions de tous les objets ; chaque objet garde sa position sous une clé numérotée (poser_attr o nh [x, y, n])"
+    },
+    {
+     "nom": "plusieurs images par coup",
+     "besoin": "animation de poussée en 2 demi-pas, cadres pkzxknabii et clignotement de victoire (35 images) : seule l'image finale est décrite (suffisant pour les transitions mesurées)"
+    }
+   ],
+   "contournements": 3
+  },
+  "sp80": {
+   "programme": true,
+   "defaite": 2,
+   "budget_consommer": 1,
+   "compteurs_de_defaite": [
+    "budget_restant",
+    "versements"
+   ],
+   "victoire": 1,
+   "etat_initial": [
+    "budget_restant",
+    "c1",
+    "c2",
+    "fuite",
+    "gouttes",
+    "nouv",
+    "remplies",
+    "tetes",
+    "v1",
+    "v2",
+    "versements"
+   ],
+   "variables_etat": true,
+   "dessin_interface": 0,
+   "notes_jauge_vies": [
+    "compteur"
+   ],
+   "mots_manquants": [
+    "plusieurs images par coup : animation du versement (propagation du liquide, remplissage des coupes, clignotement) pour juger réussite/échec",
+    "classe d'une pièce lisible sans étiquette (couleur de repos de la pièce choisie au départ invisible)"
+   ],
+   "contournements": 3
+  },
+  "su15": {
+   "programme": true,
+   "defaite": 1,
+   "budget_consommer": 1,
+   "compteurs_de_defaite": [
+    "budget_restant"
+   ],
+   "victoire": 2,
+   "etat_initial": [
+    "budget_restant",
+    "cpt",
+    "orig",
+    "pile",
+    "pos0"
+   ],
+   "variables_etat": true,
+   "dessin_interface": 0,
+   "notes_jauge_vies": [],
+   "mots_manquants": [
+    {
+     "nom": "repeindre(o, modele) / changer la forme d'un objet en gardant son identité",
+     "besoin": "un fruit frappé est réduit d'un niveau SUR PLACE par le moteur (même sprite, même nom, même calque, pixels du niveau inférieur) ; remodeler ne le permet que si la nouvelle taille divise l'ancienne (niveau 1 → 0, seul cas de la trace) ; pour les niveaux >= 2 le fichier recrée le fruit depuis le catalogue avec l'ancien calque, donc avec un NOM faux (branche non exercée par la trace)"
+    },
+    {
+     "nom": "entier(chaîne)",
+     "besoin": "le niveau d'un fruit est son tag/nom numérique (« 3 ») ; faute de conversion, il est lu comme le rang de ce nom dans le catalogue des fruits (général, mais indirect)"
+    },
+    {
+     "nom": "peindre(o, c) (tout pixel opaque → c)",
+     "besoin": "HUD passé au rouge quand le but devient impossible ; ici boucle recolorer c → 2 sur les 16 couleurs de la palette"
+    },
+    {
+     "nom": "somme(liste, $v, terme) / puissance",
+     "besoin": "commodité : somme des valeurs 2^niveau ; ici accumulation par pour + poser et 2^k par tant_que (aucune table)"
+    }
+   ],
+   "contournements": 6
+  },
+  "tn36": {
+   "programme": true,
+   "defaite": 1,
+   "budget_consommer": 1,
+   "compteurs_de_defaite": [
+    "budget_restant"
+   ],
+   "victoire": 1,
+   "etat_initial": [
+    "budget_restant",
+    "clics"
+   ],
+   "variables_etat": true,
+   "dessin_interface": 4,
+   "notes_jauge_vies": [],
+   "mots_manquants": [
+    {
+     "nom": "donnee_niveau(nom)",
+     "besoin": "lire les données cachées du niveau (get_data du moteur : Programs, Positions, Rotations, scvkkws) qui fixent le programme, la position, la rotation et l'échelle de chaque onglet de démonstration ; ni visibles à l'écran ni déductibles avant le clic : recopiées en tables indexées par niveau"
+    }
+   ],
+   "contournements": 3
+  },
+  "tr87": {
+   "programme": true,
+   "defaite": 1,
+   "budget_consommer": 1,
+   "compteurs_de_defaite": [
+    "budget_restant"
+   ],
+   "victoire": 1,
+   "etat_initial": [
+    "attendu",
+    "bas",
+    "budget_restant",
+    "haut",
+    "i",
+    "modeles",
+    "ok",
+    "r"
+   ],
+   "variables_etat": true,
+   "dessin_interface": 3,
+   "notes_jauge_vies": [],
+   "mots_manquants": [
+    "rotation cachée d'un sprite : le moteur tire la rotation de chaque glyphe (random.Random(graine du niveau)) et ni la scène ni `pixel` ne l'exposent ; les glyphes symétriques à 180° la rendent illisible aux pixels",
+    "dessiner un sprite de taille calculée (curseur de largeur 7n-2) : pas de mot pour fabriquer des pixels, seulement `remodeler` (échelle entière)"
+   ],
+   "contournements": 4
+  }
+ },
+ "t4": {
+  "n": 104,
+  "jeux_avec": {},
+  "classe_jauge": 104,
+  "lose_moyen": 1.0,
+  "detail": [
+   {
+    "jeu": "y000",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y001",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y002",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y003",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y004",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y005",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y006",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y007",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y008",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y009",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y010",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y011",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y012",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y013",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y014",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y015",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y016",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y017",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y018",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y019",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y020",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y021",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y022",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y023",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y024",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y025",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y026",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y027",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y028",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y029",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y030",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y031",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y032",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y033",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y034",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y035",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y036",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y037",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y038",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y039",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y040",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y041",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y042",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y043",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y044",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y045",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y046",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y047",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y048",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y049",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y050",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y051",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y052",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y053",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y054",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y055",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y056",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y057",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y058",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y059",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y060",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y061",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y062",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y063",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y064",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y065",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y066",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y067",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y068",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y069",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y070",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y071",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y072",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y073",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y074",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y075",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y076",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y077",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y078",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y079",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y080",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y081",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y082",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y083",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y084",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y085",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y086",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y087",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y088",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y089",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y090",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y091",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y092",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y093",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y094",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y095",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y096",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y097",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y098",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y099",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y100",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y104",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y105",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   },
+   {
+    "jeu": "y106",
+    "jauge_plein": false,
+    "jauge_vide": false,
+    "jauge_cote": false,
+    "pip_plein": false,
+    "pip_vide": false,
+    "recharge": false,
+    "classe_jauge": true,
+    "lose": 1
+   }
+  ]
+ }
+}

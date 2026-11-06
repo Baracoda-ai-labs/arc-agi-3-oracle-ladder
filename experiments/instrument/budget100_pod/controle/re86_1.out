@@ -1,0 +1,5 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 17:35:15 | INFO | Created new scorecard: 4ac899c0-5724-4a2a-af1b-3817e6b9e93b
+2026-10-20 17:35:15 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+2026-10-20 17:35:15 | INFO | Successfully loaded game class Re86 from /workspace/chrysalide3/experiments/arc3/environment_files/re86/8af5384d/re86.py
+{"jeu": "re86", "niveau": 1, "bras": "profondeur", "budget_s": 300.0, "memoire_go": 4.0, "backend": "1", "prefixe": "plafonds.prefixe", "gagne": null, "plan": null, "noeuds": 218105, "etats": null, "raison": "budget", "profondeur": null, "table": null, "t_victoire": null, "duree_s": 300.8, "memoire_max_go": 1.97}

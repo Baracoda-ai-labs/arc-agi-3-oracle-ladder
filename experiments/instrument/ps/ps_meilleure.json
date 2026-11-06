@@ -1,0 +1,9225 @@
+{
+ "budget_s": 30.0,
+ "s": 5400.9,
+ "resume": {
+  "niveaux": 644,
+  "porte1": 30,
+  "porte2": 30,
+  "gagne_apres_portes": 17
+ },
+ "echecs_execution": [
+  "p021-1c9e36d3",
+  "p067-06cd071b",
+  "p130-190ef539"
+ ],
+ "refus": {
+  "ne rejoue pas (C)": 993,
+  "pas de but (aucun but supposé planifiable)": 151,
+  "pas de plan": 6,
+  "aucune transition": 6
+ },
+ "jeux": [
+  {
+   "jeu": "p000-4afef6c3",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.207
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.366
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.6,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.506
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p001-974b5135",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": true,
+      "s": 0.2,
+      "infos": {
+       "mondes": 3,
+       "but_suppose": "('remplir', 2, 11)",
+       "origine": "but_suppose",
+       "cpu_s": 0.159
+      },
+      "long_plan": 1,
+      "porte1": true,
+      "porte2": true,
+      "issue_simulee": "niveau",
+      "porte_faible": false,
+      "gagne": true,
+      "coups_joues": 1,
+      "issue_reelle": "gagné"
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": true,
+      "s": 0.3,
+      "infos": {
+       "mondes": 5,
+       "origine": "planifier",
+       "cpu_s": 0.248
+      },
+      "long_plan": 1,
+      "porte1": true,
+      "porte2": true,
+      "issue_simulee": "niveau",
+      "porte_faible": false,
+      "gagne": true,
+      "coups_joues": 1,
+      "issue_reelle": "gagné"
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": true,
+      "s": 1.0,
+      "infos": {
+       "mondes": 4,
+       "origine": "planifier",
+       "cpu_s": 0.894
+      },
+      "long_plan": 1,
+      "porte1": true,
+      "porte2": true,
+      "issue_simulee": "niveau",
+      "porte_faible": false,
+      "gagne": true,
+      "coups_joues": 1,
+      "issue_reelle": "gagné"
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p002-d96fd330",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.152
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.233
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.9,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.784
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.6,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.503
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.198
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.9,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.664
+      }
+     }
+    },
+    {
+     "niveau": 7,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 2.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.963
+      }
+     }
+    },
+    {
+     "niveau": 8,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 2.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 2.214
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p003-be39996c",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.075
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.114
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.212
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.294
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.408
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p004-c3a3cff3",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.18
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.475
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.6,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.535
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.359
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.7,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.514
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 2.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.735
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p005-c01b03d4",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 559.6,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 468.059
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 573.9,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 460.469
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p006-fa97bfbb",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.14
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.152
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.207
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.327
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.412
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.493
+      }
+     }
+    },
+    {
+     "niveau": 7,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.6,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.574
+      }
+     }
+    },
+    {
+     "niveau": 8,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.9,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.792
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p007-4dabef59",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 557.6,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 467.262
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 574.8,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 461.443
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p008-59263aaf",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.9,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.776
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 9.8,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 8.471
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 52.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 47.58
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 60.7,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 55.103
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 84.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 68.894
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 124.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 112.962
+      }
+     }
+    },
+    {
+     "niveau": 7,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 133.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 123.147
+      }
+     }
+    },
+    {
+     "niveau": 8,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 177.7,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 164.066
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p009-8f155243",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.158
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.306
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.381
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p010-cb6416a8",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.154
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.216
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.283
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.5,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.393
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.474
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.6,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.554
+      }
+     }
+    },
+    {
+     "niveau": 7,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.8,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.705
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p011-cdaf0223",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.8,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.748
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.19
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 2.6,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 2.316
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 3.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 2.955
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 7.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 6.633
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 11.8,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 10.787
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p012-1a44392e",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.15
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.239
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.332
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.436
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p013-aa7e9cce",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.128
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.227
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.406
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.0,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.862
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p014-fc6326de",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.125
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.163
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.254
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.434
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.7,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.66
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.0,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.879
+      }
+     }
+    },
+    {
+     "niveau": 7,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.968
+      }
+     }
+    },
+    {
+     "niveau": 8,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.208
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p015-4085a8bd",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.175
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.265
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p016-dcafabaf",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.138
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.202
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.326
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.432
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.6,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.585
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.939
+      }
+     }
+    },
+    {
+     "niveau": 7,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 2.6,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 2.392
+      }
+     }
+    },
+    {
+     "niveau": 8,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 33.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 30.717
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p017-31f44423",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.9,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.78
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.136
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p018-e4bc4c79",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.8,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.744
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.157
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p019-d0d079a2",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.9,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.758
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.184
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p020-89280fb2",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.6,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.563
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.134
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p021-1c9e36d3",
+   "niveaux": [],
+   "echec_execution": "TimeoutError: "
+  },
+  {
+   "jeu": "p022-62f800fc",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": true,
+      "s": 0.1,
+      "infos": {
+       "mondes": 2,
+       "but_suppose": "('sortie', 9, 14)",
+       "origine": "but_suppose",
+       "cpu_s": 0.109
+      },
+      "long_plan": 1,
+      "porte1": true,
+      "porte2": true,
+      "issue_simulee": "niveau",
+      "porte_faible": false,
+      "gagne": true,
+      "coups_joues": 1,
+      "issue_reelle": "gagné"
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.176
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.379
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p023-e6a2ec8d",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.112
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.167
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": true,
+      "s": 0.3,
+      "infos": {
+       "mondes": 10,
+       "but_suppose": "('sortie', 12, 2)",
+       "origine": "but_suppose",
+       "cpu_s": 0.301
+      },
+      "long_plan": 2,
+      "porte1": true,
+      "porte2": true,
+      "issue_simulee": "niveau",
+      "porte_faible": false,
+      "gagne": true,
+      "coups_joues": 1,
+      "issue_reelle": "gagné"
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.5,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.428
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.5,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.418
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p024-e3d938ef",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.198
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.358
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.6,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.563
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.8,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.743
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.9,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.857
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.077
+      }
+     }
+    },
+    {
+     "niveau": 7,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.198
+      }
+     }
+    },
+    {
+     "niveau": 8,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.9,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.691
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p025-e31bbc7a",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.116
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.149
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.288
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p026-e38e1a96",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.128
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.181
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.274
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.394
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.505
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.7,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.667
+      }
+     }
+    },
+    {
+     "niveau": 7,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.977
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p027-953e2062",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.5,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.426
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 3.0,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 2.744
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 3.0,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 2.773
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 3.6,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 2.862
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 4.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 3.888
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 5.6,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 5.293
+      }
+     }
+    },
+    {
+     "niveau": 7,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 7.6,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 6.951
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p028-a3efa65e",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.186
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.266
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.333
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.441
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.6,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.543
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p029-c979e618",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.167
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.251
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p030-fb93c9d1",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.5,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.379
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.153
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 3.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 2.568
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 3.6,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 3.427
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 3.9,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 3.702
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p031-baca99a1",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.2,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 1.107
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 29.8,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 27.161
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 5.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 4.877
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 53.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 41.063
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 49.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 44.158
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 91.7,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 84.035
+      }
+     }
+    },
+    {
+     "niveau": 7,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 151.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 140.383
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p032-bbb03cf7",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": true,
+      "s": 0.2,
+      "infos": {
+       "mondes": 53,
+       "but_suppose": "('remplir', 3, 0)",
+       "origine": "but_suppose",
+       "cpu_s": 0.169
+      },
+      "long_plan": 5,
+      "porte1": true,
+      "porte2": true,
+      "issue_simulee": "niveau",
+      "porte_faible": false,
+      "gagne": true,
+      "coups_joues": 1,
+      "issue_reelle": "gagné"
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.26
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.41
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.6,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.55
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p033-ace5147a",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.146
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.316
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.5,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.416
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 6.7,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 5.846
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 2.4,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 2.314
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 2.5,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 2.375
+      }
+     }
+    },
+    {
+     "niveau": 7,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 2.6,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 2.457
+      }
+     }
+    },
+    {
+     "niveau": 8,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 2.7,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 2.558
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p034-b19540a2",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.2
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 87.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 71.807
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 128.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 117.189
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 344.8,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 319.374
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 254.9,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 233.812
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 293.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 262.649
+      }
+     }
+    },
+    {
+     "niveau": 7,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 542.0,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 452.716
+      }
+     }
+    },
+    {
+     "niveau": 8,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1000.6,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 731.976
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p035-496b79bf",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.134
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.187
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.8,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.775
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.9,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.894
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.177
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p036-3763657c",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.216
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 46.6,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 44.055
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 48.9,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 45.294
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p037-a1da52d6",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.077
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.0,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.045
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.058
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.115
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.176
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.236
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p038-ff87ff76",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": true,
+      "s": 0.1,
+      "infos": {
+       "mondes": 3,
+       "but_suppose": "('remplir', 5, 3)",
+       "origine": "but_suppose",
+       "cpu_s": 0.113
+      },
+      "long_plan": 2,
+      "porte1": true,
+      "porte2": true,
+      "issue_simulee": "niveau",
+      "porte_faible": false,
+      "gagne": true,
+      "coups_joues": 1,
+      "issue_reelle": "gagné"
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.15
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.24
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p039-26b49365",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.123
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "pas de plan ; pas de plan ; pas de plan",
+       "sans_but": true,
+       "cpu_s": 0.204
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.267
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p040-3755a7c7",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.055
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.06
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p041-abc53991",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.138
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.203
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p042-76f19e19",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.14
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 2.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.995
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 2.6,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 2.434
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 2.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 2.084
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 3.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 3.299
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 6.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 5.663
+      }
+     }
+    },
+    {
+     "niveau": 7,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 6.9,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 6.438
+      }
+     }
+    },
+    {
+     "niveau": 8,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 9.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 8.805
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p043-2cc30350",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 42.6,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 40.192
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 44.0,
+      "infos": {
+       "refus": "pas de plan",
+       "sans_but": true,
+       "cpu_s": 40.908
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p044-fe8aa391",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.346
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.42
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p045-65a2451b",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.142
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 67.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 62.727
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 169.0,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 154.298
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 317.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 259.885
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 415.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 287.725
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 541.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "pas de but (aucun but supposé planifiable) ; ne rejoue pas (C)",
+       "cpu_s": 372.07
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p046-0e23b354",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.145
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.274
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p047-da4f826e",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": true,
+      "s": 0.1,
+      "infos": {
+       "mondes": 2,
+       "but_suppose": "('sortie', 4, 5)",
+       "origine": "but_suppose",
+       "cpu_s": 0.129
+      },
+      "long_plan": 1,
+      "porte1": true,
+      "porte2": true,
+      "issue_simulee": "niveau",
+      "porte_faible": false,
+      "gagne": false,
+      "coups_joues": 1,
+      "issue_reelle": "plan fini sans victoire"
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.179
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": true,
+      "s": 0.3,
+      "infos": {
+       "mondes": 2,
+       "but_suppose": "('sortie', 4, 5)",
+       "origine": "but_suppose",
+       "cpu_s": 0.262
+      },
+      "long_plan": 1,
+      "porte1": true,
+      "porte2": true,
+      "issue_simulee": "niveau",
+      "porte_faible": false,
+      "gagne": false,
+      "coups_joues": 1,
+      "issue_reelle": "plan fini sans victoire"
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.385
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.6,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.529
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.7,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.611
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p048-67beb265",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": true,
+      "s": 0.2,
+      "infos": {
+       "mondes": 3,
+       "but_suppose": "('sortie', 5, 12)",
+       "origine": "but_suppose",
+       "cpu_s": 0.146
+      },
+      "long_plan": 1,
+      "porte1": true,
+      "porte2": true,
+      "issue_simulee": "niveau",
+      "porte_faible": false,
+      "gagne": true,
+      "coups_joues": 1,
+      "issue_reelle": "gagné"
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.219
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.293
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.409
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p049-9dd27149",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.189
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.467
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.8,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.745
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p050-75f10922",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.4,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 1.349
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 19.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 18.057
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p051-f404fef7",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 14.2,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 13.278
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 38.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 35.848
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p052-38fb013e",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 16.0,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 15.072
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 16.7,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 15.447
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p053-0eb65561",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.072
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.126
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.193
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.28
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.454
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.6,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.51
+      }
+     }
+    },
+    {
+     "niveau": 7,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.7,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.662
+      }
+     }
+    },
+    {
+     "niveau": 8,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.0,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.874
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p054-3c6a27eb",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.195
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.379
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.6,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.599
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p055-d98330ce",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.123
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.168
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.269
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.346
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p056-9a4b48ab",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.157
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.187
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 27.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 25.744
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 22.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 20.653
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 22.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 21.178
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p057-83db046b",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": true,
+      "s": 0.1,
+      "infos": {
+       "mondes": 2,
+       "but_suppose": "('sortie', 11, 2)",
+       "origine": "but_suppose",
+       "cpu_s": 0.117
+      },
+      "long_plan": 1,
+      "porte1": true,
+      "porte2": true,
+      "issue_simulee": "niveau",
+      "porte_faible": false,
+      "gagne": false,
+      "coups_joues": 1,
+      "issue_reelle": "plan fini sans victoire"
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": true,
+      "s": 0.2,
+      "infos": {
+       "mondes": 2,
+       "origine": "planifier",
+       "cpu_s": 0.168
+      },
+      "long_plan": 1,
+      "porte1": true,
+      "porte2": true,
+      "issue_simulee": "niveau",
+      "porte_faible": false,
+      "gagne": false,
+      "coups_joues": 1,
+      "issue_reelle": "plan fini sans victoire"
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.245
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 4.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 4.324
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 3.9,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 3.636
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": true,
+      "s": 1.2,
+      "infos": {
+       "mondes": 6,
+       "but_suppose": "('sortie', 11, 2)",
+       "origine": "but_suppose",
+       "cpu_s": 1.082
+      },
+      "long_plan": 2,
+      "porte1": true,
+      "porte2": true,
+      "issue_simulee": "niveau",
+      "porte_faible": false,
+      "gagne": false,
+      "coups_joues": 2,
+      "issue_reelle": "plan fini sans victoire"
+     }
+    },
+    {
+     "niveau": 7,
+     "mecanique": null,
+     "C": {
+      "plan": true,
+      "s": 1.5,
+      "infos": {
+       "mondes": 3,
+       "but_suppose": "('sortie', 11, 2)",
+       "origine": "but_suppose",
+       "cpu_s": 1.344
+      },
+      "long_plan": 1,
+      "porte1": true,
+      "porte2": true,
+      "issue_simulee": "niveau",
+      "porte_faible": false,
+      "gagne": false,
+      "coups_joues": 1,
+      "issue_reelle": "plan fini sans victoire"
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p058-023945b1",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.244
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.478
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.9,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.798
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.7,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.635
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.0,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.898
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p059-dccb1d70",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": true,
+      "s": 0.1,
+      "infos": {
+       "mondes": 3,
+       "but_suppose": "('sortie', 0, 4)",
+       "origine": "but_suppose",
+       "cpu_s": 0.113
+      },
+      "long_plan": 2,
+      "porte1": true,
+      "porte2": true,
+      "issue_simulee": "niveau",
+      "porte_faible": false,
+      "gagne": true,
+      "coups_joues": 1,
+      "issue_reelle": "gagné"
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": true,
+      "s": 3.9,
+      "infos": {
+       "mondes": 2,
+       "but_suppose": "('ancre', 0, 4)",
+       "origine": "but_suppose",
+       "cpu_s": 3.691
+      },
+      "long_plan": 1,
+      "porte1": false,
+      "porte2": false,
+      "issue_simulee": null,
+      "porte_faible": false,
+      "gagne": false,
+      "coups_joues": 1,
+      "issue_reelle": "plan fini sans victoire"
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p060-3fe4e13f",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.228
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.431
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.7,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.649
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p061-de787ac3",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": true,
+      "s": 0.1,
+      "infos": {
+       "mondes": 2,
+       "but_suppose": "('remplir', 4, 5)",
+       "origine": "but_suppose",
+       "cpu_s": 0.121
+      },
+      "long_plan": 1,
+      "porte1": true,
+      "porte2": true,
+      "issue_simulee": "niveau",
+      "porte_faible": false,
+      "gagne": true,
+      "coups_joues": 1,
+      "issue_reelle": "gagné"
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.173
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.268
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p062-e10dd07d",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.0,
+      "infos": {
+       "refus": "aucune transition",
+       "cpu_s": 0.032
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.289
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.444
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.6,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.485
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.432
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p063-55f3ba56",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.117
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": true,
+      "s": 0.3,
+      "infos": {
+       "mondes": 91,
+       "but_suppose": "('sortie', 2, 10)",
+       "origine": "but_suppose",
+       "cpu_s": 0.299
+      },
+      "long_plan": 5,
+      "porte1": true,
+      "porte2": true,
+      "issue_simulee": "niveau",
+      "porte_faible": false,
+      "gagne": false,
+      "coups_joues": 5,
+      "issue_reelle": "plan fini sans victoire"
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.278
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.348
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.413
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.479
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p064-46a7f163",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 14.7,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 13.799
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 43.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 40.297
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 81.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 75.928
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 86.0,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 78.885
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p065-dcfef41b",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.146
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.241
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.354
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.451
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p066-40b994c3",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.24
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.98
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.354
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 3.6,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 3.216
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 6.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 5.782
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p067-06cd071b",
+   "niveaux": [],
+   "echec_execution": "TimeoutError: "
+  },
+  {
+   "jeu": "p068-f8bb58bd",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.157
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.313
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.7,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.66
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.0,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.966
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p069-a604d904",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.232
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.6,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.609
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p070-1beabf70",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.0,
+      "infos": {
+       "refus": "aucune transition",
+       "cpu_s": 0.04
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.0,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.025
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.0,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.032
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.0,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.032
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.0,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.042
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.095
+      }
+     }
+    },
+    {
+     "niveau": 7,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.094
+      }
+     }
+    },
+    {
+     "niveau": 8,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.117
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p071-2be97bb8",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 578.7,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 479.75
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 836.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 624.365
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p072-6bfc9c44",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": true,
+      "s": 0.1,
+      "infos": {
+       "mondes": 3,
+       "but_suppose": "('remplir', 3, 5)",
+       "origine": "but_suppose",
+       "cpu_s": 0.13
+      },
+      "long_plan": 2,
+      "porte1": true,
+      "porte2": true,
+      "issue_simulee": "niveau",
+      "porte_faible": false,
+      "gagne": true,
+      "coups_joues": 1,
+      "issue_reelle": "gagné"
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.196
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p073-fad1919c",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.164
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.246
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p074-62c6b88d",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.156
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.7,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.674
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.103
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.8,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.746
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 2.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 2.325
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 2.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 2.269
+      }
+     }
+    },
+    {
+     "niveau": 7,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 5.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 5.084
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p075-1d2fb8ee",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.049
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.0,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.013
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.052
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.052
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p076-3bf8c67d",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.214
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 7.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 6.654
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 28.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 26.526
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 126.6,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 117.893
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p077-bfb50100",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.147
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.428
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p078-12be01a9",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.069
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.124
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.207
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.341
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.408
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.6,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.547
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p079-336b10ea",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.13
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.196
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.407
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.0,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.958
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p080-696a1868",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.3,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 1.224
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 8.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 7.539
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 13.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 12.486
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p081-00d9168a",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": true,
+      "s": 0.2,
+      "infos": {
+       "mondes": 3,
+       "but_suppose": "('sortie', 0, 4)",
+       "origine": "but_suppose",
+       "cpu_s": 0.187
+      },
+      "long_plan": 2,
+      "porte1": true,
+      "porte2": true,
+      "issue_simulee": "niveau",
+      "porte_faible": false,
+      "gagne": true,
+      "coups_joues": 1,
+      "issue_reelle": "gagné"
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 40.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "pas de but (aucun but supposé planifiable) ; ne rejoue pas (C)",
+       "cpu_s": 38.202
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.245
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 2.0,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.893
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 2.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 2.252
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p082-c5f79b88",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.7,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.666
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 7.0,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 6.684
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 30.6,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 29.088
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 72.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 65.514
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 97.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 73.634
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 165.7,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 136.392
+      }
+     }
+    },
+    {
+     "niveau": 7,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 173.9,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 151.907
+      }
+     }
+    },
+    {
+     "niveau": 8,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 247.7,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 209.994
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p083-865a048b",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.184
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.35
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.428
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p084-12e9ec54",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.248
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.327
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.6,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.49
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.631
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.889
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.067
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p085-546c8d39",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.17
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.249
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p086-68bb36ac",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": true,
+      "s": 0.3,
+      "infos": {
+       "mondes": 5,
+       "but_suppose": "('remplir', 9, 0)",
+       "origine": "but_suppose",
+       "cpu_s": 0.246
+      },
+      "long_plan": 2,
+      "porte1": true,
+      "porte2": true,
+      "issue_simulee": "niveau",
+      "porte_faible": false,
+      "gagne": true,
+      "coups_joues": 1,
+      "issue_reelle": "gagné"
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": true,
+      "s": 0.4,
+      "infos": {
+       "mondes": 2,
+       "origine": "planifier",
+       "cpu_s": 0.396
+      },
+      "long_plan": 1,
+      "porte1": true,
+      "porte2": true,
+      "issue_simulee": "niveau",
+      "porte_faible": false,
+      "gagne": true,
+      "coups_joues": 1,
+      "issue_reelle": "gagné"
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p087-a43715e5",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.153
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.183
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.28
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.5,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.432
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.8,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.702
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p088-2fd3927b",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.157
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.208
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p089-4c26b928",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.9,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.8
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.6,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.346
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 3.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 2.69
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 4.0,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 3.438
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 10.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 8.794
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p090-9dc34ab7",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.369
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.6,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.553
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.944
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.204
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.296
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 2.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.833
+      }
+     }
+    },
+    {
+     "niveau": 7,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 3.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 2.652
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p091-aa5a90c8",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.177
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 7.8,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 6.792
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 82.7,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 72.065
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 50.6,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "pas de but (aucun but supposé planifiable) ; ne rejoue pas (C)",
+       "cpu_s": 43.456
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 56.8,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "pas de but (aucun but supposé planifiable) ; ne rejoue pas (C)",
+       "cpu_s": 46.072
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 62.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "pas de but (aucun but supposé planifiable) ; ne rejoue pas (C)",
+       "cpu_s": 48.14
+      }
+     }
+    },
+    {
+     "niveau": 7,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 65.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "pas de but (aucun but supposé planifiable) ; ne rejoue pas (C)",
+       "cpu_s": 48.735
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p092-6344bc32",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.212
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.247
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.392
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.493
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.7,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.657
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.9,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.79
+      }
+     }
+    },
+    {
+     "niveau": 7,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.0,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.941
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p093-04953367",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.17
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.236
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.399
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.6,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.526
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.255
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.36
+      }
+     }
+    },
+    {
+     "niveau": 7,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.8,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.684
+      }
+     }
+    },
+    {
+     "niveau": 8,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 3.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 2.625
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p094-9a709f42",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": true,
+      "s": 0.2,
+      "infos": {
+       "mondes": 2,
+       "but_suppose": "('sortie', 9, 10)",
+       "origine": "but_suppose",
+       "cpu_s": 0.174
+      },
+      "long_plan": 1,
+      "porte1": true,
+      "porte2": true,
+      "issue_simulee": "niveau",
+      "porte_faible": false,
+      "gagne": false,
+      "coups_joues": 1,
+      "issue_reelle": "plan fini sans victoire"
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.401
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.944
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 2.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.974
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p095-7dfddf7e",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.076
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.154
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.247
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p096-0f6fe19a",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 7.4,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 6.399
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 28.0,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 24.243
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p097-dc0b5085",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": true,
+      "s": 0.2,
+      "infos": {
+       "mondes": 10,
+       "but_suppose": "('sortie', 0, 3)",
+       "origine": "but_suppose",
+       "cpu_s": 0.18
+      },
+      "long_plan": 3,
+      "porte1": false,
+      "porte2": false,
+      "issue_simulee": null,
+      "porte_faible": false,
+      "gagne": false,
+      "coups_joues": 3,
+      "issue_reelle": "plan fini sans victoire"
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.286
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p098-be5dc239",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.5,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.423
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.8,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.721
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 7.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 6.409
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 11.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 9.794
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 42.6,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 33.396
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 44.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 35.468
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p099-47f649d7",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.244
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": true,
+      "s": 7.7,
+      "infos": {
+       "mondes": 3,
+       "but_suppose": "('ancre', 0, 4)",
+       "origine": "but_suppose",
+       "cpu_s": 6.008
+      },
+      "long_plan": 1,
+      "porte1": false,
+      "porte2": false,
+      "issue_simulee": null,
+      "porte_faible": false,
+      "gagne": false,
+      "coups_joues": 1,
+      "issue_reelle": "plan fini sans victoire"
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.125
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p100-43fb9550",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 6.9,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 5.578
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 334.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 287.71
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 443.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 398.406
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 477.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 429.039
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p101-b0d22853",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.133
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.253
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.239
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.308
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.456
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.6,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.553
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p102-19e95825",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.9,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.759
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 3.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 2.5
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p103-b1bb6c9c",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 45.6,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 37.37
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 46.9,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 40.439
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p104-d2ac5bc7",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.6,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.597
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 2.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.306
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.223
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 2.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.918
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 3.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 2.794
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 5.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 4.383
+      }
+     }
+    },
+    {
+     "niveau": 7,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 5.9,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 5.289
+      }
+     }
+    },
+    {
+     "niveau": 8,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 7.7,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 7.096
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p105-7a780152",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.187
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.251
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.39
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p106-44d06808",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.165
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.295
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.403
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p107-7d5c3c91",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.6,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.508
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.9,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.581
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p108-3697da55",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": true,
+      "s": 0.3,
+      "infos": {
+       "mondes": 5,
+       "but_suppose": "('sortie', 5, 2)",
+       "origine": "but_suppose",
+       "cpu_s": 0.24
+      },
+      "long_plan": 4,
+      "porte1": true,
+      "porte2": true,
+      "issue_simulee": "niveau",
+      "porte_faible": false,
+      "gagne": true,
+      "coups_joues": 1,
+      "issue_reelle": "gagné"
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.6,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.474
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": true,
+      "s": 11.1,
+      "infos": {
+       "mondes": 2,
+       "but_suppose": "('sortie', 5, 2)",
+       "origine": "but_suppose",
+       "cpu_s": 9.538
+      },
+      "long_plan": 1,
+      "porte1": true,
+      "porte2": true,
+      "issue_simulee": "niveau",
+      "porte_faible": false,
+      "gagne": false,
+      "coups_joues": 1,
+      "issue_reelle": "plan fini sans victoire"
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.0,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.751
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.099
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.289
+      }
+     }
+    },
+    {
+     "niveau": 7,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 2.0,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.721
+      }
+     }
+    },
+    {
+     "niveau": 8,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 2.7,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 2.346
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p109-cfce63fd",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.267
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.347
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p110-fdbb3156",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.089
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.112
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.125
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.186
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.254
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p111-d86f3e9d",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.159
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.202
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 2.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 2.038
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 3.9,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 3.387
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 8.7,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 7.758
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 13.8,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 12.561
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p112-ffad6bc6",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 4.3,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 3.753
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 37.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 33.193
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 62.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 56.591
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p113-ee923472",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.117
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.144
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.26
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.287
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p114-405b44e1",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.346
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.463
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.9,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.607
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 2.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.923
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 2.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.955
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 3.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 2.953
+      }
+     }
+    },
+    {
+     "niveau": 7,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 4.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 4.076
+      }
+     }
+    },
+    {
+     "niveau": 8,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 4.0,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 3.667
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p115-3020f5fc",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.09
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 2.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 2.221
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p116-604dc288",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.0,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.932
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 2.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 2.245
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p117-2d12474a",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.086
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.123
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.171
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.232
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.291
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.352
+      }
+     }
+    },
+    {
+     "niveau": 7,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.4
+      }
+     }
+    },
+    {
+     "niveau": 8,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.421
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p118-f5b1bd8e",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.126
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.209
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 2.6,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 2.353
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p119-117110f8",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.117
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.489
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.7,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.633
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.9,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.793
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.021
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 2.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.955
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p120-f89eef34",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": true,
+      "s": 0.1,
+      "infos": {
+       "mondes": 2,
+       "but_suppose": "('remplir', 9, 14)",
+       "origine": "but_suppose",
+       "cpu_s": 0.1
+      },
+      "long_plan": 1,
+      "porte1": true,
+      "porte2": true,
+      "issue_simulee": "niveau",
+      "porte_faible": false,
+      "gagne": true,
+      "coups_joues": 1,
+      "issue_reelle": "gagné"
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.114
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.197
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": true,
+      "s": 0.9,
+      "infos": {
+       "mondes": 2,
+       "but_suppose": "('sortie', 9, 13)",
+       "origine": "but_suppose",
+       "cpu_s": 0.828
+      },
+      "long_plan": 1,
+      "porte1": true,
+      "porte2": true,
+      "issue_simulee": "niveau",
+      "porte_faible": false,
+      "gagne": false,
+      "coups_joues": 1,
+      "issue_reelle": "plan fini sans victoire"
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.307
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.324
+      }
+     }
+    },
+    {
+     "niveau": 7,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.384
+      }
+     }
+    },
+    {
+     "niveau": 8,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.469
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p121-9d279265",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.0,
+      "infos": {
+       "refus": "aucune transition",
+       "cpu_s": 0.025
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.076
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.121
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.188
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.241
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p122-d4df4da4",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.0,
+      "infos": {
+       "refus": "aucune transition",
+       "cpu_s": 0.027
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.069
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.141
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.192
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.253
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.344
+      }
+     }
+    },
+    {
+     "niveau": 7,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.352
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p123-4ff6df3f",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.095
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.118
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.212
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.227
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.293
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.353
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p124-7ddaa332",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.1
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.108
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.158
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.232
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.295
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 230.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 187.854
+      }
+     }
+    },
+    {
+     "niveau": 7,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 294.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 205.911
+      }
+     }
+    },
+    {
+     "niveau": 8,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 347.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 205.42
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p125-23accc6f",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 13.6,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 12.088
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 11.6,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 10.876
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 13.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 12.101
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p126-56f6acfb",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.089
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.486
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 3.0,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 2.59
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p127-1b3c2cff",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.09
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.109
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.136
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.18
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.197
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p128-732a4b18",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.104
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.137
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.171
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.241
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p129-398c6a55",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.074
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.102
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.16
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.212
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p130-190ef539",
+   "niveaux": [],
+   "echec_execution": "TimeoutError: "
+  },
+  {
+   "jeu": "p131-ccf982f3",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 18.8,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 18.675
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 196.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 192.73
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p132-3fe82934",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.041
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.084
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.147
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.133
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.144
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.153
+      }
+     }
+    },
+    {
+     "niveau": 7,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.17
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p133-77afd66a",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.342
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.5,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.524
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.7,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.667
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.7,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.702
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 2.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 2.272
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 2.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 2.227
+      }
+     }
+    },
+    {
+     "niveau": 7,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 4.0,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 3.961
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p134-b5fad06a",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.057
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.146
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.314
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.6,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.576
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": true,
+      "s": 0.8,
+      "infos": {
+       "mondes": 2,
+       "but_suppose": "('sortie', 5, 12)",
+       "origine": "but_suppose",
+       "cpu_s": 0.798
+      },
+      "long_plan": 1,
+      "porte1": true,
+      "porte2": true,
+      "issue_simulee": "niveau",
+      "porte_faible": false,
+      "gagne": false,
+      "coups_joues": 1,
+      "issue_reelle": "plan fini sans victoire"
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.7,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.667
+      }
+     }
+    },
+    {
+     "niveau": 7,
+     "mecanique": null,
+     "C": {
+      "plan": true,
+      "s": 18.0,
+      "infos": {
+       "mondes": 281,
+       "but_suppose": "('sortie', 12, 0)",
+       "origine": "but_suppose",
+       "cpu_s": 17.841
+      },
+      "long_plan": 5,
+      "porte1": true,
+      "porte2": true,
+      "issue_simulee": "niveau",
+      "porte_faible": false,
+      "gagne": false,
+      "coups_joues": 2,
+      "issue_reelle": "plan fini sans victoire"
+     }
+    },
+    {
+     "niveau": 8,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.191
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p135-ad5a2103",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.263
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.355
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.322
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.417
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.6,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.626
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.7,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.648
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p136-a3295654",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 41.2,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 40.782
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 45.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 44.594
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 37.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 35.648
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 35.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 34.721
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 246.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 242.944
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p137-6c300d1d",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.172
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.7,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.662
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 2.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 2.421
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p138-ac0bac6f",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.0,
+      "infos": {
+       "refus": "aucune transition",
+       "cpu_s": 0.022
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.0,
+      "infos": {
+       "refus": "aucune transition",
+       "cpu_s": 0.0
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": true,
+      "s": 0.1,
+      "infos": {
+       "mondes": 3,
+       "but_suppose": "('sortie', 0, 5)",
+       "origine": "but_suppose",
+       "cpu_s": 0.071
+      },
+      "long_plan": 1,
+      "porte1": true,
+      "porte2": true,
+      "issue_simulee": "niveau",
+      "porte_faible": false,
+      "gagne": false,
+      "coups_joues": 1,
+      "issue_reelle": "plan fini sans victoire"
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.137
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.19
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.267
+      }
+     }
+    },
+    {
+     "niveau": 7,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.297
+      }
+     }
+    },
+    {
+     "niveau": 8,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.357
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p139-30969b32",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.077
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.117
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.222
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.22
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p140-44f1dbff",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": true,
+      "s": 0.1,
+      "infos": {
+       "mondes": 3,
+       "but_suppose": "('remplir', 10, 2)",
+       "origine": "but_suppose",
+       "cpu_s": 0.06
+      },
+      "long_plan": 1,
+      "porte1": true,
+      "porte2": true,
+      "issue_simulee": "niveau",
+      "porte_faible": false,
+      "gagne": true,
+      "coups_joues": 1,
+      "issue_reelle": "gagné"
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "pas de plan ; pas de plan ; ne rejoue pas (C)",
+       "sans_but": true,
+       "cpu_s": 0.115
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.161
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.237
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.331
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.7,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.665
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p141-529315b4",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.073
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.101
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.1,
+      "infos": {
+       "refus": "pas de but (aucun but supposé planifiable) ; pas de but (aucun but supposé planifiable)",
+       "cpu_s": 0.14
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.216
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.271
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.33
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p142-d17271c4",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.2,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.198
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.7,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.696
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p143-98c9993a",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.5,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.516
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.7,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.686
+      }
+     }
+    }
+   ]
+  },
+  {
+   "jeu": "p144-0b48fe68",
+   "niveaux": [
+    {
+     "niveau": 1,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.3,
+      "infos": {
+       "refus": "ne rejoue pas (C)",
+       "cpu_s": 0.288
+      }
+     }
+    },
+    {
+     "niveau": 2,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 0.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 0.375
+      }
+     }
+    },
+    {
+     "niveau": 3,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.174
+      }
+     }
+    },
+    {
+     "niveau": 4,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.4,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.361
+      }
+     }
+    },
+    {
+     "niveau": 5,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 1.6,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.64
+      }
+     }
+    },
+    {
+     "niveau": 6,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 2.0,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 1.947
+      }
+     }
+    },
+    {
+     "niveau": 7,
+     "mecanique": null,
+     "C": {
+      "plan": false,
+      "s": 2.2,
+      "infos": {
+       "ne_rejoue_plus": true,
+       "refus": "ne rejoue pas (C) ; ne rejoue pas (C)",
+       "cpu_s": 2.148
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

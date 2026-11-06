@@ -1,0 +1,45 @@
+[
+{"jeu": "lp85",
+ "interface": [
+  {"classe": "fonypcnqmf (colonne x=0, y=0..63)", "represente": "budget_coups", "regle": "pixels couleur 5 = round(64*(max-restant)/max), reste couleur 14 ; seul un clic sur un bouton (xsfawdkqoi) décrémente de 1 ; remis au StepCounter du niveau dans on_set_level ; lose() quand il atteint 0 après un clic de bouton non gagnant", "lignes": "21289-21336, 21355-21360, 21438-21439"},
+  {"classe": "fonypcnqmf (marqueurs ligne y=1)", "represente": "progression", "regle": "8 marqueurs de 4 px à x=10+5i ; couleur 14 si i <= level_index, sinon 5 (min(level_index-1, 7))", "lignes": "21312-21314, 21331-21335, 21369"}],
+ "defaite": [{"cause": "epuisement_budget", "condition": "après un clic de bouton qui ne résout pas le niveau, le compteur tombe à 0", "ligne": 21439}],
+ "economie": {"budget_coups": "StepCounter par niveau : 13, 60, 80, 150, 80, 80, 80, 80 ; seuls les clics de bouton coûtent 1 ; le clic gagnant ne décompte pas", "vies": null, "ressources": null, "recharge": "remis au plein au début de chaque niveau seulement", "minuteur": null},
+ "controle": {"actions": ["ACTION6"], "avatar": "aucun", "selection": null, "clic": "clic sur un sprite tagué button_<carte>_<L|R> : rotation d'un cran des sprites sur les cases numérotées de la carte (R : n -> n+1, L : n -> n-1, avec bouclage) ; échelle 3 ; clic ailleurs gratuit et sans effet"},
+ "victoire": "chaque sprite bghvgbtwcb a un sprite tagué 'goal' en (x+1, y+1) et chaque fdgmtkfrxl un 'goal-o' en (x+1, y+1) ; vérifié après chaque clic de bouton",
+ "niveaux": {"nombre": 8, "persiste": "rien ; budget remis au StepCounter du nouveau niveau", "nouveau": "nouvelle grille, nouvelles cartes de permutation, nouveau StepCounter"},
+ "incertain": ["décalage level_index-1 des marqueurs de progression non vérifié à l'exécution", "contenu des cartes de permutation non lu", "avec 13, le 13e clic non gagnant fait perdre"]},
+{"jeu": "sp80",
+ "interface": [
+  {"classe": "sklgkadoxw (ligne y=0, 64 px)", "represente": "budget_coups", "regle": "round(64*restant/max) pixels couleur 14, reste 0 ; chaque action autre que RESET décrémente de 1 en mode 'change' (clics et ACTION5 compris) ; remis à 'steps' dans on_set_level ; lose() à 0", "lignes": "415-436, 557-560, 676-678, 861-867"},
+  {"classe": "ntashmkaxf", "represente": "autre", "regle": "rotation de toute l'image de k*90° (180° aux niveaux 2, 3, 5 : la barre passe en bas) ; flèches et coordonnées de clic remappées", "lignes": "439-451, 564-566, 823-859"}],
+ "defaite": [
+  {"cause": "autre", "condition": "ACTION5 (verser) alors que 4 versements ont déjà échoué dans le niveau (lyremoheq >= 4)", "ligne": 718},
+  {"cause": "epuisement_budget", "condition": "fin de l'animation d'un versement raté avec budget à 0", "ligne": 743},
+  {"cause": "epuisement_budget", "condition": "budget à 0 sur n'importe quelle action en mode 'change'", "ligne": 866}],
+ "economie": {"budget_coups": "'steps' : 30, 45, 100, 120, 100, 120 (50 par défaut) ; 1 par action non-RESET en mode 'change'", "vies": 4, "ressources": "compteur caché lyremoheq des versements ratés, non affiché ; au 5e ACTION5 après 4 échecs : défaite", "recharge": "budget remis au plein au début du niveau seulement ; un versement raté ne le rend pas", "minuteur": null},
+ "controle": {"actions": ["ACTION1", "ACTION2", "ACTION3", "ACTION4", "ACTION5", "ACTION6"], "avatar": "aucun ; ACTION1-4 déplacent la pièce sélectionnée d'une case (refusé si y<3 ou à moins d'une case d'une coupe)", "selection": "plateformes et déflecteurs ; par défaut la pièce la plus proche de l'origine (couleur 9)", "clic": "ACTION6 sur une pièce la sélectionne ; coûte 1"},
+ "victoire": "ACTION5 verse l'eau (sources, émetteurs) ; elle descend, se divise sur les plateformes, tourne sur les déflecteurs ; gagné quand toutes les coupes sont remplies par le centre et que l'eau n'a touché aucun waoewejnqzc",
+ "niveaux": {"nombre": 6, "persiste": "rien ; budget, compteur d'échecs et rotation réinitialisés", "nouveau": "nouveau budget, rotation 0/180°, plusieurs sources, émetteurs, déflecteurs, murs latéraux (5, 6)"},
+ "incertain": ["ligne 678 : lose() puis l'action continue", "pas de coût pendant l'animation de versement", "les 4 essais ratés ne sont pas affichés ; classés « vies » par analogie"]},
+{"jeu": "tr87",
+ "interface": [
+  {"classe": "cjcjtddeyl (dernière ligne, y=63)", "represente": "budget_coups", "regle": "ceil(64*restant/max) pixels couleur 1, reste 4 ; ACTION1-4 décrémentent de 1 ; 128 aux niveaux 1-5, 256 au niveau 6 ; remis au plein dans on_set_level ; lose() à 0", "lignes": "888-898, 967-968, 1003, 1014, 1020-1021"}],
+ "defaite": [{"cause": "epuisement_budget", "condition": "budget à 0 après une action qui n'a pas résolu le niveau", "ligne": 1021}],
+ "economie": {"budget_coups": "128 (niveaux 1-5), 256 (niveau 6) ; 1 par ACTION1-4", "vies": null, "ressources": null, "recharge": "remis au plein au début du niveau seulement", "minuteur": null},
+ "controle": {"actions": ["ACTION1", "ACTION2", "ACTION3", "ACTION4"], "avatar": "aucun ; un curseur sur un élément", "selection": "ACTION3/4 déplacent le curseur (-1/+1, bouclage) sur la rangée réponse, ou sur les moitiés de règles en alter_rules ; ACTION1/2 font passer la forme sélectionnée à la variante précédente/suivante (7 variantes)", "clic": null},
+ "victoire": "la rangée du haut se traduit exactement en la rangée réponse par les règles (paires gauche -> droite), en séquence ; variantes double_translation (4, 6), tree_translation (6), alter_rules (5, 6)",
+ "niveaux": {"nombre": 6, "persiste": "rien ; niveau recloné, budget au plein", "nouveau": "rotations et décalages aléatoires à graines fixes ; règles de traduction de plus en plus composées"},
+ "incertain": ["le coup gagnant décompte aussi 1, mais on gagne même si le budget arrive à 0", "sémantique de double et tree_translation lue rapidement"]},
+{"jeu": "sb26",
+ "interface": [
+  {"classe": "khmhhfucux (ligne y=53)", "represente": "budget_coups", "regle": "énergie de départ 64 ; ceil(64*énergie/64) pixels couleur 2, reste 3 ; ACTION5 (lancer), échange de deux pièces et pose dans une case vide coûtent 1 ; sélection, désélection et ACTION7 (annuler) gratuites ; lose() quand l'énergie vaut 0 à la fin d'un échange ou d'un lancer raté", "lignes": "700-709, 723-724, 890, 1062, 1072, 836-837, 886-887"}],
+ "defaite": [
+  {"cause": "epuisement_budget", "condition": "fin de l'animation d'un lancer raté avec énergie à 0", "ligne": 837},
+  {"cause": "epuisement_budget", "condition": "fin de l'animation d'un échange ou d'une pose avec énergie à 0", "ligne": 887}],
+ "economie": {"budget_coups": "64 d'énergie par niveau, pour tous les niveaux", "vies": null, "ressources": "pièces de couleur et pièces d'appel dans une palette sous la ligne 53, à poser dans les cases des cadres", "recharge": "énergie remise à 64 dans on_set_level seulement ; ACTION7 n'en rend pas", "minuteur": null},
+ "controle": {"actions": ["ACTION5", "ACTION6", "ACTION7"], "avatar": "aucun ; un curseur de programme pendant l'exécution", "selection": "ACTION6 sur une pièce la sélectionne ; reclic = désélection", "clic": "avec une pièce sélectionnée : pose dans une case vide (-1) ou échange avec une autre pièce (-1) ; ACTION7 annule ; ACTION5 lance le programme (-1)"},
+ "victoire": "le programme lit les cases du premier cadre dans l'ordre ; chaque pièce de couleur doit valoir la cible suivante ; une pièce d'appel exécute le cadre de sa couleur puis revient ; gagné quand la dernière cible est remplie",
+ "niveaux": {"nombre": 8, "persiste": "rien ; niveau recloné, énergie à 64", "nouveau": "plus de cadres, de cibles et d'appels"},
+ "incertain": ["un échange qui amène l'énergie à 0 fait perdre aussitôt", "clics hors palette non confirmés", "rejet d'un appel récursif lu rapidement"]}
+]

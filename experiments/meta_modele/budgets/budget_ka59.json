@@ -1,0 +1,308 @@
+{
+ "jeu": "ka59",
+ "niveaux": {
+  "1": {
+   "budget_mesure": 100,
+   "essais": {
+    "UP": {
+     "jeu": [
+      100,
+      "defaite"
+     ],
+     "programme": [
+      100,
+      "defaite"
+     ]
+    },
+    "DOWN": {
+     "jeu": [
+      100,
+      "defaite"
+     ],
+     "programme": [
+      100,
+      "defaite"
+     ]
+    },
+    "LEFT": {
+     "jeu": [
+      100,
+      "defaite"
+     ],
+     "programme": [
+      100,
+      "defaite"
+     ]
+    },
+    "RIGHT": {
+     "jeu": [
+      100,
+      "defaite"
+     ],
+     "programme": [
+      100,
+      "defaite"
+     ]
+    },
+    "MOUSE@0,0": {
+     "jeu": [
+      100,
+      "defaite"
+     ],
+     "programme": [
+      100,
+      "defaite"
+     ]
+    },
+    "MOUSE@32,32": {
+     "jeu": [
+      100,
+      "defaite"
+     ],
+     "programme": [
+      100,
+      "defaite"
+     ]
+    },
+    "MOUSE@63,63": {
+     "jeu": [
+      100,
+      "defaite"
+     ],
+     "programme": [
+      100,
+      "defaite"
+     ]
+    }
+   }
+  },
+  "2": {
+   "budget_mesure": 127,
+   "essais": {
+    "UP": {
+     "jeu": [
+      127,
+      "defaite"
+     ],
+     "programme": [
+      127,
+      "defaite"
+     ]
+    },
+    "DOWN": {
+     "jeu": [
+      127,
+      "defaite"
+     ],
+     "programme": [
+      127,
+      "defaite"
+     ]
+    },
+    "LEFT": {
+     "jeu": [
+      127,
+      "defaite"
+     ],
+     "programme": [
+      127,
+      "defaite"
+     ]
+    },
+    "RIGHT": {
+     "jeu": [
+      127,
+      "defaite"
+     ],
+     "programme": [
+      127,
+      "defaite"
+     ]
+    },
+    "MOUSE@0,0": {
+     "jeu": [
+      127,
+      "defaite"
+     ],
+     "programme": [
+      127,
+      "defaite"
+     ]
+    },
+    "MOUSE@32,32": {
+     "jeu": [
+      127,
+      "defaite"
+     ],
+     "programme": [
+      127,
+      "defaite"
+     ]
+    },
+    "MOUSE@63,63": {
+     "jeu": [
+      127,
+      "defaite"
+     ],
+     "programme": [
+      127,
+      "defaite"
+     ]
+    }
+   }
+  },
+  "3": {
+   "budget_mesure": 100,
+   "essais": {
+    "UP": {
+     "jeu": [
+      100,
+      "defaite"
+     ],
+     "programme": [
+      100,
+      "defaite"
+     ]
+    },
+    "DOWN": {
+     "jeu": [
+      100,
+      "defaite"
+     ],
+     "programme": [
+      100,
+      "defaite"
+     ]
+    },
+    "LEFT": {
+     "jeu": [
+      100,
+      "defaite"
+     ],
+     "programme": [
+      100,
+      "defaite"
+     ]
+    },
+    "RIGHT": {
+     "jeu": [
+      100,
+      "defaite"
+     ],
+     "programme": [
+      100,
+      "defaite"
+     ]
+    },
+    "MOUSE@0,0": {
+     "jeu": [
+      100,
+      "defaite"
+     ],
+     "programme": [
+      100,
+      "defaite"
+     ]
+    },
+    "MOUSE@32,32": {
+     "jeu": [
+      100,
+      "defaite"
+     ],
+     "programme": [
+      100,
+      "defaite"
+     ]
+    },
+    "MOUSE@63,63": {
+     "jeu": [
+      100,
+      "defaite"
+     ],
+     "programme": [
+      100,
+      "defaite"
+     ]
+    }
+   }
+  },
+  "4": {
+   "budget_mesure": 127,
+   "essais": {
+    "UP": {
+     "jeu": [
+      127,
+      "defaite"
+     ],
+     "programme": [
+      127,
+      "defaite"
+     ]
+    },
+    "DOWN": {
+     "jeu": [
+      127,
+      "defaite"
+     ],
+     "programme": [
+      127,
+      "defaite"
+     ]
+    },
+    "LEFT": {
+     "jeu": [
+      127,
+      "defaite"
+     ],
+     "programme": [
+      127,
+      "defaite"
+     ]
+    },
+    "RIGHT": {
+     "jeu": [
+      127,
+      "defaite"
+     ],
+     "programme": [
+      127,
+      "defaite"
+     ]
+    },
+    "MOUSE@0,0": {
+     "jeu": [
+      127,
+      "defaite"
+     ],
+     "programme": [
+      127,
+      "defaite"
+     ]
+    },
+    "MOUSE@32,32": {
+     "jeu": [
+      127,
+      "defaite"
+     ],
+     "programme": [
+      127,
+      "defaite"
+     ]
+    },
+    "MOUSE@63,63": {
+     "jeu": [
+      127,
+      "defaite"
+     ],
+     "programme": [
+      127,
+      "defaite"
+     ]
+    }
+   }
+  },
+  "5": "préfixe absent",
+  "6": "préfixe absent",
+  "7": "préfixe absent"
+ }
+}

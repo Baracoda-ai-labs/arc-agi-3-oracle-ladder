@@ -1,0 +1,102 @@
+{
+ "version": 1,
+ "mecanismes": [
+  {
+   "id": "MEC001",
+   "programme": {
+    "fin_couloir": "demi_tour",
+    "declencheur": "coup_effectif",
+    "effet": "couloir",
+    "reinit": "action5",
+    "delai": 0,
+    "transfo": "id",
+    "destruction": "bloque_et_ecrase",
+    "fin_route": "reste",
+    "route": null,
+    "portee_dalles": true
+   },
+   "statut": "valide",
+   "sources": [
+    "g50t_N6_complet"
+   ],
+   "preuves": [
+    {
+     "nouveaute": [
+      "objet_autonome:couloir",
+      "portee_reinit_etendue_aux_objets",
+      "composition:bloque_et_ecrase(famille destruction/porte)",
+      "occupant_autonome_sur_dalle(declencheur_distant)"
+     ],
+     "n_pred_prospectives": 62,
+     "interventions": [
+      {
+       "step": 15,
+       "action": 5,
+       "refutes": [
+        "obj1-comp069|dalles=False",
+        "obj1-comp069|dalles=True",
+        "obj1-pers005|dalles=False",
+        "obj1-pers005|dalles=True"
+       ]
+      },
+      {
+       "step": 23,
+       "action": 3,
+       "refutes": [
+        "obj1-pers040|dalles=False",
+        "obj1-pers040|dalles=True",
+        "obj1-pers111|dalles=False",
+        "obj1-pers111|dalles=True"
+       ]
+      },
+      {
+       "step": 43,
+       "action": 1,
+       "refutes": [
+        "obj1-comp107|dalles=False"
+       ]
+      },
+      {
+       "step": 46,
+       "action": 3,
+       "refutes": [
+        "obj1-comp107|dalles=False"
+       ]
+      },
+      {
+       "step": 49,
+       "action": 2,
+       "refutes": [
+        "obj1-comp107|dalles=False"
+       ]
+      },
+      {
+       "step": 65,
+       "action": 4,
+       "refutes": [
+        "obj1-comp107|dalles=False"
+       ]
+      }
+     ],
+     "mutations": [
+      "M8:composition(autonome+rail)",
+      "M1:fin_couloir(demi_tour)",
+      "M2:precondition(deplacement_effectif)",
+      "M7:portee(reinit_ACTION5->objet)",
+      "M8:composition(porte=mur+ecrasement)"
+     ],
+     "classe_taille": 1,
+     "n_classes": 1
+    }
+   ],
+   "date": "2026-10-22T08:14:34"
+  }
+ ],
+ "historique": [
+  {
+   "version": 1,
+   "quoi": "ajout",
+   "date": "08:14:34"
+  }
+ ]
+}

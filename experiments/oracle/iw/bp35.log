@@ -1,0 +1,9 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-23 10:53:46 | INFO | Created new scorecard: 9aebe72e-3491-4e87-a601-8c6789856ef2
+2026-10-23 10:53:46 | INFO | Found latest version of bp35: bp35-0a0ad940 (downloaded: 2026-09-30 05:48:18.671230+00:00)
+2026-10-23 10:53:46 | INFO | Successfully loaded game class Bp35 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/bp35/0a0ad940/bp35.py
+bp35 1 iw1 {'gagne': None, 'raison': 'budget épuisé', 'plan': None, 'noeuds': 341996, 'etats': 14868, 'secondes': 600.2}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-23 11:03:46 | INFO | Created new scorecard: 5b3931f2-d9b5-47c2-832a-4ffb67884d87
+2026-10-23 11:03:46 | INFO | Found latest version of bp35: bp35-0a0ad940 (downloaded: 2026-09-30 05:48:18.671230+00:00)
+bp35 1 iw2 {'gagne': None, 'raison': 'budget épuisé', 'plan': None, 'noeuds': 551787, 'etats': 23408, 'secondes': 600.1}

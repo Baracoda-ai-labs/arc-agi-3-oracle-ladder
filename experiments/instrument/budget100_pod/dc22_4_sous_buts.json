@@ -1,0 +1,12 @@
+{
+ "jeu": "dc22",
+ "niveau": 4,
+ "bras": "sous_buts",
+ "budget_s": 30000.0,
+ "memoire_go": 8.0,
+ "backend": "1",
+ "prefixe": "prefixes_r0.json",
+ "raison": "mémoire",
+ "t_arret": 20567.3,
+ "memoire_max_go": 8.0
+}

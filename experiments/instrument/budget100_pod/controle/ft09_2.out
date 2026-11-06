@@ -1,0 +1,8 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 17:35:12 | INFO | Created new scorecard: e93b3ba8-3a0e-42fe-8a96-a64654236d82
+2026-10-20 17:35:12 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+2026-10-20 17:35:12 | INFO | Successfully loaded game class Ft09 from /workspace/chrysalide3/experiments/arc3/environment_files/ft09/0d8bbf25/ft09.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 17:35:26 | INFO | Created new scorecard: 323729a8-fb50-406a-8f30-889fd7395362
+2026-10-20 17:35:26 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+{"jeu": "ft09", "niveau": 2, "bras": "profondeur", "budget_s": 300.0, "memoire_go": 4.0, "backend": "1", "prefixe": "plafonds.prefixe", "gagne": true, "plan": 16, "noeuds": 39086, "etats": null, "raison": null, "profondeur": null, "table": null, "t_victoire": 16.0, "duree_s": 16.0, "memoire_max_go": 0.11}

@@ -1,0 +1,841 @@
+[début] ref ar25 N1 15:22:31
+[début] G ar25 N1 15:22:31
+[début] ref ar25 N2 15:22:31
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:22:31 | INFO | Created new scorecard: 42961a6d-8b69-40e0-ae62-8329c326eb78
+2026-10-20 15:22:31 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+2026-10-20 15:22:31 | INFO | Created new scorecard: e0532d66-7368-448f-8c2d-45567d938e6d
+2026-10-20 15:22:31 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+2026-10-20 15:22:31 | INFO | Successfully loaded game class Ar25 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ar25/0c556536/ar25.py
+2026-10-20 15:22:31 | INFO | Successfully loaded game class Ar25 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ar25/0c556536/ar25.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:22:31 | INFO | Created new scorecard: 09163783-9f56-4a41-bb3d-93d1d8b4ec63
+2026-10-20 15:22:31 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+2026-10-20 15:22:31 | INFO | Successfully loaded game class Ar25 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ar25/0c556536/ar25.py
+[fin] G ar25 N1 cpu 6.9 mural 10.0
+{"bras": "G", "jeu": "ar25", "niveau": 1, "gagne": null, "noeuds": 20009, "etats": 6179, "cpu": 6.9, "raison": "budget épuisé"}
+[début] G ar25 N2 15:22:41
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:22:41 | INFO | Created new scorecard: a244b8a4-59c8-4165-b251-c252c5673459
+2026-10-20 15:22:41 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+[fin] ref ar25 N2 cpu 7.8 mural 11.7
+[début] ref ar25 N3 15:22:42
+{"bras": "ref", "jeu": "ar25", "niveau": 2, "gagne": null, "noeuds": 20031, "etats": 2730, "cpu": 7.8, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:22:42 | INFO | Created new scorecard: 42290946-7dc7-423f-8bfb-16b30f8ec63a
+2026-10-20 15:22:42 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+[fin] ref ar25 N1 cpu 10.3 mural 16.8
+{"bras": "ref", "jeu": "ar25", "niveau": 1, "gagne": null, "noeuds": 20009, "etats": 6179, "cpu": 10.3, "raison": "budget épuisé"}
+[début] G ar25 N3 15:22:47
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:22:47 | INFO | Created new scorecard: a889bab1-21f7-46f9-9249-5192c9d339ba
+2026-10-20 15:22:47 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+[fin] G ar25 N2 cpu 5.1 mural 10.9
+{"bras": "G", "jeu": "ar25", "niveau": 2, "gagne": null, "noeuds": 20031, "etats": 2730, "cpu": 5.1, "raison": "budget épuisé"}
+[début] ref bp35 N1 15:22:51
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:22:51 | INFO | Created new scorecard: bb62ff2d-bcf9-46dd-94ce-92dc9dbba6f1
+2026-10-20 15:22:51 | INFO | Found latest version of bp35: bp35-0a0ad940 (downloaded: 2026-09-30 05:48:18.671230+00:00)
+2026-10-20 15:22:52 | INFO | Successfully loaded game class Bp35 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/bp35/0a0ad940/bp35.py
+[fin] G ar25 N3 cpu 47.7 mural 96.1
+{"bras": "G", "jeu": "ar25", "niveau": 3, "gagne": null, "noeuds": 20016, "etats": 3875, "cpu": 47.7, "raison": "budget épuisé"}
+[début] G bp35 N1 15:24:23
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:24:23 | INFO | Created new scorecard: 9cb79c53-d638-4da4-999d-8efb8dfb07e9
+2026-10-20 15:24:23 | INFO | Found latest version of bp35: bp35-0a0ad940 (downloaded: 2026-09-30 05:48:18.671230+00:00)
+2026-10-20 15:24:24 | INFO | Successfully loaded game class Bp35 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/bp35/0a0ad940/bp35.py
+[fin] ref bp35 N1 cpu 73.9 mural 145.5
+{"bras": "ref", "jeu": "bp35", "niveau": 1, "gagne": null, "noeuds": 20072, "etats": 927, "cpu": 73.9, "raison": "budget épuisé"}
+[début] ref bp35 N2 15:25:17
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:25:17 | INFO | Created new scorecard: e26484e5-326c-4d49-84be-706eedb65394
+2026-10-20 15:25:17 | INFO | Found latest version of bp35: bp35-0a0ad940 (downloaded: 2026-09-30 05:48:18.671230+00:00)
+[fin] ref ar25 N3 cpu 85.1 mural 167.1
+{"bras": "ref", "jeu": "ar25", "niveau": 3, "gagne": null, "noeuds": 20016, "etats": 3875, "cpu": 85.1, "raison": "budget épuisé"}
+[début] G bp35 N2 15:25:29
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:25:30 | INFO | Created new scorecard: 5fa1ef5f-6b94-416c-a89e-949bd29f93c5
+2026-10-20 15:25:30 | INFO | Found latest version of bp35: bp35-0a0ad940 (downloaded: 2026-09-30 05:48:18.671230+00:00)
+2026-10-20 15:25:30 | INFO | Successfully loaded game class Bp35 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/bp35/0a0ad940/bp35.py
+[fin] G bp35 N1 cpu 40.1 mural 84.3
+{"bras": "G", "jeu": "bp35", "niveau": 1, "gagne": null, "noeuds": 20072, "etats": 927, "cpu": 40.1, "raison": "budget épuisé"}
+[début] ref bp35 N3 15:25:48
+[fin] ref bp35 N3 cpu 0.0 mural 0.0
+{"bras": "ref", "jeu": "bp35", "niveau": 3, "gagne": null, "noeuds": null, "etats": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+[début] G bp35 N3 15:25:48
+[fin] G bp35 N3 cpu 0.0 mural 0.0
+{"bras": "G", "jeu": "bp35", "niveau": 3, "gagne": null, "noeuds": null, "etats": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+[début] ref cd82 N1 15:25:48
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:25:48 | INFO | Created new scorecard: c1b1d912-de30-47f6-8dd2-e0269647ab01
+2026-10-20 15:25:48 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+2026-10-20 15:25:48 | INFO | Successfully loaded game class Cd82 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/cd82/fb555c5d/cd82.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:25:48 | INFO | Created new scorecard: 68c7499b-cc04-4808-960c-8ba14e2f2a1e
+2026-10-20 15:25:48 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+[fin] ref cd82 N1 cpu 0.2 mural 0.3
+{"bras": "ref", "jeu": "cd82", "niveau": 1, "gagne": true, "noeuds": 743, "etats": 87, "cpu": 0.2, "raison": null}
+[début] G cd82 N1 15:25:48
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:25:48 | INFO | Created new scorecard: 48df59dd-e6c9-4bed-a8e6-27fc2cd37e1b
+2026-10-20 15:25:48 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:25:49 | INFO | Created new scorecard: c8d4ecf1-32a0-486c-9638-19311ad23b20
+2026-10-20 15:25:49 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+[fin] G cd82 N1 cpu 0.1 mural 0.4
+{"bras": "G", "jeu": "cd82", "niveau": 1, "gagne": true, "noeuds": 743, "etats": 87, "cpu": 0.1, "raison": null}
+[début] ref cd82 N2 15:25:49
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:25:49 | INFO | Created new scorecard: 2bc8353b-b743-45ed-b456-63301ae095d4
+2026-10-20 15:25:49 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:25:51 | INFO | Created new scorecard: 68345a34-6146-4495-9835-1c1c25d03593
+2026-10-20 15:25:51 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+[fin] ref cd82 N2 cpu 1.4 mural 3.1
+{"bras": "ref", "jeu": "cd82", "niveau": 2, "gagne": true, "noeuds": 6284, "etats": 634, "cpu": 1.4, "raison": null}
+[début] G cd82 N2 15:25:52
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:25:52 | INFO | Created new scorecard: 98510121-c113-4096-a347-5d4a606837ff
+2026-10-20 15:25:52 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:25:54 | INFO | Created new scorecard: be1e4438-3ea9-4572-9925-7d2040b7fc3d
+2026-10-20 15:25:54 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+[fin] G cd82 N2 cpu 1.1 mural 2.9
+{"bras": "G", "jeu": "cd82", "niveau": 2, "gagne": true, "noeuds": 6284, "etats": 634, "cpu": 1.1, "raison": null}
+[début] ref cd82 N3 15:25:55
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:25:55 | INFO | Created new scorecard: 248e8517-0b7c-48e3-bae0-9020b37dd5aa
+2026-10-20 15:25:55 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+[fin] ref cd82 N3 cpu 4.2 mural 9.1
+{"bras": "ref", "jeu": "cd82", "niveau": 3, "gagne": null, "noeuds": 20026, "etats": 1517, "cpu": 4.2, "raison": "budget épuisé"}
+[début] G cd82 N3 15:26:04
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:26:04 | INFO | Created new scorecard: 972c6942-9084-486b-a202-b086f427521d
+2026-10-20 15:26:04 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+[fin] G cd82 N3 cpu 2.5 mural 4.1
+{"bras": "G", "jeu": "cd82", "niveau": 3, "gagne": null, "noeuds": 20026, "etats": 1517, "cpu": 2.5, "raison": "budget épuisé"}
+[début] ref dc22 N1 15:26:08
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:26:08 | INFO | Created new scorecard: ca7c162c-395e-48ba-b0c6-4297694a1530
+2026-10-20 15:26:08 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+2026-10-20 15:26:08 | INFO | Successfully loaded game class Dc22 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/dc22/fdcac232/dc22.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:26:08 | INFO | Created new scorecard: ad10ce08-c11c-4e12-baa1-ef64205a65f4
+2026-10-20 15:26:08 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+[fin] ref dc22 N1 cpu 0.4 mural 0.6
+{"bras": "ref", "jeu": "dc22", "niveau": 1, "gagne": true, "noeuds": 1018, "etats": 76, "cpu": 0.4, "raison": null}
+[début] G dc22 N1 15:26:08
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:26:08 | INFO | Created new scorecard: 9d2940c1-2615-45f2-8588-a20f5ea1caaf
+2026-10-20 15:26:08 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:26:09 | INFO | Created new scorecard: bba85764-71c7-488f-9189-b406c4141c77
+2026-10-20 15:26:09 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+[fin] G dc22 N1 cpu 0.3 mural 0.4
+{"bras": "G", "jeu": "dc22", "niveau": 1, "gagne": true, "noeuds": 1018, "etats": 76, "cpu": 0.3, "raison": null}
+[début] ref dc22 N2 15:26:09
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:26:09 | INFO | Created new scorecard: 47e38732-2b40-4a92-839c-8e84183b84c4
+2026-10-20 15:26:09 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:26:16 | INFO | Created new scorecard: 3941a18b-055e-4f25-88ef-52f7889b31eb
+2026-10-20 15:26:16 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+[fin] ref dc22 N2 cpu 5.8 mural 7.8
+{"bras": "ref", "jeu": "dc22", "niveau": 2, "gagne": true, "noeuds": 14139, "etats": 339, "cpu": 5.8, "raison": null}
+[début] G dc22 N2 15:26:17
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:26:17 | INFO | Created new scorecard: 4f363be8-9659-4b05-8e03-3cfbb8fb4ea0
+2026-10-20 15:26:17 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:26:24 | INFO | Created new scorecard: 76244d9c-a955-4433-ab54-2838c78fd435
+2026-10-20 15:26:24 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+[fin] G dc22 N2 cpu 5.4 mural 7.5
+{"bras": "G", "jeu": "dc22", "niveau": 2, "gagne": true, "noeuds": 14139, "etats": 339, "cpu": 5.4, "raison": null}
+[début] ref dc22 N3 15:26:24
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:26:24 | INFO | Created new scorecard: 24d78737-1975-42ad-9e4e-e06d95fae786
+2026-10-20 15:26:24 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+[fin] ref dc22 N3 cpu 12.2 mural 18.1
+{"bras": "ref", "jeu": "dc22", "niveau": 3, "gagne": null, "noeuds": 20072, "etats": 205, "cpu": 12.2, "raison": "budget épuisé"}
+[début] G dc22 N3 15:26:42
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:26:42 | INFO | Created new scorecard: 2aff339c-8dfb-4f95-a25e-326c4bdd3977
+2026-10-20 15:26:42 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+[fin] G dc22 N3 cpu 10.7 mural 16.8
+{"bras": "G", "jeu": "dc22", "niveau": 3, "gagne": null, "noeuds": 20072, "etats": 205, "cpu": 10.7, "raison": "budget épuisé"}
+[début] ref ft09 N1 15:26:59
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:26:59 | INFO | Created new scorecard: 899cbbf4-89bb-428c-bcb3-366a42e2a951
+2026-10-20 15:26:59 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+2026-10-20 15:26:59 | INFO | Successfully loaded game class Ft09 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ft09/0d8bbf25/ft09.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:27:00 | INFO | Created new scorecard: 2494a8c0-7c38-4da1-940b-120703ba37c7
+2026-10-20 15:27:00 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+[fin] ref ft09 N1 cpu 0.6 mural 1.1
+{"bras": "ref", "jeu": "ft09", "niveau": 1, "gagne": true, "noeuds": 3195, "etats": 119, "cpu": 0.6, "raison": null}
+[début] G ft09 N1 15:27:00
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:27:00 | INFO | Created new scorecard: 3e2008c1-6107-40a6-b0ec-a02e79951501
+2026-10-20 15:27:00 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:27:01 | INFO | Created new scorecard: 911d3803-a4f2-4d7e-93be-f43af608e5c3
+2026-10-20 15:27:01 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+[fin] G ft09 N1 cpu 0.5 mural 1.2
+{"bras": "G", "jeu": "ft09", "niveau": 1, "gagne": true, "noeuds": 3195, "etats": 119, "cpu": 0.5, "raison": null}
+[début] ref ft09 N2 15:27:01
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:27:01 | INFO | Created new scorecard: 9934b817-e0ee-4020-aa6d-ba3b7a24f275
+2026-10-20 15:27:01 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+[fin] G bp35 N2 cpu 53.3 mural 96.7
+{"bras": "G", "jeu": "bp35", "niveau": 2, "gagne": null, "noeuds": 20114, "etats": 1434, "cpu": 53.3, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:27:06 | INFO | Created new scorecard: 1eb9196c-ef60-424b-9ff2-e47062847022
+2026-10-20 15:27:06 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+[fin] ref ft09 N2 cpu 3.0 mural 4.8
+{"bras": "ref", "jeu": "ft09", "niveau": 2, "gagne": true, "noeuds": 9530, "etats": 1108, "cpu": 3.0, "raison": null}
+[début] ref ft09 N3 15:27:06
+[début] G ft09 N2 15:27:06
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:27:06 | INFO | Created new scorecard: 1bd65f71-15c4-4207-8e0b-483529693fcc
+2026-10-20 15:27:06 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:27:06 | INFO | Created new scorecard: b620ab80-1beb-4030-9477-765975dea488
+2026-10-20 15:27:06 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+2026-10-20 15:27:06 | INFO | Successfully loaded game class Ft09 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ft09/0d8bbf25/ft09.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:27:10 | INFO | Created new scorecard: 04b9377e-8098-4f17-8f22-6d006271c29e
+2026-10-20 15:27:10 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+[fin] G ft09 N2 cpu 2.3 mural 3.3
+{"bras": "G", "jeu": "ft09", "niveau": 2, "gagne": true, "noeuds": 9530, "etats": 1108, "cpu": 2.3, "raison": null}
+[début] G ft09 N3 15:27:10
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:27:10 | INFO | Created new scorecard: c5f5c48e-f276-4fc1-86cf-8184dad0ebba
+2026-10-20 15:27:10 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+[fin] G ft09 N3 cpu 8.4 mural 11.5
+{"bras": "G", "jeu": "ft09", "niveau": 3, "gagne": null, "noeuds": 20000, "etats": 3128, "cpu": 8.4, "raison": "budget épuisé"}
+[début] ref g50t N1 15:27:21
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:27:21 | INFO | Created new scorecard: 73002415-c6a0-4526-9efe-4f5279dff355
+2026-10-20 15:27:21 | INFO | Found latest version of g50t: g50t-5849a774 (downloaded: 2026-09-30 05:48:19.053741+00:00)
+2026-10-20 15:27:21 | INFO | Successfully loaded game class G50t from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/g50t/5849a774/g50t.py
+[fin] ref ft09 N3 cpu 11.6 mural 18.0
+{"bras": "ref", "jeu": "ft09", "niveau": 3, "gagne": null, "noeuds": 20000, "etats": 3128, "cpu": 11.6, "raison": "budget épuisé"}
+[début] G g50t N1 15:27:24
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:27:24 | INFO | Created new scorecard: a74d3576-e3b9-4565-8499-95ca4b188197
+2026-10-20 15:27:24 | INFO | Found latest version of g50t: g50t-5849a774 (downloaded: 2026-09-30 05:48:19.053741+00:00)
+2026-10-20 15:27:24 | INFO | Successfully loaded game class G50t from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/g50t/5849a774/g50t.py
+[fin] ref g50t N1 cpu 6.7 mural 10.3
+[début] ref g50t N2 15:27:31
+{"bras": "ref", "jeu": "g50t", "niveau": 1, "gagne": null, "noeuds": 20000, "etats": 11298, "cpu": 6.7, "raison": "budget épuisé"}
+[fin] ref g50t N2 cpu 0.0 mural 0.0
+{"bras": "ref", "jeu": "g50t", "niveau": 2, "gagne": null, "noeuds": null, "etats": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+[début] G g50t N2 15:27:31
+[fin] G g50t N2 cpu 0.0 mural 0.0
+[début] ref g50t N3 15:27:31
+{"bras": "G", "jeu": "g50t", "niveau": 2, "gagne": null, "noeuds": null, "etats": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+[fin] ref g50t N3 cpu 0.0 mural 0.0
+{"bras": "ref", "jeu": "g50t", "niveau": 3, "gagne": null, "noeuds": null, "etats": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+[début] G g50t N3 15:27:31
+[fin] G g50t N3 cpu 0.0 mural 0.0
+{"bras": "G", "jeu": "g50t", "niveau": 3, "gagne": null, "noeuds": null, "etats": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+[début] ref ka59 N1 15:27:31
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:27:31 | INFO | Created new scorecard: 9c59d1cc-0e8e-42ff-a983-e67077e3303d
+2026-10-20 15:27:31 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+2026-10-20 15:27:32 | INFO | Successfully loaded game class Ka59 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ka59/38d34dbb/ka59.py
+[fin] G g50t N1 cpu 5.4 mural 7.9
+{"bras": "G", "jeu": "g50t", "niveau": 1, "gagne": null, "noeuds": 20000, "etats": 11298, "cpu": 5.4, "raison": "budget épuisé"}
+[début] G ka59 N1 15:27:32
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:27:32 | INFO | Created new scorecard: 47c5b4a7-b272-4f2c-abf5-09c23dfcc9a6
+2026-10-20 15:27:32 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+2026-10-20 15:27:32 | INFO | Successfully loaded game class Ka59 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ka59/38d34dbb/ka59.py
+[fin] G ka59 N1 cpu 1.8 mural 2.5
+{"bras": "G", "jeu": "ka59", "niveau": 1, "gagne": null, "noeuds": 20009, "etats": 2146, "cpu": 1.8, "raison": "budget épuisé"}
+[début] ref ka59 N2 15:27:35
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:27:35 | INFO | Created new scorecard: 7ace56ca-62ba-47f9-83bc-6d7f9cddfb3a
+2026-10-20 15:27:35 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+[fin] ref ka59 N1 cpu 2.8 mural 3.8
+{"bras": "ref", "jeu": "ka59", "niveau": 1, "gagne": null, "noeuds": 20009, "etats": 2146, "cpu": 2.8, "raison": "budget épuisé"}
+[début] G ka59 N2 15:27:35
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:27:35 | INFO | Created new scorecard: c4b91fd4-1f3e-427f-bf82-756376eada1f
+2026-10-20 15:27:35 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+[fin] G ka59 N2 cpu 3.6 mural 7.8
+{"bras": "G", "jeu": "ka59", "niveau": 2, "gagne": null, "noeuds": 20000, "etats": 4385, "cpu": 3.6, "raison": "budget épuisé"}
+[début] ref ka59 N3 15:27:43
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:27:43 | INFO | Created new scorecard: 53b53711-28d9-4b0a-a12a-21808762506f
+2026-10-20 15:27:43 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+[fin] ref ka59 N3 cpu 2.8 mural 5.4
+{"bras": "ref", "jeu": "ka59", "niveau": 3, "gagne": null, "noeuds": 20007, "etats": 2139, "cpu": 2.8, "raison": "budget épuisé"}
+[début] G ka59 N3 15:27:48
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:27:49 | INFO | Created new scorecard: 7e14267d-e97c-4b22-8767-05f3a7acc9fe
+2026-10-20 15:27:49 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+[fin] ref ka59 N2 cpu 5.9 mural 16.8
+{"bras": "ref", "jeu": "ka59", "niveau": 2, "gagne": null, "noeuds": 20000, "etats": 4385, "cpu": 5.9, "raison": "budget épuisé"}
+[début] ref lf52 N1 15:27:51
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:27:51 | INFO | Created new scorecard: 2165b1e6-f824-4605-b210-8817fad5a04f
+2026-10-20 15:27:51 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+2026-10-20 15:27:52 | INFO | Successfully loaded game class Lf52 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/lf52/271a04aa/lf52.py
+[fin] G ka59 N3 cpu 2.6 mural 7.3
+[début] G lf52 N1 15:27:56
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+{"bras": "G", "jeu": "ka59", "niveau": 3, "gagne": null, "noeuds": 20007, "etats": 2139, "cpu": 2.6, "raison": "budget épuisé"}
+2026-10-20 15:27:56 | INFO | Created new scorecard: b3da12cf-9e71-4942-a6c3-2a97e3872dfa
+2026-10-20 15:27:56 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+2026-10-20 15:27:56 | INFO | Successfully loaded game class Lf52 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/lf52/271a04aa/lf52.py
+[fin] ref bp35 N2 cpu 95.4 mural 168.2
+{"bras": "ref", "jeu": "bp35", "niveau": 2, "gagne": null, "noeuds": 20114, "etats": 1434, "cpu": 95.4, "raison": "budget épuisé"}
+[début] ref lf52 N2 15:28:05
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:28:06 | INFO | Created new scorecard: 666d2ce9-8b4d-4e37-826d-4d20c440912b
+2026-10-20 15:28:06 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+2026-10-20 15:28:06 | INFO | Successfully loaded game class Lf52 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/lf52/271a04aa/lf52.py
+[fin] G lf52 N1 cpu 12.0 mural 26.6
+{"bras": "G", "jeu": "lf52", "niveau": 1, "gagne": null, "noeuds": 20034, "etats": 1337, "cpu": 12.0, "raison": "budget épuisé"}
+[début] G lf52 N2 15:28:22
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:28:22 | INFO | Created new scorecard: 9bd25512-b3de-4479-a828-dd1c9f330d00
+2026-10-20 15:28:22 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+[fin] ref lf52 N1 cpu 19.4 mural 43.3
+[début] ref lf52 N3 15:28:35
+{"bras": "ref", "jeu": "lf52", "niveau": 1, "gagne": null, "noeuds": 20034, "etats": 1337, "cpu": 19.4, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:28:35 | INFO | Created new scorecard: a4f6aa16-15a2-47c9-a99d-910ba92bbcb9
+2026-10-20 15:28:35 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+[fin] ref lf52 N2 cpu 19.8 mural 49.2
+{"bras": "ref", "jeu": "lf52", "niveau": 2, "gagne": null, "noeuds": 20008, "etats": 1918, "cpu": 19.8, "raison": "budget épuisé"}
+[début] G lf52 N3 15:28:55
+[fin] G lf52 N2 cpu 12.4 mural 32.9
+{"bras": "G", "jeu": "lf52", "niveau": 2, "gagne": null, "noeuds": 20008, "etats": 1918, "cpu": 12.4, "raison": "budget épuisé"}
+[début] ref lp85 N1 15:28:55
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:28:55 | INFO | Created new scorecard: f198888a-711f-457a-9afb-7c78c8cfb3fb
+2026-10-20 15:28:55 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+2026-10-20 15:28:55 | INFO | Successfully loaded game class Lp85 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/lp85/305b61c3/lp85.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:28:55 | INFO | Created new scorecard: ef866d5e-57cb-457f-909b-6ea5cd6fe696
+2026-10-20 15:28:55 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:28:56 | INFO | Created new scorecard: 623fd26b-0c65-4edc-a35c-d9a6a038158f
+2026-10-20 15:28:56 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+[fin] ref lp85 N1 cpu 0.2 mural 0.4
+{"bras": "ref", "jeu": "lp85", "niveau": 1, "gagne": true, "noeuds": 431, "etats": 16, "cpu": 0.2, "raison": null}
+[début] G lp85 N1 15:28:56
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:28:56 | INFO | Created new scorecard: 3ca661e2-1030-4966-a891-8359a0c682a8
+2026-10-20 15:28:56 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:28:56 | INFO | Created new scorecard: 3a0edea7-e0d9-43ff-b570-8638934290a4
+2026-10-20 15:28:56 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+[fin] G lp85 N1 cpu 0.1 mural 0.2
+{"bras": "G", "jeu": "lp85", "niveau": 1, "gagne": true, "noeuds": 431, "etats": 16, "cpu": 0.1, "raison": null}
+[début] ref lp85 N2 15:28:56
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:28:56 | INFO | Created new scorecard: 24629028-3429-4cc6-bc6f-c71c67e18cd9
+2026-10-20 15:28:56 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+[fin] ref lp85 N2 cpu 7.5 mural 16.8
+{"bras": "ref", "jeu": "lp85", "niveau": 2, "gagne": null, "noeuds": 20054, "etats": 1317, "cpu": 7.5, "raison": "budget épuisé"}
+[début] G lp85 N2 15:29:13
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:29:13 | INFO | Created new scorecard: a1296b9b-dbac-4ba0-b5cd-f6c1f1a4e3dd
+2026-10-20 15:29:13 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+[fin] G lp85 N2 cpu 5.4 mural 12.8
+{"bras": "G", "jeu": "lp85", "niveau": 2, "gagne": null, "noeuds": 20054, "etats": 1317, "cpu": 5.4, "raison": "budget épuisé"}
+[début] ref lp85 N3 15:29:25
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:29:26 | INFO | Created new scorecard: da7a7c52-3202-4d94-9032-73fe5566d413
+2026-10-20 15:29:26 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+[fin] G lf52 N3 cpu 16.8 mural 39.1
+{"bras": "G", "jeu": "lf52", "niveau": 3, "gagne": null, "noeuds": 20007, "etats": 1387, "cpu": 16.8, "raison": "budget épuisé"}
+[début] G lp85 N3 15:29:34
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:29:34 | INFO | Created new scorecard: 7216722b-8212-4d81-b8a4-3a950d3923e6
+2026-10-20 15:29:34 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+2026-10-20 15:29:34 | INFO | Successfully loaded game class Lp85 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/lp85/305b61c3/lp85.py
+[fin] ref lp85 N3 cpu 5.0 mural 11.5
+{"bras": "ref", "jeu": "lp85", "niveau": 3, "gagne": null, "noeuds": 20048, "etats": 1079, "cpu": 5.0, "raison": "budget épuisé"}
+[début] ref ls20 N1 15:29:37
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:29:37 | INFO | Created new scorecard: dc31144e-de3b-4a28-991f-fc160ac90194
+2026-10-20 15:29:37 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+2026-10-20 15:29:37 | INFO | Successfully loaded game class Ls20 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ls20/9607627b/ls20.py
+[fin] G lp85 N3 cpu 3.4 mural 8.4
+{"bras": "G", "jeu": "lp85", "niveau": 3, "gagne": null, "noeuds": 20048, "etats": 1079, "cpu": 3.4, "raison": "budget épuisé"}
+[début] G ls20 N1 15:29:42
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:29:42 | INFO | Created new scorecard: f7825473-e2e8-4769-a75a-e3b9f807aa8b
+2026-10-20 15:29:42 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+2026-10-20 15:29:42 | INFO | Successfully loaded game class Ls20 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ls20/9607627b/ls20.py
+[fin] ref lf52 N3 cpu 27.9 mural 68.9
+{"bras": "ref", "jeu": "lf52", "niveau": 3, "gagne": null, "noeuds": 20007, "etats": 1387, "cpu": 27.9, "raison": "budget épuisé"}
+[début] ref ls20 N2 15:29:44
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:29:44 | INFO | Created new scorecard: a4ec291e-cd77-4ecd-a8c9-f1c000040b83
+2026-10-20 15:29:44 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+2026-10-20 15:29:44 | INFO | Successfully loaded game class Ls20 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ls20/9607627b/ls20.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:29:47 | INFO | Created new scorecard: c5655ecb-bb3b-4e94-bf84-e2c8d93d339e
+2026-10-20 15:29:47 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+[fin] ref ls20 N1 cpu 4.2 mural 10.4
+{"bras": "ref", "jeu": "ls20", "niveau": 1, "gagne": true, "noeuds": 3377, "etats": 1038, "cpu": 4.2, "raison": null}
+[début] G ls20 N2 15:29:47
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:29:48 | INFO | Created new scorecard: 8a90a3f4-606b-469c-8f69-128768340bb9
+2026-10-20 15:29:48 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:29:49 | INFO | Created new scorecard: eb8b0582-6fdb-4e5e-8c24-44dfd72e509f
+2026-10-20 15:29:49 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+[fin] G ls20 N1 cpu 3.0 mural 7.0
+{"bras": "G", "jeu": "ls20", "niveau": 1, "gagne": true, "noeuds": 3377, "etats": 1038, "cpu": 3.0, "raison": null}
+[début] ref ls20 N3 15:29:49
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:29:50 | INFO | Created new scorecard: ce60e1b4-e776-4eb5-9471-3c31ce551d01
+2026-10-20 15:29:50 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+[fin] G ls20 N2 cpu 14.5 mural 33.9
+{"bras": "G", "jeu": "ls20", "niveau": 2, "gagne": null, "noeuds": 20000, "etats": 5628, "cpu": 14.5, "raison": "budget épuisé"}
+[début] G ls20 N3 15:30:21
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:30:22 | INFO | Created new scorecard: afee7e27-5e74-4d68-8fa4-f3aa075602ba
+2026-10-20 15:30:22 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+[fin] ref ls20 N3 cpu 20.7 mural 48.2
+{"bras": "ref", "jeu": "ls20", "niveau": 3, "gagne": null, "noeuds": 20000, "etats": 5959, "cpu": 20.7, "raison": "budget épuisé"}
+[début] ref m0r0 N1 15:30:38
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:30:38 | INFO | Created new scorecard: bc1fbacf-3120-4d2b-851d-e9d8088d4de5
+2026-10-20 15:30:38 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+2026-10-20 15:30:38 | INFO | Successfully loaded game class M0r0 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/m0r0/492f87ba/m0r0.py
+[fin] ref ls20 N2 cpu 23.6 mural 55.6
+{"bras": "ref", "jeu": "ls20", "niveau": 2, "gagne": null, "noeuds": 20000, "etats": 5628, "cpu": 23.6, "raison": "budget épuisé"}
+[début] G m0r0 N1 15:30:39
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:30:39 | INFO | Created new scorecard: 3277d14d-c783-4133-ad94-62417356a1de
+2026-10-20 15:30:39 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+2026-10-20 15:30:39 | INFO | Successfully loaded game class M0r0 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/m0r0/492f87ba/m0r0.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:30:42 | INFO | Created new scorecard: c80261c6-2d75-4fbb-8fb2-4e0ebb207d61
+2026-10-20 15:30:42 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+[fin] ref m0r0 N1 cpu 1.6 mural 4.2
+{"bras": "ref", "jeu": "m0r0", "niveau": 1, "gagne": true, "noeuds": 18166, "etats": 2362, "cpu": 1.6, "raison": null}
+[début] ref m0r0 N2 15:30:42
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:30:42 | INFO | Created new scorecard: 7822fa45-3e20-4680-accb-865aae72d2bc
+2026-10-20 15:30:42 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:30:42 | INFO | Created new scorecard: 5b2af39b-58fa-44fb-9cc9-b43f15b7a793
+2026-10-20 15:30:42 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+[fin] G m0r0 N1 cpu 1.1 mural 3.0
+{"bras": "G", "jeu": "m0r0", "niveau": 1, "gagne": true, "noeuds": 18166, "etats": 2362, "cpu": 1.1, "raison": null}
+[début] G m0r0 N2 15:30:42
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:30:42 | INFO | Created new scorecard: cabd95ba-960b-4646-b2e5-42ee5308a191
+2026-10-20 15:30:42 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+[fin] G m0r0 N2 cpu 3.4 mural 8.6
+{"bras": "G", "jeu": "m0r0", "niveau": 2, "gagne": null, "noeuds": 20181, "etats": 110, "cpu": 3.4, "raison": "budget épuisé"}
+[début] ref m0r0 N3 15:30:51
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:30:51 | INFO | Created new scorecard: a5397d7a-7a1e-4ee4-be6a-04f3e2630eca
+2026-10-20 15:30:51 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+[fin] ref m0r0 N2 cpu 4.2 mural 10.8
+[début] G m0r0 N3 15:30:53
+{"bras": "ref", "jeu": "m0r0", "niveau": 2, "gagne": null, "noeuds": 20181, "etats": 110, "cpu": 4.2, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:30:53 | INFO | Created new scorecard: 6e16d9b7-1f4c-467f-8e94-a8b3becd5dbb
+2026-10-20 15:30:53 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+[fin] ref m0r0 N3 cpu 2.1 mural 5.1
+{"bras": "ref", "jeu": "m0r0", "niveau": 3, "gagne": null, "noeuds": 20006, "etats": 3824, "cpu": 2.1, "raison": "budget épuisé"}
+[début] ref r11l N1 15:30:56
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:30:56 | INFO | Created new scorecard: fedfa92a-c3f7-4ea4-bcd9-a8a6ce7bc922
+2026-10-20 15:30:56 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+[fin] G m0r0 N3 cpu 1.5 mural 3.7
+{"bras": "G", "jeu": "m0r0", "niveau": 3, "gagne": null, "noeuds": 20006, "etats": 3824, "cpu": 1.5, "raison": "budget épuisé"}
+[début] G r11l N1 15:30:56
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:30:56 | INFO | Created new scorecard: ddf972f2-acde-4ea0-abe0-be5c6a236b43
+2026-10-20 15:30:56 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+2026-10-20 15:30:56 | INFO | Successfully loaded game class R11l from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/r11l/495a7899/r11l.py
+[fin] G ls20 N3 cpu 14.3 mural 34.9
+{"bras": "G", "jeu": "ls20", "niveau": 3, "gagne": null, "noeuds": 20000, "etats": 5959, "cpu": 14.3, "raison": "budget épuisé"}
+[début] ref r11l N2 15:30:56
+2026-10-20 15:30:56 | INFO | Successfully loaded game class R11l from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/r11l/495a7899/r11l.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:30:56 | INFO | Created new scorecard: 9e72c32c-c207-4c5f-b439-74730f817e3b
+2026-10-20 15:30:56 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+2026-10-20 15:30:56 | INFO | Successfully loaded game class R11l from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/r11l/495a7899/r11l.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:31:49 | INFO | Created new scorecard: 33a32e9e-125a-4082-abf8-1b8ec21cf72a
+2026-10-20 15:31:49 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+[fin] G r11l N1 cpu 26.2 mural 53.3
+{"bras": "G", "jeu": "r11l", "niveau": 1, "gagne": true, "noeuds": 2596, "etats": 1375, "cpu": 26.2, "raison": null}
+[début] G r11l N2 15:31:50
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:31:50 | INFO | Created new scorecard: 0da230ed-196e-40ee-bed1-73f898577b49
+2026-10-20 15:31:50 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:32:25 | INFO | Created new scorecard: 3f2a3658-f864-4580-8a5c-e9170ca48bcf
+2026-10-20 15:32:25 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+[fin] ref r11l N1 cpu 44.8 mural 88.9
+{"bras": "ref", "jeu": "r11l", "niveau": 1, "gagne": true, "noeuds": 2596, "etats": 1375, "cpu": 44.8, "raison": null}
+[début] ref r11l N3 15:32:25
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:32:25 | INFO | Created new scorecard: 3897c14d-1541-4b79-bfb2-5fcf1b3893ce
+2026-10-20 15:32:25 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+[fin] G r11l N2 cpu 612.5 mural 1456.2
+{"bras": "G", "jeu": "r11l", "niveau": 2, "gagne": null, "noeuds": 20033, "etats": 7604, "cpu": 612.5, "raison": "budget épuisé"}
+[début] G r11l N3 15:56:06
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 15:56:06 | INFO | Created new scorecard: 2bad24ee-22fd-416a-bdbd-8064d6436433
+2026-10-20 15:56:06 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+[fin] ref r11l N3 cpu 937.8 mural 2034.9
+{"bras": "ref", "jeu": "r11l", "niveau": 3, "gagne": null, "noeuds": 20001, "etats": 7124, "cpu": 937.8, "raison": "budget épuisé"}
+[début] ref re86 N1 16:06:20
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:06:20 | INFO | Created new scorecard: ede59f29-c9e3-4f5b-8181-60b2f6a1e290
+2026-10-20 16:06:20 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+2026-10-20 16:06:20 | INFO | Successfully loaded game class Re86 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/re86/8af5384d/re86.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:06:24 | INFO | Created new scorecard: c65b1cb8-3219-45d0-9376-c9fa5b6d4363
+2026-10-20 16:06:24 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+[fin] ref re86 N1 cpu 1.9 mural 3.6
+{"bras": "ref", "jeu": "re86", "niveau": 1, "gagne": true, "noeuds": 561, "etats": 351, "cpu": 1.9, "raison": null}
+[début] G re86 N1 16:06:24
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:06:24 | INFO | Created new scorecard: 6ad5f335-22a0-44f4-8cb2-ec8502ec39f2
+2026-10-20 16:06:24 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:06:29 | INFO | Created new scorecard: a38bda1e-ca3d-4ec8-8e7e-b61495d82fba
+2026-10-20 16:06:29 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+[fin] G re86 N1 cpu 1.5 mural 5.5
+{"bras": "G", "jeu": "re86", "niveau": 1, "gagne": true, "noeuds": 561, "etats": 351, "cpu": 1.5, "raison": null}
+[début] ref re86 N2 16:06:29
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:06:29 | INFO | Created new scorecard: 60eced9d-c17b-4858-a0af-e143bd20446c
+2026-10-20 16:06:29 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+[fin] ref re86 N2 cpu 54.8 mural 89.5
+[début] G re86 N2 16:07:59
+{"bras": "ref", "jeu": "re86", "niveau": 2, "gagne": null, "noeuds": 20000, "etats": 11677, "cpu": 54.8, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:07:59 | INFO | Created new scorecard: d6cf21fa-85ed-4a3b-aac1-d796aa606b62
+2026-10-20 16:07:59 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+[fin] ref r11l N2 cpu 1061.5 mural 2254.7
+{"bras": "ref", "jeu": "r11l", "niveau": 2, "gagne": null, "noeuds": 20033, "etats": 7604, "cpu": 1061.5, "raison": "budget épuisé"}
+[début] ref re86 N3 16:08:31
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:08:31 | INFO | Created new scorecard: 70adbbb7-ac40-4215-9052-b7ed85bd0fbf
+2026-10-20 16:08:31 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+2026-10-20 16:08:32 | INFO | Successfully loaded game class Re86 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/re86/8af5384d/re86.py
+[fin] G re86 N2 cpu 38.5 mural 85.7
+[début] G re86 N3 16:09:24
+{"bras": "G", "jeu": "re86", "niveau": 2, "gagne": null, "noeuds": 20000, "etats": 11677, "cpu": 38.5, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:09:24 | INFO | Created new scorecard: 92f6f55a-c0e4-451e-92b8-79d6f59b50cb
+2026-10-20 16:09:24 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+[fin] ref re86 N3 cpu 39.7 mural 76.4
+{"bras": "ref", "jeu": "re86", "niveau": 3, "gagne": null, "noeuds": 20000, "etats": 12258, "cpu": 39.7, "raison": "budget épuisé"}
+[début] ref sb26 N1 16:09:48
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:09:48 | INFO | Created new scorecard: 5f0cd588-1189-48d2-86db-518db7e22a34
+2026-10-20 16:09:48 | INFO | Found latest version of sb26: sb26-7fbdac44 (downloaded: 2026-09-30 05:48:12.305196+00:00)
+2026-10-20 16:09:48 | INFO | Successfully loaded game class Sb26 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sb26/7fbdac44/sb26.py
+[fin] ref sb26 N1 cpu 5.8 mural 9.1
+{"bras": "ref", "jeu": "sb26", "niveau": 1, "gagne": null, "noeuds": 20000, "etats": 3883, "cpu": 5.8, "raison": "budget épuisé"}
+[début] G sb26 N1 16:09:57
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:09:57 | INFO | Created new scorecard: 2fb7fb0c-abfb-4744-9850-79fe9fa1e7d5
+2026-10-20 16:09:57 | INFO | Found latest version of sb26: sb26-7fbdac44 (downloaded: 2026-09-30 05:48:12.305196+00:00)
+[fin] G sb26 N1 cpu 4.3 mural 6.2
+{"bras": "G", "jeu": "sb26", "niveau": 1, "gagne": null, "noeuds": 20000, "etats": 3883, "cpu": 4.3, "raison": "budget épuisé"}
+[début] ref sb26 N2 16:10:03
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:10:03 | INFO | Created new scorecard: 45c5e620-b91e-4b0c-8948-b0d282a76190
+2026-10-20 16:10:03 | INFO | Found latest version of sb26: sb26-7fbdac44 (downloaded: 2026-09-30 05:48:12.305196+00:00)
+[fin] G re86 N3 cpu 25.5 mural 43.9
+{"bras": "G", "jeu": "re86", "niveau": 3, "gagne": null, "noeuds": 20000, "etats": 12258, "cpu": 25.5, "raison": "budget épuisé"}
+[début] G sb26 N2 16:10:08
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:10:09 | INFO | Created new scorecard: e5e3a107-fecc-432b-a93f-5736f58839c5
+2026-10-20 16:10:09 | INFO | Found latest version of sb26: sb26-7fbdac44 (downloaded: 2026-09-30 05:48:12.305196+00:00)
+2026-10-20 16:10:09 | INFO | Successfully loaded game class Sb26 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sb26/7fbdac44/sb26.py
+[fin] ref sb26 N2 cpu 9.3 mural 15.5
+{"bras": "ref", "jeu": "sb26", "niveau": 2, "gagne": null, "noeuds": 20026, "etats": 3823, "cpu": 9.3, "raison": "budget épuisé"}
+[début] ref sb26 N3 16:10:18
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:10:19 | INFO | Created new scorecard: 990caef3-6567-4a16-a266-3c368e586ca5
+2026-10-20 16:10:19 | INFO | Found latest version of sb26: sb26-7fbdac44 (downloaded: 2026-09-30 05:48:12.305196+00:00)
+[fin] G sb26 N2 cpu 7.3 mural 13.0
+{"bras": "G", "jeu": "sb26", "niveau": 2, "gagne": null, "noeuds": 20026, "etats": 3823, "cpu": 7.3, "raison": "budget épuisé"}
+[début] G sb26 N3 16:10:21
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:10:22 | INFO | Created new scorecard: 1dba54c0-3fe8-4a00-8eae-8aeb2255eab9
+2026-10-20 16:10:22 | INFO | Found latest version of sb26: sb26-7fbdac44 (downloaded: 2026-09-30 05:48:12.305196+00:00)
+[fin] G sb26 N3 cpu 7.1 mural 9.8
+{"bras": "G", "jeu": "sb26", "niveau": 3, "gagne": null, "noeuds": 20008, "etats": 3652, "cpu": 7.1, "raison": "budget épuisé"}
+[début] ref sc25 N1 16:10:31
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:10:31 | INFO | Created new scorecard: 9a7c706e-04bb-4f26-93c3-a293605ac2ab
+2026-10-20 16:10:31 | INFO | Found latest version of sc25: sc25-635fd71a (downloaded: 2026-09-30 05:48:22.515492+00:00)
+[fin] ref sb26 N3 cpu 9.4 mural 12.7
+{"bras": "ref", "jeu": "sb26", "niveau": 3, "gagne": null, "noeuds": 20008, "etats": 3652, "cpu": 9.4, "raison": "budget épuisé"}
+[début] G sc25 N1 16:10:31
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:10:31 | INFO | Created new scorecard: 8a463438-0f73-4c01-b230-c0cf20f0b69f
+2026-10-20 16:10:31 | INFO | Found latest version of sc25: sc25-635fd71a (downloaded: 2026-09-30 05:48:22.515492+00:00)
+2026-10-20 16:10:31 | INFO | Successfully loaded game class Sc25 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sc25/635fd71a/sc25.py
+2026-10-20 16:10:31 | INFO | Successfully loaded game class Sc25 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sc25/635fd71a/sc25.py
+[fin] G sc25 N1 cpu 10.9 mural 26.9
+{"bras": "G", "jeu": "sc25", "niveau": 1, "gagne": null, "noeuds": 20020, "etats": 4917, "cpu": 10.9, "raison": "budget épuisé"}
+[début] ref sc25 N2 16:10:58
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:10:58 | INFO | Created new scorecard: a28f65a0-6fa4-4292-9761-1b68d598812b
+2026-10-20 16:10:58 | INFO | Found latest version of sc25: sc25-635fd71a (downloaded: 2026-09-30 05:48:22.515492+00:00)
+[fin] ref sc25 N1 cpu 23.0 mural 31.1
+{"bras": "ref", "jeu": "sc25", "niveau": 1, "gagne": null, "noeuds": 20020, "etats": 4917, "cpu": 23.0, "raison": "budget épuisé"}
+[début] G sc25 N2 16:11:02
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:11:02 | INFO | Created new scorecard: 662cbb2a-3baf-4e5d-9f9e-3ccb252c3d54
+2026-10-20 16:11:02 | INFO | Found latest version of sc25: sc25-635fd71a (downloaded: 2026-09-30 05:48:22.515492+00:00)
+[fin] G sc25 N2 cpu 9.2 mural 15.3
+{"bras": "G", "jeu": "sc25", "niveau": 2, "gagne": null, "noeuds": 20020, "etats": 3739, "cpu": 9.2, "raison": "budget épuisé"}
+[début] ref sc25 N3 16:11:18
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:11:18 | INFO | Created new scorecard: 65f78841-44cd-4cfa-9109-0977fbb7c1ec
+2026-10-20 16:11:18 | INFO | Found latest version of sc25: sc25-635fd71a (downloaded: 2026-09-30 05:48:22.515492+00:00)
+[fin] G r11l N3 cpu 528.6 mural 918.7
+{"bras": "G", "jeu": "r11l", "niveau": 3, "gagne": null, "noeuds": 20001, "etats": 7124, "cpu": 528.6, "raison": "budget épuisé"}
+[fin] ref sc25 N2 cpu 19.0 mural 27.0
+{"bras": "ref", "jeu": "sc25", "niveau": 2, "gagne": null, "noeuds": 20020, "etats": 3739, "cpu": 19.0, "raison": "budget épuisé"}
+[début] ref sk48 N1 16:11:25
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+[début] G sc25 N3 16:11:25
+2026-10-20 16:11:25 | INFO | Created new scorecard: ae76a0fd-fa26-4220-875a-66affe0ed5f4
+2026-10-20 16:11:25 | INFO | Found latest version of sk48: sk48-d8078629 (downloaded: 2026-09-30 05:48:14.833617+00:00)
+2026-10-20 16:11:25 | INFO | Successfully loaded game class Sk48 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sk48/d8078629/sk48.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:11:25 | INFO | Created new scorecard: efc904b7-64ba-41d8-b730-923f22e348d7
+2026-10-20 16:11:25 | INFO | Found latest version of sc25: sc25-635fd71a (downloaded: 2026-09-30 05:48:22.515492+00:00)
+2026-10-20 16:11:25 | INFO | Successfully loaded game class Sc25 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sc25/635fd71a/sc25.py
+[fin] ref sk48 N1 cpu 5.8 mural 7.3
+{"bras": "ref", "jeu": "sk48", "niveau": 1, "gagne": null, "noeuds": 20000, "etats": 1417, "cpu": 5.8, "raison": "budget épuisé"}
+[début] G sk48 N1 16:11:32
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:11:32 | INFO | Created new scorecard: 253fb68f-9e7e-4e61-8bba-5c69ae07c7ad
+2026-10-20 16:11:32 | INFO | Found latest version of sk48: sk48-d8078629 (downloaded: 2026-09-30 05:48:14.833617+00:00)
+[fin] G sc25 N3 cpu 8.9 mural 12.7
+[début] ref sk48 N2 16:11:38
+{"bras": "G", "jeu": "sc25", "niveau": 3, "gagne": null, "noeuds": 20026, "etats": 4551, "cpu": 8.9, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:11:38 | INFO | Created new scorecard: 980120aa-2d8e-453c-958d-f23d150fd3aa
+2026-10-20 16:11:38 | INFO | Found latest version of sk48: sk48-d8078629 (downloaded: 2026-09-30 05:48:14.833617+00:00)
+2026-10-20 16:11:38 | INFO | Successfully loaded game class Sk48 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sk48/d8078629/sk48.py
+[fin] G sk48 N1 cpu 4.1 mural 5.8
+{"bras": "G", "jeu": "sk48", "niveau": 1, "gagne": null, "noeuds": 20000, "etats": 1417, "cpu": 4.1, "raison": "budget épuisé"}
+[début] G sk48 N2 16:11:38
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:11:38 | INFO | Created new scorecard: f877fc8a-c9d1-4c49-ac4f-358c6acd5d61
+2026-10-20 16:11:38 | INFO | Found latest version of sk48: sk48-d8078629 (downloaded: 2026-09-30 05:48:14.833617+00:00)
+[fin] G sk48 N2 cpu 4.6 mural 6.2
+{"bras": "G", "jeu": "sk48", "niveau": 2, "gagne": null, "noeuds": 20001, "etats": 1210, "cpu": 4.6, "raison": "budget épuisé"}
+[début] ref sk48 N3 16:11:44
+[fin] ref sk48 N3 cpu 0.0 mural 0.0
+[début] G sk48 N3 16:11:44
+[fin] G sk48 N3 cpu 0.0 mural 0.0
+[début] ref sp80 N1 16:11:44
+{"bras": "ref", "jeu": "sk48", "niveau": 3, "gagne": null, "noeuds": null, "etats": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+{"bras": "G", "jeu": "sk48", "niveau": 3, "gagne": null, "noeuds": null, "etats": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+2026-10-20 16:11:44 | INFO | Created new scorecard: 8a94a68f-6f14-47ac-a83a-cf6c2e2dd014
+2026-10-20 16:11:44 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+2026-10-20 16:11:44 | INFO | Successfully loaded game class Sp80 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sp80/589a99af/sp80.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:11:44 | INFO | Created new scorecard: e5ffb55f-1135-4ecb-961c-8e7f6acd8247
+2026-10-20 16:11:44 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+[fin] ref sp80 N1 cpu 0.1 mural 0.1
+{"bras": "ref", "jeu": "sp80", "niveau": 1, "gagne": true, "noeuds": 197, "etats": 48, "cpu": 0.1, "raison": null}
+[début] G sp80 N1 16:11:44
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:11:44 | INFO | Created new scorecard: b48cd937-0237-4413-b9c9-745bda4da2c3
+2026-10-20 16:11:44 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:11:44 | INFO | Created new scorecard: 13bd942b-e032-4791-a9c6-8ceadc9be7ef
+2026-10-20 16:11:44 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+[fin] G sp80 N1 cpu 0.1 mural 0.1
+{"bras": "G", "jeu": "sp80", "niveau": 1, "gagne": true, "noeuds": 197, "etats": 48, "cpu": 0.1, "raison": null}
+[début] ref sp80 N2 16:11:45
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:11:45 | INFO | Created new scorecard: 4d8b23ab-8724-4e48-929b-dde81ad08c98
+2026-10-20 16:11:45 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+[fin] ref sk48 N2 cpu 6.5 mural 8.4
+{"bras": "ref", "jeu": "sk48", "niveau": 2, "gagne": null, "noeuds": 20001, "etats": 1210, "cpu": 6.5, "raison": "budget épuisé"}
+[début] G sp80 N2 16:11:46
+[fin] ref sc25 N3 cpu 20.5 mural 28.5
+{"bras": "ref", "jeu": "sc25", "niveau": 3, "gagne": null, "noeuds": 20026, "etats": 4551, "cpu": 20.5, "raison": "budget épuisé"}
+[début] ref sp80 N3 16:11:46
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:11:46 | INFO | Created new scorecard: 5acf813f-b14d-4fa6-a115-3223a3532ada
+2026-10-20 16:11:46 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+2026-10-20 16:11:46 | INFO | Successfully loaded game class Sp80 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sp80/589a99af/sp80.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:11:46 | INFO | Created new scorecard: 0f677282-1a12-4ce0-86d5-fbbe8a24a8fd
+2026-10-20 16:11:46 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+2026-10-20 16:11:46 | INFO | Successfully loaded game class Sp80 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sp80/589a99af/sp80.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:11:49 | INFO | Created new scorecard: 3e934e73-9ea5-4851-961d-8ffc77ee03a9
+2026-10-20 16:11:49 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+[fin] G sp80 N2 cpu 2.1 mural 2.5
+{"bras": "G", "jeu": "sp80", "niveau": 2, "gagne": true, "noeuds": 10325, "etats": 2680, "cpu": 2.1, "raison": null}
+[début] G sp80 N3 16:11:49
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:11:49 | INFO | Created new scorecard: 8f8c2345-49f8-4157-a4e2-6df652d991af
+2026-10-20 16:11:49 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:11:49 | INFO | Created new scorecard: 8f9ac488-50ff-4184-9e76-987b5979eab5
+2026-10-20 16:11:49 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+[fin] ref sp80 N2 cpu 3.8 mural 4.5
+{"bras": "ref", "jeu": "sp80", "niveau": 2, "gagne": true, "noeuds": 10325, "etats": 2680, "cpu": 3.8, "raison": null}
+[début] ref su15 N1 16:11:49
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:11:49 | INFO | Created new scorecard: 3e36b8f9-d06a-4a02-b2fd-17de33a44c54
+2026-10-20 16:11:49 | INFO | Found latest version of su15: su15-1944f8ab (downloaded: 2026-09-30 05:48:13.830471+00:00)
+2026-10-20 16:11:49 | INFO | Successfully loaded game class Su15 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/su15/1944f8ab/su15.py
+[fin] G sp80 N3 cpu 5.7 mural 6.7
+{"bras": "G", "jeu": "sp80", "niveau": 3, "gagne": null, "noeuds": 20000, "etats": 4633, "cpu": 5.7, "raison": "budget épuisé"}
+[début] G su15 N1 16:11:55
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:11:55 | INFO | Created new scorecard: 2891ac9b-62a3-4073-a21b-8fe9566f0e7d
+2026-10-20 16:11:55 | INFO | Found latest version of su15: su15-1944f8ab (downloaded: 2026-09-30 05:48:13.830471+00:00)
+2026-10-20 16:11:55 | INFO | Successfully loaded game class Su15 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/su15/1944f8ab/su15.py
+[fin] ref sp80 N3 cpu 11.9 mural 15.2
+[début] ref su15 N2 16:12:01
+{"bras": "ref", "jeu": "sp80", "niveau": 3, "gagne": null, "noeuds": 20000, "etats": 4633, "cpu": 11.9, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:12:02 | INFO | Created new scorecard: 47480685-0296-4094-bd48-f9ca41a135c0
+2026-10-20 16:12:02 | INFO | Found latest version of su15: su15-1944f8ab (downloaded: 2026-09-30 05:48:13.830471+00:00)
+2026-10-20 16:12:02 | INFO | Successfully loaded game class Su15 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/su15/1944f8ab/su15.py
+[fin] G su15 N1 cpu 9.2 mural 12.4
+{"bras": "G", "jeu": "su15", "niveau": 1, "gagne": null, "noeuds": 20020, "etats": 3965, "cpu": 9.2, "raison": "budget épuisé"}
+[début] G su15 N2 16:12:08
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:12:08 | INFO | Created new scorecard: 9e5e15ea-075e-4689-b0b6-e53574ff3250
+2026-10-20 16:12:08 | INFO | Found latest version of su15: su15-1944f8ab (downloaded: 2026-09-30 05:48:13.830471+00:00)
+[fin] ref su15 N1 cpu 22.9 mural 30.6
+{"bras": "ref", "jeu": "su15", "niveau": 1, "gagne": null, "noeuds": 20020, "etats": 3965, "cpu": 22.9, "raison": "budget épuisé"}
+[début] ref su15 N3 16:12:20
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:12:20 | INFO | Created new scorecard: 1132f520-d0e2-410b-8a08-3fb0f11ea9e0
+2026-10-20 16:12:20 | INFO | Found latest version of su15: su15-1944f8ab (downloaded: 2026-09-30 05:48:13.830471+00:00)
+[fin] G su15 N2 cpu 14.0 mural 20.3
+{"bras": "G", "jeu": "su15", "niveau": 2, "gagne": null, "noeuds": 20009, "etats": 10048, "cpu": 14.0, "raison": "budget épuisé"}
+[début] G su15 N3 16:12:28
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:12:28 | INFO | Created new scorecard: 9f896b51-d7d3-4414-b415-198b6095a1da
+2026-10-20 16:12:28 | INFO | Found latest version of su15: su15-1944f8ab (downloaded: 2026-09-30 05:48:13.830471+00:00)
+[fin] ref su15 N2 cpu 32.6 mural 48.3
+{"bras": "ref", "jeu": "su15", "niveau": 2, "gagne": null, "noeuds": 20009, "etats": 10048, "cpu": 32.6, "raison": "budget épuisé"}
+[début] ref tn36 N1 16:12:50
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:12:50 | INFO | Created new scorecard: e57d0968-2dbd-4efe-b032-7d133b4adace
+2026-10-20 16:12:50 | INFO | Found latest version of tn36: tn36-ef4dde99 (downloaded: 2026-09-30 05:48:12.062346+00:00)
+2026-10-20 16:12:50 | INFO | Successfully loaded game class Tn36 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/tn36/ef4dde99/tn36.py
+[fin] G su15 N3 cpu 19.5 mural 27.9
+{"bras": "G", "jeu": "su15", "niveau": 3, "gagne": null, "noeuds": 20000, "etats": 9233, "cpu": 19.5, "raison": "budget épuisé"}
+[début] G tn36 N1 16:12:56
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:12:56 | INFO | Created new scorecard: 5ef78f2f-9434-4082-93e8-271098b2488a
+2026-10-20 16:12:56 | INFO | Found latest version of tn36: tn36-ef4dde99 (downloaded: 2026-09-30 05:48:12.062346+00:00)
+2026-10-20 16:12:56 | INFO | Successfully loaded game class Tn36 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/tn36/ef4dde99/tn36.py
+[fin] G tn36 N1 cpu 4.8 mural 7.0
+[début] ref tn36 N2 16:13:03
+{"bras": "G", "jeu": "tn36", "niveau": 1, "gagne": null, "noeuds": 20022, "etats": 1387, "cpu": 4.8, "raison": "budget épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:13:03 | INFO | Created new scorecard: 33e797f9-5c31-4768-965c-6175d8d9815f
+2026-10-20 16:13:03 | INFO | Found latest version of tn36: tn36-ef4dde99 (downloaded: 2026-09-30 05:48:12.062346+00:00)
+[fin] ref tn36 N1 cpu 8.7 mural 13.2
+{"bras": "ref", "jeu": "tn36", "niveau": 1, "gagne": null, "noeuds": 20022, "etats": 1387, "cpu": 8.7, "raison": "budget épuisé"}
+[début] G tn36 N2 16:13:03
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:13:03 | INFO | Created new scorecard: 2e3cf4ff-68cc-4a5c-b5a2-a4cb5b3befe6
+2026-10-20 16:13:03 | INFO | Found latest version of tn36: tn36-ef4dde99 (downloaded: 2026-09-30 05:48:12.062346+00:00)
+[fin] G tn36 N2 cpu 15.0 mural 22.7
+{"bras": "G", "jeu": "tn36", "niveau": 2, "gagne": null, "noeuds": 20003, "etats": 3487, "cpu": 15.0, "raison": "budget épuisé"}
+[début] ref tn36 N3 16:13:26
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:13:26 | INFO | Created new scorecard: 44704bcb-f33d-4088-b6bb-9ff32c92aa2a
+2026-10-20 16:13:26 | INFO | Found latest version of tn36: tn36-ef4dde99 (downloaded: 2026-09-30 05:48:12.062346+00:00)
+[fin] ref su15 N3 cpu 49.8 mural 72.7
+{"bras": "ref", "jeu": "su15", "niveau": 3, "gagne": null, "noeuds": 20000, "etats": 9233, "cpu": 49.8, "raison": "budget épuisé"}
+[début] G tn36 N3 16:13:32
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:13:32 | INFO | Created new scorecard: f4480965-923e-4335-9637-e21b019460eb
+2026-10-20 16:13:32 | INFO | Found latest version of tn36: tn36-ef4dde99 (downloaded: 2026-09-30 05:48:12.062346+00:00)
+2026-10-20 16:13:33 | INFO | Successfully loaded game class Tn36 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/tn36/ef4dde99/tn36.py
+[fin] ref tn36 N2 cpu 25.7 mural 35.6
+{"bras": "ref", "jeu": "tn36", "niveau": 2, "gagne": null, "noeuds": 20003, "etats": 3487, "cpu": 25.7, "raison": "budget épuisé"}
+[début] ref tr87 N1 16:13:39
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:13:39 | INFO | Created new scorecard: 6329f0f4-eb82-4461-a288-2a1daafc06ac
+2026-10-20 16:13:39 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+2026-10-20 16:13:39 | INFO | Successfully loaded game class Tr87 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/tr87/cd924810/tr87.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:13:42 | INFO | Created new scorecard: 6e595c0f-ad40-41d8-84a2-ff5fbf4c0b61
+2026-10-20 16:13:42 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+[fin] ref tr87 N1 cpu 2.7 mural 3.2
+{"bras": "ref", "jeu": "tr87", "niveau": 1, "gagne": true, "noeuds": 133, "etats": 106, "cpu": 2.7, "raison": null}
+[début] G tr87 N1 16:13:42
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:13:42 | INFO | Created new scorecard: a39d6ec5-a809-497d-b883-135f174293db
+2026-10-20 16:13:42 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:13:42 | INFO | Created new scorecard: 36905dfa-9cea-4023-b641-2e3b01f80f18
+2026-10-20 16:13:42 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+[fin] G tr87 N1 cpu 0.2 mural 0.3
+{"bras": "G", "jeu": "tr87", "niveau": 1, "gagne": true, "noeuds": 133, "etats": 106, "cpu": 0.2, "raison": null}
+[début] ref tr87 N2 16:13:42
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:13:42 | INFO | Created new scorecard: 43637386-56d1-45b6-83a2-e7eff2e6f83d
+2026-10-20 16:13:42 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:13:55 | INFO | Created new scorecard: 7a5b7079-1123-4665-89d3-c07fa77f3496
+2026-10-20 16:13:55 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+[fin] ref tr87 N2 cpu 10.1 mural 13.2
+{"bras": "ref", "jeu": "tr87", "niveau": 2, "gagne": true, "noeuds": 277, "etats": 240, "cpu": 10.1, "raison": null}
+[début] G tr87 N2 16:13:55
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:13:55 | INFO | Created new scorecard: e68e656a-5652-4f79-9bb0-966048923d24
+2026-10-20 16:13:55 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:13:56 | INFO | Created new scorecard: 7a0105a1-189f-46c3-b414-4ebfe379feab
+2026-10-20 16:13:56 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+[fin] G tr87 N2 cpu 0.9 mural 1.3
+{"bras": "G", "jeu": "tr87", "niveau": 2, "gagne": true, "noeuds": 277, "etats": 240, "cpu": 0.9, "raison": null}
+[début] ref tr87 N3 16:13:57
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:13:57 | INFO | Created new scorecard: 94bc33f9-fe3a-46bf-87f9-047aa9f469a2
+2026-10-20 16:13:57 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+[fin] G tn36 N3 cpu 21.9 mural 32.2
+{"bras": "G", "jeu": "tn36", "niveau": 3, "gagne": null, "noeuds": 20045, "etats": 5153, "cpu": 21.9, "raison": "budget épuisé"}
+[début] G tr87 N3 16:14:05
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:14:05 | INFO | Created new scorecard: 3a4010d0-ab6f-45f1-9bfb-7c6c3d4861e9
+2026-10-20 16:14:05 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+2026-10-20 16:14:05 | INFO | Successfully loaded game class Tr87 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/tr87/cd924810/tr87.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:14:05 | INFO | Created new scorecard: c184f2be-a936-4de6-ab9c-20fa640610eb
+2026-10-20 16:14:05 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+[fin] G tr87 N3 cpu 0.7 mural 1.0
+{"bras": "G", "jeu": "tr87", "niveau": 3, "gagne": true, "noeuds": 194, "etats": 165, "cpu": 0.7, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 16:14:12 | INFO | Created new scorecard: 0fa94bdd-3ed1-4a22-be33-c1fb33c83a6b
+2026-10-20 16:14:12 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+[fin] ref tr87 N3 cpu 12.7 mural 15.7
+{"bras": "ref", "jeu": "tr87", "niveau": 3, "gagne": true, "noeuds": 194, "etats": 165, "cpu": 12.7, "raison": null}
+[fin] ref tn36 N3 cpu 40.4 mural 51.4
+{"bras": "ref", "jeu": "tn36", "niveau": 3, "gagne": null, "noeuds": 20045, "etats": 5153, "cpu": 40.4, "raison": "budget épuisé"}
+G identique à ref (nœuds, états, plan, gagné) : 60 / 60
+P0 but 20000 nœuds 1200.0 s CPU : gagnés {'ref': 16, 'G': 16} sur 60 ; + [] ; − [] ; nœuds/s G/ref médiane ×1.66 sur 38 niveaux

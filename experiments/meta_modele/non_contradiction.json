@@ -1,0 +1,336 @@
+{
+ "ar25": {
+  "pas": 300,
+  "violations": {
+   "au6": 602,
+   "exemple": 240
+  },
+  "exemples": {
+   "au6": [
+    "viol(au6,15,5,6)",
+    "viol(au6,15,6,8)",
+    "viol(au6,24,2,8)"
+   ],
+   "exemple": [
+    "exemple(\"0007arvfmhagbj\",\"0055nwhypaamix\",15)",
+    "exemple(\"0055nwhypaamix\",\"0000gezzfvumef\",15)",
+    "exemple(\"0001sruqbuvukh\",\"0000gezzfvumef\",24)"
+   ]
+  }
+ },
+ "bp35": {
+  "pas": 43,
+  "violations": {},
+  "exemples": {}
+ },
+ "cd82": {
+  "pas": 176,
+  "violations": {
+   "au6": 6,
+   "exemple": 4
+  },
+  "exemples": {
+   "au6": [
+    "viol(au6,65,1,4)",
+    "viol(au6,65,1,6)",
+    "viol(au6,75,1,5)"
+   ],
+   "exemple": [
+    "exemple(\"gkyfnkvrty\",\"pqkenviek\",65)",
+    "exemple(\"gkyfnkvrty\",\"ydiwkzjkgl\",65)",
+    "exemple(\"gkyfnkvrty\",\"pqkenviek\",75)"
+   ]
+  }
+ },
+ "dc22": {
+  "pas": 200,
+  "violations": {
+   "au6": 20,
+   "exemple": 20
+  },
+  "exemples": {
+   "au6": [
+    "viol(au6,48,3,4)",
+    "viol(au6,48,4,6)",
+    "viol(au6,59,23,25)"
+   ],
+   "exemple": [
+    "exemple(\"buezna-matkhq\",\"coorbs-bg\",48)",
+    "exemple(\"coorbs-bg\",\"merged-sprite\",48)",
+    "exemple(\"buezna-blrmbx\",\"coorbs-bg\",59)"
+   ]
+  }
+ },
+ "ft09": {
+  "pas": 86,
+  "violations": {},
+  "exemples": {}
+ },
+ "g50t": {
+  "pas": 44,
+  "violations": {
+   "au6": 28,
+   "exemple": 25
+  },
+  "exemples": {
+   "au6": [
+    "viol(au6,5,2,13)",
+    "viol(au6,5,2,14)",
+    "viol(au6,5,3,13)"
+   ],
+   "exemple": [
+    "exemple(\"gpkhwmwioo\",\"opsxquspoc\",5)",
+    "exemple(\"gpkhwmwioo\",\"oewlmipzzz\",5)",
+    "exemple(\"ovhuyqtghw\",\"opsxquspoc\",5)"
+   ]
+  }
+ },
+ "ka59": {
+  "pas": 244,
+  "violations": {
+   "au6": 1,
+   "exemple": 1
+  },
+  "exemples": {
+   "au6": [
+    "viol(au6,49,4,9)"
+   ],
+   "exemple": [
+    "exemple(\"0016htdkkrlaim\",\"0030hvaojwefpl\",49)"
+   ]
+  }
+ },
+ "lf52": {
+  "pas": 182,
+  "violations": {},
+  "exemples": {}
+ },
+ "lp85": {
+  "pas": 197,
+  "violations": {
+   "au6": 104,
+   "exemple": 104
+  },
+  "exemples": {
+   "au6": [
+    "viol(au6,64,0,16)",
+    "viol(au6,64,0,21)",
+    "viol(au6,64,0,42)"
+   ],
+   "exemple": [
+    "exemple(\"aoibinevrm\",\"bbxrzomunc\",64)",
+    "exemple(\"aoibinevrm\",\"cgkbezvpdp\",64)",
+    "exemple(\"aoibinevrm\",\"icgyrqkqpc\",64)"
+   ]
+  }
+ },
+ "ls20": {
+  "pas": 300,
+  "violations": {
+   "au6": 125,
+   "exemple": 56
+  },
+  "exemples": {
+   "au6": [
+    "viol(au6,8,118,121)",
+    "viol(au6,8,121,122)",
+    "viol(au6,22,119,121)"
+   ],
+   "exemple": [
+    "exemple(\"nszegiawib\",\"sfqyzhzkij\",8)",
+    "exemple(\"sfqyzhzkij\",\"vjotnebuqo\",8)",
+    "exemple(\"rhsxkxzdjz\",\"sfqyzhzkij\",22)"
+   ]
+  }
+ },
+ "m0r0": {
+  "pas": 300,
+  "violations": {
+   "au6": 12,
+   "exemple": 12
+  },
+  "exemples": {
+   "au6": [
+    "viol(au6,238,5,8)",
+    "viol(au6,246,5,8)",
+    "viol(au6,253,4,7)"
+   ],
+   "exemple": [
+    "exemple(\"pikgci-toljda-rivmdg\",\"unobxw-puvdux\",238)",
+    "exemple(\"pikgci-toljda-rivmdg\",\"unobxw-puvdux\",246)",
+    "exemple(\"pikgci-toljda-leklkn\",\"unobxw-orfrpe\",253)"
+   ]
+  }
+ },
+ "r11l": {
+  "pas": 115,
+  "violations": {
+   "au6": 43,
+   "exemple": 39
+  },
+  "exemples": {
+   "au6": [
+    "viol(au6,2,0,2)",
+    "viol(au6,6,0,3)",
+    "viol(au6,10,0,10)"
+   ],
+   "exemple": [
+    "exemple(\"flkdtg-pumlzd\",\"roefwulewcui-pumlzd\",2)",
+    "exemple(\"flkdtg-pumlzd\",\"roefwulewcui-pumlzd\",6)",
+    "exemple(\"defgjl-Level3\",\"wakneh-Level1\",10)"
+   ]
+  }
+ },
+ "re86": {
+  "pas": 300,
+  "violations": {
+   "au6": 76,
+   "exemple": 76
+  },
+  "exemples": {
+   "au6": [
+    "viol(au6,5,0,2)",
+    "viol(au6,14,1,2)",
+    "viol(au6,22,0,1)"
+   ],
+   "exemple": [
+    "exemple(\"0030rxzjuipynt\",\"0053jffbwmoiua\",5)",
+    "exemple(\"0042qffokapnyc\",\"0053jffbwmoiua\",14)",
+    "exemple(\"0043ingegpwaik\",\"0044bkfjtphmea\",22)"
+   ]
+  }
+ },
+ "sb26": {
+  "pas": 171,
+  "violations": {
+   "au6": 519,
+   "exemple": 355
+  },
+  "exemples": {
+   "au6": [
+    "viol(au6,2,13,20)",
+    "viol(au6,2,14,20)",
+    "viol(au6,4,2,4)"
+   ],
+   "exemple": [
+    "exemple(\"uzxwqmkrmk\",\"jkxncpvknr\",2)",
+    "exemple(\"lngftsryyw\",\"qdmvvkvhaz4\",4)",
+    "exemple(\"lngftsryyw\",\"wrqpmmfhup\",4)"
+   ]
+  }
+ },
+ "sc25": {
+  "pas": 296,
+  "violations": {
+   "au6": 56,
+   "exemple": 41
+  },
+  "exemples": {
+   "au6": [
+    "viol(au6,53,0,11)",
+    "viol(au6,53,11,12)",
+    "viol(au6,53,11,14)"
+   ],
+   "exemple": [
+    "exemple(\"action-ui\",\"duvwsv-1\",53)",
+    "exemple(\"duvwsv-1\",\"exydhv\",53)",
+    "exemple(\"duvwsv-1\",\"sprite-21\",53)"
+   ]
+  }
+ },
+ "sk48": {
+  "pas": 124,
+  "violations": {
+   "au6": 411,
+   "exemple": 301
+  },
+  "exemples": {
+   "au6": [
+    "viol(au6,2,0,10)",
+    "viol(au6,2,10,20)",
+    "viol(au6,3,0,18)"
+   ],
+   "exemple": [
+    "exemple(\"ejlpqgojjt\",\"irkeobngyh\",2)",
+    "exemple(\"irkeobngyh\",\"qtjqovumxf\",2)",
+    "exemple(\"ejlpqgojjt\",\"qtjqovumxf\",3)"
+   ]
+  }
+ },
+ "sp80": {
+  "pas": 105,
+  "violations": {
+   "au6": 5,
+   "exemple": 5
+  },
+  "exemples": {
+   "au6": [
+    "viol(au6,11,0,9)",
+    "viol(au6,23,0,14)",
+    "viol(au6,57,0,12)"
+   ],
+   "exemple": [
+    "exemple(\"bodekplurlf16\",\"waoewejnqzc\",11)",
+    "exemple(\"bodekplurlf16\",\"waoewejnqzc\",23)",
+    "exemple(\"bodekplurlf20\",\"waoewejnqzc\",57)"
+   ]
+  }
+ },
+ "su15": {
+  "pas": 167,
+  "violations": {
+   "au6": 29,
+   "exemple": 29
+  },
+  "exemples": {
+   "au6": [
+    "viol(au6,9,9,10)",
+    "viol(au6,9,9,11)",
+    "viol(au6,9,9,12)"
+   ],
+   "exemple": [
+    "exemple(\"0009mbvjylwely\",\"0012qpdeinaukn\",9)",
+    "exemple(\"0009mbvjylwely\",\"0014mjywekiwam\",9)",
+    "exemple(\"0009mbvjylwely\",\"0023wzvifjzfsl\",9)"
+   ]
+  }
+ },
+ "tn36": {
+  "pas": 300,
+  "violations": {
+   "au6": 591,
+   "exemple": 188
+  },
+  "exemples": {
+   "au6": [
+    "viol(au6,21,1,6)",
+    "viol(au6,21,4,6)",
+    "viol(au6,21,4,10)"
+   ],
+   "exemple": [
+    "exemple(\"bltjrl4dixduj\",\"grsysj4\",21)",
+    "exemple(\"dixdujbaatdvbizzhq\",\"grsysj4\",21)",
+    "exemple(\"dixdujbaatdvbizzhq\",\"Maidxz\",21)"
+   ]
+  }
+ },
+ "tr87": {
+  "pas": 300,
+  "violations": {
+   "au6": 839,
+   "exemple": 642
+  },
+  "exemples": {
+   "au6": [
+    "viol(au6,2,0,53)",
+    "viol(au6,2,19,53)",
+    "viol(au6,3,0,54)"
+   ],
+   "exemple": [
+    "exemple(\"background\",\"nxkictbbvztB6\",2)",
+    "exemple(\"gyrdjxybtcmB\",\"nxkictbbvztB6\",2)",
+    "exemple(\"background\",\"nxkictbbvztB5\",3)"
+   ]
+  }
+ }
+}

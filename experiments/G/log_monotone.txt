@@ -1,0 +1,1469 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:21:13 | INFO | Created new scorecard: 41b4fd06-55fd-4ec2-8bc0-26f300a4daad
+2026-10-21 00:21:13 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+2026-10-21 00:21:13 | INFO | Created new scorecard: b6409983-8363-4089-a14e-70fdd0d9f79b
+2026-10-21 00:21:13 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:21:13 | INFO | Successfully loaded game class Ar25 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ar25/0c556536/ar25.py
+2026-10-21 00:21:13 | INFO | Created new scorecard: 55891ddd-5451-44ee-be1a-ebf8efe4085c
+2026-10-21 00:21:13 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+2026-10-21 00:21:13 | INFO | Created new scorecard: 9211dfb2-de51-4691-a97c-838e1fcf236b
+2026-10-21 00:21:13 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+2026-10-21 00:21:13 | INFO | Successfully loaded game class Ar25 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ar25/0c556536/ar25.py
+2026-10-21 00:21:13 | INFO | Successfully loaded game class Ar25 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ar25/0c556536/ar25.py
+2026-10-21 00:21:13 | INFO | Successfully loaded game class Ar25 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ar25/0c556536/ar25.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:21:13 | INFO | Created new scorecard: 0c586d04-8230-4ce3-89af-253550bb11bd
+2026-10-21 00:21:13 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:21:13 | INFO | Created new scorecard: bc7b2fe2-3c88-4780-b8c4-eca5d1edbe4d
+2026-10-21 00:21:13 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+2026-10-21 00:21:13 | INFO | Successfully loaded game class Ar25 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ar25/0c556536/ar25.py
+2026-10-21 00:21:13 | INFO | Successfully loaded game class Ar25 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ar25/0c556536/ar25.py
+{"bras": "monotone", "strategie": "langage_but", "jeu": "ar25", "niveau": 2, "gagne": null, "noeuds": 200013, "cpu": 88.6, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:24:29 | INFO | Created new scorecard: 59694538-9717-4c4e-b2cb-b164a6e57c89
+2026-10-21 00:24:29 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+{"bras": "actuel", "strategie": "langage_but", "jeu": "ar25", "niveau": 2, "gagne": null, "noeuds": 200013, "cpu": 89.7, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:24:31 | INFO | Created new scorecard: 6535c99c-78b6-4770-afb9-03c308e57b1b
+2026-10-21 00:24:31 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:24:51 | INFO | Created new scorecard: 943fa612-f19d-4421-b5ef-17a0c5f450f2
+2026-10-21 00:24:51 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "ar25", "niveau": 2, "gagne": true, "noeuds": 32484, "cpu": 12.1, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:24:51 | INFO | Created new scorecard: 2abdd65b-ab5d-4f8b-8805-18c01252613a
+2026-10-21 00:24:51 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:24:53 | INFO | Created new scorecard: be5e507c-943b-4bdc-9f82-8ce32368f39f
+2026-10-21 00:24:53 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "ar25", "niveau": 2, "gagne": true, "noeuds": 32484, "cpu": 12.0, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:24:53 | INFO | Created new scorecard: 86c1887a-7881-4c8f-917b-85cce04ce273
+2026-10-21 00:24:53 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "ar25", "niveau": 1, "gagne": null, "noeuds": 200006, "cpu": 103.0, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:24:56 | INFO | Created new scorecard: 766094e0-7ca1-4bd6-97b8-792055337e7f
+2026-10-21 00:24:56 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "ar25", "niveau": 1, "gagne": null, "noeuds": 200006, "cpu": 103.7, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:24:57 | INFO | Created new scorecard: 7a83b4b6-5eb9-4b91-a8e2-1d4979c55e9e
+2026-10-21 00:24:57 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+{"bras": "actuel", "strategie": "langage_but", "jeu": "ar25", "niveau": 1, "gagne": null, "noeuds": 200005, "cpu": 106.4, "raison": "budget"}
+2026-10-21 00:25:02 | INFO | Created new scorecard: 79a47452-1fd0-4423-91de-dcd12e356ded
+2026-10-21 00:25:02 | INFO | Found latest version of bp35: bp35-0a0ad940 (downloaded: 2026-09-30 05:48:18.671230+00:00)
+2026-10-21 00:25:02 | INFO | Successfully loaded game class Bp35 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/bp35/0a0ad940/bp35.py
+{"bras": "monotone", "strategie": "langage_but", "jeu": "ar25", "niveau": 1, "gagne": null, "noeuds": 200005, "cpu": 106.3, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:25:02 | INFO | Created new scorecard: 0ac59fa8-713f-4593-bb1b-121b941d9d47
+2026-10-21 00:25:02 | INFO | Found latest version of bp35: bp35-0a0ad940 (downloaded: 2026-09-30 05:48:18.671230+00:00)
+2026-10-21 00:25:02 | INFO | Successfully loaded game class Bp35 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/bp35/0a0ad940/bp35.py
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "ar25", "niveau": 3, "gagne": null, "noeuds": 200030, "cpu": 112.1, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:28:20 | INFO | Created new scorecard: a074fa97-20c6-48ab-a621-2ed5861ba8ad
+2026-10-21 00:28:20 | INFO | Found latest version of bp35: bp35-0a0ad940 (downloaded: 2026-09-30 05:48:18.671230+00:00)
+2026-10-21 00:28:20 | INFO | Successfully loaded game class Bp35 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/bp35/0a0ad940/bp35.py
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "ar25", "niveau": 3, "gagne": null, "noeuds": 200030, "cpu": 113.5, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:28:24 | INFO | Created new scorecard: 236d7e98-8ce6-4657-a86b-74c889467371
+2026-10-21 00:28:24 | INFO | Found latest version of bp35: bp35-0a0ad940 (downloaded: 2026-09-30 05:48:18.671230+00:00)
+2026-10-21 00:28:24 | INFO | Successfully loaded game class Bp35 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/bp35/0a0ad940/bp35.py
+{"bras": "actuel", "strategie": "langage_but", "jeu": "ar25", "niveau": 3, "gagne": null, "noeuds": 36000, "cpu": 305.7, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:34:12 | INFO | Created new scorecard: 5dca5c20-2475-4c36-b749-1af9e83b8347
+2026-10-21 00:34:12 | INFO | Found latest version of bp35: bp35-0a0ad940 (downloaded: 2026-09-30 05:48:18.671230+00:00)
+2026-10-21 00:34:12 | INFO | Successfully loaded game class Bp35 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/bp35/0a0ad940/bp35.py
+{"bras": "actuel", "strategie": "langage_but", "jeu": "bp35", "niveau": 1, "gagne": null, "noeuds": 145715, "cpu": 300.1, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:34:14 | INFO | Created new scorecard: 50f3d0c2-752d-48b9-95b8-70f62ad3cf5b
+2026-10-21 00:34:14 | INFO | Found latest version of bp35: bp35-0a0ad940 (downloaded: 2026-09-30 05:48:18.671230+00:00)
+{"bras": "monotone", "strategie": "langage_but", "jeu": "bp35", "niveau": 1, "gagne": null, "noeuds": 137609, "cpu": 300.7, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:34:15 | INFO | Created new scorecard: 28ea3a97-f152-47f3-b519-455c31c09aee
+2026-10-21 00:34:15 | INFO | Found latest version of bp35: bp35-0a0ad940 (downloaded: 2026-09-30 05:48:18.671230+00:00)
+{"bras": "monotone", "strategie": "langage_but", "jeu": "ar25", "niveau": 3, "gagne": null, "noeuds": 36000, "cpu": 308.8, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:34:20 | INFO | Created new scorecard: 4fe6e5f7-3086-4955-8403-c497dceccf67
+2026-10-21 00:34:20 | INFO | Found latest version of bp35: bp35-0a0ad940 (downloaded: 2026-09-30 05:48:18.671230+00:00)
+2026-10-21 00:34:20 | INFO | Successfully loaded game class Bp35 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/bp35/0a0ad940/bp35.py
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "bp35", "niveau": 1, "gagne": null, "noeuds": 145330, "cpu": 300.1, "raison": "budget"}
+{"bras": "actuel", "strategie": "langage_but", "jeu": "bp35", "niveau": 3, "gagne": null, "noeuds": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+{"bras": "monotone", "strategie": "langage_but", "jeu": "bp35", "niveau": 3, "gagne": null, "noeuds": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "bp35", "niveau": 3, "gagne": null, "noeuds": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "bp35", "niveau": 3, "gagne": null, "noeuds": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:37:37 | INFO | Created new scorecard: fc549eff-f4e9-4796-aa4a-2b506f937576
+2026-10-21 00:37:37 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+2026-10-21 00:37:37 | INFO | Successfully loaded game class Cd82 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/cd82/fb555c5d/cd82.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:37:37 | INFO | Created new scorecard: 590a8226-a1cc-4bb7-bab4-6a8d8bcce058
+2026-10-21 00:37:37 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+{"bras": "actuel", "strategie": "langage_but", "jeu": "cd82", "niveau": 1, "gagne": true, "noeuds": 239, "cpu": 0.1, "raison": null}
+2026-10-21 00:37:37 | INFO | Created new scorecard: 1a83b80b-7ad6-474e-bf5d-d2ada4ee6d5d
+2026-10-21 00:37:37 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:37:37 | INFO | Created new scorecard: cfed2a88-94b0-4cb9-b758-0fd10d0bb6b2
+2026-10-21 00:37:37 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+{"bras": "monotone", "strategie": "langage_but", "jeu": "cd82", "niveau": 1, "gagne": true, "noeuds": 239, "cpu": 0.1, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:37:37 | INFO | Created new scorecard: 45402a94-3b04-4f3e-92ca-252b5441408f
+2026-10-21 00:37:37 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:37:37 | INFO | Created new scorecard: 3d993451-c901-4dc5-b94f-06a367b39bb6
+2026-10-21 00:37:37 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "cd82", "niveau": 1, "gagne": true, "noeuds": 260, "cpu": 0.1, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:37:37 | INFO | Created new scorecard: 297aa5fc-83bd-42d2-ae42-a9304d50abd8
+2026-10-21 00:37:37 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:37:37 | INFO | Created new scorecard: 997cca4d-3380-41df-b9a9-bbffc2289288
+2026-10-21 00:37:37 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "cd82", "niveau": 1, "gagne": true, "noeuds": 260, "cpu": 0.1, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:37:38 | INFO | Created new scorecard: b377636b-c073-4ee4-82f5-2ed4bef28f5c
+2026-10-21 00:37:38 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:37:38 | INFO | Created new scorecard: b08aedac-bf24-4d36-ab71-6d126b65dab1
+2026-10-21 00:37:38 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+{"bras": "actuel", "strategie": "langage_but", "jeu": "cd82", "niveau": 2, "gagne": true, "noeuds": 1748, "cpu": 0.6, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:37:39 | INFO | Created new scorecard: 56c68fd9-8dd2-44ff-b3ef-3996b88be9ad
+2026-10-21 00:37:39 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:37:39 | INFO | Created new scorecard: 5eac65b9-59e9-453c-a33d-5949d4b7fe46
+2026-10-21 00:37:39 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+{"bras": "monotone", "strategie": "langage_but", "jeu": "cd82", "niveau": 2, "gagne": true, "noeuds": 1748, "cpu": 0.6, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:37:40 | INFO | Created new scorecard: a0231e37-95e4-4054-8480-1800f73ef07c
+2026-10-21 00:37:40 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "bp35", "niveau": 1, "gagne": null, "noeuds": 135101, "cpu": 300.3, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:37:42 | INFO | Created new scorecard: d4096239-2184-4b28-aebd-5b2f41245116
+2026-10-21 00:37:42 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+2026-10-21 00:37:42 | INFO | Successfully loaded game class Cd82 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/cd82/fb555c5d/cd82.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:37:50 | INFO | Created new scorecard: a155937b-af1b-4bfe-b259-d9f18be3d37b
+2026-10-21 00:37:50 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "cd82", "niveau": 2, "gagne": true, "noeuds": 42611, "cpu": 6.1, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:37:50 | INFO | Created new scorecard: 33606910-a967-4ff6-92bc-9fdc0e258ce0
+2026-10-21 00:37:50 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:37:53 | INFO | Created new scorecard: 73836676-1468-489f-a5bc-67a59266e5e8
+2026-10-21 00:37:53 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "cd82", "niveau": 2, "gagne": true, "noeuds": 42611, "cpu": 6.8, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:37:54 | INFO | Created new scorecard: 75adc766-0fb9-4aa7-99b3-44fe1a4755e2
+2026-10-21 00:37:54 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+{"bras": "actuel", "strategie": "langage_but", "jeu": "cd82", "niveau": 3, "gagne": null, "noeuds": 200022, "cpu": 36.1, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:38:54 | INFO | Created new scorecard: a34d71a7-ff3d-4d91-91b0-cbb3cb87c1de
+2026-10-21 00:38:54 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+{"bras": "monotone", "strategie": "langage_but", "jeu": "cd82", "niveau": 3, "gagne": null, "noeuds": 200022, "cpu": 41.3, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:39:07 | INFO | Created new scorecard: 13895469-0c9f-4475-b36b-50fd22c10206
+2026-10-21 00:39:07 | INFO | Found latest version of cd82: cd82-fb555c5d (downloaded: 2026-09-30 05:48:17.528983+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "cd82", "niveau": 3, "gagne": null, "noeuds": 200027, "cpu": 40.1, "raison": "budget"}
+2026-10-21 00:40:03 | INFO | Created new scorecard: 6ae9e14a-ba88-419f-8359-108368c9ddec
+2026-10-21 00:40:03 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+2026-10-21 00:40:03 | INFO | Successfully loaded game class Dc22 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/dc22/fdcac232/dc22.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:40:04 | INFO | Created new scorecard: 463edfa5-7264-4bb5-bbba-6d50af923170
+2026-10-21 00:40:04 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+{"bras": "actuel", "strategie": "langage_but", "jeu": "dc22", "niveau": 1, "gagne": true, "noeuds": 1018, "cpu": 0.5, "raison": null}
+2026-10-21 00:40:04 | INFO | Created new scorecard: ed311e35-e049-4db4-86be-fe3fe3e9dec6
+2026-10-21 00:40:04 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:40:05 | INFO | Created new scorecard: 999bb985-ac1f-4543-a9c0-476cd8095919
+2026-10-21 00:40:05 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+{"bras": "monotone", "strategie": "langage_but", "jeu": "dc22", "niveau": 1, "gagne": true, "noeuds": 1018, "cpu": 0.5, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:40:05 | INFO | Created new scorecard: 99be974f-a5ee-489a-93d9-8e87f7278fd5
+2026-10-21 00:40:05 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:40:06 | INFO | Created new scorecard: aedfe580-89b4-46c7-a23c-d4321e75d82a
+2026-10-21 00:40:06 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "dc22", "niveau": 1, "gagne": true, "noeuds": 1289, "cpu": 0.6, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:40:06 | INFO | Created new scorecard: fa92956c-95be-4754-8fb8-f7857763bb12
+2026-10-21 00:40:06 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:40:07 | INFO | Created new scorecard: e1a10267-99ec-44c7-a9f2-1b52d49c2c80
+2026-10-21 00:40:07 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "dc22", "niveau": 1, "gagne": true, "noeuds": 1289, "cpu": 0.6, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:40:07 | INFO | Created new scorecard: 255af5a8-da86-426c-ac9b-c240a9a254ac
+2026-10-21 00:40:07 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:40:18 | INFO | Created new scorecard: d213e10e-6343-44d1-9863-f7688f838daf
+2026-10-21 00:40:18 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+{"bras": "actuel", "strategie": "langage_but", "jeu": "dc22", "niveau": 2, "gagne": true, "noeuds": 14139, "cpu": 6.5, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:40:19 | INFO | Created new scorecard: 170e4395-f9a2-4517-9a8c-f1adaad489cb
+2026-10-21 00:40:19 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "cd82", "niveau": 3, "gagne": null, "noeuds": 200027, "cpu": 42.2, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:40:21 | INFO | Created new scorecard: 7e65e2e2-e734-4078-b5ef-f0987f3bc4ef
+2026-10-21 00:40:21 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+2026-10-21 00:40:21 | INFO | Successfully loaded game class Dc22 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/dc22/fdcac232/dc22.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:40:31 | INFO | Created new scorecard: 84c49ba6-f202-4f49-9f57-fae98500c945
+2026-10-21 00:40:31 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+{"bras": "monotone", "strategie": "langage_but", "jeu": "dc22", "niveau": 2, "gagne": true, "noeuds": 14139, "cpu": 6.6, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:40:31 | INFO | Created new scorecard: d0b028a1-4fde-469b-aa06-67348bc5039c
+2026-10-21 00:40:31 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:40:47 | INFO | Created new scorecard: 48b42a6c-e259-4600-a6c2-991dabe889b3
+2026-10-21 00:40:47 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "dc22", "niveau": 2, "gagne": true, "noeuds": 29579, "cpu": 13.7, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:40:48 | INFO | Created new scorecard: 6920fb2c-97a9-4a07-9ce8-d5c4e8f188f6
+2026-10-21 00:40:48 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:40:57 | INFO | Created new scorecard: bbcec328-ba9f-438d-882e-197026b24810
+2026-10-21 00:40:57 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "dc22", "niveau": 2, "gagne": true, "noeuds": 29579, "cpu": 13.7, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:40:58 | INFO | Created new scorecard: 47f2b5fe-3351-4ea6-9f5e-fd516e449ae3
+2026-10-21 00:40:58 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+{"bras": "actuel", "strategie": "langage_but", "jeu": "dc22", "niveau": 3, "gagne": null, "noeuds": 78208, "cpu": 51.2, "raison": "espace épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:42:28 | INFO | Created new scorecard: b2fdeb7b-5e42-463b-a62f-011e7b79a944
+2026-10-21 00:42:28 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+{"bras": "monotone", "strategie": "langage_but", "jeu": "dc22", "niveau": 3, "gagne": null, "noeuds": 78208, "cpu": 51.2, "raison": "espace épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:42:39 | INFO | Created new scorecard: 1599b778-2dbf-43c4-9d17-f7b4bb63c479
+2026-10-21 00:42:39 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+{"bras": "actuel", "strategie": "langage_but", "jeu": "bp35", "niveau": 2, "gagne": null, "noeuds": 108706, "cpu": 300.3, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:43:21 | INFO | Created new scorecard: 438b4e5a-98c5-4ce4-9fa4-dff2bdad353c
+2026-10-21 00:43:21 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+2026-10-21 00:43:21 | INFO | Successfully loaded game class Dc22 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/dc22/fdcac232/dc22.py
+{"bras": "monotone", "strategie": "langage_but", "jeu": "bp35", "niveau": 2, "gagne": null, "noeuds": 97406, "cpu": 300.7, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:43:23 | INFO | Created new scorecard: 1c5ab21a-db41-4f35-b130-5d95b086d213
+2026-10-21 00:43:23 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+2026-10-21 00:43:23 | INFO | Successfully loaded game class Dc22 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/dc22/fdcac232/dc22.py
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "bp35", "niveau": 2, "gagne": null, "noeuds": 104187, "cpu": 300.3, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:43:24 | INFO | Created new scorecard: a062f0ef-5e90-4e71-8b78-0e99fb7c31d1
+2026-10-21 00:43:24 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+2026-10-21 00:43:24 | INFO | Successfully loaded game class Dc22 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/dc22/fdcac232/dc22.py
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "bp35", "niveau": 2, "gagne": null, "noeuds": 89723, "cpu": 300.9, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:43:30 | INFO | Created new scorecard: b8ac747c-c490-4ef1-aa16-2ba6d478d339
+2026-10-21 00:43:30 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+2026-10-21 00:43:30 | INFO | Successfully loaded game class Dc22 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/dc22/fdcac232/dc22.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "dc22", "niveau": 3, "gagne": null, "noeuds": 86123, "cpu": 51.6, "raison": "palier introuvable"}
+2026-10-21 00:43:54 | INFO | Created new scorecard: 6a472c19-84a0-4292-911d-0543ae06f512
+2026-10-21 00:43:54 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+2026-10-21 00:43:55 | INFO | Successfully loaded game class Ft09 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ft09/0d8bbf25/ft09.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:43:56 | INFO | Created new scorecard: ffaf0902-7055-47fb-b8e4-6d926275672f
+2026-10-21 00:43:56 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+{"bras": "actuel", "strategie": "langage_but", "jeu": "ft09", "niveau": 1, "gagne": true, "noeuds": 3195, "cpu": 0.7, "raison": null}
+2026-10-21 00:43:56 | INFO | Created new scorecard: ddb4939e-9308-4366-9371-18ac209c0d14
+2026-10-21 00:43:56 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:43:57 | INFO | Created new scorecard: c04682a6-c307-4773-8df8-a1f9c84c2c57
+2026-10-21 00:43:57 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+{"bras": "monotone", "strategie": "langage_but", "jeu": "ft09", "niveau": 1, "gagne": true, "noeuds": 3195, "cpu": 0.6, "raison": null}
+2026-10-21 00:43:57 | INFO | Created new scorecard: 8fdf63e0-c539-4adb-bdd7-56ad8206c2d4
+2026-10-21 00:43:57 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:43:58 | INFO | Created new scorecard: 8c40aebb-189a-4450-bb2e-25bd43b22d9f
+2026-10-21 00:43:58 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "ft09", "niveau": 1, "gagne": true, "noeuds": 3132, "cpu": 0.6, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:43:58 | INFO | Created new scorecard: c59291a9-a348-418c-917e-055c0f075a4d
+2026-10-21 00:43:58 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:43:59 | INFO | Created new scorecard: 45a0d9a3-7416-4fa4-9865-cd0454add08e
+2026-10-21 00:43:59 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "ft09", "niveau": 1, "gagne": true, "noeuds": 3132, "cpu": 0.6, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:43:59 | INFO | Created new scorecard: 9bdf1748-34c7-48c3-8504-3552767bb044
+2026-10-21 00:43:59 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "dc22", "niveau": 3, "gagne": null, "noeuds": 86123, "cpu": 50.4, "raison": "palier introuvable"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:44:01 | INFO | Created new scorecard: f8d3a083-48f0-4aab-944f-d10d358df7d2
+2026-10-21 00:44:01 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+2026-10-21 00:44:01 | INFO | Successfully loaded game class Ft09 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ft09/0d8bbf25/ft09.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:44:03 | INFO | Created new scorecard: 2db6d881-878c-487a-8c9d-0d0706ab4724
+2026-10-21 00:44:03 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+{"bras": "actuel", "strategie": "langage_but", "jeu": "ft09", "niveau": 2, "gagne": true, "noeuds": 9530, "cpu": 2.5, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:44:03 | INFO | Created new scorecard: 9ace64fc-5669-4a7c-b62a-63b6598e2f57
+2026-10-21 00:44:03 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:44:06 | INFO | Created new scorecard: d4d517cf-e0c5-4a8b-9166-5107471982cb
+2026-10-21 00:44:06 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+{"bras": "monotone", "strategie": "langage_but", "jeu": "ft09", "niveau": 2, "gagne": true, "noeuds": 9530, "cpu": 2.6, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:44:06 | INFO | Created new scorecard: 97e8b59e-ae38-425d-925c-2345811e6112
+2026-10-21 00:44:06 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:44:08 | INFO | Created new scorecard: 8a6a1b8d-ece8-4989-a75b-47514a8449c2
+2026-10-21 00:44:08 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "ft09", "niveau": 2, "gagne": true, "noeuds": 9725, "cpu": 3.2, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:44:08 | INFO | Created new scorecard: 1f345b7b-6d16-4bc8-9f05-f63b4a5cfe3c
+2026-10-21 00:44:08 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:44:11 | INFO | Created new scorecard: c1860693-9ba1-4c72-9527-6f7eeb9eee3b
+2026-10-21 00:44:11 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "ft09", "niveau": 2, "gagne": true, "noeuds": 9725, "cpu": 3.4, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:44:11 | INFO | Created new scorecard: ff843aef-2878-4d45-a41f-3ecee3701551
+2026-10-21 00:44:11 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:44:56 | INFO | Created new scorecard: 4f9d9c8b-dec1-40fa-847e-30ff30b8da38
+2026-10-21 00:44:56 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+{"bras": "actuel", "strategie": "langage_but", "jeu": "ft09", "niveau": 3, "gagne": true, "noeuds": 66899, "cpu": 29.5, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:44:56 | INFO | Created new scorecard: 9dbbb529-0e19-45f0-b061-638a168c4194
+2026-10-21 00:44:56 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:44:59 | INFO | Created new scorecard: 00481d30-cb15-467e-9856-e18086a5c4bb
+2026-10-21 00:44:59 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+{"bras": "monotone", "strategie": "langage_but", "jeu": "ft09", "niveau": 3, "gagne": true, "noeuds": 66899, "cpu": 29.7, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:44:59 | INFO | Created new scorecard: 7f7d956f-b483-4807-9a88-799d2eaf05a9
+2026-10-21 00:44:59 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:46:26 | INFO | Created new scorecard: 34ebd09d-8f3b-4889-afb4-68dd5bc95a2e
+2026-10-21 00:46:26 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+{"bras": "actuel", "strategie": "langage_but", "jeu": "dc22", "niveau": 4, "gagne": true, "noeuds": 92583, "cpu": 115.1, "raison": null}
+2026-10-21 00:46:26 | INFO | Created new scorecard: 1257dcaa-701e-4cc5-ac07-2576090cc442
+2026-10-21 00:46:26 | INFO | Found latest version of g50t: g50t-5849a774 (downloaded: 2026-09-30 05:48:19.053741+00:00)
+2026-10-21 00:46:26 | INFO | Successfully loaded game class G50t from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/g50t/5849a774/g50t.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:46:31 | INFO | Created new scorecard: 637c5a18-9e11-4ff1-b49b-f527c46227b2
+2026-10-21 00:46:31 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+{"bras": "monotone", "strategie": "langage_but", "jeu": "dc22", "niveau": 4, "gagne": true, "noeuds": 92583, "cpu": 117.3, "raison": null}
+2026-10-21 00:46:31 | INFO | Created new scorecard: a38f83bb-915f-47bb-a51b-597f05163295
+2026-10-21 00:46:31 | INFO | Found latest version of g50t: g50t-5849a774 (downloaded: 2026-09-30 05:48:19.053741+00:00)
+2026-10-21 00:46:31 | INFO | Successfully loaded game class G50t from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/g50t/5849a774/g50t.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:47:15 | INFO | Created new scorecard: 458a685b-d461-4ba4-be48-52bb66b99805
+2026-10-21 00:47:15 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "ft09", "niveau": 3, "gagne": true, "noeuds": 179183, "cpu": 88.4, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:47:15 | INFO | Created new scorecard: b56255a6-eb54-4295-900c-a569760d8774
+2026-10-21 00:47:15 | INFO | Found latest version of g50t: g50t-5849a774 (downloaded: 2026-09-30 05:48:19.053741+00:00)
+2026-10-21 00:47:16 | INFO | Successfully loaded game class G50t from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/g50t/5849a774/g50t.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:47:18 | INFO | Created new scorecard: 6feb0432-d5b1-4ac1-90b9-285e6d5c1203
+2026-10-21 00:47:18 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "ft09", "niveau": 3, "gagne": true, "noeuds": 179183, "cpu": 87.9, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:47:18 | INFO | Created new scorecard: 8bbc2a6c-5fed-4dfd-9174-55ebc4c7e97d
+2026-10-21 00:47:18 | INFO | Found latest version of g50t: g50t-5849a774 (downloaded: 2026-09-30 05:48:19.053741+00:00)
+2026-10-21 00:47:18 | INFO | Successfully loaded game class G50t from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/g50t/5849a774/g50t.py
+{"bras": "actuel", "strategie": "langage_but", "jeu": "g50t", "niveau": 1, "gagne": null, "noeuds": 200000, "cpu": 62.3, "raison": "budget"}
+{"bras": "actuel", "strategie": "langage_but", "jeu": "g50t", "niveau": 2, "gagne": null, "noeuds": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+{"bras": "monotone", "strategie": "langage_but", "jeu": "g50t", "niveau": 2, "gagne": null, "noeuds": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "g50t", "niveau": 2, "gagne": null, "noeuds": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "g50t", "niveau": 2, "gagne": null, "noeuds": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+{"bras": "actuel", "strategie": "langage_but", "jeu": "g50t", "niveau": 3, "gagne": null, "noeuds": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+{"bras": "monotone", "strategie": "langage_but", "jeu": "g50t", "niveau": 3, "gagne": null, "noeuds": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "g50t", "niveau": 3, "gagne": null, "noeuds": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "g50t", "niveau": 3, "gagne": null, "noeuds": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+2026-10-21 00:47:55 | INFO | Created new scorecard: 176a54ab-7d0a-4e27-b8c0-711c618ade7c
+2026-10-21 00:47:55 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+2026-10-21 00:47:55 | INFO | Successfully loaded game class Ka59 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ka59/38d34dbb/ka59.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:48:07 | INFO | Created new scorecard: 47fb797d-4164-430a-aaa2-30478990f0f7
+2026-10-21 00:48:07 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"bras": "actuel", "strategie": "langage_but", "jeu": "ka59", "niveau": 1, "gagne": true, "noeuds": 101357, "cpu": 10.6, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:48:07 | INFO | Created new scorecard: 75de8dd4-5a84-4e24-9de3-2aae791aa860
+2026-10-21 00:48:07 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"bras": "monotone", "strategie": "langage_but", "jeu": "g50t", "niveau": 1, "gagne": null, "noeuds": 200000, "cpu": 75.4, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:48:16 | INFO | Created new scorecard: c672ba21-9ff0-4b08-8ea8-4b349a5c9695
+2026-10-21 00:48:16 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+2026-10-21 00:48:16 | INFO | Successfully loaded game class Ka59 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ka59/38d34dbb/ka59.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:48:19 | INFO | Created new scorecard: 484ae07d-a5e9-4ef7-91a1-8d421ea9c13d
+2026-10-21 00:48:19 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+{"bras": "monotone", "strategie": "langage_but", "jeu": "ka59", "niveau": 1, "gagne": true, "noeuds": 101357, "cpu": 10.6, "raison": null}
+2026-10-21 00:48:19 | INFO | Created new scorecard: af76c428-dce6-4cbf-a27d-fdd996767355
+2026-10-21 00:48:19 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "ka59", "niveau": 1, "gagne": null, "noeuds": 200009, "cpu": 22.5, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:48:43 | INFO | Created new scorecard: d07f01fc-0cee-48cc-8e14-e0ce32c2457a
+2026-10-21 00:48:43 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "ka59", "niveau": 1, "gagne": null, "noeuds": 200009, "cpu": 22.7, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:48:47 | INFO | Created new scorecard: 0d2d078c-5676-41d1-a991-640009b76341
+2026-10-21 00:48:47 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "g50t", "niveau": 1, "gagne": null, "noeuds": 200001, "cpu": 75.3, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:48:49 | INFO | Created new scorecard: 7c0a0961-d6da-4ca7-901a-7b7112058a9b
+2026-10-21 00:48:49 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+2026-10-21 00:48:50 | INFO | Successfully loaded game class Ka59 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ka59/38d34dbb/ka59.py
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "g50t", "niveau": 1, "gagne": null, "noeuds": 200001, "cpu": 75.7, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:48:52 | INFO | Created new scorecard: c4fe2994-8c6b-451c-a781-bdd0ee012f33
+2026-10-21 00:48:52 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+2026-10-21 00:48:52 | INFO | Successfully loaded game class Ka59 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ka59/38d34dbb/ka59.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:49:17 | INFO | Created new scorecard: b799b520-10b7-4e1d-8984-6b8cf5913ab6
+2026-10-21 00:49:17 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "dc22", "niveau": 4, "gagne": true, "noeuds": 188944, "cpu": 241.8, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:49:17 | INFO | Created new scorecard: 4aeb4536-4b3f-4d01-9048-fd62dcaa375d
+2026-10-21 00:49:17 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+2026-10-21 00:49:17 | INFO | Successfully loaded game class Ka59 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ka59/38d34dbb/ka59.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:49:21 | INFO | Created new scorecard: 36cec796-c72a-4aff-ae33-386aabf2d1bb
+2026-10-21 00:49:21 | INFO | Found latest version of dc22: dc22-fdcac232 (downloaded: 2026-09-30 05:48:16.605068+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "dc22", "niveau": 4, "gagne": true, "noeuds": 188944, "cpu": 242.3, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:49:22 | INFO | Created new scorecard: e4cc1bc1-3014-42c0-bb1b-22e49e12c1ec
+2026-10-21 00:49:22 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+2026-10-21 00:49:22 | INFO | Successfully loaded game class Ka59 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ka59/38d34dbb/ka59.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:49:29 | INFO | Created new scorecard: 9c85e352-10a6-45bc-84ea-51dc6f96c2f4
+2026-10-21 00:49:29 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"bras": "actuel", "strategie": "langage_but", "jeu": "ka59", "niveau": 3, "gagne": true, "noeuds": 81397, "cpu": 9.8, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:49:30 | INFO | Created new scorecard: 6d111c09-59b8-41ac-9656-5d6d11476375
+2026-10-21 00:49:30 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"bras": "actuel", "strategie": "langage_but", "jeu": "ka59", "niveau": 2, "gagne": null, "noeuds": 200000, "cpu": 39.6, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:49:31 | INFO | Created new scorecard: 384f93e7-250b-4443-b64c-99d876950a38
+2026-10-21 00:49:31 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:49:33 | INFO | Created new scorecard: c60c8af2-5a52-4e60-8611-70a6a15cece3
+2026-10-21 00:49:33 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"bras": "monotone", "strategie": "langage_but", "jeu": "ka59", "niveau": 3, "gagne": true, "noeuds": 81397, "cpu": 9.2, "raison": null}
+{"bras": "monotone", "strategie": "langage_but", "jeu": "ka59", "niveau": 2, "gagne": null, "noeuds": 200000, "cpu": 38.7, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:49:33 | INFO | Created new scorecard: 64cadc41-c5a9-43d2-bcd2-fe9c4c307e0b
+2026-10-21 00:49:33 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:49:33 | INFO | Created new scorecard: f91850b6-3882-44ed-bdd3-4672e2df4806
+2026-10-21 00:49:33 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "ka59", "niveau": 2, "gagne": null, "noeuds": 200005, "cpu": 39.2, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:49:36 | INFO | Created new scorecard: 87dbcd93-b4f9-4912-9227-6f1e24217605
+2026-10-21 00:49:36 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "ka59", "niveau": 2, "gagne": null, "noeuds": 200005, "cpu": 38.1, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:49:38 | INFO | Created new scorecard: ad57f5c9-a4f2-4586-8a2e-6d60befacf9c
+2026-10-21 00:49:38 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "ka59", "niveau": 3, "gagne": null, "noeuds": 200000, "cpu": 21.9, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:49:58 | INFO | Created new scorecard: 3a26390c-05a5-43d8-9b51-9392bc15b78b
+2026-10-21 00:49:58 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+2026-10-21 00:49:58 | INFO | Successfully loaded game class Lf52 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/lf52/271a04aa/lf52.py
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "ka59", "niveau": 3, "gagne": null, "noeuds": 200000, "cpu": 23.5, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:49:59 | INFO | Created new scorecard: e6314890-67ff-4472-8d86-7757cc105bb5
+2026-10-21 00:49:59 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+2026-10-21 00:49:59 | INFO | Successfully loaded game class Lf52 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/lf52/271a04aa/lf52.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:50:02 | INFO | Created new scorecard: 2891933e-1592-4903-9de2-380293504c28
+2026-10-21 00:50:02 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+{"bras": "actuel", "strategie": "langage_but", "jeu": "lf52", "niveau": 1, "gagne": true, "noeuds": 4469, "cpu": 3.3, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:50:02 | INFO | Created new scorecard: 5947e5df-b004-470a-b0c8-73c0b4a72371
+2026-10-21 00:50:02 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+{"bras": "actuel", "strategie": "langage_but", "jeu": "ka59", "niveau": 4, "gagne": null, "noeuds": 200013, "cpu": 24.9, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:50:04 | INFO | Created new scorecard: 426c0fdd-206e-42f5-85f0-237fbb428a64
+2026-10-21 00:50:04 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+2026-10-21 00:50:04 | INFO | Successfully loaded game class Lf52 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/lf52/271a04aa/lf52.py
+{"bras": "monotone", "strategie": "langage_but", "jeu": "ka59", "niveau": 4, "gagne": null, "noeuds": 200013, "cpu": 25.8, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:50:05 | INFO | Created new scorecard: e579046f-0b77-4e59-b5e0-3abf46f460f9
+2026-10-21 00:50:05 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:50:05 | INFO | Created new scorecard: 6236fbe1-197b-4f12-a0e2-551dc0a3dc2a
+2026-10-21 00:50:05 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "lf52", "niveau": 1, "gagne": true, "noeuds": 3021, "cpu": 2.3, "raison": null}
+2026-10-21 00:50:05 | INFO | Successfully loaded game class Lf52 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/lf52/271a04aa/lf52.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:50:05 | INFO | Created new scorecard: b13bc82f-8949-4300-9263-a03c58c24ab8
+2026-10-21 00:50:05 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "ka59", "niveau": 4, "gagne": null, "noeuds": 200014, "cpu": 26.3, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:50:09 | INFO | Created new scorecard: 1b54d2d8-3f98-441c-8bc3-edd6cbbe90c3
+2026-10-21 00:50:09 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+2026-10-21 00:50:09 | INFO | Successfully loaded game class Lf52 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/lf52/271a04aa/lf52.py
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "ka59", "niveau": 4, "gagne": null, "noeuds": 200014, "cpu": 25.9, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:50:10 | INFO | Created new scorecard: 3c08e25a-2822-4405-ba5b-793ab8a245f2
+2026-10-21 00:50:10 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+2026-10-21 00:50:10 | INFO | Successfully loaded game class Lf52 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/lf52/271a04aa/lf52.py
+{"bras": "actuel", "strategie": "langage_but", "jeu": "lf52", "niveau": 2, "gagne": null, "noeuds": 53253, "cpu": 36.7, "raison": "espace épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:50:50 | INFO | Created new scorecard: ff83abe5-4d82-4c5c-b37e-9034db9cc8a3
+2026-10-21 00:50:50 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "lf52", "niveau": 2, "gagne": null, "noeuds": 51180, "cpu": 35.6, "raison": "palier introuvable"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:50:53 | INFO | Created new scorecard: b8d621f9-eae9-4dfd-8f36-196888ec3fd3
+2026-10-21 00:50:53 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+{"bras": "monotone", "strategie": "langage_but", "jeu": "lf52", "niveau": 1, "gagne": null, "noeuds": 200025, "cpu": 135.2, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:52:45 | INFO | Created new scorecard: 01266209-4dd7-4c9b-973d-5804542a2086
+2026-10-21 00:52:45 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "lf52", "niveau": 1, "gagne": null, "noeuds": 200026, "cpu": 140.3, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:52:56 | INFO | Created new scorecard: 3c4c4039-5f49-4f2d-bf13-b2d9f1d7163d
+2026-10-21 00:52:56 | INFO | Found latest version of lf52: lf52-271a04aa (downloaded: 2026-09-30 05:48:13.078031+00:00)
+{"bras": "monotone", "strategie": "langage_but", "jeu": "lf52", "niveau": 2, "gagne": null, "noeuds": 200019, "cpu": 140.0, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:52:56 | INFO | Created new scorecard: 44714f10-1f00-479b-8c43-c9a86b686ee7
+2026-10-21 00:52:56 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+2026-10-21 00:52:56 | INFO | Successfully loaded game class Lp85 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/lp85/305b61c3/lp85.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:52:57 | INFO | Created new scorecard: 6f6e1d7e-ff8b-4dd1-a44c-861115c14541
+2026-10-21 00:52:57 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+{"bras": "actuel", "strategie": "langage_but", "jeu": "lp85", "niveau": 1, "gagne": true, "noeuds": 431, "cpu": 0.2, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:52:57 | INFO | Created new scorecard: c23c6385-448d-45c3-b138-9e4a2940f94f
+2026-10-21 00:52:57 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:52:57 | INFO | Created new scorecard: 1cab3b92-23be-4c00-a810-3ef7a2428eb9
+2026-10-21 00:52:57 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+{"bras": "monotone", "strategie": "langage_but", "jeu": "lp85", "niveau": 1, "gagne": true, "noeuds": 431, "cpu": 0.2, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:52:57 | INFO | Created new scorecard: 22d4aa7b-84ff-4ab4-a49e-e1590393ee67
+2026-10-21 00:52:57 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:52:57 | INFO | Created new scorecard: d90ed083-3bd8-493c-9ef9-de858e38cf61
+2026-10-21 00:52:57 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "lp85", "niveau": 1, "gagne": true, "noeuds": 395, "cpu": 0.2, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:52:57 | INFO | Created new scorecard: 70323712-f16f-4f65-9a62-5ae113d43a21
+2026-10-21 00:52:57 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:52:57 | INFO | Created new scorecard: e0fe19ae-c519-4689-8dd2-9e39628f107e
+2026-10-21 00:52:57 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "lp85", "niveau": 1, "gagne": true, "noeuds": 395, "cpu": 0.2, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:52:57 | INFO | Created new scorecard: 11b820a0-2a8f-484c-b8c0-003921a43b8d
+2026-10-21 00:52:57 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "lf52", "niveau": 2, "gagne": null, "noeuds": 200020, "cpu": 146.2, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:53:08 | INFO | Created new scorecard: 3aeb5024-de5c-476f-90ef-7adbfc980a30
+2026-10-21 00:53:08 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+2026-10-21 00:53:09 | INFO | Successfully loaded game class Lp85 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/lp85/305b61c3/lp85.py
+{"bras": "actuel", "strategie": "langage_but", "jeu": "lf52", "niveau": 3, "gagne": null, "noeuds": 131787, "cpu": 127.7, "raison": "espace épuisé"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:53:26 | INFO | Created new scorecard: c7e6fe6c-a514-4807-b7b3-8361fd112f27
+2026-10-21 00:53:26 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+2026-10-21 00:53:26 | INFO | Successfully loaded game class Lp85 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/lp85/305b61c3/lp85.py
+{"bras": "actuel", "strategie": "langage_but", "jeu": "lp85", "niveau": 2, "gagne": null, "noeuds": 200022, "cpu": 81.3, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:54:38 | INFO | Created new scorecard: b0fd518e-0402-43ef-b042-bcdc9680fd08
+2026-10-21 00:54:38 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+{"bras": "monotone", "strategie": "langage_but", "jeu": "lp85", "niveau": 2, "gagne": null, "noeuds": 200022, "cpu": 81.9, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:54:50 | INFO | Created new scorecard: 67f3d13e-1e16-4f55-8dd4-9f96efab2a31
+2026-10-21 00:54:50 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+{"bras": "monotone", "strategie": "langage_but", "jeu": "lf52", "niveau": 3, "gagne": null, "noeuds": 200070, "cpu": 202.4, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:55:02 | INFO | Created new scorecard: cacd7459-87e4-4c5a-bedb-c3a07b212121
+2026-10-21 00:55:02 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+2026-10-21 00:55:02 | INFO | Successfully loaded game class Lp85 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/lp85/305b61c3/lp85.py
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "lp85", "niveau": 2, "gagne": null, "noeuds": 200038, "cpu": 83.6, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:55:11 | INFO | Created new scorecard: 91b387a0-e23e-420b-a852-b79844164d01
+2026-10-21 00:55:11 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "lf52", "niveau": 3, "gagne": null, "noeuds": 128953, "cpu": 126.3, "raison": "palier introuvable"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:55:22 | INFO | Created new scorecard: 67ff4071-e320-4c9d-9218-d523da0e28ea
+2026-10-21 00:55:22 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+2026-10-21 00:55:22 | INFO | Successfully loaded game class Lp85 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/lp85/305b61c3/lp85.py
+{"bras": "actuel", "strategie": "langage_but", "jeu": "lp85", "niveau": 3, "gagne": null, "noeuds": 200032, "cpu": 58.6, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:56:03 | INFO | Created new scorecard: 9c06832e-fd87-4d1d-9eb2-d77e2de82e41
+2026-10-21 00:56:03 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+2026-10-21 00:56:03 | INFO | Successfully loaded game class Ls20 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ls20/9607627b/ls20.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:56:05 | INFO | Created new scorecard: b734d905-9caa-4597-8e64-64a110f11c0d
+2026-10-21 00:56:05 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+{"bras": "actuel", "strategie": "langage_but", "jeu": "ls20", "niveau": 1, "gagne": true, "noeuds": 625, "cpu": 1.6, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:56:05 | INFO | Created new scorecard: d828af24-e7fe-485a-9d35-36a740a41910
+2026-10-21 00:56:05 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:56:12 | INFO | Created new scorecard: e68f5d81-8003-4b03-937c-f8db3328d3a8
+2026-10-21 00:56:12 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+{"bras": "monotone", "strategie": "langage_but", "jeu": "ls20", "niveau": 1, "gagne": true, "noeuds": 3377, "cpu": 5.3, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:56:12 | INFO | Created new scorecard: d453e218-3644-4360-b968-c24bb8a0ee14
+2026-10-21 00:56:12 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+{"bras": "monotone", "strategie": "langage_but", "jeu": "lp85", "niveau": 3, "gagne": null, "noeuds": 200032, "cpu": 58.3, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:56:14 | INFO | Created new scorecard: 064939b5-192f-4eaf-8f9c-c73347dfe4a5
+2026-10-21 00:56:14 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:56:14 | INFO | Created new scorecard: 905416df-1387-4f84-ab43-d3b1be224dee
+2026-10-21 00:56:14 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+2026-10-21 00:56:14 | INFO | Successfully loaded game class Ls20 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ls20/9607627b/ls20.py
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "ls20", "niveau": 1, "gagne": true, "noeuds": 622, "cpu": 1.7, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:56:14 | INFO | Created new scorecard: 6217dfe1-1519-4fe5-93eb-34eff800d991
+2026-10-21 00:56:14 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:56:21 | INFO | Created new scorecard: 86b10d6d-817d-43e0-8821-5f34f245756b
+2026-10-21 00:56:21 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "ls20", "niveau": 1, "gagne": true, "noeuds": 3738, "cpu": 5.9, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:56:21 | INFO | Created new scorecard: bb27e6ae-fe9f-4f42-9ada-3f35b818e97f
+2026-10-21 00:56:21 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "lp85", "niveau": 3, "gagne": null, "noeuds": 200033, "cpu": 58.4, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:56:23 | INFO | Created new scorecard: ebd5f851-4240-403e-9170-12972e529b7a
+2026-10-21 00:56:23 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+2026-10-21 00:56:23 | INFO | Successfully loaded game class Ls20 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ls20/9607627b/ls20.py
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "lp85", "niveau": 2, "gagne": null, "noeuds": 200038, "cpu": 84.8, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:56:24 | INFO | Created new scorecard: 1bec02b4-1427-444a-b7d5-c27f02866e7a
+2026-10-21 00:56:24 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+2026-10-21 00:56:24 | INFO | Successfully loaded game class Ls20 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ls20/9607627b/ls20.py
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "lp85", "niveau": 3, "gagne": null, "noeuds": 200033, "cpu": 57.7, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:56:33 | INFO | Created new scorecard: f804bb36-2293-4588-ab69-1b2968453bbb
+2026-10-21 00:56:33 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+2026-10-21 00:56:33 | INFO | Successfully loaded game class Ls20 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ls20/9607627b/ls20.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:56:35 | INFO | Created new scorecard: 2e1ea406-6ffc-45ba-970c-5f644e8ace99
+2026-10-21 00:56:35 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+{"bras": "actuel", "strategie": "langage_but", "jeu": "ls20", "niveau": 2, "gagne": true, "noeuds": 10782, "cpu": 17.1, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:56:36 | INFO | Created new scorecard: 3d650a71-7c65-4017-87d6-1dfe36939cfa
+2026-10-21 00:56:36 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:56:46 | INFO | Created new scorecard: f2864aee-0f94-43cf-b49d-ff133f2c4302
+2026-10-21 00:56:46 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "ls20", "niveau": 2, "gagne": true, "noeuds": 10779, "cpu": 19.0, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:56:46 | INFO | Created new scorecard: 3a04c429-af23-479a-a0d3-fd9333ad9b4a
+2026-10-21 00:56:46 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:56:48 | INFO | Created new scorecard: 2336fb38-799e-4d90-9743-fa3c44bd8507
+2026-10-21 00:56:48 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+{"bras": "actuel", "strategie": "langage_but", "jeu": "ls20", "niveau": 3, "gagne": true, "noeuds": 9074, "cpu": 12.9, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:56:49 | INFO | Created new scorecard: c569a855-f724-49aa-95c7-e07150edc70a
+2026-10-21 00:56:49 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:57:01 | INFO | Created new scorecard: b8510a4a-8209-4c74-8fa1-fa346d1d040e
+2026-10-21 00:57:01 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "ls20", "niveau": 3, "gagne": true, "noeuds": 9071, "cpu": 13.3, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:57:02 | INFO | Created new scorecard: 0c18b412-9118-48ae-8403-aacf881b9642
+2026-10-21 00:57:02 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "lf52", "niveau": 3, "gagne": null, "noeuds": 200071, "cpu": 209.2, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:57:13 | INFO | Created new scorecard: e7454275-66d8-4c82-b823-227cbae056cb
+2026-10-21 00:57:13 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+2026-10-21 00:57:13 | INFO | Successfully loaded game class Ls20 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ls20/9607627b/ls20.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:58:07 | INFO | Created new scorecard: 5f03a5f2-b160-407c-bd26-3486ba1406ed
+2026-10-21 00:58:07 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "ls20", "niveau": 2, "gagne": true, "noeuds": 77319, "cpu": 89.4, "raison": null}
+2026-10-21 00:58:07 | INFO | Created new scorecard: 1d16b9a4-e952-4391-92a0-cfc9c6d1587c
+2026-10-21 00:58:07 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:58:08 | INFO | Created new scorecard: e51cbcd7-df8a-4620-bdbe-1211090d0991
+2026-10-21 00:58:08 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+{"bras": "monotone", "strategie": "langage_but", "jeu": "ls20", "niveau": 3, "gagne": true, "noeuds": 75142, "cpu": 79.2, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:58:08 | INFO | Created new scorecard: b712ee82-142a-4c79-b1aa-ae0ededbc353
+2026-10-21 00:58:08 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:58:08 | INFO | Created new scorecard: 3d65cc05-a46f-451d-b2fa-7daab8ad3900
+2026-10-21 00:58:08 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+{"bras": "monotone", "strategie": "langage_but", "jeu": "ls20", "niveau": 2, "gagne": true, "noeuds": 77366, "cpu": 91.5, "raison": null}
+2026-10-21 00:58:08 | INFO | Created new scorecard: 020f1ad3-5c38-4ebd-897d-98ca88bb61b6
+2026-10-21 00:58:08 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+2026-10-21 00:58:08 | INFO | Successfully loaded game class M0r0 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/m0r0/492f87ba/m0r0.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:58:10 | INFO | Created new scorecard: 21938db2-171f-4b2d-9c43-05f87f40c5d9
+2026-10-21 00:58:10 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+{"bras": "actuel", "strategie": "langage_but", "jeu": "m0r0", "niveau": 1, "gagne": true, "noeuds": 18166, "cpu": 1.4, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:58:10 | INFO | Created new scorecard: 918dc1e2-d79a-4e0c-8f83-44b31b8aeb17
+2026-10-21 00:58:10 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:58:11 | INFO | Created new scorecard: 36e35d3e-8c53-4db1-a7d1-d4ed1f01db30
+2026-10-21 00:58:11 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+{"bras": "monotone", "strategie": "langage_but", "jeu": "m0r0", "niveau": 1, "gagne": true, "noeuds": 18166, "cpu": 1.4, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:58:11 | INFO | Created new scorecard: d26978d7-83db-4cda-abf4-5fdb682f434d
+2026-10-21 00:58:11 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:58:13 | INFO | Created new scorecard: 9a2e564b-e063-42e6-a40e-98c520d01d16
+2026-10-21 00:58:13 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "m0r0", "niveau": 1, "gagne": true, "noeuds": 18104, "cpu": 1.4, "raison": null}
+2026-10-21 00:58:13 | INFO | Created new scorecard: b8716f79-f623-444f-a3fa-7905590d9439
+2026-10-21 00:58:13 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:58:15 | INFO | Created new scorecard: ceeaf781-b35d-4d06-a538-fc2387513ee6
+2026-10-21 00:58:15 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "m0r0", "niveau": 1, "gagne": true, "noeuds": 18104, "cpu": 1.4, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:58:15 | INFO | Created new scorecard: 2c7df623-c4f2-4e1d-823c-afcaa42f143e
+2026-10-21 00:58:15 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:58:16 | INFO | Created new scorecard: d00f183b-0348-4e0c-b4e9-008d5c7323e4
+2026-10-21 00:58:16 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "ls20", "niveau": 3, "gagne": true, "noeuds": 75095, "cpu": 76.3, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:58:16 | INFO | Created new scorecard: 3a0d1f4c-03bb-4361-b959-c4cb36d3c4ec
+2026-10-21 00:58:16 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+2026-10-21 00:58:16 | INFO | Successfully loaded game class M0r0 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/m0r0/492f87ba/m0r0.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:58:23 | INFO | Created new scorecard: 1ab02fc4-0345-4e30-a3ef-b10ac967ff4b
+2026-10-21 00:58:23 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+{"bras": "actuel", "strategie": "langage_but", "jeu": "ls20", "niveau": 4, "gagne": true, "noeuds": 40991, "cpu": 71.2, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:58:24 | INFO | Created new scorecard: 7db023c0-d9b2-4307-865b-8772cc677089
+2026-10-21 00:58:24 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+2026-10-21 00:58:24 | INFO | Successfully loaded game class M0r0 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/m0r0/492f87ba/m0r0.py
+{"bras": "monotone", "strategie": "langage_but", "jeu": "m0r0", "niveau": 2, "gagne": null, "noeuds": 200074, "cpu": 46.3, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:59:09 | INFO | Created new scorecard: d4a609e6-0983-4225-a24e-4dac54284374
+2026-10-21 00:59:09 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+{"bras": "actuel", "strategie": "langage_but", "jeu": "m0r0", "niveau": 2, "gagne": null, "noeuds": 200074, "cpu": 47.6, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:59:09 | INFO | Created new scorecard: c33725e1-cee8-4ead-9338-d2a66b902e9c
+2026-10-21 00:59:09 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "m0r0", "niveau": 2, "gagne": null, "noeuds": 200075, "cpu": 46.0, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:59:17 | INFO | Created new scorecard: 5cc3ac4f-d1ed-4e3c-80b9-ce183c17aa4a
+2026-10-21 00:59:17 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:59:33 | INFO | Created new scorecard: c4a06d97-f9c0-42af-95f4-8cedb34e9d20
+2026-10-21 00:59:33 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "ls20", "niveau": 4, "gagne": true, "noeuds": 41584, "cpu": 72.4, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:59:33 | INFO | Created new scorecard: 2639b3c7-f3d4-4347-ba99-eca32f401d4a
+2026-10-21 00:59:33 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+2026-10-21 00:59:33 | INFO | Successfully loaded game class M0r0 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/m0r0/492f87ba/m0r0.py
+{"bras": "actuel", "strategie": "langage_but", "jeu": "m0r0", "niveau": 3, "gagne": null, "noeuds": 200004, "cpu": 19.9, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:59:34 | INFO | Created new scorecard: 9557ba5c-3b78-437e-8e19-b4174c1b50ec
+2026-10-21 00:59:34 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+{"bras": "monotone", "strategie": "langage_but", "jeu": "m0r0", "niveau": 3, "gagne": null, "noeuds": 200004, "cpu": 19.0, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:59:41 | INFO | Created new scorecard: 86d4d192-779a-469c-a485-135e87bc54d0
+2026-10-21 00:59:41 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "m0r0", "niveau": 3, "gagne": null, "noeuds": 200005, "cpu": 20.3, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:59:58 | INFO | Created new scorecard: b0c93a53-8c85-4ec4-9d0b-c831a39a83dd
+2026-10-21 00:59:58 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "m0r0", "niveau": 3, "gagne": null, "noeuds": 200005, "cpu": 20.1, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 00:59:59 | INFO | Created new scorecard: aa895cf6-c6d7-4e35-97cf-500512ef2797
+2026-10-21 00:59:59 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "m0r0", "niveau": 2, "gagne": null, "noeuds": 200075, "cpu": 44.8, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:00:05 | INFO | Created new scorecard: c1133483-6576-45ff-a869-0f6f0fc67707
+2026-10-21 01:00:05 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+{"bras": "actuel", "strategie": "langage_but", "jeu": "m0r0", "niveau": 6, "gagne": null, "noeuds": 200312, "cpu": 107.9, "raison": "budget"}
+2026-10-21 01:01:46 | INFO | Created new scorecard: f2b154c4-9616-4b59-b347-8751d19eea44
+2026-10-21 01:01:46 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+2026-10-21 01:01:46 | INFO | Successfully loaded game class R11l from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/r11l/495a7899/r11l.py
+{"bras": "monotone", "strategie": "langage_but", "jeu": "m0r0", "niveau": 6, "gagne": null, "noeuds": 200312, "cpu": 107.7, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:02:04 | INFO | Created new scorecard: 5cef581d-76c7-4f00-b98f-79754bfb49df
+2026-10-21 01:02:04 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+2026-10-21 01:02:04 | INFO | Successfully loaded game class R11l from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/r11l/495a7899/r11l.py
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "m0r0", "niveau": 6, "gagne": null, "noeuds": 200313, "cpu": 108.5, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:02:05 | INFO | Created new scorecard: 1b384954-62df-4a44-9179-518d48b77cdf
+2026-10-21 01:02:05 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+2026-10-21 01:02:06 | INFO | Successfully loaded game class R11l from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/r11l/495a7899/r11l.py
+{"bras": "monotone", "strategie": "langage_but", "jeu": "ls20", "niveau": 4, "gagne": null, "noeuds": 200000, "cpu": 250.9, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:02:08 | INFO | Created new scorecard: 392542f2-44b7-455c-8ce1-908b87872d0f
+2026-10-21 01:02:08 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+2026-10-21 01:02:08 | INFO | Successfully loaded game class R11l from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/r11l/495a7899/r11l.py
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "m0r0", "niveau": 6, "gagne": null, "noeuds": 200313, "cpu": 107.9, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:02:11 | INFO | Created new scorecard: 30edea88-6482-43af-90cf-41f41d6ce000
+2026-10-21 01:02:11 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+2026-10-21 01:02:11 | INFO | Successfully loaded game class R11l from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/r11l/495a7899/r11l.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:02:15 | INFO | Created new scorecard: f4f15a8f-4983-4c01-aaaa-3c9602b1e2da
+2026-10-21 01:02:15 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+{"bras": "actuel", "strategie": "langage_but", "jeu": "r11l", "niveau": 1, "gagne": true, "noeuds": 2152, "cpu": 23.9, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:02:16 | INFO | Created new scorecard: 66d416f2-a442-4fd2-86e6-887f104cd97d
+2026-10-21 01:02:16 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:02:35 | INFO | Created new scorecard: 9964588d-d8d7-4273-8db8-b458c9dcf5cf
+2026-10-21 01:02:35 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "r11l", "niveau": 1, "gagne": true, "noeuds": 2116, "cpu": 24.1, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:02:36 | INFO | Created new scorecard: 2edb202b-c947-4daf-9b1e-dbeccb628d26
+2026-10-21 01:02:36 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:02:41 | INFO | Created new scorecard: ba19ee74-5075-40f7-9e87-e3e8f0839b23
+2026-10-21 01:02:41 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+{"bras": "monotone", "strategie": "langage_but", "jeu": "r11l", "niveau": 1, "gagne": true, "noeuds": 2596, "cpu": 29.7, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:02:41 | INFO | Created new scorecard: a47094d8-2b7c-4d6d-9b34-c844e48de715
+2026-10-21 01:02:41 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:02:45 | INFO | Created new scorecard: b002a374-b545-4196-b5c3-51c90e1d8fbd
+2026-10-21 01:02:45 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "r11l", "niveau": 1, "gagne": true, "noeuds": 2560, "cpu": 29.7, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:02:45 | INFO | Created new scorecard: 6967dc81-b3d9-4e5a-b981-efc6ae642f12
+2026-10-21 01:02:45 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "ls20", "niveau": 4, "gagne": null, "noeuds": 200001, "cpu": 257.5, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:03:12 | INFO | Created new scorecard: acc1474d-a4e4-4b5c-a50f-a96b0ad057e4
+2026-10-21 01:03:12 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+2026-10-21 01:03:12 | INFO | Successfully loaded game class R11l from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/r11l/495a7899/r11l.py
+{"bras": "actuel", "strategie": "langage_but", "jeu": "r11l", "niveau": 2, "gagne": null, "noeuds": 10586, "cpu": 301.0, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:07:31 | INFO | Created new scorecard: eae7aa9c-a291-4f5f-bc2c-f959c4737a5e
+2026-10-21 01:07:31 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+{"bras": "monotone", "strategie": "langage_but", "jeu": "r11l", "niveau": 2, "gagne": null, "noeuds": 9112, "cpu": 301.2, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:07:35 | INFO | Created new scorecard: 91411220-0cdc-43ee-81d8-c43463fe1620
+2026-10-21 01:07:35 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "r11l", "niveau": 2, "gagne": null, "noeuds": 10654, "cpu": 301.2, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:07:51 | INFO | Created new scorecard: 685583cd-7637-4b31-a374-a8236d074ec1
+2026-10-21 01:07:51 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+2026-10-21 01:07:51 | INFO | Successfully loaded game class Re86 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/re86/8af5384d/re86.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:07:53 | INFO | Created new scorecard: d6830ad4-a704-4e84-88dc-4f78e2362cc9
+2026-10-21 01:07:53 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+{"bras": "actuel", "strategie": "langage_but", "jeu": "re86", "niveau": 1, "gagne": true, "noeuds": 501, "cpu": 1.8, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:07:53 | INFO | Created new scorecard: 3e7df08b-b1cb-41df-908e-89263fd475aa
+2026-10-21 01:07:53 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:07:55 | INFO | Created new scorecard: ab0f8998-3654-42e5-802b-990a8b148a91
+2026-10-21 01:07:55 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+{"bras": "monotone", "strategie": "langage_but", "jeu": "re86", "niveau": 1, "gagne": true, "noeuds": 561, "cpu": 1.7, "raison": null}
+2026-10-21 01:07:55 | INFO | Created new scorecard: 9f2f3a91-b49a-4c16-8b45-93f541e41fbe
+2026-10-21 01:07:55 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "r11l", "niveau": 2, "gagne": null, "noeuds": 9515, "cpu": 302.6, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:07:57 | INFO | Created new scorecard: 533526d6-e98f-4f33-ae06-094b8c870145
+2026-10-21 01:07:57 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+2026-10-21 01:07:57 | INFO | Successfully loaded game class Re86 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/re86/8af5384d/re86.py
+{"bras": "actuel", "strategie": "langage_but", "jeu": "r11l", "niveau": 3, "gagne": null, "noeuds": 12390, "cpu": 300.4, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:07:58 | INFO | Created new scorecard: 171bcfe5-8942-4d24-bcb0-53d9e0af9597
+2026-10-21 01:07:58 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+2026-10-21 01:07:58 | INFO | Successfully loaded game class Re86 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/re86/8af5384d/re86.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:07:59 | INFO | Created new scorecard: 8991475d-38e0-44b5-a1cf-9387271385c4
+2026-10-21 01:07:59 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "re86", "niveau": 1, "gagne": true, "noeuds": 1787, "cpu": 3.8, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:07:59 | INFO | Created new scorecard: f967678e-3caa-4a55-8100-4fc55a63aa2d
+2026-10-21 01:07:59 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:08:01 | INFO | Created new scorecard: 4c734932-8a53-47ee-8a6e-6a52e1e1d0ce
+2026-10-21 01:08:01 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "re86", "niveau": 1, "gagne": true, "noeuds": 2012, "cpu": 4.3, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:08:01 | INFO | Created new scorecard: f49f83b0-a90d-44b0-b6a1-9e952d8c2e8e
+2026-10-21 01:08:01 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+{"bras": "monotone", "strategie": "langage_but", "jeu": "r11l", "niveau": 3, "gagne": null, "noeuds": 11033, "cpu": 300.8, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:08:23 | INFO | Created new scorecard: ea267f96-78b2-4cf6-9ba5-89d7ad3b8200
+2026-10-21 01:08:23 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+2026-10-21 01:08:23 | INFO | Successfully loaded game class Re86 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/re86/8af5384d/re86.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:08:44 | INFO | Created new scorecard: 4256c213-e2f6-4561-b6e0-f520eeb30cba
+2026-10-21 01:08:44 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+{"bras": "actuel", "strategie": "langage_but", "jeu": "re86", "niveau": 2, "gagne": true, "noeuds": 25213, "cpu": 45.7, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:08:44 | INFO | Created new scorecard: f15f67cb-0932-4a60-888c-4254541e0f9a
+2026-10-21 01:08:44 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:08:57 | INFO | Created new scorecard: 6a72309a-9bd3-47dc-9ce9-4a1123d55082
+2026-10-21 01:08:57 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+{"bras": "monotone", "strategie": "langage_but", "jeu": "re86", "niveau": 2, "gagne": true, "noeuds": 33018, "cpu": 58.1, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:08:57 | INFO | Created new scorecard: 28c3be34-a191-4986-9a60-55b69bfcc9f3
+2026-10-21 01:08:57 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:10:01 | INFO | Created new scorecard: 40a878a5-b5fa-40c0-a5e3-030ea517ea82
+2026-10-21 01:10:01 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+{"bras": "actuel", "strategie": "langage_but", "jeu": "re86", "niveau": 3, "gagne": true, "noeuds": 58004, "cpu": 76.6, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:10:01 | INFO | Created new scorecard: 00be3210-0e33-4ac5-821a-385da93f5ac9
+2026-10-21 01:10:01 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:10:35 | INFO | Created new scorecard: e7134b18-1b59-4937-a0cf-4eaac9815b5c
+2026-10-21 01:10:35 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+{"bras": "monotone", "strategie": "langage_but", "jeu": "re86", "niveau": 3, "gagne": true, "noeuds": 81539, "cpu": 96.9, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:10:35 | INFO | Created new scorecard: e9b73fe4-16d5-48c6-a5e0-ac5eb377727d
+2026-10-21 01:10:35 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:12:26 | INFO | Created new scorecard: 17215845-9357-48eb-b06f-587a621d8b55
+2026-10-21 01:12:26 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "re86", "niveau": 2, "gagne": true, "noeuds": 158830, "cpu": 263.1, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:12:26 | INFO | Created new scorecard: 02c46d28-dfde-4479-85c7-fedf761a2671
+2026-10-21 01:12:26 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "r11l", "niveau": 3, "gagne": null, "noeuds": 13689, "cpu": 300.2, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:12:33 | INFO | Created new scorecard: a4d758d7-6c77-4746-a6fe-3347f7de0a76
+2026-10-21 01:12:33 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+2026-10-21 01:12:33 | INFO | Successfully loaded game class Re86 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/re86/8af5384d/re86.py
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "r11l", "niveau": 3, "gagne": null, "noeuds": 13748, "cpu": 300.7, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:12:38 | INFO | Created new scorecard: e2af70cc-aeed-4a25-92de-813993c1053f
+2026-10-21 01:12:38 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+2026-10-21 01:12:38 | INFO | Successfully loaded game class Re86 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/re86/8af5384d/re86.py
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "re86", "niveau": 2, "gagne": null, "noeuds": 185716, "cpu": 300.1, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:13:24 | INFO | Created new scorecard: 55ca498c-b47e-4c8e-baac-5d4928e9faa7
+2026-10-21 01:13:24 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:14:21 | INFO | Created new scorecard: 52a3617e-4cd6-4b68-a8be-263e7553c265
+2026-10-21 01:14:21 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+{"bras": "actuel", "strategie": "langage_but", "jeu": "re86", "niveau": 5, "gagne": true, "noeuds": 53999, "cpu": 114.4, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:14:21 | INFO | Created new scorecard: 2457b681-6a69-40f3-97bb-34eff63a6437
+2026-10-21 01:14:21 | INFO | Found latest version of sb26: sb26-7fbdac44 (downloaded: 2026-09-30 05:48:12.305196+00:00)
+2026-10-21 01:14:21 | INFO | Successfully loaded game class Sb26 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sb26/7fbdac44/sb26.py
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "re86", "niveau": 3, "gagne": null, "noeuds": 200004, "cpu": 260.6, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:14:23 | INFO | Created new scorecard: b3119657-d115-46ad-b036-ca3c3b41b8d1
+2026-10-21 01:14:23 | INFO | Found latest version of sb26: sb26-7fbdac44 (downloaded: 2026-09-30 05:48:12.305196+00:00)
+2026-10-21 01:14:23 | INFO | Successfully loaded game class Sb26 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sb26/7fbdac44/sb26.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "re86", "niveau": 3, "gagne": null, "noeuds": 200004, "cpu": 254.4, "raison": "budget"}
+2026-10-21 01:14:51 | INFO | Created new scorecard: 7d426589-15ad-4ecc-a65e-31531d6b6209
+2026-10-21 01:14:51 | INFO | Found latest version of sb26: sb26-7fbdac44 (downloaded: 2026-09-30 05:48:12.305196+00:00)
+2026-10-21 01:14:51 | INFO | Successfully loaded game class Sb26 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sb26/7fbdac44/sb26.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:15:19 | INFO | Created new scorecard: 1da1c535-f450-4876-a92b-e6c4b78215c3
+2026-10-21 01:15:19 | INFO | Found latest version of re86: re86-8af5384d (downloaded: 2026-09-30 05:48:15.315331+00:00)
+{"bras": "monotone", "strategie": "langage_but", "jeu": "re86", "niveau": 5, "gagne": true, "noeuds": 77804, "cpu": 162.8, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:15:19 | INFO | Created new scorecard: f8881c1c-4eff-4937-8867-9a3566a38de3
+2026-10-21 01:15:20 | INFO | Found latest version of sb26: sb26-7fbdac44 (downloaded: 2026-09-30 05:48:12.305196+00:00)
+2026-10-21 01:15:20 | INFO | Successfully loaded game class Sb26 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sb26/7fbdac44/sb26.py
+{"bras": "actuel", "strategie": "langage_but", "jeu": "sb26", "niveau": 1, "gagne": null, "noeuds": 200000, "cpu": 70.4, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:15:35 | INFO | Created new scorecard: 610eb348-0187-4c82-8968-5bb94c8f3eb6
+2026-10-21 01:15:35 | INFO | Found latest version of sb26: sb26-7fbdac44 (downloaded: 2026-09-30 05:48:12.305196+00:00)
+{"bras": "monotone", "strategie": "langage_but", "jeu": "sb26", "niveau": 1, "gagne": null, "noeuds": 200000, "cpu": 69.8, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:15:36 | INFO | Created new scorecard: 9a4537cc-aa31-446d-b311-6a7172306a89
+2026-10-21 01:15:36 | INFO | Found latest version of sb26: sb26-7fbdac44 (downloaded: 2026-09-30 05:48:12.305196+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "sb26", "niveau": 1, "gagne": null, "noeuds": 200001, "cpu": 75.6, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:16:10 | INFO | Created new scorecard: 26a802d7-7f2f-4acd-ac1c-a910e0344f38
+2026-10-21 01:16:10 | INFO | Found latest version of sb26: sb26-7fbdac44 (downloaded: 2026-09-30 05:48:12.305196+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "sb26", "niveau": 1, "gagne": null, "noeuds": 200001, "cpu": 72.8, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:16:36 | INFO | Created new scorecard: 283dd633-a542-4bbf-a38c-ea1d15585776
+2026-10-21 01:16:36 | INFO | Found latest version of sb26: sb26-7fbdac44 (downloaded: 2026-09-30 05:48:12.305196+00:00)
+{"bras": "actuel", "strategie": "langage_but", "jeu": "sb26", "niveau": 2, "gagne": null, "noeuds": 200032, "cpu": 117.6, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:17:39 | INFO | Created new scorecard: 34fcdab8-791d-497c-8289-9a9d777c157b
+2026-10-21 01:17:39 | INFO | Found latest version of sb26: sb26-7fbdac44 (downloaded: 2026-09-30 05:48:12.305196+00:00)
+{"bras": "monotone", "strategie": "langage_but", "jeu": "sb26", "niveau": 2, "gagne": null, "noeuds": 200032, "cpu": 118.6, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:17:42 | INFO | Created new scorecard: 6974a4cd-1641-4ca6-a7f6-91fba06d2ba5
+2026-10-21 01:17:42 | INFO | Found latest version of sb26: sb26-7fbdac44 (downloaded: 2026-09-30 05:48:12.305196+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "re86", "niveau": 5, "gagne": null, "noeuds": 171857, "cpu": 300.4, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:17:49 | INFO | Created new scorecard: ec887618-33ae-413d-883d-8585a6adf69e
+2026-10-21 01:17:49 | INFO | Found latest version of sb26: sb26-7fbdac44 (downloaded: 2026-09-30 05:48:12.305196+00:00)
+2026-10-21 01:17:49 | INFO | Successfully loaded game class Sb26 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sb26/7fbdac44/sb26.py
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "sb26", "niveau": 2, "gagne": null, "noeuds": 200033, "cpu": 119.3, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:18:16 | INFO | Created new scorecard: 80971d33-a1f5-420c-a858-6fe0c30b2330
+2026-10-21 01:18:16 | INFO | Found latest version of sb26: sb26-7fbdac44 (downloaded: 2026-09-30 05:48:12.305196+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "re86", "niveau": 5, "gagne": null, "noeuds": 169872, "cpu": 300.5, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:18:37 | INFO | Created new scorecard: e21954d0-6df6-4eb2-b9f3-c5f52bf81e65
+2026-10-21 01:18:37 | INFO | Found latest version of sc25: sc25-635fd71a (downloaded: 2026-09-30 05:48:22.515492+00:00)
+2026-10-21 01:18:37 | INFO | Successfully loaded game class Sc25 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sc25/635fd71a/sc25.py
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "sb26", "niveau": 2, "gagne": null, "noeuds": 200033, "cpu": 117.3, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:18:39 | INFO | Created new scorecard: 12b37f19-d5ff-4ae7-8167-17c92b39ba8b
+2026-10-21 01:18:39 | INFO | Found latest version of sc25: sc25-635fd71a (downloaded: 2026-09-30 05:48:22.515492+00:00)
+2026-10-21 01:18:39 | INFO | Successfully loaded game class Sc25 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sc25/635fd71a/sc25.py
+{"bras": "actuel", "strategie": "langage_but", "jeu": "sb26", "niveau": 3, "gagne": null, "noeuds": 200039, "cpu": 123.4, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:19:56 | INFO | Created new scorecard: 99885691-228f-412b-90ed-6ed4b5055d92
+2026-10-21 01:19:56 | INFO | Found latest version of sc25: sc25-635fd71a (downloaded: 2026-09-30 05:48:22.515492+00:00)
+2026-10-21 01:19:56 | INFO | Successfully loaded game class Sc25 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sc25/635fd71a/sc25.py
+{"bras": "monotone", "strategie": "langage_but", "jeu": "sb26", "niveau": 3, "gagne": null, "noeuds": 200039, "cpu": 121.9, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:19:57 | INFO | Created new scorecard: 6256d2ed-bc5a-4d8e-bd8f-ea6a3ba23504
+2026-10-21 01:19:57 | INFO | Found latest version of sc25: sc25-635fd71a (downloaded: 2026-09-30 05:48:22.515492+00:00)
+2026-10-21 01:19:58 | INFO | Successfully loaded game class Sc25 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sc25/635fd71a/sc25.py
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "sb26", "niveau": 3, "gagne": null, "noeuds": 200040, "cpu": 127.6, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:20:11 | INFO | Created new scorecard: 8c4d7bf9-a98b-42b5-a80b-86bc6ae6bb07
+2026-10-21 01:20:11 | INFO | Found latest version of sc25: sc25-635fd71a (downloaded: 2026-09-30 05:48:22.515492+00:00)
+2026-10-21 01:20:11 | INFO | Successfully loaded game class Sc25 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sc25/635fd71a/sc25.py
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "sb26", "niveau": 3, "gagne": null, "noeuds": 200040, "cpu": 128.5, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:20:40 | INFO | Created new scorecard: 6f69a1fa-95fd-4e3f-842a-bfa7fa99b241
+2026-10-21 01:20:40 | INFO | Found latest version of sc25: sc25-635fd71a (downloaded: 2026-09-30 05:48:22.515492+00:00)
+2026-10-21 01:20:40 | INFO | Successfully loaded game class Sc25 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sc25/635fd71a/sc25.py
+{"bras": "monotone", "strategie": "langage_but", "jeu": "sc25", "niveau": 1, "gagne": null, "noeuds": 200018, "cpu": 123.2, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:20:57 | INFO | Created new scorecard: f285ee75-94f4-4cbd-9e3a-9ceb04a038fb
+2026-10-21 01:20:57 | INFO | Found latest version of sc25: sc25-635fd71a (downloaded: 2026-09-30 05:48:22.515492+00:00)
+{"bras": "actuel", "strategie": "langage_but", "jeu": "sc25", "niveau": 1, "gagne": null, "noeuds": 200018, "cpu": 125.2, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:20:57 | INFO | Created new scorecard: 2483e408-e2bd-4355-a2eb-c98f916c1ea4
+2026-10-21 01:20:57 | INFO | Found latest version of sc25: sc25-635fd71a (downloaded: 2026-09-30 05:48:22.515492+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "sc25", "niveau": 1, "gagne": null, "noeuds": 200019, "cpu": 124.7, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:22:08 | INFO | Created new scorecard: ca9b2a56-b364-4eec-bdd1-0d624ec1a85c
+2026-10-21 01:22:08 | INFO | Found latest version of sc25: sc25-635fd71a (downloaded: 2026-09-30 05:48:22.515492+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "sc25", "niveau": 1, "gagne": null, "noeuds": 200019, "cpu": 123.7, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:22:08 | INFO | Created new scorecard: 3d9a177b-ffe7-4951-b2e5-0a50d584f1db
+2026-10-21 01:22:08 | INFO | Found latest version of sc25: sc25-635fd71a (downloaded: 2026-09-30 05:48:22.515492+00:00)
+{"bras": "actuel", "strategie": "langage_but", "jeu": "sc25", "niveau": 2, "gagne": null, "noeuds": 200025, "cpu": 114.1, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:22:11 | INFO | Created new scorecard: 2acb7b40-9f7e-487b-bbb0-7435861cc956
+2026-10-21 01:22:11 | INFO | Found latest version of sc25: sc25-635fd71a (downloaded: 2026-09-30 05:48:22.515492+00:00)
+{"bras": "monotone", "strategie": "langage_but", "jeu": "sc25", "niveau": 2, "gagne": null, "noeuds": 200025, "cpu": 114.0, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:22:40 | INFO | Created new scorecard: 420cc205-2b5e-4dc4-8dc6-728a30702d6f
+2026-10-21 01:22:40 | INFO | Found latest version of sc25: sc25-635fd71a (downloaded: 2026-09-30 05:48:22.515492+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "sc25", "niveau": 2, "gagne": null, "noeuds": 200026, "cpu": 114.1, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:22:58 | INFO | Created new scorecard: efd37fbd-4090-4aba-9e33-42b02f881839
+2026-10-21 01:22:58 | INFO | Found latest version of sc25: sc25-635fd71a (downloaded: 2026-09-30 05:48:22.515492+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "sc25", "niveau": 2, "gagne": null, "noeuds": 200026, "cpu": 114.9, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:22:59 | INFO | Created new scorecard: da946e0e-20f4-4a77-9388-f2c2ccf124ac
+2026-10-21 01:22:59 | INFO | Found latest version of sc25: sc25-635fd71a (downloaded: 2026-09-30 05:48:22.515492+00:00)
+{"bras": "actuel", "strategie": "langage_but", "jeu": "sc25", "niveau": 3, "gagne": null, "noeuds": 200012, "cpu": 119.6, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:24:15 | INFO | Created new scorecard: 76a8ef15-3c1a-4115-8084-a7964945b3d0
+2026-10-21 01:24:15 | INFO | Found latest version of sc25: sc25-635fd71a (downloaded: 2026-09-30 05:48:22.515492+00:00)
+{"bras": "monotone", "strategie": "langage_but", "jeu": "sc25", "niveau": 3, "gagne": null, "noeuds": 200012, "cpu": 119.8, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:24:16 | INFO | Created new scorecard: 0ec4c6c8-0b79-4e6e-a583-2f7d1af540ed
+2026-10-21 01:24:16 | INFO | Found latest version of sc25: sc25-635fd71a (downloaded: 2026-09-30 05:48:22.515492+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "sc25", "niveau": 3, "gagne": null, "noeuds": 200013, "cpu": 117.9, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:24:16 | INFO | Created new scorecard: cb3ac9d1-a601-4d5a-872e-b00fd5548d79
+2026-10-21 01:24:16 | INFO | Found latest version of sk48: sk48-d8078629 (downloaded: 2026-09-30 05:48:14.833617+00:00)
+2026-10-21 01:24:16 | INFO | Successfully loaded game class Sk48 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sk48/d8078629/sk48.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "sc25", "niveau": 3, "gagne": null, "noeuds": 200013, "cpu": 119.8, "raison": "budget"}
+2026-10-21 01:24:48 | INFO | Created new scorecard: 8c0db2c6-e56c-4ee6-b127-d253642dc4f3
+2026-10-21 01:24:48 | INFO | Found latest version of sk48: sk48-d8078629 (downloaded: 2026-09-30 05:48:14.833617+00:00)
+2026-10-21 01:24:48 | INFO | Successfully loaded game class Sk48 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sk48/d8078629/sk48.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+{"bras": "actuel", "strategie": "langage_but", "jeu": "sk48", "niveau": 1, "gagne": null, "noeuds": 200000, "cpu": 71.1, "raison": "budget"}
+2026-10-21 01:25:31 | INFO | Created new scorecard: 0030749a-e29d-45e8-a8ce-48d379a01022
+2026-10-21 01:25:31 | INFO | Found latest version of sk48: sk48-d8078629 (downloaded: 2026-09-30 05:48:14.833617+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+{"bras": "monotone", "strategie": "langage_but", "jeu": "sk48", "niveau": 1, "gagne": null, "noeuds": 200000, "cpu": 71.4, "raison": "budget"}
+2026-10-21 01:26:03 | INFO | Created new scorecard: ae9cf9e2-c745-4721-aed0-d7c2b6caa247
+2026-10-21 01:26:03 | INFO | Found latest version of sk48: sk48-d8078629 (downloaded: 2026-09-30 05:48:14.833617+00:00)
+{"bras": "actuel", "strategie": "langage_but", "jeu": "sc25", "niveau": 5, "gagne": null, "noeuds": 200062, "cpu": 198.3, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:26:29 | INFO | Created new scorecard: aa18e807-efec-4fca-9bb8-b25646f8e330
+2026-10-21 01:26:29 | INFO | Found latest version of sk48: sk48-d8078629 (downloaded: 2026-09-30 05:48:14.833617+00:00)
+2026-10-21 01:26:29 | INFO | Successfully loaded game class Sk48 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sk48/d8078629/sk48.py
+{"bras": "monotone", "strategie": "langage_but", "jeu": "sc25", "niveau": 5, "gagne": null, "noeuds": 200062, "cpu": 200.4, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:26:32 | INFO | Created new scorecard: 4029b232-2436-4984-8eff-27ca2a6620c1
+2026-10-21 01:26:32 | INFO | Found latest version of sk48: sk48-d8078629 (downloaded: 2026-09-30 05:48:14.833617+00:00)
+2026-10-21 01:26:32 | INFO | Successfully loaded game class Sk48 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sk48/d8078629/sk48.py
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "sk48", "niveau": 1, "gagne": null, "noeuds": 200001, "cpu": 72.4, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:26:48 | INFO | Created new scorecard: 1070d2e3-bffb-4737-8c6a-074cf50fad46
+2026-10-21 01:26:48 | INFO | Found latest version of sk48: sk48-d8078629 (downloaded: 2026-09-30 05:48:14.833617+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "sk48", "niveau": 1, "gagne": null, "noeuds": 200001, "cpu": 74.7, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:27:22 | INFO | Created new scorecard: 0d4f7c25-b29a-4096-82a6-d919c704d4e5
+2026-10-21 01:27:22 | INFO | Found latest version of sk48: sk48-d8078629 (downloaded: 2026-09-30 05:48:14.833617+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "sc25", "niveau": 5, "gagne": null, "noeuds": 200063, "cpu": 198.9, "raison": "budget"}
+{"bras": "actuel", "strategie": "langage_but", "jeu": "sk48", "niveau": 3, "gagne": null, "noeuds": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+{"bras": "monotone", "strategie": "langage_but", "jeu": "sk48", "niveau": 3, "gagne": null, "noeuds": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "sk48", "niveau": 3, "gagne": null, "noeuds": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "sk48", "niveau": 3, "gagne": null, "noeuds": null, "cpu": 0.0, "raison": "niveau non atteint par le préfixe"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:27:46 | INFO | Created new scorecard: 59f50afd-aa92-4e21-a8ca-7c0d35638cef
+2026-10-21 01:27:46 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+2026-10-21 01:27:46 | INFO | Successfully loaded game class Sp80 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sp80/589a99af/sp80.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:27:46 | INFO | Created new scorecard: e67f752a-c7bb-46b5-9271-6b9df955d3cd
+2026-10-21 01:27:46 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+{"bras": "actuel", "strategie": "langage_but", "jeu": "sp80", "niveau": 1, "gagne": true, "noeuds": 197, "cpu": 0.2, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:27:46 | INFO | Created new scorecard: 677fae02-4b3b-45cf-b48e-95250b8b85b1
+2026-10-21 01:27:46 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:27:46 | INFO | Created new scorecard: aeca3357-c6b7-455a-b134-96103ce76d12
+2026-10-21 01:27:46 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+{"bras": "monotone", "strategie": "langage_but", "jeu": "sp80", "niveau": 1, "gagne": true, "noeuds": 197, "cpu": 0.1, "raison": null}
+2026-10-21 01:27:46 | INFO | Created new scorecard: 4c34199d-68fa-439e-b20b-fd82fe0911aa
+2026-10-21 01:27:46 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:27:46 | INFO | Created new scorecard: 6a021fcf-f7ce-41ad-af9e-aee9ca56662b
+2026-10-21 01:27:46 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "sp80", "niveau": 1, "gagne": true, "noeuds": 179, "cpu": 0.1, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:27:46 | INFO | Created new scorecard: 75c626dc-8a39-4b2d-af9f-ae568667782c
+2026-10-21 01:27:46 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:27:46 | INFO | Created new scorecard: e79e3341-8722-4f41-a9ed-0e5431e5b3af
+2026-10-21 01:27:46 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "sp80", "niveau": 1, "gagne": true, "noeuds": 179, "cpu": 0.1, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:27:47 | INFO | Created new scorecard: 3ea8e9ec-5687-4509-80ea-44f8cd95050d
+2026-10-21 01:27:47 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "sc25", "niveau": 5, "gagne": null, "noeuds": 200063, "cpu": 200.1, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:27:48 | INFO | Created new scorecard: 386de886-3cad-49ae-90de-dfa048633048
+2026-10-21 01:27:48 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+2026-10-21 01:27:48 | INFO | Successfully loaded game class Sp80 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sp80/589a99af/sp80.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:27:49 | INFO | Created new scorecard: f903679c-3be4-4f25-a051-15d7279d8fca
+2026-10-21 01:27:49 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+{"bras": "actuel", "strategie": "langage_but", "jeu": "sp80", "niveau": 2, "gagne": true, "noeuds": 10325, "cpu": 2.9, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:27:50 | INFO | Created new scorecard: 0a3e8437-9819-42f3-a06a-b1f8756f53e1
+2026-10-21 01:27:50 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:27:51 | INFO | Created new scorecard: 68410cae-9cfd-4e3b-a7b5-400720e2050a
+2026-10-21 01:27:51 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+{"bras": "monotone", "strategie": "langage_but", "jeu": "sp80", "niveau": 2, "gagne": true, "noeuds": 10325, "cpu": 2.9, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:27:51 | INFO | Created new scorecard: 79e64601-438d-4faa-ba8a-96eafa7c1b27
+2026-10-21 01:27:51 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:27:54 | INFO | Created new scorecard: f7e5b72b-fb4e-4c0b-837b-0968a81189e8
+2026-10-21 01:27:54 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "sp80", "niveau": 2, "gagne": true, "noeuds": 12736, "cpu": 3.1, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:27:54 | INFO | Created new scorecard: b0169ae8-841e-4692-866b-a57721962a1f
+2026-10-21 01:27:54 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:27:55 | INFO | Created new scorecard: 2536edea-637b-4d09-b0c5-9bb07bbbb49d
+2026-10-21 01:27:55 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "sp80", "niveau": 2, "gagne": true, "noeuds": 12736, "cpu": 5.0, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:27:55 | INFO | Created new scorecard: 173e5d52-edb2-4fdf-a176-5f5f199cef47
+2026-10-21 01:27:55 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+{"bras": "actuel", "strategie": "langage_but", "jeu": "sk48", "niveau": 2, "gagne": null, "noeuds": 200010, "cpu": 83.4, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:27:57 | INFO | Created new scorecard: e153b406-95cb-41d8-b5db-99a6e8f0d804
+2026-10-21 01:27:57 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+2026-10-21 01:27:57 | INFO | Successfully loaded game class Sp80 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sp80/589a99af/sp80.py
+{"bras": "monotone", "strategie": "langage_but", "jeu": "sk48", "niveau": 2, "gagne": null, "noeuds": 200010, "cpu": 86.2, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:28:04 | INFO | Created new scorecard: 83f10788-ddff-466d-bf5a-2ad772079fd7
+2026-10-21 01:28:04 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+2026-10-21 01:28:04 | INFO | Successfully loaded game class Sp80 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sp80/589a99af/sp80.py
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "sk48", "niveau": 2, "gagne": null, "noeuds": 200011, "cpu": 86.3, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:28:19 | INFO | Created new scorecard: d756a097-0d4d-415f-b9c4-c0062168d407
+2026-10-21 01:28:19 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+2026-10-21 01:28:19 | INFO | Successfully loaded game class Sp80 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sp80/589a99af/sp80.py
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "sk48", "niveau": 2, "gagne": null, "noeuds": 200011, "cpu": 86.7, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:28:55 | INFO | Created new scorecard: dfe93c72-d742-4a46-8159-0b1a219e2bc8
+2026-10-21 01:28:55 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+2026-10-21 01:28:55 | INFO | Successfully loaded game class Sp80 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sp80/589a99af/sp80.py
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "sp80", "niveau": 3, "gagne": null, "noeuds": 200011, "cpu": 68.9, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:29:11 | INFO | Created new scorecard: 52745731-d6e6-4ec4-9870-1573f75fc9d8
+2026-10-21 01:29:11 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+{"bras": "monotone", "strategie": "langage_but", "jeu": "sp80", "niveau": 3, "gagne": null, "noeuds": 200000, "cpu": 75.5, "raison": "budget"}
+{"bras": "actuel", "strategie": "langage_but", "jeu": "sp80", "niveau": 3, "gagne": null, "noeuds": 200000, "cpu": 76.4, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:29:16 | INFO | Created new scorecard: 7c7ce197-6a66-4ff5-9652-2233f7af07e7
+2026-10-21 01:29:16 | INFO | Found latest version of su15: su15-1944f8ab (downloaded: 2026-09-30 05:48:13.830471+00:00)
+2026-10-21 01:29:16 | INFO | Successfully loaded game class Su15 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/su15/1944f8ab/su15.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:29:16 | INFO | Created new scorecard: 025587d0-7777-4b2c-8f59-b14c7201d30f
+2026-10-21 01:29:16 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "sp80", "niveau": 3, "gagne": null, "noeuds": 200011, "cpu": 68.7, "raison": "budget"}
+2026-10-21 01:29:17 | INFO | Created new scorecard: 064c3054-7fa3-4e0b-ab42-127c3385ae80
+2026-10-21 01:29:17 | INFO | Found latest version of su15: su15-1944f8ab (downloaded: 2026-09-30 05:48:13.830471+00:00)
+2026-10-21 01:29:17 | INFO | Successfully loaded game class Su15 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/su15/1944f8ab/su15.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:29:28 | INFO | Created new scorecard: 9cc7cf58-7671-45a6-a3c3-e32c610f19ca
+2026-10-21 01:29:28 | INFO | Found latest version of su15: su15-1944f8ab (downloaded: 2026-09-30 05:48:13.830471+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+{"bras": "actuel", "strategie": "langage_but", "jeu": "su15", "niveau": 1, "gagne": true, "noeuds": 17618, "cpu": 11.1, "raison": null}
+2026-10-21 01:29:28 | INFO | Created new scorecard: 809c6ff5-89e7-4364-a01e-a029c6d2ebe7
+2026-10-21 01:29:28 | INFO | Found latest version of su15: su15-1944f8ab (downloaded: 2026-09-30 05:48:13.830471+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:29:35 | INFO | Created new scorecard: d15e7e60-d95c-4b94-9da4-9c8bf190e5db
+2026-10-21 01:29:35 | INFO | Found latest version of su15: su15-1944f8ab (downloaded: 2026-09-30 05:48:13.830471+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "su15", "niveau": 1, "gagne": true, "noeuds": 9135, "cpu": 6.0, "raison": null}
+2026-10-21 01:29:35 | INFO | Created new scorecard: 7647acd1-5938-4664-a1ea-6f17688cef57
+2026-10-21 01:29:35 | INFO | Found latest version of su15: su15-1944f8ab (downloaded: 2026-09-30 05:48:13.830471+00:00)
+{"bras": "actuel", "strategie": "langage_but", "jeu": "sp80", "niveau": 4, "gagne": null, "noeuds": 200000, "cpu": 82.1, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:29:48 | INFO | Created new scorecard: ec5b4bd1-092b-4655-88fc-a3c73c5c3944
+2026-10-21 01:29:48 | INFO | Found latest version of su15: su15-1944f8ab (downloaded: 2026-09-30 05:48:13.830471+00:00)
+2026-10-21 01:29:48 | INFO | Successfully loaded game class Su15 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/su15/1944f8ab/su15.py
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "sp80", "niveau": 4, "gagne": null, "noeuds": 200016, "cpu": 68.8, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:30:24 | INFO | Created new scorecard: dc61eb24-3af4-4053-a3e5-c93413c5e755
+2026-10-21 01:30:24 | INFO | Found latest version of su15: su15-1944f8ab (downloaded: 2026-09-30 05:48:13.830471+00:00)
+2026-10-21 01:30:24 | INFO | Successfully loaded game class Su15 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/su15/1944f8ab/su15.py
+{"bras": "monotone", "strategie": "langage_but", "jeu": "sp80", "niveau": 4, "gagne": null, "noeuds": 200000, "cpu": 84.4, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:30:25 | INFO | Created new scorecard: cb517dd4-b541-4080-9c14-89be68b2676f
+2026-10-21 01:30:25 | INFO | Found latest version of su15: su15-1944f8ab (downloaded: 2026-09-30 05:48:13.830471+00:00)
+2026-10-21 01:30:25 | INFO | Successfully loaded game class Su15 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/su15/1944f8ab/su15.py
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "sp80", "niveau": 4, "gagne": null, "noeuds": 200016, "cpu": 71.2, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:30:32 | INFO | Created new scorecard: d3dcbd1d-3fae-403b-801d-c3bf559b6ff7
+2026-10-21 01:30:32 | INFO | Found latest version of su15: su15-1944f8ab (downloaded: 2026-09-30 05:48:13.830471+00:00)
+2026-10-21 01:30:32 | INFO | Successfully loaded game class Su15 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/su15/1944f8ab/su15.py
+{"bras": "monotone", "strategie": "langage_but", "jeu": "su15", "niveau": 1, "gagne": null, "noeuds": 200004, "cpu": 111.9, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:31:16 | INFO | Created new scorecard: f47afb93-a6e2-4fba-a14e-8028af6391c8
+2026-10-21 01:31:16 | INFO | Found latest version of su15: su15-1944f8ab (downloaded: 2026-09-30 05:48:13.830471+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "su15", "niveau": 1, "gagne": null, "noeuds": 200005, "cpu": 113.1, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:31:35 | INFO | Created new scorecard: edbb84f1-4e04-4582-93f0-3c08b12b5b31
+2026-10-21 01:31:35 | INFO | Found latest version of su15: su15-1944f8ab (downloaded: 2026-09-30 05:48:13.830471+00:00)
+{"bras": "actuel", "strategie": "langage_but", "jeu": "su15", "niveau": 2, "gagne": null, "noeuds": 200005, "cpu": 152.5, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:32:31 | INFO | Created new scorecard: 8909e56e-4c21-474d-a4b6-f9971e9668e9
+2026-10-21 01:32:31 | INFO | Found latest version of su15: su15-1944f8ab (downloaded: 2026-09-30 05:48:13.830471+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "su15", "niveau": 2, "gagne": null, "noeuds": 200006, "cpu": 149.2, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:33:06 | INFO | Created new scorecard: 4813b960-fdae-4f5e-9e1e-7fc8fcb60e7e
+2026-10-21 01:33:06 | INFO | Found latest version of su15: su15-1944f8ab (downloaded: 2026-09-30 05:48:13.830471+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "su15", "niveau": 2, "gagne": null, "noeuds": 200006, "cpu": 160.7, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:33:27 | INFO | Created new scorecard: d2250e44-d00b-4837-a9f4-1c8b054eb5a0
+2026-10-21 01:33:27 | INFO | Found latest version of su15: su15-1944f8ab (downloaded: 2026-09-30 05:48:13.830471+00:00)
+{"bras": "monotone", "strategie": "langage_but", "jeu": "su15", "niveau": 2, "gagne": null, "noeuds": 200005, "cpu": 168.1, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:33:28 | INFO | Created new scorecard: 92e617b9-ce71-4656-8851-a61efb067b30
+2026-10-21 01:33:28 | INFO | Found latest version of su15: su15-1944f8ab (downloaded: 2026-09-30 05:48:13.830471+00:00)
+{"bras": "actuel", "strategie": "langage_but", "jeu": "su15", "niveau": 3, "gagne": null, "noeuds": 200000, "cpu": 235.1, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:35:41 | INFO | Created new scorecard: 567af2ed-9bf1-4672-83a2-9a80b981ec59
+2026-10-21 01:35:41 | INFO | Found latest version of su15: su15-1944f8ab (downloaded: 2026-09-30 05:48:13.830471+00:00)
+{"bras": "monotone", "strategie": "langage_but", "jeu": "su15", "niveau": 3, "gagne": null, "noeuds": 200000, "cpu": 250.5, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:36:23 | INFO | Created new scorecard: 646a9f70-27ba-4d7b-a24b-010f99e78543
+2026-10-21 01:36:23 | INFO | Found latest version of su15: su15-1944f8ab (downloaded: 2026-09-30 05:48:13.830471+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "su15", "niveau": 3, "gagne": null, "noeuds": 200001, "cpu": 229.9, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:37:00 | INFO | Created new scorecard: d39679e7-152b-4df8-abcf-961b16437456
+2026-10-21 01:37:00 | INFO | Found latest version of tn36: tn36-ef4dde99 (downloaded: 2026-09-30 05:48:12.062346+00:00)
+2026-10-21 01:37:00 | INFO | Successfully loaded game class Tn36 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/tn36/ef4dde99/tn36.py
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "su15", "niveau": 3, "gagne": null, "noeuds": 200001, "cpu": 242.9, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:37:55 | INFO | Created new scorecard: 8a947adf-2e21-4a9c-8de5-838480886c5d
+2026-10-21 01:37:55 | INFO | Found latest version of tn36: tn36-ef4dde99 (downloaded: 2026-09-30 05:48:12.062346+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:37:55 | INFO | Successfully loaded game class Tn36 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/tn36/ef4dde99/tn36.py
+2026-10-21 01:37:55 | INFO | Created new scorecard: 1bdfa34d-60e9-4d4b-a0c1-9b384b63b920
+2026-10-21 01:37:55 | INFO | Found latest version of tn36: tn36-ef4dde99 (downloaded: 2026-09-30 05:48:12.062346+00:00)
+{"bras": "actuel", "strategie": "langage_but", "jeu": "tn36", "niveau": 1, "gagne": true, "noeuds": 86480, "cpu": 45.3, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:37:55 | INFO | Created new scorecard: 21373783-9322-4268-ac62-50b775be7abf
+2026-10-21 01:37:55 | INFO | Found latest version of tn36: tn36-ef4dde99 (downloaded: 2026-09-30 05:48:12.062346+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:38:50 | INFO | Created new scorecard: 489b5505-3be1-492b-a23f-86cc08494f75
+2026-10-21 01:38:50 | INFO | Found latest version of tn36: tn36-ef4dde99 (downloaded: 2026-09-30 05:48:12.062346+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:38:50 | INFO | Created new scorecard: c3ccb573-d01f-4fa4-9135-2b66c20ce236
+2026-10-21 01:38:50 | INFO | Found latest version of tn36: tn36-ef4dde99 (downloaded: 2026-09-30 05:48:12.062346+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "tn36", "niveau": 1, "gagne": true, "noeuds": 86434, "cpu": 46.5, "raison": null}
+{"bras": "monotone", "strategie": "langage_but", "jeu": "su15", "niveau": 4, "gagne": null, "noeuds": 188738, "cpu": 302.0, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:39:24 | INFO | Created new scorecard: bfcd359e-25fd-484e-af2d-096130ec8138
+2026-10-21 01:39:24 | INFO | Found latest version of tn36: tn36-ef4dde99 (downloaded: 2026-09-30 05:48:12.062346+00:00)
+2026-10-21 01:39:24 | INFO | Successfully loaded game class Tn36 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/tn36/ef4dde99/tn36.py
+{"bras": "actuel", "strategie": "langage_but", "jeu": "su15", "niveau": 4, "gagne": null, "noeuds": 178066, "cpu": 301.5, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:39:25 | INFO | Created new scorecard: 51374d65-a3eb-4eb8-939c-74ae3b24fe37
+2026-10-21 01:39:25 | INFO | Found latest version of tn36: tn36-ef4dde99 (downloaded: 2026-09-30 05:48:12.062346+00:00)
+2026-10-21 01:39:25 | INFO | Successfully loaded game class Tn36 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/tn36/ef4dde99/tn36.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:39:28 | INFO | Created new scorecard: bfa9346a-8220-4c1c-b558-25f5813f6558
+2026-10-21 01:39:28 | INFO | Found latest version of tn36: tn36-ef4dde99 (downloaded: 2026-09-30 05:48:12.062346+00:00)
+{"bras": "monotone", "strategie": "langage_but", "jeu": "tn36", "niveau": 1, "gagne": true, "noeuds": 154019, "cpu": 80.1, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:39:28 | INFO | Created new scorecard: f28eef06-1d8c-4261-b354-d9ef61b759b2
+2026-10-21 01:39:28 | INFO | Found latest version of tn36: tn36-ef4dde99 (downloaded: 2026-09-30 05:48:12.062346+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:40:32 | INFO | Created new scorecard: 762fd02d-4f3e-44c1-91b6-e3eb6d67a18b
+2026-10-21 01:40:32 | INFO | Found latest version of tn36: tn36-ef4dde99 (downloaded: 2026-09-30 05:48:12.062346+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "tn36", "niveau": 1, "gagne": true, "noeuds": 162198, "cpu": 87.5, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:40:32 | INFO | Created new scorecard: d12fc14e-2337-4fea-ac6e-303b813e074b
+2026-10-21 01:40:32 | INFO | Found latest version of tn36: tn36-ef4dde99 (downloaded: 2026-09-30 05:48:12.062346+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "su15", "niveau": 4, "gagne": null, "noeuds": 183288, "cpu": 301.2, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:41:38 | INFO | Created new scorecard: d540fd7a-939e-457e-a97c-b3bc5941a46b
+2026-10-21 01:41:38 | INFO | Found latest version of tn36: tn36-ef4dde99 (downloaded: 2026-09-30 05:48:12.062346+00:00)
+2026-10-21 01:41:38 | INFO | Successfully loaded game class Tn36 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/tn36/ef4dde99/tn36.py
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "su15", "niveau": 4, "gagne": null, "noeuds": 190533, "cpu": 301.1, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:42:15 | INFO | Created new scorecard: 8d81d8c8-4a69-49e3-ae9e-2abe91b3c7bd
+2026-10-21 01:42:15 | INFO | Found latest version of tn36: tn36-ef4dde99 (downloaded: 2026-09-30 05:48:12.062346+00:00)
+2026-10-21 01:42:15 | INFO | Successfully loaded game class Tn36 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/tn36/ef4dde99/tn36.py
+{"bras": "actuel", "strategie": "langage_but", "jeu": "tn36", "niveau": 2, "gagne": null, "noeuds": 200030, "cpu": 290.0, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:44:59 | INFO | Created new scorecard: 0a22c5e0-4520-4d00-b81b-4fd24aae40b6
+2026-10-21 01:44:59 | INFO | Found latest version of tn36: tn36-ef4dde99 (downloaded: 2026-09-30 05:48:12.062346+00:00)
+{"bras": "monotone", "strategie": "langage_but", "jeu": "tn36", "niveau": 2, "gagne": null, "noeuds": 200030, "cpu": 293.4, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:45:03 | INFO | Created new scorecard: 3d4eaf5b-1459-4465-b878-2b5349ab3594
+2026-10-21 01:45:03 | INFO | Found latest version of tn36: tn36-ef4dde99 (downloaded: 2026-09-30 05:48:12.062346+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "tn36", "niveau": 2, "gagne": null, "noeuds": 200031, "cpu": 295.8, "raison": "budget"}
+2026-10-21 01:45:09 | INFO | Created new scorecard: 4891f72f-130a-49f3-ab6e-2a3f9c97fe1d
+2026-10-21 01:45:09 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+2026-10-21 01:45:09 | INFO | Successfully loaded game class Tr87 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/tr87/cd924810/tr87.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:45:11 | INFO | Created new scorecard: 0c406a41-ce46-4204-8d1d-384ece641522
+2026-10-21 01:45:11 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+{"bras": "actuel", "strategie": "langage_but", "jeu": "tr87", "niveau": 1, "gagne": true, "noeuds": 133, "cpu": 1.4, "raison": null}
+2026-10-21 01:45:11 | INFO | Created new scorecard: f2120098-4b4f-409f-88c7-2da4dddc4515
+2026-10-21 01:45:11 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:45:13 | INFO | Created new scorecard: a371ab58-4d8e-44c8-b0a3-7bfa43ed6699
+2026-10-21 01:45:13 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:45:13 | INFO | Created new scorecard: 0695e4ef-e177-41e3-9276-48ee0cd4f33f
+2026-10-21 01:45:13 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+{"bras": "monotone", "strategie": "langage_but", "jeu": "tr87", "niveau": 1, "gagne": true, "noeuds": 133, "cpu": 1.3, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:45:15 | INFO | Created new scorecard: 46726141-c642-45e2-95b9-1637efdcb356
+2026-10-21 01:45:15 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "tr87", "niveau": 1, "gagne": true, "noeuds": 362, "cpu": 1.9, "raison": null}
+2026-10-21 01:45:15 | INFO | Created new scorecard: 41851515-4c9a-4761-aa3e-a007d8d7baa0
+2026-10-21 01:45:15 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:45:17 | INFO | Created new scorecard: 4c053fbc-3527-4f4e-b524-c7fc1eff88ea
+2026-10-21 01:45:17 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "tr87", "niveau": 1, "gagne": true, "noeuds": 362, "cpu": 1.8, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:45:17 | INFO | Created new scorecard: 1c31c511-cb14-4338-8662-bad1b58939e8
+2026-10-21 01:45:17 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:45:19 | INFO | Created new scorecard: 885d9b9e-6a4e-4e5b-8282-77172ab0926a
+2026-10-21 01:45:19 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+{"bras": "actuel", "strategie": "langage_but", "jeu": "tr87", "niveau": 2, "gagne": true, "noeuds": 277, "cpu": 2.0, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:45:19 | INFO | Created new scorecard: b2f4eaf4-f19a-401d-966a-dcb8987e5c7f
+2026-10-21 01:45:19 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:45:21 | INFO | Created new scorecard: 643d3500-fbff-46d1-aaf7-7dd4161df1d0
+2026-10-21 01:45:21 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+{"bras": "monotone", "strategie": "langage_but", "jeu": "tr87", "niveau": 2, "gagne": true, "noeuds": 277, "cpu": 2.0, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:45:21 | INFO | Created new scorecard: 423026e3-0107-48bf-8a71-091cc83d2736
+2026-10-21 01:45:21 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:45:27 | INFO | Created new scorecard: 81c89199-6998-43c8-877c-15eab9e65fe7
+2026-10-21 01:45:27 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "tr87", "niveau": 2, "gagne": true, "noeuds": 1110, "cpu": 4.6, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:45:27 | INFO | Created new scorecard: 0101bdd1-ea71-4867-87ac-0223e968072b
+2026-10-21 01:45:27 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:45:32 | INFO | Created new scorecard: 36335553-bf1f-4136-be0b-26971a94d209
+2026-10-21 01:45:32 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "tr87", "niveau": 2, "gagne": true, "noeuds": 1110, "cpu": 4.7, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:45:32 | INFO | Created new scorecard: 0b0fbab5-9950-4655-bc44-948074c22e8b
+2026-10-21 01:45:32 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:45:35 | INFO | Created new scorecard: febd6076-feaf-4b99-8dbe-113e478b1542
+2026-10-21 01:45:35 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+{"bras": "actuel", "strategie": "langage_but", "jeu": "tr87", "niveau": 3, "gagne": true, "noeuds": 194, "cpu": 2.3, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:45:35 | INFO | Created new scorecard: 26bee694-9cd4-4e7a-bf4d-5383be17bc73
+2026-10-21 01:45:35 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:45:37 | INFO | Created new scorecard: da14d74b-71ac-4ef6-8f6a-6ded266c73ba
+2026-10-21 01:45:37 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+{"bras": "monotone", "strategie": "langage_but", "jeu": "tr87", "niveau": 3, "gagne": true, "noeuds": 194, "cpu": 2.4, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:45:38 | INFO | Created new scorecard: ca2687c3-98f2-40bc-bcc9-45e3016a554c
+2026-10-21 01:45:38 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:45:43 | INFO | Created new scorecard: 84684067-4ae0-4c3b-b06a-2c1307fc9163
+2026-10-21 01:45:43 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "tr87", "niveau": 3, "gagne": true, "noeuds": 642, "cpu": 4.5, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:45:43 | INFO | Created new scorecard: 55ad1534-e053-4d41-8854-083b460d6c70
+2026-10-21 01:45:43 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:45:48 | INFO | Created new scorecard: 3f41ed63-94fe-4398-accd-cfcabe6739fc
+2026-10-21 01:45:48 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "tr87", "niveau": 3, "gagne": true, "noeuds": 642, "cpu": 4.3, "raison": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:45:48 | INFO | Created new scorecard: a1ae555b-fe21-411d-8191-261b3eda1e48
+2026-10-21 01:45:48 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "tn36", "niveau": 2, "gagne": null, "noeuds": 200031, "cpu": 291.9, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:46:10 | INFO | Created new scorecard: aa8e175d-e42b-4d84-8e7f-f44a75a50c52
+2026-10-21 01:46:10 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+2026-10-21 01:46:10 | INFO | Successfully loaded game class Tr87 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/tr87/cd924810/tr87.py
+{"bras": "actuel", "strategie": "langage_but", "jeu": "tn36", "niveau": 3, "gagne": null, "noeuds": 142785, "cpu": 301.3, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:47:31 | INFO | Created new scorecard: 91a92938-c278-4f21-a6ea-df834e09a2b6
+2026-10-21 01:47:31 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+2026-10-21 01:47:31 | INFO | Successfully loaded game class Tr87 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/tr87/cd924810/tr87.py
+{"bras": "monotone", "strategie": "langage_but", "jeu": "tn36", "niveau": 3, "gagne": null, "noeuds": 145635, "cpu": 301.2, "raison": "budget"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 01:48:04 | INFO | Created new scorecard: 1d1754c5-af0f-413f-a282-c097dab24d06
+2026-10-21 01:48:04 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+2026-10-21 01:48:04 | INFO | Successfully loaded game class Tr87 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/tr87/cd924810/tr87.py
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "tn36", "niveau": 3, "gagne": null, "noeuds": 145541, "cpu": 301.4, "raison": "budget"}
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "tn36", "niveau": 3, "gagne": null, "noeuds": 141646, "cpu": 301.5, "raison": "budget"}
+{"bras": "actuel", "strategie": "langage_but", "jeu": "tr87", "niveau": 6, "gagne": null, "noeuds": 164688, "cpu": 307.4, "raison": "budget"}
+{"bras": "monotone", "strategie": "langage_but", "jeu": "tr87", "niveau": 6, "gagne": null, "noeuds": 175240, "cpu": 321.6, "raison": "budget"}
+{"bras": "actuel", "strategie": "langage_paliers", "jeu": "tr87", "niveau": 6, "gagne": null, "noeuds": 179201, "cpu": 311.9, "raison": "budget"}
+{"bras": "monotone", "strategie": "langage_paliers", "jeu": "tr87", "niveau": 6, "gagne": null, "noeuds": 183325, "cpu": 303.2, "raison": "budget"}
+langage_but : actuel 29, monotone 26 ; perdus [('lf52', 1), ('ls20', 4), ('su15', 1)] ; gagnés en plus []
+langage_paliers : actuel 26, monotone 22 ; perdus [('lf52', 1), ('ls20', 4), ('re86', 2), ('su15', 1)] ; gagnés en plus []

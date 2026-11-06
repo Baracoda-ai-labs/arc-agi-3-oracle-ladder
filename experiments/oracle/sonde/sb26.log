@@ -1,0 +1,10 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-23 10:47:04 | INFO | Created new scorecard: 0d94bfa3-d55b-4edf-9bb8-fb2145f90cec
+2026-10-23 10:47:04 | INFO | Found latest version of sb26: sb26-7fbdac44 (downloaded: 2026-09-30 05:48:12.305196+00:00)
+2026-10-23 10:47:04 | INFO | Successfully loaded game class Sb26 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sb26/7fbdac44/sb26.py
+{"jeu": "sb26", "niveau": 1, "actions": 25, "humain": 18, "etats_par_profondeur": [11, 64, 347, 1399, 7522, 31739, 93625], "branchement_effectif": 4.18, "gagne_en_largeur_a": null, "chemin": {"longueur": 11, "resets_avant": false, "fin_programme": "niveau", "h_depart": 2, "h_min": 2, "h_baisse": 0, "h_plat": 10, "h_monte": 0}, "plantage": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-23 10:49:08 | INFO | Created new scorecard: c1958243-4e14-4889-9cdf-03034aaa9c6c
+2026-10-23 10:49:08 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+2026-10-23 10:49:09 | INFO | Successfully loaded game class R11l from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/r11l/495a7899/r11l.py
+{"jeu": "r11l", "niveau": 2, "actions": 67, "humain": 33, "etats_par_profondeur": [67, 2203, 2203], "branchement_effectif": 16.94, "gagne_en_largeur_a": null, "chemin": {"longueur": 14, "resets_avant": false, "fin_programme": "niveau", "h_depart": 2, "h_min": 1, "h_baisse": 2, "h_plat": 10, "h_monte": 1}, "plantage": null}

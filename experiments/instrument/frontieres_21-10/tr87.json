@@ -1,0 +1,78 @@
+{
+ "jeu": "tr87",
+ "niveau": 6,
+ "franzen_r0": "5/6",
+ "prefixe_source": "prefixes_r0.json",
+ "prefixe_franzen": 342,
+ "sous_buts": {
+  "plan": null,
+  "gagne": null,
+  "raison": "budget",
+  "secondes": 302.2
+ },
+ "plafond_langage_but": {
+  "noeuds": 200000,
+  "etats": null,
+  "plan": null,
+  "gagne": null,
+  "raison": "budget"
+ },
+ "plafond_but": {
+  "noeuds": 200000,
+  "etats": 159151,
+  "plan": null,
+  "gagne": null,
+  "raison": "budget épuisé"
+ },
+ "plafond_paliers": {
+  "noeuds": 200001,
+  "etats": null,
+  "plan": null,
+  "gagne": null,
+  "raison": "budget épuisé"
+ },
+ "plafond_exact": {
+  "recherche": "paliers",
+  "noeuds": 200001,
+  "etats": null,
+  "plan": null,
+  "gagne": null,
+  "raison": "budget épuisé"
+ },
+ "plafond_s": 1003.4,
+ "moteur": {
+  "niveau_depart": 5,
+  "niveaux": 5,
+  "niveaux_coup_final_moteur": 0,
+  "coups": {
+   "hasard": 7,
+   "hasard_effet": 7
+  },
+  "refus": {
+   "ne rejoue pas (C) ; partiel": 6
+  },
+  "duree_s": 634.4,
+  "bilan": {
+   "moteur_appels": 6,
+   "moteur_refus_porte": 0,
+   "moteur_plans": 0,
+   "moteur_tours": 0,
+   "moteur_coups_plan": 0,
+   "moteur_divergences": 0,
+   "moteur_cpu_s": 634.214,
+   "moteur_porte1_ok": 0,
+   "moteur_porte1_refus": 0,
+   "moteur_porte2_ok": 0,
+   "moteur_porte2_refus": 0,
+   "moteur_plans_gagnants_reels": 0,
+   "part_coups_moteur": 0.0
+  }
+ },
+ "classe": "S",
+ "entonnoir": {
+  "maillon": 1,
+  "nom": "perçus",
+  "cpu_moteur_s": 634.214,
+  "divergences": 0
+ }
+}

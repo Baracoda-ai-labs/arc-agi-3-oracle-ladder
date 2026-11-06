@@ -1,0 +1,116 @@
+{
+ "jeu": "bp35",
+ "niveaux": {
+  "1": {
+   "budget_mesure": 64,
+   "essais": {
+    "LEFT": {
+     "jeu": [
+      16,
+      "defaite"
+     ],
+     "programme": [
+      16,
+      "defaite"
+     ]
+    },
+    "RIGHT": {
+     "jeu": [
+      24,
+      "defaite"
+     ],
+     "programme": [
+      24,
+      "defaite"
+     ]
+    },
+    "MOUSE@0,0": {
+     "jeu": [
+      64,
+      "defaite"
+     ],
+     "programme": [
+      64,
+      "defaite"
+     ]
+    },
+    "MOUSE@32,32": {
+     "jeu": [
+      64,
+      "defaite"
+     ],
+     "programme": [
+      64,
+      "defaite"
+     ]
+    },
+    "MOUSE@63,63": {
+     "jeu": [
+      64,
+      "defaite"
+     ],
+     "programme": [
+      64,
+      "defaite"
+     ]
+    }
+   }
+  },
+  "2": {
+   "budget_mesure": 64,
+   "essais": {
+    "LEFT": {
+     "jeu": [
+      16,
+      "defaite"
+     ],
+     "programme": [
+      16,
+      "defaite"
+     ]
+    },
+    "RIGHT": {
+     "jeu": [
+      16,
+      "defaite"
+     ],
+     "programme": [
+      16,
+      "defaite"
+     ]
+    },
+    "MOUSE@0,0": {
+     "jeu": [
+      64,
+      "defaite"
+     ],
+     "programme": [
+      64,
+      "defaite"
+     ]
+    },
+    "MOUSE@32,32": {
+     "jeu": [
+      64,
+      "defaite"
+     ],
+     "programme": [
+      64,
+      "defaite"
+     ]
+    },
+    "MOUSE@63,63": {
+     "jeu": [
+      64,
+      "defaite"
+     ],
+     "programme": [
+      64,
+      "defaite"
+     ]
+    }
+   }
+  },
+  "3": "préfixe absent"
+ }
+}

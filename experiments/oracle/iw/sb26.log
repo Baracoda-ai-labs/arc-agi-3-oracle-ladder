@@ -1,0 +1,9 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-23 10:53:46 | INFO | Created new scorecard: 4888a5b1-b525-4a04-b7f1-eb5df34e12ca
+2026-10-23 10:53:46 | INFO | Found latest version of sb26: sb26-7fbdac44 (downloaded: 2026-09-30 05:48:12.305196+00:00)
+2026-10-23 10:53:46 | INFO | Successfully loaded game class Sb26 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sb26/7fbdac44/sb26.py
+sb26 1 iw1 {'gagne': None, 'raison': 'budget épuisé', 'plan': None, 'noeuds': 1000000, 'etats': 479231, 'secondes': 306.2}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-23 10:58:53 | INFO | Created new scorecard: b9cbd7cd-0b8a-4785-96db-fbbb88ed0f76
+2026-10-23 10:58:53 | INFO | Found latest version of sb26: sb26-7fbdac44 (downloaded: 2026-09-30 05:48:12.305196+00:00)
+sb26 1 iw2 {'gagne': None, 'raison': 'budget épuisé', 'plan': None, 'noeuds': 1000000, 'etats': 414188, 'secondes': 316.9}

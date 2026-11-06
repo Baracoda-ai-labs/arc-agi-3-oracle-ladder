@@ -1,0 +1,25 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:34:15 | INFO | Created new scorecard: 452e1af3-eb51-4342-b879-418ac26567fb
+2026-10-21 02:34:15 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+2026-10-21 02:34:15 | INFO | Successfully loaded game class Ft09 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ft09/0d8bbf25/ft09.py
+ft09 1 None {'MOUSE@0,0': ((None, 'plafond'), (32, 'defaite')), 'MOUSE@32,32': ((None, 'plafond'), (32, 'defaite')), 'MOUSE@63,63': ((None, 'plafond'), (32, 'defaite'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:34:16 | INFO | Created new scorecard: c146cab6-8659-49dd-9aaf-dfb70a719fc4
+2026-10-21 02:34:16 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+ft09 2 32 {'MOUSE@0,0': ((None, 'plafond'), (None, 'plafond')), 'MOUSE@32,32': ((32, 'defaite'), (32, 'defaite')), 'MOUSE@63,63': ((None, 'plafond'), (None, 'plafond'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:34:17 | INFO | Created new scorecard: 91cdc3f3-ec66-4a9b-abdc-c24a6a23ef9d
+2026-10-21 02:34:17 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+ft09 3 96 {'MOUSE@0,0': ((None, 'plafond'), (None, 'plafond')), 'MOUSE@32,32': ((96, 'defaite'), (96, 'defaite')), 'MOUSE@63,63': ((None, 'plafond'), (None, 'plafond'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:34:17 | INFO | Created new scorecard: 72fcbabb-5fec-4903-adef-0484efa28fcc
+2026-10-21 02:34:17 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+ft09 4 96 {'MOUSE@0,0': ((None, 'plafond'), (None, 'plafond')), 'MOUSE@32,32': ((96, 'defaite'), (96, 'defaite')), 'MOUSE@63,63': ((None, 'plafond'), (None, 'plafond'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:34:18 | INFO | Created new scorecard: d0169fbe-1e44-46e4-beab-82a01fc68e4d
+2026-10-21 02:34:18 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+ft09 5 128 {'MOUSE@0,0': ((None, 'plafond'), (None, 'plafond')), 'MOUSE@32,32': ((128, 'defaite'), (128, 'defaite')), 'MOUSE@63,63': ((None, 'plafond'), (None, 'plafond'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:34:19 | INFO | Created new scorecard: 2fa40f30-4925-4563-9864-8a39671e4902
+2026-10-21 02:34:19 | INFO | Found latest version of ft09: ft09-0d8bbf25 (downloaded: 2026-09-30 05:48:11.174184+00:00)
+ft09 6 128 {'MOUSE@0,0': ((None, 'plafond'), (None, 'plafond')), 'MOUSE@32,32': ((128, 'defaite'), (128, 'defaite')), 'MOUSE@63,63': ((None, 'plafond'), (None, 'plafond'))}

@@ -1,0 +1,11 @@
+Gel explorateur OW — 2026-10-22 16:44:39
+code_global_sha256 (livraison_explo/code, explo_ow + runner) : 0af2a16e58ffaea2049c7335126d3a099fef190f7f48815d2e5c519fe57ae0db
+agent P1 inchangé (livraison_p1/code/agent_p1, sha256 des .py) : 7c60ff383c22f4fa2cf36fb6383091c3b9ba892bf6de80943e41ac69072bbcef
+Fichiers :
+  3525d9f5ea60209582a8ce36b18a98647eeea523049d7406c562f390f5c900c4  livraison_explo/code/explo_ow/__init__.py
+  61f179669d149331b9b87bcc84debbcf8a486c8c6b601a278023dfcf4eff0bf9  livraison_explo/code/explo_ow/buts.py
+  7666ea479b7514ac9bbc3ceea053b16ae5b8c8c5868bb6840eded5370787bbaf  livraison_explo/code/explo_ow/explorateur.py
+  098510fd77cf0c50109f4749c7f4b18011c260614682c6072659978b71b7a01d  livraison_explo/code/explo_ow/grille.py
+  139edbd5bbcb4750f0016d32da55322d792931ea2d869007401131abb21b8ac7  livraison_explo/code/explo_ow/perception.py
+  082404392d95d897df8c59504e0587e8ebafedc5c3bbbe632fd05334b25383ac  livraison_explo/code/explo_ow/table.py
+  e95160990dc2753bb777b6b1c2ac15cf942f7c2eb5cd9f97990e00850ded035c  livraison_explo/code/runner.py

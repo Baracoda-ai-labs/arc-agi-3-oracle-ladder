@@ -1,0 +1,46 @@
+{
+ "jeu": "dc22",
+ "niveau": 4,
+ "franzen_r0": "3/6",
+ "prefixe_franzen": 198,
+ "plafond_exact": {
+  "recherche": "paliers",
+  "noeuds": 109962,
+  "etats": null,
+  "plan": null,
+  "gagne": null,
+  "raison": "budget épuisé"
+ },
+ "plafond_s": 600.3,
+ "moteur": {
+  "niveau_depart": 3,
+  "niveaux": 3,
+  "niveaux_coup_final_moteur": 0,
+  "coups": {
+   "hasard": 124,
+   "hasard_effet": 73,
+   "moteur": 1,
+   "moteur_effet": 1
+  },
+  "refus": {
+   "ne rejoue pas (C) ; partiel": 123
+  },
+  "duree_s": 605.7,
+  "bilan": {
+   "moteur_appels": 124,
+   "moteur_refus_porte": 0,
+   "moteur_plans": 1,
+   "moteur_tours": 1,
+   "moteur_coups_plan": 1,
+   "moteur_divergences": 0,
+   "moteur_cpu_s": 417.902,
+   "moteur_porte1_ok": 1,
+   "moteur_porte1_refus": 0,
+   "moteur_porte2_ok": 1,
+   "moteur_porte2_refus": 0,
+   "moteur_plans_gagnants_reels": 0,
+   "part_coups_moteur": 0.003
+  }
+ },
+ "classe": "S"
+}

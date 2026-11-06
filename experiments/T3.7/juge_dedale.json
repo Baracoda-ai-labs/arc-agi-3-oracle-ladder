@@ -1,0 +1,1455 @@
+[
+ {
+  "jeu": "y000",
+  "famille": "dedale",
+  "mecaniques": [
+   "interrupteur",
+   "cle_porte",
+   "poursuivant",
+   "glace"
+  ],
+  "coups": 185,
+  "exacts": 185,
+  "fins_reelles": 5,
+  "fins_justes": 5,
+  "a_tort": 0,
+  "defaites": 2,
+  "defaites_justes": 2,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y006",
+  "famille": "dedale",
+  "mecaniques": [
+   "gemmes",
+   "poursuivant",
+   "cle_porte"
+  ],
+  "coups": 153,
+  "exacts": 153,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 2,
+  "defaites_justes": 2,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y007",
+  "famille": "dedale",
+  "mecaniques": [
+   "lave",
+   "pousser",
+   "selection"
+  ],
+  "coups": 195,
+  "exacts": 195,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 0,
+  "defaites_justes": 0,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y008",
+  "famille": "dedale",
+  "mecaniques": [
+   "recharge",
+   "gemmes"
+  ],
+  "coups": 98,
+  "exacts": 98,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "defaites": 3,
+  "defaites_justes": 3,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y009",
+  "famille": "dedale",
+  "mecaniques": [
+   "portail",
+   "pousser",
+   "recharge",
+   "modificateur"
+  ],
+  "coups": 163,
+  "exacts": 163,
+  "fins_reelles": 5,
+  "fins_justes": 5,
+  "a_tort": 0,
+  "defaites": 4,
+  "defaites_justes": 4,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y010",
+  "famille": "dedale",
+  "mecaniques": [
+   "glace",
+   "pousser",
+   "modificateur"
+  ],
+  "coups": 162,
+  "exacts": 162,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 2,
+  "defaites_justes": 2,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y013",
+  "famille": "dedale",
+  "mecaniques": [
+   "lave",
+   "recharge",
+   "portail",
+   "selection"
+  ],
+  "coups": 147,
+  "exacts": 147,
+  "fins_reelles": 6,
+  "fins_justes": 6,
+  "a_tort": 0,
+  "defaites": 4,
+  "defaites_justes": 4,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y014",
+  "famille": "dedale",
+  "mecaniques": [
+   "pousser",
+   "cibles"
+  ],
+  "coups": 144,
+  "exacts": 144,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "defaites": 1,
+  "defaites_justes": 1,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y015",
+  "famille": "dedale",
+  "mecaniques": [
+   "modificateur",
+   "pousser",
+   "cle_porte",
+   "trous"
+  ],
+  "coups": 229,
+  "exacts": 229,
+  "fins_reelles": 5,
+  "fins_justes": 5,
+  "a_tort": 0,
+  "defaites": 0,
+  "defaites_justes": 0,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y016",
+  "famille": "dedale",
+  "mecaniques": [
+   "pousser",
+   "gravite",
+   "poursuivant"
+  ],
+  "coups": 177,
+  "exacts": 177,
+  "fins_reelles": 5,
+  "fins_justes": 5,
+  "a_tort": 0,
+  "defaites": 0,
+  "defaites_justes": 0,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y017",
+  "famille": "dedale",
+  "mecaniques": [
+   "poursuivant",
+   "modificateur",
+   "interrupteur"
+  ],
+  "coups": 231,
+  "exacts": 231,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 1,
+  "defaites_justes": 1,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y018",
+  "famille": "dedale",
+  "mecaniques": [
+   "pousser",
+   "interrupteur",
+   "modificateur",
+   "gravite"
+  ],
+  "coups": 227,
+  "exacts": 227,
+  "fins_reelles": 5,
+  "fins_justes": 5,
+  "a_tort": 0,
+  "defaites": 2,
+  "defaites_justes": 2,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y021",
+  "famille": "dedale",
+  "mecaniques": [
+   "interrupteur",
+   "lave"
+  ],
+  "coups": 137,
+  "exacts": 137,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "defaites": 0,
+  "defaites_justes": 0,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y022",
+  "famille": "dedale",
+  "mecaniques": [
+   "cle_porte",
+   "portail"
+  ],
+  "coups": 143,
+  "exacts": 143,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "defaites": 0,
+  "defaites_justes": 0,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y023",
+  "famille": "dedale",
+  "mecaniques": [
+   "glace",
+   "cle_porte"
+  ],
+  "coups": 110,
+  "exacts": 110,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 1,
+  "defaites_justes": 1,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y025",
+  "famille": "dedale",
+  "mecaniques": [
+   "portail",
+   "interrupteur"
+  ],
+  "coups": 126,
+  "exacts": 126,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "defaites": 0,
+  "defaites_justes": 0,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y026",
+  "famille": "dedale",
+  "mecaniques": [
+   "glace",
+   "cle_porte",
+   "gemmes",
+   "lave"
+  ],
+  "coups": 230,
+  "exacts": 230,
+  "fins_reelles": 5,
+  "fins_justes": 5,
+  "a_tort": 0,
+  "defaites": 2,
+  "defaites_justes": 2,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y027",
+  "famille": "dedale",
+  "mecaniques": [
+   "cle_porte",
+   "interrupteur"
+  ],
+  "coups": 132,
+  "exacts": 132,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "defaites": 1,
+  "defaites_justes": 1,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y029",
+  "famille": "dedale",
+  "mecaniques": [
+   "modificateur",
+   "portail",
+   "poursuivant"
+  ],
+  "coups": 169,
+  "exacts": 169,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 2,
+  "defaites_justes": 2,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y031",
+  "famille": "dedale",
+  "mecaniques": [
+   "portail",
+   "gemmes",
+   "cle_porte"
+  ],
+  "coups": 187,
+  "exacts": 187,
+  "fins_reelles": 5,
+  "fins_justes": 5,
+  "a_tort": 0,
+  "defaites": 1,
+  "defaites_justes": 1,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y032",
+  "famille": "dedale",
+  "mecaniques": [
+   "portail",
+   "lave"
+  ],
+  "coups": 94,
+  "exacts": 94,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "defaites": 2,
+  "defaites_justes": 2,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y034",
+  "famille": "dedale",
+  "mecaniques": [
+   "pousser",
+   "gravite",
+   "poursuivant"
+  ],
+  "coups": 124,
+  "exacts": 124,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 3,
+  "defaites_justes": 3,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y035",
+  "famille": "dedale",
+  "mecaniques": [
+   "recharge",
+   "selection"
+  ],
+  "coups": 104,
+  "exacts": 104,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "defaites": 3,
+  "defaites_justes": 3,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y036",
+  "famille": "dedale",
+  "mecaniques": [
+   "modificateur",
+   "interrupteur",
+   "cle_porte",
+   "recharge"
+  ],
+  "coups": 212,
+  "exacts": 212,
+  "fins_reelles": 5,
+  "fins_justes": 5,
+  "a_tort": 0,
+  "defaites": 2,
+  "defaites_justes": 2,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y037",
+  "famille": "dedale",
+  "mecaniques": [
+   "poursuivant",
+   "gemmes",
+   "modificateur"
+  ],
+  "coups": 129,
+  "exacts": 129,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 4,
+  "defaites_justes": 4,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y038",
+  "famille": "dedale",
+  "mecaniques": [
+   "gemmes",
+   "portail",
+   "cle_porte"
+  ],
+  "coups": 199,
+  "exacts": 199,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 0,
+  "defaites_justes": 0,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y039",
+  "famille": "dedale",
+  "mecaniques": [
+   "pousser",
+   "gravite",
+   "lave",
+   "portail"
+  ],
+  "coups": 213,
+  "exacts": 213,
+  "fins_reelles": 5,
+  "fins_justes": 5,
+  "a_tort": 0,
+  "defaites": 1,
+  "defaites_justes": 1,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y040",
+  "famille": "dedale",
+  "mecaniques": [
+   "pousser",
+   "interrupteur",
+   "cle_porte",
+   "gravite"
+  ],
+  "coups": 235,
+  "exacts": 235,
+  "fins_reelles": 5,
+  "fins_justes": 5,
+  "a_tort": 0,
+  "defaites": 0,
+  "defaites_justes": 0,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y041",
+  "famille": "dedale",
+  "mecaniques": [
+   "lave",
+   "poursuivant",
+   "gemmes",
+   "modificateur"
+  ],
+  "coups": 145,
+  "exacts": 145,
+  "fins_reelles": 5,
+  "fins_justes": 5,
+  "a_tort": 0,
+  "defaites": 5,
+  "defaites_justes": 5,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y042",
+  "famille": "dedale",
+  "mecaniques": [
+   "interrupteur",
+   "lave",
+   "pousser"
+  ],
+  "coups": 189,
+  "exacts": 189,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 1,
+  "defaites_justes": 1,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y044",
+  "famille": "dedale",
+  "mecaniques": [
+   "lave",
+   "cle_porte",
+   "portail"
+  ],
+  "coups": 135,
+  "exacts": 135,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 2,
+  "defaites_justes": 2,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y045",
+  "famille": "dedale",
+  "mecaniques": [
+   "selection",
+   "gemmes"
+  ],
+  "coups": 160,
+  "exacts": 160,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "defaites": 0,
+  "defaites_justes": 0,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y046",
+  "famille": "dedale",
+  "mecaniques": [
+   "lave",
+   "recharge"
+  ],
+  "coups": 105,
+  "exacts": 105,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "defaites": 2,
+  "defaites_justes": 2,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y047",
+  "famille": "dedale",
+  "mecaniques": [
+   "gemmes",
+   "glace",
+   "interrupteur",
+   "poursuivant"
+  ],
+  "coups": 212,
+  "exacts": 212,
+  "fins_reelles": 5,
+  "fins_justes": 5,
+  "a_tort": 0,
+  "defaites": 2,
+  "defaites_justes": 2,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y048",
+  "famille": "dedale",
+  "mecaniques": [
+   "pousser",
+   "lave",
+   "recharge",
+   "portail"
+  ],
+  "coups": 146,
+  "exacts": 146,
+  "fins_reelles": 5,
+  "fins_justes": 5,
+  "a_tort": 0,
+  "defaites": 4,
+  "defaites_justes": 4,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y049",
+  "famille": "dedale",
+  "mecaniques": [
+   "glace",
+   "gemmes",
+   "poursuivant"
+  ],
+  "coups": 134,
+  "exacts": 134,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 3,
+  "defaites_justes": 3,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y050",
+  "famille": "dedale",
+  "mecaniques": [
+   "pousser",
+   "lave"
+  ],
+  "coups": 105,
+  "exacts": 105,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "defaites": 2,
+  "defaites_justes": 2,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y051",
+  "famille": "dedale",
+  "mecaniques": [
+   "gemmes",
+   "interrupteur",
+   "selection"
+  ],
+  "coups": 196,
+  "exacts": 196,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 0,
+  "defaites_justes": 0,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y052",
+  "famille": "dedale",
+  "mecaniques": [
+   "interrupteur",
+   "gemmes",
+   "cle_porte",
+   "pousser"
+  ],
+  "coups": 250,
+  "exacts": 250,
+  "fins_reelles": 6,
+  "fins_justes": 6,
+  "a_tort": 0,
+  "defaites": 0,
+  "defaites_justes": 0,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y053",
+  "famille": "dedale",
+  "mecaniques": [
+   "glace",
+   "gemmes"
+  ],
+  "coups": 117,
+  "exacts": 117,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 1,
+  "defaites_justes": 1,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y054",
+  "famille": "dedale",
+  "mecaniques": [
+   "lave",
+   "modificateur",
+   "poursuivant",
+   "cle_porte"
+  ],
+  "coups": 212,
+  "exacts": 212,
+  "fins_reelles": 5,
+  "fins_justes": 5,
+  "a_tort": 0,
+  "defaites": 2,
+  "defaites_justes": 2,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y055",
+  "famille": "dedale",
+  "mecaniques": [
+   "modificateur",
+   "lave",
+   "pousser",
+   "interrupteur"
+  ],
+  "coups": 261,
+  "exacts": 261,
+  "fins_reelles": 5,
+  "fins_justes": 5,
+  "a_tort": 0,
+  "defaites": 0,
+  "defaites_justes": 0,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y056",
+  "famille": "dedale",
+  "mecaniques": [
+   "cle_porte",
+   "gemmes",
+   "poursuivant"
+  ],
+  "coups": 210,
+  "exacts": 210,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 0,
+  "defaites_justes": 0,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y058",
+  "famille": "dedale",
+  "mecaniques": [
+   "glace",
+   "poursuivant",
+   "recharge"
+  ],
+  "coups": 122,
+  "exacts": 122,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 4,
+  "defaites_justes": 4,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y059",
+  "famille": "dedale",
+  "mecaniques": [
+   "selection",
+   "interrupteur",
+   "lave",
+   "pousser"
+  ],
+  "coups": 323,
+  "exacts": 323,
+  "fins_reelles": 5,
+  "fins_justes": 5,
+  "a_tort": 0,
+  "defaites": 0,
+  "defaites_justes": 0,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y060",
+  "famille": "dedale",
+  "mecaniques": [
+   "gemmes",
+   "poursuivant",
+   "pousser"
+  ],
+  "coups": 131,
+  "exacts": 131,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 3,
+  "defaites_justes": 3,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y061",
+  "famille": "dedale",
+  "mecaniques": [
+   "gemmes",
+   "portail"
+  ],
+  "coups": 126,
+  "exacts": 126,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "defaites": 1,
+  "defaites_justes": 1,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y062",
+  "famille": "dedale",
+  "mecaniques": [
+   "modificateur",
+   "cle_porte"
+  ],
+  "coups": 134,
+  "exacts": 134,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "defaites": 0,
+  "defaites_justes": 0,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y063",
+  "famille": "dedale",
+  "mecaniques": [
+   "gemmes",
+   "pousser"
+  ],
+  "coups": 186,
+  "exacts": 186,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "defaites": 0,
+  "defaites_justes": 0,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y064",
+  "famille": "dedale",
+  "mecaniques": [
+   "modificateur",
+   "pousser",
+   "gravite",
+   "poursuivant"
+  ],
+  "coups": 212,
+  "exacts": 212,
+  "fins_reelles": 5,
+  "fins_justes": 5,
+  "a_tort": 0,
+  "defaites": 1,
+  "defaites_justes": 1,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y065",
+  "famille": "dedale",
+  "mecaniques": [
+   "pousser",
+   "portail"
+  ],
+  "coups": 140,
+  "exacts": 140,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "defaites": 0,
+  "defaites_justes": 0,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y066",
+  "famille": "dedale",
+  "mecaniques": [
+   "pousser",
+   "cle_porte"
+  ],
+  "coups": 121,
+  "exacts": 121,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "defaites": 1,
+  "defaites_justes": 1,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y069",
+  "famille": "dedale",
+  "mecaniques": [
+   "portail",
+   "gemmes"
+  ],
+  "coups": 140,
+  "exacts": 140,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "defaites": 0,
+  "defaites_justes": 0,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y070",
+  "famille": "dedale",
+  "mecaniques": [
+   "poursuivant",
+   "gemmes",
+   "glace",
+   "modificateur"
+  ],
+  "coups": 153,
+  "exacts": 153,
+  "fins_reelles": 6,
+  "fins_justes": 6,
+  "a_tort": 0,
+  "defaites": 3,
+  "defaites_justes": 3,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y071",
+  "famille": "dedale",
+  "mecaniques": [
+   "pousser",
+   "trous",
+   "cle_porte"
+  ],
+  "coups": 166,
+  "exacts": 166,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 1,
+  "defaites_justes": 1,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y073",
+  "famille": "dedale",
+  "mecaniques": [
+   "portail",
+   "recharge",
+   "pousser",
+   "gravite"
+  ],
+  "coups": 135,
+  "exacts": 135,
+  "fins_reelles": 5,
+  "fins_justes": 5,
+  "a_tort": 0,
+  "defaites": 3,
+  "defaites_justes": 3,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y074",
+  "famille": "dedale",
+  "mecaniques": [
+   "glace",
+   "modificateur"
+  ],
+  "coups": 119,
+  "exacts": 119,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "defaites": 1,
+  "defaites_justes": 1,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y076",
+  "famille": "dedale",
+  "mecaniques": [
+   "pousser",
+   "trous",
+   "recharge"
+  ],
+  "coups": 171,
+  "exacts": 171,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 2,
+  "defaites_justes": 2,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y077",
+  "famille": "dedale",
+  "mecaniques": [
+   "pousser",
+   "selection",
+   "trous"
+  ],
+  "coups": 205,
+  "exacts": 205,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 0,
+  "defaites_justes": 0,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y078",
+  "famille": "dedale",
+  "mecaniques": [
+   "pousser",
+   "modificateur",
+   "trous"
+  ],
+  "coups": 166,
+  "exacts": 166,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 3,
+  "defaites_justes": 3,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y079",
+  "famille": "dedale",
+  "mecaniques": [
+   "gemmes",
+   "modificateur"
+  ],
+  "coups": 136,
+  "exacts": 136,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "defaites": 0,
+  "defaites_justes": 0,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y080",
+  "famille": "dedale",
+  "mecaniques": [
+   "pousser",
+   "gravite"
+  ],
+  "coups": 115,
+  "exacts": 115,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "defaites": 2,
+  "defaites_justes": 2,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y082",
+  "famille": "dedale",
+  "mecaniques": [
+   "glace",
+   "cle_porte"
+  ],
+  "coups": 140,
+  "exacts": 140,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "defaites": 0,
+  "defaites_justes": 0,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y083",
+  "famille": "dedale",
+  "mecaniques": [
+   "portail",
+   "pousser",
+   "gravite"
+  ],
+  "coups": 193,
+  "exacts": 193,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 0,
+  "defaites_justes": 0,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y084",
+  "famille": "dedale",
+  "mecaniques": [
+   "selection",
+   "cle_porte",
+   "pousser"
+  ],
+  "coups": 218,
+  "exacts": 218,
+  "fins_reelles": 5,
+  "fins_justes": 5,
+  "a_tort": 0,
+  "defaites": 0,
+  "defaites_justes": 0,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y085",
+  "famille": "dedale",
+  "mecaniques": [
+   "portail",
+   "recharge",
+   "cle_porte",
+   "gemmes"
+  ],
+  "coups": 151,
+  "exacts": 151,
+  "fins_reelles": 5,
+  "fins_justes": 5,
+  "a_tort": 0,
+  "defaites": 5,
+  "defaites_justes": 5,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y086",
+  "famille": "dedale",
+  "mecaniques": [
+   "recharge",
+   "pousser"
+  ],
+  "coups": 71,
+  "exacts": 71,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 2,
+  "defaites_justes": 2,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y087",
+  "famille": "dedale",
+  "mecaniques": [
+   "glace",
+   "recharge"
+  ],
+  "coups": 127,
+  "exacts": 127,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "defaites": 1,
+  "defaites_justes": 1,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y088",
+  "famille": "dedale",
+  "mecaniques": [
+   "pousser",
+   "glace"
+  ],
+  "coups": 125,
+  "exacts": 125,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "defaites": 0,
+  "defaites_justes": 0,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y089",
+  "famille": "dedale",
+  "mecaniques": [
+   "glace",
+   "cle_porte",
+   "poursuivant"
+  ],
+  "coups": 215,
+  "exacts": 215,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 0,
+  "defaites_justes": 0,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y090",
+  "famille": "dedale",
+  "mecaniques": [
+   "glace",
+   "pousser",
+   "gravite"
+  ],
+  "coups": 169,
+  "exacts": 169,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 1,
+  "defaites_justes": 1,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y091",
+  "famille": "dedale",
+  "mecaniques": [
+   "interrupteur",
+   "pousser",
+   "gravite"
+  ],
+  "coups": 183,
+  "exacts": 183,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 0,
+  "defaites_justes": 0,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y092",
+  "famille": "dedale",
+  "mecaniques": [
+   "lave",
+   "pousser",
+   "trous",
+   "poursuivant"
+  ],
+  "coups": 178,
+  "exacts": 178,
+  "fins_reelles": 5,
+  "fins_justes": 5,
+  "a_tort": 0,
+  "defaites": 3,
+  "defaites_justes": 3,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y093",
+  "famille": "dedale",
+  "mecaniques": [
+   "modificateur",
+   "portail",
+   "poursuivant"
+  ],
+  "coups": 179,
+  "exacts": 179,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 0,
+  "defaites_justes": 0,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y094",
+  "famille": "dedale",
+  "mecaniques": [
+   "poursuivant",
+   "recharge",
+   "lave",
+   "portail"
+  ],
+  "coups": 168,
+  "exacts": 168,
+  "fins_reelles": 5,
+  "fins_justes": 5,
+  "a_tort": 0,
+  "defaites": 4,
+  "defaites_justes": 4,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y097",
+  "famille": "dedale",
+  "mecaniques": [
+   "cle_porte",
+   "recharge",
+   "modificateur",
+   "gemmes"
+  ],
+  "coups": 171,
+  "exacts": 171,
+  "fins_reelles": 5,
+  "fins_justes": 5,
+  "a_tort": 0,
+  "defaites": 4,
+  "defaites_justes": 4,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y098",
+  "famille": "dedale",
+  "mecaniques": [
+   "pousser",
+   "poursuivant",
+   "gemmes"
+  ],
+  "coups": 195,
+  "exacts": 195,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 0,
+  "defaites_justes": 0,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y099",
+  "famille": "dedale",
+  "mecaniques": [
+   "recharge",
+   "poursuivant"
+  ],
+  "coups": 72,
+  "exacts": 72,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "defaites": 3,
+  "defaites_justes": 3,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y104",
+  "famille": "dedale",
+  "mecaniques": [
+   "interrupteur",
+   "glace",
+   "pousser",
+   "cibles"
+  ],
+  "coups": 243,
+  "exacts": 243,
+  "fins_reelles": 5,
+  "fins_justes": 5,
+  "a_tort": 0,
+  "defaites": 0,
+  "defaites_justes": 0,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y105",
+  "famille": "dedale",
+  "mecaniques": [
+   "pousser",
+   "cibles"
+  ],
+  "coups": 150,
+  "exacts": 150,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "defaites": 0,
+  "defaites_justes": 0,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y106",
+  "famille": "dedale",
+  "mecaniques": [
+   "pousser",
+   "cibles"
+  ],
+  "coups": 125,
+  "exacts": 125,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "defaites": 1,
+  "defaites_justes": 1,
+  "erreurs": 0,
+  "details": []
+ }
+]

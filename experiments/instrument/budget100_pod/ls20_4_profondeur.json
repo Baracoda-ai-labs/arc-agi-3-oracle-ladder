@@ -1,0 +1,19 @@
+{
+ "jeu": "ls20",
+ "niveau": 4,
+ "bras": "profondeur",
+ "budget_s": 30000.0,
+ "memoire_go": 4.0,
+ "backend": "1",
+ "prefixe": "prefixes_r0.json",
+ "gagne": true,
+ "plan": 64,
+ "noeuds": 517647,
+ "etats": null,
+ "raison": null,
+ "profondeur": null,
+ "table": null,
+ "t_victoire": 513.4,
+ "duree_s": 513.4,
+ "memoire_max_go": 0.12
+}

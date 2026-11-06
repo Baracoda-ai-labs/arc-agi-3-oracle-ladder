@@ -1,0 +1,142 @@
+{
+ "totaux": {
+  "A": 1,
+  "B": 1,
+  "C": 3,
+  "C600": 5,
+  "D": 11
+ },
+ "mesures": 18,
+ "ecarts_p0": [
+  "su15",
+  "lf52"
+ ],
+ "par_niveau": {
+  "bp35": {
+   "A": false,
+   "B": false,
+   "C": false,
+   "C600": false,
+   "D": false
+  },
+  "sp80": {
+   "A": false,
+   "B": false,
+   "C": true,
+   "C600": true,
+   "D": true
+  },
+  "cd82": {
+   "A": false,
+   "B": false,
+   "C": true,
+   "C600": true,
+   "D": true
+  },
+  "sk48": {
+   "A": false,
+   "B": false,
+   "C": false,
+   "C600": false,
+   "D": false
+  },
+  "su15": {
+   "A": false,
+   "B": false,
+   "C": false,
+   "C600": false,
+   "D": true
+  },
+  "ls20": {
+   "A": false,
+   "B": false,
+   "C": true,
+   "C600": true,
+   "D": true
+  },
+  "sb26": {
+   "A": false,
+   "B": false,
+   "C": false,
+   "C600": false,
+   "D": false
+  },
+  "tr87": {
+   "A": false,
+   "B": false,
+   "C": false,
+   "C600": false,
+   "D": true
+  },
+  "dc22": {
+   "A": false,
+   "B": false,
+   "C": false,
+   "C600": false,
+   "D": true
+  },
+  "sc25": {
+   "A": false,
+   "B": false,
+   "C": false,
+   "C600": false,
+   "D": false
+  },
+  "lf52": {
+   "A": false,
+   "B": false,
+   "C": false,
+   "C600": true,
+   "D": true
+  },
+  "re86": {
+   "A": false,
+   "B": false,
+   "C": false,
+   "C600": false,
+   "D": true
+  },
+  "ft09": {
+   "A": true,
+   "B": true,
+   "C": false,
+   "C600": true,
+   "D": true
+  },
+  "ar25": {
+   "A": false,
+   "B": false,
+   "C": false,
+   "C600": false,
+   "D": false
+  },
+  "lp85": {
+   "A": false,
+   "B": false,
+   "C": false,
+   "C600": false,
+   "D": true
+  },
+  "m0r0": {
+   "A": false,
+   "B": false,
+   "C": false,
+   "C600": false,
+   "D": true
+  },
+  "r11l": {
+   "A": false,
+   "B": false,
+   "C": false,
+   "C600": false,
+   "D": false
+  },
+  "tn36": {
+   "A": false,
+   "B": false,
+   "C": false,
+   "C600": false,
+   "D": false
+  }
+ }
+}

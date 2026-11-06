@@ -1,0 +1,36 @@
+benchmark: P52
+solver:    inference
+games:     20
+passes:    1
+runs:      20 (won: 4)
+started:   2026-10-30 20:12:24
+ended:     2026-10-30 21:01:22
+duration:  48m 58s
+mean score:    40.17
+median score:  35.12
+total actions: 2996
+total tokens:  1902081
+generated tokens/sec: 647.33 (job wallclock)
+total wallclock: 53221.7s
+
+per-game (mean across passes):
+  ar25-0c556536: score=41.67, levels=5.0/8, actions=176, tokens=119230
+  bp35-0a0ad940: score=0.00, levels=0.0/9, actions=34, tokens=62924
+  cd82-fb555c5d: score=0.00, levels=0.0/6, actions=36, tokens=52036
+  dc22-fdcac232: score=14.29, levels=2.0/6, actions=171, tokens=106964
+  ft09-0d8bbf25: score=100.00, levels=6.0/6, actions=109, tokens=97219
+  g50t-5849a774: score=100.00, levels=7.0/7, actions=360, tokens=0
+  ka59-38d34dbb: score=53.57, levels=5.0/7, actions=277, tokens=48036
+  lf52-271a04aa: score=5.45, levels=2.0/10, actions=92, tokens=83111
+  lp85-305b61c3: score=100.00, levels=8.0/8, actions=120, tokens=125595
+  ls20-9607627b: score=2.20, levels=1.0/7, actions=141, tokens=85245
+  m0r0-492f87ba: score=45.05, levels=4.0/6, actions=170, tokens=166864
+  r11l-495a7899: score=47.62, levels=4.0/6, actions=59, tokens=147215
+  re86-8af5384d: score=41.67, levels=5.0/8, actions=319, tokens=133249
+  sb26-7fbdac44: score=100.00, levels=8.0/8, actions=147, tokens=73928
+  sc25-635fd71a: score=28.57, levels=3.0/6, actions=149, tokens=89984
+  sk48-d8078629: score=0.00, levels=0.0/8, actions=76, tokens=75472
+  sp80-589a99af: score=28.57, levels=3.0/6, actions=79, tokens=129792
+  su15-1944f8ab: score=13.33, levels=3.0/9, actions=133, tokens=135856
+  tn36-ef4dde99: score=9.89, levels=2.0/7, actions=100, tokens=68278
+  tr87-cd924810: score=71.43, levels=5.0/6, actions=248, tokens=101083

@@ -1,0 +1,90 @@
+{
+  "shared": {
+    "model_name": "flashnext",
+    "base_url": "http://127.0.0.1:8011/v1",
+    "provider": "vllm",
+    "context_window": 131072
+  },
+  "experiments": {
+    "root_dir": "/workspace/runs"
+  },
+  "environment": {
+    "dataset": "",
+    "include_tags": [
+      "official"
+    ],
+    "exclude_tags": [],
+    "games": [],
+    "max_steps": null,
+    "max_runtime_minutes": 121,
+    "max_experiment_runtime_minutes": null,
+    "max_experiment_runtime_hours": null,
+    "n_passes": 1,
+    "concurrent_jobs": 25
+  },
+  "deployment": {
+    "target": "inline",
+    "wait": true,
+    "source_repos": [
+      "../tufa-arc-agi-framework"
+    ],
+    "slurm": {
+      "gpu": "B200",
+      "gpu_count": 2,
+      "time": "13:00:00",
+      "image": "",
+      "partition": "gpu",
+      "nodelist": "",
+      "start_local_server": true,
+      "extra_sbatch_flags": [
+        "--account=default",
+        "--qos=normal"
+      ]
+    }
+  },
+  "server": {
+    "backend": "vllm",
+    "host": "127.0.0.1",
+    "port": 8011,
+    "tensor_parallel_size": 1,
+    "dtype": "auto",
+    "gpu_memory_utilization": 0.92,
+    "trust_remote_code": true,
+    "generation_config": "vllm",
+    "language_model_only": false,
+    "enable_prefix_caching": true,
+    "tool_call_parser": "qwen3_coder",
+    "reasoning_parser": "qwen3",
+    "default_chat_template_kwargs": {
+      "preserve_thinking": true
+    }
+  },
+  "analyzer": {
+    "app_name": "ARC3 Agent Harness",
+    "max_output": 12288,
+    "thinking": true,
+    "temperature": 0.7,
+    "top_p": 0.95,
+    "top_k": 20,
+    "timeout": 900,
+    "tool_steps": 0,
+    "tool_timeout": 30,
+    "tool_output_tokens": 3072,
+    "save_request_logs": true
+  },
+  "chat": {
+    "max_tokens": 2048,
+    "temperature": 0.7,
+    "top_p": 0.8,
+    "top_k": 20,
+    "thinking": true
+  },
+  "viewer": {
+    "port": 8021
+  },
+  "multimodal": {
+    "context": "current_grid",
+    "upscale": 10
+  },
+  "_note": "Pod Chrysalide (prereg_S2, amendement A) : réglages du notebook Franzen v3 hors soumission, 1 passage, 25 jeux publics, concurrence 25, 532*25//110 = 121 min par jeu (cellule 16). Les variables ARC3_* viennent de scripts/pod/franzen_env.sh."
+}

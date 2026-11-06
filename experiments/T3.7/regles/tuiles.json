@@ -1,0 +1,66 @@
+{"notes": "CW-203 [B] : programme de FAMILLE pour tous les jeux T4 « tuiles » (mécaniques base, croix, lien, verrou, rangee, colonne, cycle3). L'état est porté par les sprites eux-mêmes : valeur d'une tuile = rang de sa couleur intérieure (pixel (1,1)) dans la palette. Palette lue au début du niveau : couleur d'une tuile dont la valeur de départ est p, sinon la légende (carrés espacés de 3), sinon le modèle affiché. Plan (n, m, P, types, liens, rangées, colonnes, cible, G, origine, case) = donnée de niveau `plan` (Level.get_data du moteur). Clic : case = (clic - origine) // case ; tuile (sauf verrou) → elle, ses voisines (croix) ou toutes celles du même lien avancent d'une couleur ; bouton de rangée → rangée décalée d'un cran vers la droite ; bouton de colonne → colonne décalée vers le bas ; tout clic coûte 1 de jauge. Victoire : chaque tuile a la couleur de sa cible ; défaite : jauge à 0.",
+ "mots_manquants": [],
+ "etat": {"pal": [], "g": 0, "tmp": []},
+ "mots": {
+  "plan": {"params": ["$k"], "corps": ["elem", ["donnees_de_niveau", "plan"], "$k"]},
+  "tuiles": {"params": [], "corps": ["trier", ["objets", {"tag": "type:tuile"}], "$o", ["+", ["*", ["y", "$o"], 1000], ["x", "$o"]]]},
+  "coul": {"params": ["$o"], "corps": ["pixel", "$o", 1, 1]},
+  "suivante": {"params": ["$c", "$pal"], "corps": ["elem", "$pal", ["%", ["+", ["indice", "$pal", "$c"], 1], ["longueur", "$pal"]]]}
+ },
+ "au_debut": [
+  ["poser", "g", ["plan", "G"]],
+  ["poser", "pal", ["liste"]],
+  ["pour", "$p", ["intervalle", 0, ["plan", "P"]], [
+   ["empiler", "pal",
+    ["si", ["existe", "$j", ["intervalle", 0, ["*", ["plan", "n"], ["plan", "m"]]], ["=", ["elem", ["plan", "depart"], "$j"], "$p"]],
+     ["coul", ["elem", ["tuiles"], ["premier_tel_que", "$j", ["intervalle", 0, ["*", ["plan", "n"], ["plan", "m"]]], ["=", ["elem", ["plan", "depart"], "$j"], "$p"]]]],
+     ["si", ["existe", "$o", ["objets", {"tag": "type:legende"}], ["visible", "$o"]],
+      ["pixel", ["premier", ["objets", {"tag": "type:legende"}]], ["+", 1, ["*", 3, "$p"]], 1],
+      ["pixel", ["premier", ["objets", {"tag": "type:modele"}]],
+       ["+", 1, ["*", ["//", ["-", ["largeur", ["premier", ["objets", {"tag": "type:modele"}]]], 2], ["plan", "n"]],
+                  ["%", ["premier_tel_que", "$j", ["intervalle", 0, ["*", ["plan", "n"], ["plan", "m"]]], ["=", ["elem", ["plan", "cible"], "$j"], "$p"]], ["plan", "n"]]]],
+       ["+", 1, ["*", ["//", ["-", ["largeur", ["premier", ["objets", {"tag": "type:modele"}]]], 2], ["plan", "n"]],
+                  ["//", ["premier_tel_que", "$j", ["intervalle", 0, ["*", ["plan", "n"], ["plan", "m"]]], ["=", ["elem", ["plan", "cible"], "$j"], "$p"]], ["plan", "n"]]]]]]]]]]
+ ],
+ "regles": [
+  {"nom": "hors_clic", "quand": ["!=", ["action"], "CLICK"], "alors": [], "puis": "stop"},
+  {"nom": "clic", "soit": {
+     "c": ["case_clic"],
+     "n": ["plan", "n"], "m": ["plan", "m"],
+     "cx": ["si", ["=", "$c", null], -9, ["//", ["-", ["elem", "$c", 0], ["plan", "ox"]], ["plan", "s"]]],
+     "cy": ["si", ["=", "$c", null], -9, ["//", ["-", ["elem", "$c", 1], ["plan", "oy"]], ["plan", "s"]]],
+     "dans": ["et", ["!=", "$c", null], [">=", ["elem", "$c", 0], ["plan", "ox"]], [">=", ["elem", "$c", 1], ["plan", "oy"]]],
+     "T": ["tuiles"],
+     "pal": ["etat", "pal"],
+     "i": ["+", ["*", "$cy", "$n"], "$cx"]},
+   "alors": [
+    ["si_alors", ["et", "$dans", [">=", "$cx", 0], ["<", "$cx", "$n"], [">=", "$cy", 0], ["<", "$cy", "$m"], ["!=", ["elem", ["plan", "types"], "$i"], "v"]],
+     [["pour", "$j",
+       ["filtrer", "$j", ["intervalle", 0, ["*", "$n", "$m"]],
+        ["si", [">=", ["elem", ["plan", "liens"], "$i"], 0],
+         ["=", ["elem", ["plan", "liens"], "$j"], ["elem", ["plan", "liens"], "$i"]],
+         ["si", ["=", ["elem", ["plan", "types"], "$i"], "x"],
+          ["ou", ["=", "$j", "$i"],
+           ["et", ["=", ["//", "$j", "$n"], "$cy"], ["ou", ["=", ["%", "$j", "$n"], ["+", "$cx", 1]], ["=", ["%", "$j", "$n"], ["-", "$cx", 1]]]],
+           ["et", ["=", ["%", "$j", "$n"], "$cx"], ["ou", ["=", ["//", "$j", "$n"], ["+", "$cy", 1]], ["=", ["//", "$j", "$n"], ["-", "$cy", 1]]]]],
+          ["=", "$j", "$i"]]]],
+       [["recolorer", ["elem", "$T", "$j"], ["coul", ["elem", "$T", "$j"]], ["suivante", ["coul", ["elem", "$T", "$j"]], "$pal"]]]]]],
+    ["si_alors", ["et", "$dans", ["=", "$cx", "$n"], ["contient", ["plan", "rangees"], "$cy"]],
+     [["poser", "tmp", ["liste"]],
+      ["pour", "$k", ["intervalle", 0, "$n"], [["empiler", "tmp", ["coul", ["elem", "$T", ["+", ["*", "$cy", "$n"], "$k"]]]]]],
+      ["pour", "$k", ["intervalle", 0, "$n"], [
+       ["recolorer", ["elem", "$T", ["+", ["*", "$cy", "$n"], "$k"]], ["coul", ["elem", "$T", ["+", ["*", "$cy", "$n"], "$k"]]],
+        ["elem", ["etat", "tmp"], ["%", ["-", "$k", 1], "$n"]]]]]]],
+    ["si_alors", ["et", "$dans", ["=", "$cy", "$m"], ["contient", ["plan", "colonnes"], "$cx"]],
+     [["poser", "tmp", ["liste"]],
+      ["pour", "$k", ["intervalle", 0, "$m"], [["empiler", "tmp", ["coul", ["elem", "$T", ["+", ["*", "$k", "$n"], "$cx"]]]]]],
+      ["pour", "$k", ["intervalle", 0, "$m"], [
+       ["recolorer", ["elem", "$T", ["+", ["*", "$k", "$n"], "$cx"]], ["coul", ["elem", "$T", ["+", ["*", "$k", "$n"], "$cx"]]],
+        ["elem", ["etat", "tmp"], ["%", ["-", "$k", 1], "$m"]]]]]]],
+    ["poser", "g", ["-", ["etat", "g"], 1]],
+    ["si_alors", ["tous", "$j", ["intervalle", 0, ["*", "$n", "$m"]],
+                  ["=", ["coul", ["elem", "$T", "$j"]], ["elem", "$pal", ["elem", ["plan", "cible"], "$j"]]]],
+     [["niveau_suivant"]],
+     [["si_alors", ["<=", ["etat", "g"], 0], [["perdre"]]]]]
+   ]}
+ ]}

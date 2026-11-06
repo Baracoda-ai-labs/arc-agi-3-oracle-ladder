@@ -1,0 +1,15 @@
+[
+ {
+  "jeu": "tr87",
+  "niveau": 6,
+  "recherche": "but",
+  "actions": 4,
+  "noeuds": 212096,
+  "etats": 167656,
+  "secondes": 307.8,
+  "plan": null,
+  "raison": "budget épuisé",
+  "bras": "G",
+  "cpu": 317.6
+ }
+]

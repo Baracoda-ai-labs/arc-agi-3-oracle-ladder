@@ -1,0 +1,25 @@
+{
+ "dc22": {
+  "jeu": "dc22",
+  "niveau": 1,
+  "C600": {
+   "but": null,
+   "gagne": false,
+   "raison": "aucun candidat atteint (budget)",
+   "candidats": 16
+  },
+  "secondes": 600.6
+ },
+ "ft09": {
+  "jeu": "ft09",
+  "niveau": 1,
+  "C600": {
+   "but": "('motif_rel', 0, 2)",
+   "gagne": true,
+   "plan": 4,
+   "noeuds": 3707,
+   "note": "vraie victoire atteinte pendant la recherche du but supposé"
+  },
+  "secondes": 12.7
+ }
+}

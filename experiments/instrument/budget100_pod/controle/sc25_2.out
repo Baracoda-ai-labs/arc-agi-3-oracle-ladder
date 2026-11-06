@@ -1,0 +1,8 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 17:35:25 | INFO | Created new scorecard: 78c1b364-e834-43a5-8432-791d9581892d
+2026-10-20 17:35:25 | INFO | Found latest version of sc25: sc25-635fd71a (downloaded: 2026-09-30 05:48:22.515492+00:00)
+2026-10-20 17:35:25 | INFO | Successfully loaded game class Sc25 from /workspace/chrysalide3/experiments/arc3/environment_files/sc25/635fd71a/sc25.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 17:37:40 | INFO | Created new scorecard: 577ac1aa-0ecf-4088-a013-92d321077280
+2026-10-20 17:37:40 | INFO | Found latest version of sc25: sc25-635fd71a (downloaded: 2026-09-30 05:48:22.515492+00:00)
+{"jeu": "sc25", "niveau": 2, "bras": "profondeur", "budget_s": 300.0, "memoire_go": 4.0, "backend": "1", "prefixe": "plafonds.prefixe", "gagne": true, "plan": 16, "noeuds": 236636, "etats": null, "raison": null, "profondeur": null, "table": null, "t_victoire": 135.6, "duree_s": 135.6, "memoire_max_go": 0.23}

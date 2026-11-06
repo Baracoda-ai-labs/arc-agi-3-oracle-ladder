@@ -1,0 +1,12 @@
+{
+ "jeu": "g50t",
+ "niveau": 1,
+ "bras": "sous_buts",
+ "budget_s": 30000.0,
+ "memoire_go": 8.0,
+ "backend": "1",
+ "prefixe": "plafonds.prefixe",
+ "raison": "mémoire",
+ "t_arret": 606.8,
+ "memoire_max_go": 8.2
+}

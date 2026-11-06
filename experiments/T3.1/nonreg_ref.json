@@ -1,0 +1,135 @@
+{
+ "ar25": {
+  "transitions": 294,
+  "exactes_honnetes": 294,
+  "temoin": 0.1156,
+  "a_vide": false,
+  "reproduit": true
+ },
+ "cd82": {
+  "transitions": 171,
+  "exactes_honnetes": 171,
+  "temoin": 0.1754,
+  "a_vide": false,
+  "reproduit": true
+ },
+ "dc22": {
+  "transitions": 197,
+  "exactes_honnetes": 197,
+  "temoin": 0.1168,
+  "a_vide": false,
+  "reproduit": true
+ },
+ "ft09": {
+  "transitions": 81,
+  "exactes_honnetes": 81,
+  "temoin": 0.0123,
+  "a_vide": false,
+  "reproduit": true
+ },
+ "g50t": {
+  "transitions": 44,
+  "exactes_honnetes": 44,
+  "temoin": 0.0909,
+  "a_vide": false,
+  "reproduit": true
+ },
+ "ka59": {
+  "transitions": 241,
+  "exactes_honnetes": 241,
+  "temoin": 0.0788,
+  "a_vide": false,
+  "reproduit": true
+ },
+ "lf52": {
+  "transitions": 180,
+  "exactes_honnetes": 62,
+  "temoin": 0.0,
+  "a_vide": false,
+  "reproduit": false
+ },
+ "lp85": {
+  "transitions": 190,
+  "exactes_honnetes": 190,
+  "temoin": 0.0158,
+  "a_vide": false,
+  "reproduit": true
+ },
+ "ls20": {
+  "transitions": 329,
+  "exactes_honnetes": 329,
+  "temoin": 0.0304,
+  "a_vide": false,
+  "reproduit": true
+ },
+ "m0r0": {
+  "transitions": 321,
+  "exactes_honnetes": 321,
+  "temoin": 0.0654,
+  "a_vide": false,
+  "reproduit": true
+ },
+ "r11l": {
+  "transitions": 110,
+  "exactes_honnetes": 110,
+  "temoin": 0.0545,
+  "a_vide": false,
+  "reproduit": true
+ },
+ "re86": {
+  "transitions": 366,
+  "exactes_honnetes": 366,
+  "temoin": 0.0027,
+  "a_vide": false,
+  "reproduit": true
+ },
+ "sb26": {
+  "transitions": 164,
+  "exactes_honnetes": 164,
+  "temoin": 0.0244,
+  "a_vide": false,
+  "reproduit": true
+ },
+ "sc25": {
+  "transitions": 288,
+  "exactes_honnetes": 288,
+  "temoin": 0.0486,
+  "a_vide": false,
+  "reproduit": true
+ },
+ "sk48": {
+  "transitions": 123,
+  "exactes_honnetes": 123,
+  "temoin": 0.0163,
+  "a_vide": false,
+  "reproduit": true
+ },
+ "sp80": {
+  "transitions": 102,
+  "exactes_honnetes": 102,
+  "temoin": 0.049,
+  "a_vide": false,
+  "reproduit": true
+ },
+ "su15": {
+  "transitions": 160,
+  "exactes_honnetes": 160,
+  "temoin": 0.1,
+  "a_vide": false,
+  "reproduit": true
+ },
+ "tn36": {
+  "transitions": 311,
+  "exactes_honnetes": 311,
+  "temoin": 0.0,
+  "a_vide": false,
+  "reproduit": true
+ },
+ "tr87": {
+  "transitions": 417,
+  "exactes_honnetes": 417,
+  "temoin": 0.0,
+  "a_vide": false,
+  "reproduit": true
+ }
+}

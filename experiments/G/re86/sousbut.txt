@@ -1,0 +1,1 @@
+{"resultat": "partiel", "faites": 0, "sur": 8, "coups": [], "cpu": 322.3}

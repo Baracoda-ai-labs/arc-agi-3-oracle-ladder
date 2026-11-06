@@ -1,0 +1,306 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:42 | INFO | Created new scorecard: 3db931f4-7803-4bdb-961b-985e5107846a
+2026-10-21 19:29:42 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+2026-10-21 19:29:42 | INFO | Successfully loaded game class Ka59 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ka59/38d34dbb/ka59.py
+{"jeu": "ka59", "niveau": 4, "actions": [1, 2, 3, 4, 6], "clics": 15}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:42 | INFO | Created new scorecard: a62df9f8-7ca3-4303-bef8-c7fa5f218cab
+2026-10-21 19:29:42 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:42 | INFO | Created new scorecard: 64b0403b-bf9b-485a-9f4e-2f259acd08a2
+2026-10-21 19:29:42 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:42 | INFO | Created new scorecard: 5fe96a42-f102-4ee3-a1ed-f0402cb6f485
+2026-10-21 19:29:42 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:43 | INFO | Created new scorecard: 89748487-d5e2-4f14-9c4a-8afe061bbf6f
+2026-10-21 19:29:43 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"coup": [1], "effet": {"0": 3, "1": 18, "4": 1, "14": 16}}
+{"coup": [2], "effet": {"0": 3, "1": 18, "4": 1, "14": 16}}
+{"coup": [3], "effet": {"0": 3, "1": 18, "4": 1, "14": 16}}
+{"coup": [4], "effet": {"0": 3, "1": 18, "4": 1, "14": 16}}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:43 | INFO | Created new scorecard: efc9352a-72f6-4d90-be08-fb362d70c64f
+2026-10-21 19:29:43 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:43 | INFO | Created new scorecard: 3b8dde01-f927-43c4-a80c-ba969c419ab3
+2026-10-21 19:29:43 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [10, 37], "puis": 1, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:43 | INFO | Created new scorecard: e112c9d0-995e-499f-a096-568016e49370
+2026-10-21 19:29:43 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [10, 37], "puis": 2, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:43 | INFO | Created new scorecard: b2f81dda-a30e-4b01-8755-7ea979b576be
+2026-10-21 19:29:43 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [10, 37], "puis": 3, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:43 | INFO | Created new scorecard: f1c0206b-813e-4ba0-944b-11e30e86836f
+2026-10-21 19:29:43 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [10, 37], "puis": 4, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:43 | INFO | Created new scorecard: 2223b671-062b-430f-8d74-c65dfae578eb
+2026-10-21 19:29:43 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:43 | INFO | Created new scorecard: f0b813ac-3085-4244-a44f-7958c6526225
+2026-10-21 19:29:43 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [12, 39], "puis": 1, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:43 | INFO | Created new scorecard: 082ddbea-3859-4b75-b21b-6ab0dde74881
+2026-10-21 19:29:43 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [12, 39], "puis": 2, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:43 | INFO | Created new scorecard: d41be2d1-9278-4a6d-ace9-5f9e59a8082d
+2026-10-21 19:29:43 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [12, 39], "puis": 3, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:43 | INFO | Created new scorecard: abc05e74-c769-41ca-8160-43da2f738f2f
+2026-10-21 19:29:43 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [12, 39], "puis": 4, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:44 | INFO | Created new scorecard: da1ff0f1-b625-458e-bb53-8ac627fe90c1
+2026-10-21 19:29:44 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:44 | INFO | Created new scorecard: 85f34e75-10e9-41c6-9707-818723b61913
+2026-10-21 19:29:44 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [25, 35], "puis": 1, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:44 | INFO | Created new scorecard: aed89400-1816-4951-aef5-75e638019c27
+2026-10-21 19:29:44 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [25, 35], "puis": 2, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:44 | INFO | Created new scorecard: 70cc2c3e-4379-4ebd-a024-0109eb006126
+2026-10-21 19:29:44 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [25, 35], "puis": 3, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:44 | INFO | Created new scorecard: 3e0cf3f0-3f99-4382-a1d5-a0e581899155
+2026-10-21 19:29:44 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [25, 35], "puis": 4, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:44 | INFO | Created new scorecard: 441006c3-526b-4772-9baf-1ab3af84f7d1
+2026-10-21 19:29:44 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:44 | INFO | Created new scorecard: 481d065e-4008-4d54-80f6-817744045dfb
+2026-10-21 19:29:44 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [28, 51], "puis": 1, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:44 | INFO | Created new scorecard: da81c10f-ea3c-4d96-9571-3c476dd5756f
+2026-10-21 19:29:44 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [28, 51], "puis": 2, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:44 | INFO | Created new scorecard: 819e9270-fc79-4104-989c-59acd6e6908a
+2026-10-21 19:29:44 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [28, 51], "puis": 3, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:44 | INFO | Created new scorecard: 7de5d09a-f94e-455b-933d-dcbdd4e1629d
+2026-10-21 19:29:44 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [28, 51], "puis": 4, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:44 | INFO | Created new scorecard: e61a0994-be0f-475d-83f5-e6668f77a66e
+2026-10-21 19:29:44 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:45 | INFO | Created new scorecard: 60338b81-1838-40b4-92ef-c3814299a050
+2026-10-21 19:29:45 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [29, 21], "puis": 1, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:45 | INFO | Created new scorecard: 0cefe67f-a200-4306-b472-23e6af0c292c
+2026-10-21 19:29:45 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [29, 21], "puis": 2, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:45 | INFO | Created new scorecard: a5aaf070-8168-41e8-9bcb-9b765880f87d
+2026-10-21 19:29:45 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [29, 21], "puis": 3, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:45 | INFO | Created new scorecard: f217b2bd-49e7-4026-ad42-73d4e58bd493
+2026-10-21 19:29:45 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [29, 21], "puis": 4, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:45 | INFO | Created new scorecard: b9e9a168-0b61-40cd-b554-1997dd925a7e
+2026-10-21 19:29:45 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:45 | INFO | Created new scorecard: 68572917-4026-446b-96e7-9b91171bf7fd
+2026-10-21 19:29:45 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [30, 21], "puis": 1, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:45 | INFO | Created new scorecard: c07e1cbc-fba6-4bad-ae5a-11c21c6d4b93
+2026-10-21 19:29:45 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [30, 21], "puis": 2, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:45 | INFO | Created new scorecard: c42c33e0-c9ef-4ddc-bfec-9337992f9571
+2026-10-21 19:29:45 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [30, 21], "puis": 3, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:45 | INFO | Created new scorecard: 1ebb3669-4cd1-407c-bdf6-db386fc8188e
+2026-10-21 19:29:45 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [30, 21], "puis": 4, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:45 | INFO | Created new scorecard: 23141724-90a7-44e6-b2c0-fbe522d239ed
+2026-10-21 19:29:45 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:45 | INFO | Created new scorecard: fcc68cd0-038c-4c65-9bc9-955f48effa35
+2026-10-21 19:29:45 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [30, 51], "puis": 1, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:45 | INFO | Created new scorecard: 0dc604cc-a847-4d1c-8e6c-ee68415f206d
+2026-10-21 19:29:45 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [30, 51], "puis": 2, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:46 | INFO | Created new scorecard: 81638810-d83f-4d4a-9d2c-432a6baa724a
+2026-10-21 19:29:46 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [30, 51], "puis": 3, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:46 | INFO | Created new scorecard: 8b2de48b-0b5f-4acf-a540-221f476ac89a
+2026-10-21 19:29:46 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [30, 51], "puis": 4, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:46 | INFO | Created new scorecard: 73c2ae7d-2bdc-4fc5-b93e-ee3c98a2e5bf
+2026-10-21 19:29:46 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:46 | INFO | Created new scorecard: 6721da33-1f62-4b97-8db2-f51a8566f657
+2026-10-21 19:29:46 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [32, 30], "puis": 1, "effet_clic": {"0": 3, "4": 2, "5": 1}, "effet": {"0": 3, "1": 18, "4": 2, "5": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:46 | INFO | Created new scorecard: d60cf86e-2fc4-40d7-bd10-e211bbd58127
+2026-10-21 19:29:46 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [32, 30], "puis": 2, "effet_clic": {"0": 3, "4": 2, "5": 1}, "effet": {"0": 3, "1": 18, "4": 2, "5": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:46 | INFO | Created new scorecard: acbf06c1-c953-4a1b-8183-60e22e50931f
+2026-10-21 19:29:46 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [32, 30], "puis": 3, "effet_clic": {"0": 3, "4": 2, "5": 1}, "effet": {"0": 3, "1": 18, "4": 2, "5": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:46 | INFO | Created new scorecard: 499d2615-1f45-4a0f-9811-627c9755facf
+2026-10-21 19:29:46 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [32, 30], "puis": 4, "effet_clic": {"0": 3, "4": 2, "5": 1}, "effet": {"0": 3, "1": 18, "4": 2, "5": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:46 | INFO | Created new scorecard: 2b3c0216-f489-4b7c-a0d5-f46e09d78d14
+2026-10-21 19:29:46 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:46 | INFO | Created new scorecard: 0ceb7b39-8061-43d2-81c6-701ff447c5cf
+2026-10-21 19:29:46 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [33, 30], "puis": 1, "effet_clic": {"0": 3, "4": 2, "5": 1}, "effet": {"0": 3, "1": 18, "4": 2, "5": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:46 | INFO | Created new scorecard: 0ae08a7f-4cff-4cac-8486-c6e3f1372231
+2026-10-21 19:29:46 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [33, 30], "puis": 2, "effet_clic": {"0": 3, "4": 2, "5": 1}, "effet": {"0": 3, "1": 18, "4": 2, "5": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:46 | INFO | Created new scorecard: 35a800fe-5880-498a-86ff-1a9a6feb6844
+2026-10-21 19:29:46 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [33, 30], "puis": 3, "effet_clic": {"0": 3, "4": 2, "5": 1}, "effet": {"0": 3, "1": 18, "4": 2, "5": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:47 | INFO | Created new scorecard: f7267df4-7f6d-46e2-9257-c30ef5ffd300
+2026-10-21 19:29:47 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [33, 30], "puis": 4, "effet_clic": {"0": 3, "4": 2, "5": 1}, "effet": {"0": 3, "1": 18, "4": 2, "5": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:47 | INFO | Created new scorecard: babdf2c4-0375-4652-bd5c-aa0f857c2633
+2026-10-21 19:29:47 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:47 | INFO | Created new scorecard: 463fa71b-f8fb-403d-9bed-17acea8f1da8
+2026-10-21 19:29:47 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [40, 24], "puis": 1, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:47 | INFO | Created new scorecard: 2808afe4-43ce-4638-a689-aac4f721feca
+2026-10-21 19:29:47 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [40, 24], "puis": 2, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:47 | INFO | Created new scorecard: 66fcccdb-a880-4553-bceb-73a9ebb188ac
+2026-10-21 19:29:47 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [40, 24], "puis": 3, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:47 | INFO | Created new scorecard: 65530e71-3f89-4a42-95eb-e320f78b0b6a
+2026-10-21 19:29:47 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [40, 24], "puis": 4, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:47 | INFO | Created new scorecard: 7a3e4851-bf10-47da-9e3c-ffe845a5dfe1
+2026-10-21 19:29:47 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:47 | INFO | Created new scorecard: d458eb46-96a9-4f68-90b9-73f2f3d69f8b
+2026-10-21 19:29:47 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [51, 22], "puis": 1, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:47 | INFO | Created new scorecard: d22c4ae8-67a4-40fe-855b-5eeae4241696
+2026-10-21 19:29:47 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [51, 22], "puis": 2, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:47 | INFO | Created new scorecard: 748039d5-30fc-44e5-8b9c-5e491b0bf141
+2026-10-21 19:29:47 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [51, 22], "puis": 3, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:47 | INFO | Created new scorecard: 19674e85-9d99-4e4e-9067-e99a07cd8e2d
+2026-10-21 19:29:47 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [51, 22], "puis": 4, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:48 | INFO | Created new scorecard: a1c5e067-3abc-40e9-8713-e71f63ddcae7
+2026-10-21 19:29:48 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:48 | INFO | Created new scorecard: d6294def-e688-4a5d-8dfa-09b283294db9
+2026-10-21 19:29:48 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [52, 39], "puis": 1, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:48 | INFO | Created new scorecard: 03b794b6-ee98-4e96-8ec4-80b672fa694b
+2026-10-21 19:29:48 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [52, 39], "puis": 2, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:48 | INFO | Created new scorecard: 9abc7dbc-e014-407c-8481-434480f7c10b
+2026-10-21 19:29:48 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [52, 39], "puis": 3, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:48 | INFO | Created new scorecard: a1bb85d8-b6e4-4567-bde2-4d43aee7f8bd
+2026-10-21 19:29:48 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [52, 39], "puis": 4, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:48 | INFO | Created new scorecard: 7d9412aa-6476-4c28-85a3-f7762dbe49ed
+2026-10-21 19:29:48 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:48 | INFO | Created new scorecard: a8c692fd-2118-4cf5-a090-4145412f0be1
+2026-10-21 19:29:48 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [54, 24], "puis": 1, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:48 | INFO | Created new scorecard: 77bf2081-85b8-4a4c-a2de-e3cde1c823b8
+2026-10-21 19:29:48 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [54, 24], "puis": 2, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:48 | INFO | Created new scorecard: 353254b1-abd1-465e-ac8d-f4fafa07a0a5
+2026-10-21 19:29:48 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [54, 24], "puis": 3, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:48 | INFO | Created new scorecard: cdf6c305-19bb-4afe-b377-8ecd14014ba8
+2026-10-21 19:29:48 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [54, 24], "puis": 4, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:48 | INFO | Created new scorecard: 0294e905-3250-4475-8448-48a3a744e218
+2026-10-21 19:29:48 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:49 | INFO | Created new scorecard: 5373e86c-6b4c-41c6-9987-8e1b688a97b1
+2026-10-21 19:29:49 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [54, 39], "puis": 1, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:49 | INFO | Created new scorecard: 4bb27d24-cf2d-4844-968d-517a770e1b7a
+2026-10-21 19:29:49 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [54, 39], "puis": 2, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:49 | INFO | Created new scorecard: 8769b982-b852-488c-9960-cd58f203c091
+2026-10-21 19:29:49 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [54, 39], "puis": 3, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:49 | INFO | Created new scorecard: fb3db30a-d7a8-48ba-b71d-02ece974bd2d
+2026-10-21 19:29:49 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [54, 39], "puis": 4, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:49 | INFO | Created new scorecard: 17c962a9-da7d-46e0-a85c-3207c7aa0281
+2026-10-21 19:29:49 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:49 | INFO | Created new scorecard: 1ce55be5-a58c-4157-8af9-7796c9b21c20
+2026-10-21 19:29:49 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [63, 31], "puis": 1, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:49 | INFO | Created new scorecard: b40438ce-78e3-41e8-b115-e9221496c686
+2026-10-21 19:29:49 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [63, 31], "puis": 2, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:49 | INFO | Created new scorecard: 5f62d444-18e1-4eb7-90cc-9368aad095ad
+2026-10-21 19:29:49 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [63, 31], "puis": 3, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 19:29:49 | INFO | Created new scorecard: a321773a-16d3-4ddc-bebd-99819064e38b
+2026-10-21 19:29:49 | INFO | Found latest version of ka59: ka59-38d34dbb (downloaded: 2026-09-30 05:48:20.049747+00:00)
+{"clic": [63, 31], "puis": 4, "effet_clic": {"0": 1, "4": 1}, "effet": {"0": 3, "1": 18, "4": 1, "14": 16}, "neuf": {}, "niveau": 3, "etat": "NOT_FINISHED"}

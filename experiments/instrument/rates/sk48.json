@@ -1,0 +1,44 @@
+{
+ "jeu": "sk48",
+ "niveau": 2,
+ "franzen_r0": "1/8",
+ "prefixe_franzen": 45,
+ "plafond_exact": {
+  "recherche": "paliers",
+  "noeuds": 200011,
+  "etats": null,
+  "plan": null,
+  "gagne": null,
+  "raison": "budget épuisé"
+ },
+ "plafond_s": 132.1,
+ "moteur": {
+  "niveau_depart": 1,
+  "niveaux": 1,
+  "niveaux_coup_final_moteur": 0,
+  "coups": {
+   "hasard": 81,
+   "hasard_effet": 51
+  },
+  "refus": {
+   "ne rejoue pas (C) ; partiel": 80
+  },
+  "duree_s": 604.3,
+  "bilan": {
+   "moteur_appels": 80,
+   "moteur_refus_porte": 0,
+   "moteur_plans": 0,
+   "moteur_tours": 0,
+   "moteur_coups_plan": 0,
+   "moteur_divergences": 0,
+   "moteur_cpu_s": 603.911,
+   "moteur_porte1_ok": 0,
+   "moteur_porte1_refus": 0,
+   "moteur_porte2_ok": 0,
+   "moteur_porte2_refus": 0,
+   "moteur_plans_gagnants_reels": 0,
+   "part_coups_moteur": 0.0
+  }
+ },
+ "classe": "S"
+}

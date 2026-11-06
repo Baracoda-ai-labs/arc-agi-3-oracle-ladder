@@ -1,0 +1,26 @@
+{
+ "lf52": {
+  "jeu": "lf52",
+  "niveau": 1,
+  "C600": {
+   "but": "('motif_rel', 0, 14)",
+   "gagne": true,
+   "plan": 8,
+   "noeuds": 3902,
+   "note": "vraie victoire atteinte pendant la recherche du but supposé"
+  },
+  "secondes": 21.8
+ },
+ "re86": {
+  "jeu": "re86",
+  "niveau": 1,
+  "C600": {
+   "but": "('marques', ((4, ((5, 6), (13, 8), (16, 5), (16, 12), (18, 8))),), None)",
+   "gagne": false,
+   "plan": 14,
+   "noeuds": 174513,
+   "raison": "but supposé atteint, niveau non gagné"
+  },
+  "secondes": 324.3
+ }
+}

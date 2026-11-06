@@ -1,0 +1,200 @@
+{
+ "ft09:1:80": {
+  "jeu": "ft09",
+  "niveau": 1,
+  "coup": 80,
+  "fenetre": 40,
+  "cpu_s": 0.23,
+  "but": "('motif_rel', 0, 2)",
+  "origine": "but_suppose",
+  "theorie": "motif(0,0). bascule(c9,c8). zone(c4). but(motif_rel,c0,c2).",
+  "refus": null,
+  "plan": [
+   "('clic', 37, 37)",
+   "('clic', 37, 45)",
+   "('clic', 37, 53)"
+  ],
+  "joues": [
+   "('clic', 37, 37)",
+   "('clic', 37, 45)",
+   "('clic', 37, 53)"
+  ],
+  "fidele": true,
+  "coups_executes": 3,
+  "etat": "victoire",
+  "pas": 3,
+  "predit_juste_avant": true,
+  "issue_reelle": "victoire"
+ },
+ "ft09:2:120": {
+  "jeu": "ft09",
+  "niveau": 2,
+  "coup": 120,
+  "fenetre": 28,
+  "cpu_s": 2.44,
+  "but": "('motif_rel', 0, 2)",
+  "origine": "but_suppose",
+  "theorie": "motif(0,0). bascule(c9,c12). bascule(c12,c9). but(motif_rel,c0,c2).",
+  "refus": null,
+  "plan": [
+   "('clic', 29, 31)",
+   "('clic', 21, 39)",
+   "('clic', 29, 15)",
+   "('clic', 37, 15)",
+   "('clic', 37, 39)"
+  ],
+  "joues": [
+   "('clic', 29, 31)",
+   "('clic', 21, 39)",
+   "('clic', 29, 15)",
+   "('clic', 37, 15)",
+   "('clic', 37, 39)"
+  ],
+  "fidele": true,
+  "coups_executes": 5,
+  "etat": "victoire",
+  "pas": 5,
+  "predit_juste_avant": true,
+  "issue_reelle": "victoire"
+ },
+ "ft09:3:80": {
+  "jeu": "ft09",
+  "niveau": 3,
+  "coup": 80,
+  "fenetre": 40,
+  "cpu_s": 7.61,
+  "but": "('motif_rel', 0, 2)",
+  "origine": "but_suppose",
+  "theorie": "motif(0,0). bascule(c8,c12). bascule(c12,c8). but(motif_rel,c0,c2).",
+  "refus": null,
+  "plan": [
+   "('clic', 29, 21)",
+   "('clic', 29, 37)",
+   "('clic', 13, 21)",
+   "('clic', 13, 29)",
+   "('clic', 21, 5)",
+   "('clic', 21, 13)",
+   "('clic', 21, 53)",
+   "('clic', 29, 5)",
+   "('clic', 29, 53)",
+   "('clic', 37, 5)",
+   "('clic', 37, 53)",
+   "('clic', 45, 29)",
+   "('clic', 45, 37)"
+  ],
+  "joues": [
+   "('clic', 29, 21)",
+   "('clic', 29, 37)",
+   "('clic', 13, 21)",
+   "('clic', 13, 29)",
+   "('clic', 21, 5)",
+   "('clic', 21, 13)",
+   "('clic', 21, 53)",
+   "('clic', 29, 5)",
+   "('clic', 29, 53)",
+   "('clic', 37, 5)",
+   "('clic', 37, 53)",
+   "('clic', 45, 29)",
+   "('clic', 45, 37)"
+  ],
+  "fidele": true,
+  "coups_executes": 13,
+  "etat": "victoire",
+  "pas": 13,
+  "predit_juste_avant": true,
+  "issue_reelle": "victoire"
+ },
+ "m0r0:2:120": {
+  "jeu": "m0r0",
+  "niveau": 2,
+  "coup": 120,
+  "fenetre": 40,
+  "cpu_s": 0.15,
+  "but": "('sortie', 10, 6)",
+  "origine": "but_suppose",
+  "theorie": "move(c10,a3,-2,0). move(c10,a4,2,0). [H_oppose] move(c538,a3,2,0). move(c538,a4,-2,0). [H_oppose] solide(c8) [H_mur]. solide(c15) [H_mur]. but(sortie,c10,c6).",
+  "refus": null,
+  "plan": [
+   "3",
+   "3",
+   "3",
+   "3",
+   "3"
+  ],
+  "joues": [
+   "3",
+   "3",
+   "3",
+   "3",
+   "3"
+  ],
+  "fidele": true,
+  "coups_executes": 5,
+  "etat": "divergence",
+  "pas": 5,
+  "action": "3",
+  "issue_simulee": "niveau",
+  "n_cases": 8,
+  "cases": [
+   [
+    5,
+    1,
+    10,
+    6
+   ],
+   [
+    5,
+    2,
+    10,
+    6
+   ],
+   [
+    5,
+    3,
+    5,
+    10
+   ],
+   [
+    5,
+    4,
+    5,
+    10
+   ],
+   [
+    6,
+    1,
+    10,
+    6
+   ],
+   [
+    6,
+    2,
+    10,
+    6
+   ],
+   [
+    6,
+    3,
+    5,
+    10
+   ],
+   [
+    6,
+    4,
+    5,
+    10
+   ]
+  ],
+  "forme": [
+   [
+    32,
+    32
+   ],
+   [
+    32,
+    32
+   ]
+  ],
+  "issue_reelle": "divergence"
+ }
+}

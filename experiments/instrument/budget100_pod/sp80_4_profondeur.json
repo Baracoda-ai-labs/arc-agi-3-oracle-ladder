@@ -1,0 +1,19 @@
+{
+ "jeu": "sp80",
+ "niveau": 4,
+ "bras": "profondeur",
+ "budget_s": 30000.0,
+ "memoire_go": 8.0,
+ "backend": "1",
+ "prefixe": "plafonds.prefixe",
+ "gagne": null,
+ "plan": null,
+ "noeuds": 119755700,
+ "etats": null,
+ "raison": "budget",
+ "profondeur": null,
+ "table": null,
+ "t_victoire": null,
+ "duree_s": 30001.3,
+ "memoire_max_go": 1.45
+}

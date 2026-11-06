@@ -1,0 +1,9 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-23 10:53:46 | INFO | Created new scorecard: fc7ad78b-34af-4040-8737-020edb7c0d81
+2026-10-23 10:53:46 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+2026-10-23 10:53:46 | INFO | Successfully loaded game class Ar25 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/ar25/0c556536/ar25.py
+ar25 3 iw1 {'gagne': None, 'raison': 'budget épuisé', 'plan': None, 'noeuds': 1000008, 'etats': 235016, 'secondes': 381.4}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-23 11:00:08 | INFO | Created new scorecard: 0415462a-26f4-4593-8a65-6db59fc43f9a
+2026-10-23 11:00:08 | INFO | Found latest version of ar25: ar25-0c556536 (downloaded: 2026-09-30 05:48:16.243310+00:00)
+ar25 3 iw2 {'gagne': None, 'raison': 'budget épuisé', 'plan': None, 'noeuds': 1000008, 'etats': 198658, 'secondes': 266.4}

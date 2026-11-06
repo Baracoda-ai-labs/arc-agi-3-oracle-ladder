@@ -1,0 +1,402 @@
+[
+ {
+  "jeu": "y001",
+  "famille": "tuiles",
+  "mecaniques": [
+   "colonne",
+   "lien",
+   "verrou"
+  ],
+  "coups": 104,
+  "exacts": 104,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 4,
+  "defaites_justes": 4,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y002",
+  "famille": "tuiles",
+  "mecaniques": [
+   "colonne",
+   "rangee"
+  ],
+  "coups": 69,
+  "exacts": 69,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "defaites": 3,
+  "defaites_justes": 3,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y003",
+  "famille": "tuiles",
+  "mecaniques": [
+   "croix",
+   "colonne",
+   "verrou"
+  ],
+  "coups": 101,
+  "exacts": 101,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 4,
+  "defaites_justes": 4,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y004",
+  "famille": "tuiles",
+  "mecaniques": [
+   "rangee",
+   "croix"
+  ],
+  "coups": 72,
+  "exacts": 72,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "defaites": 3,
+  "defaites_justes": 3,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y005",
+  "famille": "tuiles",
+  "mecaniques": [
+   "rangee",
+   "verrou"
+  ],
+  "coups": 72,
+  "exacts": 72,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "defaites": 3,
+  "defaites_justes": 3,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y011",
+  "famille": "tuiles",
+  "mecaniques": [
+   "rangee",
+   "croix",
+   "lien"
+  ],
+  "coups": 101,
+  "exacts": 101,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 4,
+  "defaites_justes": 4,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y012",
+  "famille": "tuiles",
+  "mecaniques": [
+   "lien",
+   "croix"
+  ],
+  "coups": 72,
+  "exacts": 72,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "defaites": 3,
+  "defaites_justes": 3,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y019",
+  "famille": "tuiles",
+  "mecaniques": [
+   "colonne",
+   "croix"
+  ],
+  "coups": 78,
+  "exacts": 78,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "defaites": 3,
+  "defaites_justes": 3,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y020",
+  "famille": "tuiles",
+  "mecaniques": [
+   "colonne",
+   "lien",
+   "verrou"
+  ],
+  "coups": 101,
+  "exacts": 101,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 4,
+  "defaites_justes": 4,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y024",
+  "famille": "tuiles",
+  "mecaniques": [
+   "colonne",
+   "verrou"
+  ],
+  "coups": 75,
+  "exacts": 75,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "defaites": 3,
+  "defaites_justes": 3,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y028",
+  "famille": "tuiles",
+  "mecaniques": [
+   "colonne",
+   "verrou"
+  ],
+  "coups": 75,
+  "exacts": 75,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "defaites": 3,
+  "defaites_justes": 3,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y030",
+  "famille": "tuiles",
+  "mecaniques": [
+   "colonne",
+   "lien",
+   "croix"
+  ],
+  "coups": 101,
+  "exacts": 101,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 4,
+  "defaites_justes": 4,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y033",
+  "famille": "tuiles",
+  "mecaniques": [
+   "colonne",
+   "verrou",
+   "lien"
+  ],
+  "coups": 98,
+  "exacts": 98,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 4,
+  "defaites_justes": 4,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y043",
+  "famille": "tuiles",
+  "mecaniques": [
+   "rangee",
+   "verrou"
+  ],
+  "coups": 84,
+  "exacts": 84,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "defaites": 3,
+  "defaites_justes": 3,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y057",
+  "famille": "tuiles",
+  "mecaniques": [
+   "colonne",
+   "verrou"
+  ],
+  "coups": 78,
+  "exacts": 78,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "defaites": 3,
+  "defaites_justes": 3,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y067",
+  "famille": "tuiles",
+  "mecaniques": [
+   "lien",
+   "colonne"
+  ],
+  "coups": 78,
+  "exacts": 78,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "defaites": 3,
+  "defaites_justes": 3,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y068",
+  "famille": "tuiles",
+  "mecaniques": [
+   "rangee",
+   "verrou"
+  ],
+  "coups": 75,
+  "exacts": 75,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "defaites": 3,
+  "defaites_justes": 3,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y072",
+  "famille": "tuiles",
+  "mecaniques": [
+   "croix",
+   "verrou",
+   "lien"
+  ],
+  "coups": 101,
+  "exacts": 101,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 4,
+  "defaites_justes": 4,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y075",
+  "famille": "tuiles",
+  "mecaniques": [
+   "croix",
+   "lien"
+  ],
+  "coups": 72,
+  "exacts": 72,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "defaites": 3,
+  "defaites_justes": 3,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y081",
+  "famille": "tuiles",
+  "mecaniques": [
+   "colonne",
+   "lien",
+   "verrou"
+  ],
+  "coups": 104,
+  "exacts": 104,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 4,
+  "defaites_justes": 4,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y095",
+  "famille": "tuiles",
+  "mecaniques": [
+   "rangee",
+   "verrou"
+  ],
+  "coups": 69,
+  "exacts": 69,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "defaites": 3,
+  "defaites_justes": 3,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y096",
+  "famille": "tuiles",
+  "mecaniques": [
+   "colonne",
+   "verrou"
+  ],
+  "coups": 72,
+  "exacts": 72,
+  "fins_reelles": 3,
+  "fins_justes": 3,
+  "a_tort": 0,
+  "defaites": 3,
+  "defaites_justes": 3,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y100",
+  "famille": "tuiles",
+  "mecaniques": [
+   "colonne",
+   "lien",
+   "cycle3"
+  ],
+  "coups": 101,
+  "exacts": 101,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 4,
+  "defaites_justes": 4,
+  "erreurs": 0,
+  "details": []
+ }
+]

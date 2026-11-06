@@ -1,0 +1,5 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 17:35:28 | INFO | Created new scorecard: 7e8c274b-516f-45e4-81ff-6cf67d874cdb
+2026-10-20 17:35:28 | INFO | Found latest version of sp80: sp80-589a99af (downloaded: 2026-09-30 05:48:20.931066+00:00)
+2026-10-20 17:35:28 | INFO | Successfully loaded game class Sp80 from /workspace/chrysalide3/experiments/arc3/environment_files/sp80/589a99af/sp80.py
+{"jeu": "sp80", "niveau": 2, "bras": "profondeur", "budget_s": 300.0, "memoire_go": 4.0, "backend": "1", "prefixe": "plafonds.prefixe", "gagne": null, "plan": null, "noeuds": 1573155, "etats": null, "raison": "budget", "profondeur": null, "table": null, "t_victoire": null, "duree_s": 300.6, "memoire_max_go": 0.22}

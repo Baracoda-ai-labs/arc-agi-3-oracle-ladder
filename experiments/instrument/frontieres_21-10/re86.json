@@ -1,0 +1,64 @@
+{
+ "jeu": "re86",
+ "niveau": 5,
+ "franzen_r0": "4/8",
+ "prefixe_franzen": 274,
+ "sous_buts": {
+  "plan": null,
+  "gagne": null,
+  "raison": "budget",
+  "secondes": 300.3
+ },
+ "plafond_langage_but": {
+  "noeuds": 53999,
+  "etats": null,
+  "plan": 82,
+  "gagne": true,
+  "raison": null
+ },
+ "plafond_exact": {
+  "recherche": "langage_but",
+  "noeuds": 53999,
+  "etats": null,
+  "plan": 82,
+  "gagne": true,
+  "raison": null
+ },
+ "plafond_s": 389.5,
+ "moteur": {
+  "niveau_depart": 4,
+  "niveaux": 4,
+  "niveaux_coup_final_moteur": 0,
+  "coups": {
+   "hasard": 71,
+   "hasard_effet": 71
+  },
+  "refus": {
+   "ne rejoue pas (C) ; partiel": 69,
+   "pas de but (aucun but supposé planifiable) ; ne rejoue pas (": 1
+  },
+  "duree_s": 612.7,
+  "bilan": {
+   "moteur_appels": 70,
+   "moteur_refus_porte": 0,
+   "moteur_plans": 0,
+   "moteur_tours": 0,
+   "moteur_coups_plan": 0,
+   "moteur_divergences": 0,
+   "moteur_cpu_s": 611.855,
+   "moteur_porte1_ok": 0,
+   "moteur_porte1_refus": 0,
+   "moteur_porte2_ok": 0,
+   "moteur_porte2_refus": 0,
+   "moteur_plans_gagnants_reels": 0,
+   "part_coups_moteur": 0.0
+  }
+ },
+ "classe": "M",
+ "entonnoir": {
+  "maillon": 1,
+  "nom": "perçus",
+  "cpu_moteur_s": 611.855,
+  "divergences": 0
+ }
+}

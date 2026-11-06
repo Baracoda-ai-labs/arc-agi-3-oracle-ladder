@@ -1,0 +1,5 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:34:15 | INFO | Created new scorecard: 0ea7fae6-eed0-4f57-98a3-852244542855
+2026-10-21 02:34:15 | INFO | Found latest version of sc25: sc25-635fd71a (downloaded: 2026-09-30 05:48:22.515492+00:00)
+2026-10-21 02:34:15 | INFO | Successfully loaded game class Sc25 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sc25/635fd71a/sc25.py
+sc25 1 52 {'UP': ((52, 'defaite'), (52, 'defaite')), 'DOWN': ((52, 'defaite'), (52, 'defaite')), 'LEFT': ((52, 'defaite'), (52, 'defaite')), 'RIGHT': ((52, 'defaite'), (52, 'defaite')), 'MOUSE@0,0': ((None, 'plafond'), (None, 'plafond')), 'MOUSE@32,32': ((None, 'plafond'), (None, 'plafond')), 'MOUSE@63,63': ((None, 'plafond'), (None, 'plafond'))}

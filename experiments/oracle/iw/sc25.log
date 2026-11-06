@@ -1,0 +1,9 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-23 10:53:46 | INFO | Created new scorecard: 2b98952e-4b55-4d15-b9be-aafce3c48cb5
+2026-10-23 10:53:46 | INFO | Found latest version of sc25: sc25-635fd71a (downloaded: 2026-09-30 05:48:22.515492+00:00)
+2026-10-23 10:53:46 | INFO | Successfully loaded game class Sc25 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/sc25/635fd71a/sc25.py
+sc25 1 iw1 {'gagne': None, 'raison': 'espace épuisé sans issue', 'plan': None, 'noeuds': 2080, 'etats': 1150, 'secondes': 1.0}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-23 10:53:47 | INFO | Created new scorecard: 7b89387d-4009-4fe8-8294-3c1d515d3aa5
+2026-10-23 10:53:47 | INFO | Found latest version of sc25: sc25-635fd71a (downloaded: 2026-09-30 05:48:22.515492+00:00)
+sc25 1 iw2 {'gagne': None, 'raison': 'espace épuisé sans issue', 'plan': None, 'noeuds': 114972, 'etats': 44938, 'secondes': 56.3}

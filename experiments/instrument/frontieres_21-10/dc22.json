@@ -1,0 +1,66 @@
+{
+ "jeu": "dc22",
+ "niveau": 4,
+ "franzen_r0": "3/6",
+ "prefixe_source": "prefixes_r0.json",
+ "prefixe_franzen": 198,
+ "sous_buts": {
+  "plan": null,
+  "gagne": null,
+  "raison": "budget",
+  "secondes": 300.8
+ },
+ "plafond_langage_but": {
+  "noeuds": 92583,
+  "etats": null,
+  "plan": 65,
+  "gagne": true,
+  "raison": null
+ },
+ "plafond_exact": {
+  "recherche": "langage_but",
+  "noeuds": 92583,
+  "etats": null,
+  "plan": 65,
+  "gagne": true,
+  "raison": null
+ },
+ "plafond_s": 397.4,
+ "moteur": {
+  "niveau_depart": 3,
+  "niveaux": 3,
+  "niveaux_coup_final_moteur": 0,
+  "coups": {
+   "hasard": 168,
+   "hasard_effet": 106,
+   "moteur": 2,
+   "moteur_effet": 2
+  },
+  "refus": {
+   "ne rejoue pas (C) ; partiel": 167
+  },
+  "duree_s": 602.1,
+  "bilan": {
+   "moteur_appels": 169,
+   "moteur_refus_porte": 0,
+   "moteur_plans": 2,
+   "moteur_tours": 2,
+   "moteur_coups_plan": 2,
+   "moteur_divergences": 0,
+   "moteur_cpu_s": 600.598,
+   "moteur_porte1_ok": 2,
+   "moteur_porte1_refus": 0,
+   "moteur_porte2_ok": 2,
+   "moteur_porte2_refus": 0,
+   "moteur_plans_gagnants_reels": 0,
+   "part_coups_moteur": 0.005
+  }
+ },
+ "classe": "M",
+ "entonnoir": {
+  "maillon": 6,
+  "nom": "plan exécuté",
+  "cpu_moteur_s": 600.598,
+  "divergences": 0
+ }
+}

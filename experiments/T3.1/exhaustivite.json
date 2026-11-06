@@ -1,0 +1,344 @@
+[
+ {
+  "jeu": "ar25",
+  "source": "identité",
+  "transitions": 294,
+  "exactes": 34,
+  "taux": 0.1156,
+  "reproduit": false,
+  "premiere_erreur": {
+   "coup": 1,
+   "action": [
+    "UP",
+    null,
+    null
+   ],
+   "erreur": null,
+   "pixels_faux": 108
+  }
+ },
+ {
+  "jeu": "bp35",
+  "source": "identité",
+  "transitions": 38,
+  "exactes": 38,
+  "taux": 1.0,
+  "reproduit": true,
+  "premiere_erreur": null
+ },
+ {
+  "jeu": "cd82",
+  "source": "identité",
+  "transitions": 171,
+  "exactes": 30,
+  "taux": 0.1754,
+  "reproduit": false,
+  "premiere_erreur": {
+   "coup": 3,
+   "action": [
+    "SPACE",
+    null,
+    null
+   ],
+   "erreur": null,
+   "pixels_faux": 50
+  }
+ },
+ {
+  "jeu": "dc22",
+  "source": "identité",
+  "transitions": 197,
+  "exactes": 23,
+  "taux": 0.1168,
+  "reproduit": false,
+  "premiere_erreur": {
+   "coup": 2,
+   "action": [
+    "RIGHT",
+    null,
+    null
+   ],
+   "erreur": null,
+   "pixels_faux": 8
+  }
+ },
+ {
+  "jeu": "ft09",
+  "source": "identité",
+  "transitions": 81,
+  "exactes": 1,
+  "taux": 0.0123,
+  "reproduit": false,
+  "premiere_erreur": {
+   "coup": 1,
+   "action": [
+    "CLICK",
+    38,
+    38
+   ],
+   "erreur": null,
+   "pixels_faux": 36
+  }
+ },
+ {
+  "jeu": "g50t",
+  "source": "identité",
+  "transitions": 44,
+  "exactes": 4,
+  "taux": 0.0909,
+  "reproduit": false,
+  "premiere_erreur": {
+   "coup": 1,
+   "action": [
+    "RIGHT",
+    null,
+    null
+   ],
+   "erreur": null,
+   "pixels_faux": 48
+  }
+ },
+ {
+  "jeu": "ka59",
+  "source": "identité",
+  "transitions": 241,
+  "exactes": 19,
+  "taux": 0.0788,
+  "reproduit": false,
+  "premiere_erreur": {
+   "coup": 1,
+   "action": [
+    "LEFT",
+    null,
+    null
+   ],
+   "erreur": null,
+   "pixels_faux": 18
+  }
+ },
+ {
+  "jeu": "lf52",
+  "source": "identité",
+  "transitions": 180,
+  "exactes": 180,
+  "taux": 1.0,
+  "reproduit": true,
+  "premiere_erreur": null
+ },
+ {
+  "jeu": "lp85",
+  "source": "identité",
+  "transitions": 190,
+  "exactes": 3,
+  "taux": 0.0158,
+  "reproduit": false,
+  "premiere_erreur": {
+   "coup": 3,
+   "action": [
+    "CLICK",
+    32,
+    4
+   ],
+   "erreur": null,
+   "pixels_faux": 288
+  }
+ },
+ {
+  "jeu": "ls20",
+  "source": "identité",
+  "transitions": 329,
+  "exactes": 10,
+  "taux": 0.0304,
+  "reproduit": false,
+  "premiere_erreur": {
+   "coup": 1,
+   "action": [
+    "UP",
+    null,
+    null
+   ],
+   "erreur": null,
+   "pixels_faux": 50
+  }
+ },
+ {
+  "jeu": "m0r0",
+  "source": "identité",
+  "transitions": 321,
+  "exactes": 21,
+  "taux": 0.0654,
+  "reproduit": false,
+  "premiere_erreur": {
+   "coup": 1,
+   "action": [
+    "UP",
+    null,
+    null
+   ],
+   "erreur": null,
+   "pixels_faux": 100
+  }
+ },
+ {
+  "jeu": "r11l",
+  "source": "identité",
+  "transitions": 110,
+  "exactes": 6,
+  "taux": 0.0545,
+  "reproduit": false,
+  "premiere_erreur": {
+   "coup": 2,
+   "action": [
+    "CLICK",
+    21,
+    39
+   ],
+   "erreur": null,
+   "pixels_faux": 68
+  }
+ },
+ {
+  "jeu": "re86",
+  "source": "identité",
+  "transitions": 366,
+  "exactes": 1,
+  "taux": 0.0027,
+  "reproduit": false,
+  "premiere_erreur": {
+   "coup": 1,
+   "action": [
+    "UP",
+    null,
+    null
+   ],
+   "erreur": null,
+   "pixels_faux": 60
+  }
+ },
+ {
+  "jeu": "sb26",
+  "source": "identité",
+  "transitions": 164,
+  "exactes": 13,
+  "taux": 0.0793,
+  "reproduit": false,
+  "premiere_erreur": {
+   "coup": 1,
+   "action": [
+    "CLICK",
+    58,
+    35
+   ],
+   "erreur": null,
+   "pixels_faux": 20
+  }
+ },
+ {
+  "jeu": "sc25",
+  "source": "identité",
+  "transitions": 288,
+  "exactes": 14,
+  "taux": 0.0486,
+  "reproduit": false,
+  "premiere_erreur": {
+   "coup": 2,
+   "action": [
+    "RIGHT",
+    null,
+    null
+   ],
+   "erreur": null,
+   "pixels_faux": 16
+  }
+ },
+ {
+  "jeu": "sk48",
+  "source": "identité",
+  "transitions": 123,
+  "exactes": 2,
+  "taux": 0.0163,
+  "reproduit": false,
+  "premiere_erreur": {
+   "coup": 1,
+   "action": [
+    "RIGHT",
+    null,
+    null
+   ],
+   "erreur": null,
+   "pixels_faux": 12
+  }
+ },
+ {
+  "jeu": "sp80",
+  "source": "identité",
+  "transitions": 102,
+  "exactes": 5,
+  "taux": 0.049,
+  "reproduit": false,
+  "premiere_erreur": {
+   "coup": 1,
+   "action": [
+    "LEFT",
+    null,
+    null
+   ],
+   "erreur": null,
+   "pixels_faux": 32
+  }
+ },
+ {
+  "jeu": "su15",
+  "source": "identité",
+  "transitions": 160,
+  "exactes": 16,
+  "taux": 0.1,
+  "reproduit": false,
+  "premiere_erreur": {
+   "coup": 1,
+   "action": [
+    "CLICK",
+    53,
+    10
+   ],
+   "erreur": null,
+   "pixels_faux": 18
+  }
+ },
+ {
+  "jeu": "tn36",
+  "source": "identité",
+  "transitions": 311,
+  "exactes": 0,
+  "taux": 0.0,
+  "reproduit": false,
+  "premiere_erreur": {
+   "coup": 1,
+   "action": [
+    "CLICK",
+    14,
+    31
+   ],
+   "erreur": null,
+   "pixels_faux": 1
+  }
+ },
+ {
+  "jeu": "tr87",
+  "source": "identité",
+  "transitions": 417,
+  "exactes": 0,
+  "taux": 0.0,
+  "reproduit": false,
+  "premiere_erreur": {
+   "coup": 1,
+   "action": [
+    "RIGHT",
+    null,
+    null
+   ],
+   "erreur": null,
+   "pixels_faux": 28
+  }
+ }
+]

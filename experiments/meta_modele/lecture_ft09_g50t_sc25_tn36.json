@@ -1,0 +1,42 @@
+[
+{"jeu": "ft09",
+ "interface": [{"classe": "sve (RenderableUserDisplay)", "represente": "budget_coups", "regle": "barre ligne 63, 64 px ; longueur round(64*dzy/oro) couleur 12, reste 11 ; dzy part du kCv du niveau, -1 par clic compté (clic sur une case Hkx/NTi non gagnant, ou clic hors grille) ; clic sur une case vide de la grille gratuit ; remis au plein à chaque niveau ; lose() à 0", "lignes": "2272-2298, 2308-2312, 2431-2432"}],
+ "defaite": [{"cause": "epuisement_budget", "condition": "le kCv-ième clic compté non gagnant amène le compteur à 0", "ligne": 2432}],
+ "economie": {"budget_coups": "kCv par niveau : 32, 32, 96, 96, 128, 128", "vies": null, "ressources": null, "recharge": "remis au plein à chaque nouveau niveau seulement", "minuteur": null},
+ "controle": {"actions": ["ACTION6"], "avatar": "aucun", "selection": null, "clic": "clic sur une case Hkx : couleur suivante de la palette du niveau ; clic sur une case NTi : la case et ses voisines marquées (motif 3x3) changent ; niveau 0 : clic dans le vide = indice clignotant, gratuit"},
+ "victoire": "pour chaque contrainte bsT de couleur centrale c, chacune des 8 voisines vaut c là où le pixel de contrainte vaut 0 et diffère de c sinon ; vérifié après chaque clic, avant le décompte",
+ "niveaux": {"nombre": 6, "persiste": "rien ; budget au kCv du niveau, palette rechargée", "nouveau": "budgets croissants, palette à 3 couleurs au niveau 4, cases NTi dans certains niveaux"},
+ "incertain": ["cadrage exact de la caméra (16x16, échelle 4) non vérifié", "niveaux à cases NTi non listés"]},
+{"jeu": "g50t",
+ "interface": [
+  {"classe": "sprite ppfvilwwnk (pas de RenderableUserDisplay)", "represente": "budget_coups", "regle": "barre 64x1 couleur 9 en (0,63) sur un rail couleur 1 ; chaque action non-RESET (ACTION1-5, mouvements bloqués compris) incrémente un compteur ; la barre recule d'1 px toutes les 2 actions ; défaite quand elle est entièrement sortie à gauche (≈ action 130) ; remise seulement au rechargement du niveau", "lignes": "902-910, 2826-2828, 2844-2849"},
+  {"classe": "sprites gpkhwmwioo + curseur ovhuyqtghw", "represente": "autre", "regle": "cases d'enregistrement des fantômes en (0,0), (4,0), (8,0) : 2 au niveau 1, 3 ensuite ; le curseur avance après chaque ACTION5 ; après la dernière case, tous les fantômes sont effacés", "lignes": "2402-2428, 2632-2639, 2736-2777"}],
+ "defaite": [
+  {"cause": "epuisement_budget", "condition": "barre entièrement sortie à gauche ; lose() au coup suivant", "ligne": 2810},
+  {"cause": "contact", "condition": "fin de l'animation de mort du joueur : ennemi patrouilleur arrêté sur lui (niveaux 6-7) ou bloc/porte mobile qui l'écrase ; même appel lose()", "ligne": 2810}],
+ "economie": {"budget_coups": "≈ 130 actions par niveau, pareil dans les 7 niveaux", "vies": null, "ressources": "enregistrements fantômes : 2 cases (niveau 1) ou 3 (niveaux 2-7)", "recharge": "aucune dans un niveau", "minuteur": null},
+ "controle": {"actions": ["ACTION1", "ACTION2", "ACTION3", "ACTION4", "ACTION5"], "avatar": "bloc qui avance de 6 px par action sur le sol libre ; plaques de pression qui ouvrent/déplacent portes et blocs ; plots de téléportation ; ACTION5 rembobine le trajet, ramène le joueur au départ et en fait un fantôme qui rejoue le trajet en même temps que les coups suivants", "selection": null, "clic": null},
+ "victoire": "joueur sur le but gilbljmfbc (décalage +1, +1), vérifié hors animation",
+ "niveaux": {"nombre": 7, "persiste": "rien ; niveau recloné", "nouveau": "plus de plaques et portes, téléporteurs (4+), plaques à bascule de couleur 11, ennemi patrouilleur (6-7)"},
+ "incertain": ["barre vide à l'action 128, défaite à l'action 130", "blocs à bascule couleur 11 et plots d'échange lus rapidement"]},
+{"jeu": "sc25",
+ "interface": [{"classe": "sprite action-ui (pas de RenderableUserDisplay)", "represente": "budget_coups", "regle": "colonne 32x1 en (62,0) à l'échelle 2 (64 px de haut, bord droit) ; 'used' +1 pour chaque ACTION1-4 qui n'atteint pas la sortie (bloqués compris), chaque clic de bascule sur la grille 3x3 et chaque sort terminé ; clics sur les icônes de sort ou dans le vide gratuits ; ramasser enjehv-pahtoz retire 10 à 'used' (min 0) ; lose() quand used > slfh", "lignes": "30-65, 1859-1898, 2317-2320, 2663-2668, 2721-2724"}],
+ "defaite": [
+  {"cause": "epuisement_budget", "condition": "used > slfh après un coup compté ou un sort terminé", "ligne": 1896},
+  {"cause": "epuisement_budget", "condition": "used > slfh après un clic de bascule sur la grille de sort", "ligne": 2666}],
+ "economie": {"budget_coups": "slfh par niveau : 50, 25, 50, 35, 65, 60 ; défaite à l'action slfh+1", "vies": null, "ressources": "sorts permis par niveau (un nouveau par niveau 1-3, puis combinaisons)", "recharge": "objet enjehv-pahtoz (1 au niveau 4, 1 au 5, 2 au 6) : rend 10 actions et disparaît", "minuteur": null},
+ "controle": {"actions": ["ACTION1", "ACTION2", "ACTION3", "ACTION4", "ACTION6"], "avatar": "pluyoo, 2 px à l'échelle 1 ou 4 px à l'échelle 2, bloqué par murs et portes", "selection": "clic sur une icône de sort : montre le motif ; gratuit", "clic": "clic sur une case de la grille 3x3 : bascule ; motif exact d'un sort permis = lancé (téléportation, changement d'échelle, boule de feu qui détruit cibles et portes) ; la grille se remet à zéro"},
+ "victoire": "un mouvement qui heurte la sortie exydhv ; ce coup ne compte pas dans le budget",
+ "niveaux": {"nombre": 6, "persiste": "rien (compteur et grille remis à zéro) ; seule l'orientation de l'avatar est gardée", "nouveau": "un sort de plus par niveau (1-3), interrupteurs et portes appariés et recharges à partir du niveau 4"},
+ "incertain": ["largeur exacte de la barre (≈ 2 px en x=62-63) supposée", "un clic qui complète un sort coûte 1 pour le clic + 1 quand le sort se termine"]},
+{"jeu": "tn36",
+ "interface": [
+  {"classe": "sprite sthpyhbizzhq sur un rail (pas de RenderableUserDisplay)", "represente": "budget_coups", "regle": "barre 61x1 couleur 9 en (1,1) sur un rail couleur 3 ; chaque clic traité hors animation de programme la fait reculer d'1 px (niveaux 1-5) ou d'1 px tous les 2 clics (niveaux 6-7) ; défaite après 61 clics (1-5) ou 122 (6-7) ; remise seulement au rechargement du niveau", "lignes": "826-844, 2572-2592, 2627, 2640-2641"},
+  {"classe": "rangées de programme inwola, bits Maidxz", "represente": "progression", "regle": "pendant l'exécution, les rangées apparaissent une à une ; bit allumé = couleur 5", "lignes": "1918-2061, 2358-2406"}],
+ "defaite": [{"cause": "epuisement_budget", "condition": "barre entièrement sortie du rail ; lose() au coup suivant", "ligne": 2618}],
+ "economie": {"budget_coups": "61 clics (niveaux 1-5), 122 clics (niveaux 6-7)", "vies": null, "ressources": null, "recharge": "aucune dans un niveau", "minuteur": null},
+ "controle": {"actions": ["ACTION6"], "avatar": "aucun direct ; dans chaque panneau, une forme pilotée par un programme (opcodes : déplacements, rotations, échelle, recoloration) ; murs qui annulent un déplacement ; dangers qui font disparaître la forme ; portes de même échelle qui deviennent le nouveau départ", "selection": "onglets (niveau 2+) : choisir et lancer un programme exemple, en lecture seule, à gauche", "clic": "clic sur un bit du programme de droite : bascule ; bouton d'exécution : lance le programme de droite ; s'il ne réussit pas, la forme revient au départ"},
+ "victoire": "après exécution du programme de droite, la forme coïncide avec la cible taptxx en position, échelle, rotation et couleur",
+ "niveaux": {"nombre": 7, "persiste": "rien ; niveau recloné, barre remise", "nouveau": "exemples à partir du niveau 2, murs (3), échelle (4), couleur (5), portes (6), dangers (7) ; la barre se vide deux fois moins vite aux niveaux 6-7"},
+ "incertain": ["un clic sans effet fait quand même reculer la barre", "défaite au 61e ou 62e clic selon l'arrondi"]}
+]

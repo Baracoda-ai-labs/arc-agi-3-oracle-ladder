@@ -1,0 +1,25 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:27:02 | INFO | Created new scorecard: 17f9061f-b334-4b25-9fd6-4180d9ac327f
+2026-10-21 02:27:02 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+2026-10-21 02:27:02 | INFO | Successfully loaded game class M0r0 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/m0r0/492f87ba/m0r0.py
+m0r0 1 151 {'UP': ((151, 'defaite'), (151, 'defaite')), 'DOWN': ((151, 'defaite'), (151, 'defaite')), 'LEFT': ((151, 'defaite'), (151, 'defaite')), 'RIGHT': ((151, 'defaite'), (151, 'defaite')), 'SPACE': ((151, 'defaite'), (151, 'defaite')), 'MOUSE@0,0': ((151, 'defaite'), (151, 'defaite')), 'MOUSE@32,32': ((151, 'defaite'), (151, 'defaite')), 'MOUSE@63,63': ((151, 'defaite'), (151, 'defaite'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:27:02 | INFO | Created new scorecard: cf4b75da-fe09-4fb6-b649-b1a65d219753
+2026-10-21 02:27:02 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+m0r0 2 151 {'UP': ((151, 'defaite'), (151, 'defaite')), 'DOWN': ((151, 'defaite'), (151, 'defaite')), 'LEFT': ((151, 'defaite'), (151, 'defaite')), 'RIGHT': ((151, 'defaite'), (151, 'defaite')), 'SPACE': ((151, 'defaite'), (151, 'defaite')), 'MOUSE@0,0': ((151, 'defaite'), (151, 'defaite')), 'MOUSE@32,32': ((151, 'defaite'), (151, 'defaite')), 'MOUSE@63,63': ((151, 'defaite'), (151, 'defaite'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:27:04 | INFO | Created new scorecard: 09b16a95-582a-47b8-883e-b3f1504ec75b
+2026-10-21 02:27:04 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+m0r0 3 151 {'UP': ((151, 'defaite'), (151, 'defaite')), 'DOWN': ((151, 'defaite'), (151, 'defaite')), 'LEFT': ((151, 'defaite'), (151, 'defaite')), 'RIGHT': ((151, 'defaite'), (151, 'defaite')), 'SPACE': ((151, 'defaite'), (151, 'defaite')), 'MOUSE@0,0': ((151, 'defaite'), (151, 'defaite')), 'MOUSE@32,32': ((151, 'defaite'), (151, 'defaite')), 'MOUSE@63,63': ((151, 'defaite'), (151, 'defaite'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:27:05 | INFO | Created new scorecard: 667b0399-96df-42c2-9313-eb72333f0b03
+2026-10-21 02:27:05 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+m0r0 4 151 {'UP': ((151, 'defaite'), (151, 'defaite')), 'DOWN': ((151, 'defaite'), (151, 'defaite')), 'LEFT': ((151, 'defaite'), (151, 'defaite')), 'RIGHT': ((151, 'defaite'), (151, 'defaite')), 'SPACE': ((151, 'defaite'), (151, 'defaite')), 'MOUSE@0,0': ((151, 'defaite'), (151, 'defaite')), 'MOUSE@32,32': ((151, 'defaite'), (151, 'defaite')), 'MOUSE@63,63': ((151, 'defaite'), (151, 'defaite'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:27:07 | INFO | Created new scorecard: 37a0c6f3-63fc-4bb4-b37f-5e2a324d4363
+2026-10-21 02:27:07 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+m0r0 5 151 {'UP': ((151, 'defaite'), (151, 'defaite')), 'DOWN': ((151, 'defaite'), (151, 'defaite')), 'LEFT': ((151, 'defaite'), (151, 'defaite')), 'RIGHT': ((151, 'defaite'), (151, 'defaite')), 'SPACE': ((151, 'defaite'), (151, 'defaite')), 'MOUSE@0,0': ((151, 'defaite'), (151, 'defaite')), 'MOUSE@32,32': ((151, 'defaite'), (151, 'defaite')), 'MOUSE@63,63': ((151, 'defaite'), (151, 'defaite'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:27:09 | INFO | Created new scorecard: 47857fc3-259b-489e-bec4-8bb64a9bbf51
+2026-10-21 02:27:09 | INFO | Found latest version of m0r0: m0r0-492f87ba (downloaded: 2026-09-30 05:48:18.320587+00:00)
+m0r0 6 151 {'UP': ((151, 'defaite'), (151, 'defaite')), 'DOWN': ((151, 'defaite'), (151, 'defaite')), 'LEFT': ((151, 'defaite'), (151, 'defaite')), 'RIGHT': ((151, 'defaite'), (151, 'defaite')), 'SPACE': ((151, 'defaite'), (151, 'defaite')), 'MOUSE@0,0': ((151, 'defaite'), (151, 'defaite')), 'MOUSE@32,32': ((151, 'defaite'), (151, 'defaite')), 'MOUSE@63,63': ((151, 'defaite'), (151, 'defaite'))}

@@ -1,0 +1,21 @@
+benchmark: TM1
+solver:    inference
+games:     5
+passes:    1
+runs:      5 (won: 1)
+started:   2026-11-04 19:55:12
+ended:     2026-11-04 20:43:23
+duration:  48m 10s
+mean score:    50.50
+median score:  67.72
+total actions: 1446
+total tokens:  1259412
+generated tokens/sec: 435.66 (job wallclock)
+total wallclock: 13175.6s
+
+per-game (mean across passes):
+  cn04-2fe56bfb: score=4.76, levels=1.0/6, actions=150, tokens=265376
+  s5i5-18d95033: score=77.78, levels=7.0/8, actions=279, tokens=297326
+  tu93-0768757b: score=67.72, levels=8.0/9, actions=256, tokens=283301
+  vc33-5430563c: score=100.00, levels=7.0/7, actions=244, tokens=152941
+  wa30-ee6fef47: score=2.22, levels=1.0/9, actions=517, tokens=260468

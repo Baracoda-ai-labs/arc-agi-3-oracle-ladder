@@ -1,0 +1,5 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 17:35:12 | INFO | Created new scorecard: d09f782a-e664-4b6d-a902-7e0d49b66d1c
+2026-10-20 17:35:12 | INFO | Found latest version of ls20: ls20-9607627b (downloaded: 2026-09-30 05:48:23.153753+00:00)
+2026-10-20 17:35:12 | INFO | Successfully loaded game class Ls20 from /workspace/chrysalide3/experiments/arc3/environment_files/ls20/9607627b/ls20.py
+{"jeu": "ls20", "niveau": 2, "bras": "profondeur", "budget_s": 300.0, "memoire_go": 4.0, "backend": "1", "prefixe": "plafonds.prefixe", "gagne": null, "plan": null, "noeuds": 244068, "etats": null, "raison": "budget", "profondeur": null, "table": null, "t_victoire": null, "duree_s": 301.0, "memoire_max_go": 0.12}

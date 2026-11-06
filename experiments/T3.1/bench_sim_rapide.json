@@ -1,0 +1,44 @@
+{
+ "dc22": {
+  "coups": 197,
+  "images_identiques": true,
+  "interp_nu": 159,
+  "interp": 155,
+  "interp_rendu": 151,
+  "comp_nu": 1634,
+  "comp": 1473,
+  "comp_rendu": 1280,
+  "rendu_seul_interp": 16091,
+  "rendu_seul_comp": 18809,
+  "gain": 9.5,
+  "gain_rendu": 8.5
+ },
+ "ls20": {
+  "coups": 329,
+  "images_identiques": true,
+  "interp_nu": 309,
+  "interp": 224,
+  "interp_rendu": 194,
+  "comp_nu": 2792,
+  "comp": 880,
+  "comp_rendu": 968,
+  "rendu_seul_interp": 3378,
+  "rendu_seul_comp": 2957,
+  "gain": 3.9,
+  "gain_rendu": 5.0
+ },
+ "sp80": {
+  "coups": 102,
+  "images_identiques": true,
+  "interp_nu": 1002,
+  "interp": 953,
+  "interp_rendu": 876,
+  "comp_nu": 3274,
+  "comp": 2687,
+  "comp_rendu": 2211,
+  "rendu_seul_interp": 19165,
+  "rendu_seul_comp": 19998,
+  "gain": 2.8,
+  "gain_rendu": 2.5
+ }
+}

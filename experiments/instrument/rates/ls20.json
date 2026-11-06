@@ -1,0 +1,44 @@
+{
+ "jeu": "ls20",
+ "niveau": 4,
+ "franzen_r0": "3/7",
+ "prefixe_franzen": 298,
+ "plafond_exact": {
+  "recherche": "paliers",
+  "noeuds": 41584,
+  "etats": null,
+  "plan": 44,
+  "gagne": true,
+  "raison": null
+ },
+ "plafond_s": 379.2,
+ "moteur": {
+  "niveau_depart": 3,
+  "niveaux": 3,
+  "niveaux_coup_final_moteur": 0,
+  "coups": {
+   "hasard": 59,
+   "hasard_effet": 59
+  },
+  "refus": {
+   "ne rejoue pas (C) ; partiel": 58
+  },
+  "duree_s": 611.6,
+  "bilan": {
+   "moteur_appels": 58,
+   "moteur_refus_porte": 0,
+   "moteur_plans": 0,
+   "moteur_tours": 0,
+   "moteur_coups_plan": 0,
+   "moteur_divergences": 0,
+   "moteur_cpu_s": 344.04,
+   "moteur_porte1_ok": 0,
+   "moteur_porte1_refus": 0,
+   "moteur_porte2_ok": 0,
+   "moteur_porte2_refus": 0,
+   "moteur_plans_gagnants_reels": 0,
+   "part_coups_moteur": 0.0
+  }
+ },
+ "classe": "M"
+}

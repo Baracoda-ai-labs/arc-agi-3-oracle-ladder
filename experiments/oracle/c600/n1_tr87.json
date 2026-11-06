@@ -1,0 +1,13 @@
+{
+ "tr87": {
+  "jeu": "tr87",
+  "niveau": 1,
+  "C600": {
+   "but": null,
+   "gagne": false,
+   "raison": "aucun candidat atteint (budget)",
+   "candidats": 16
+  },
+  "secondes": 607.2
+ }
+}

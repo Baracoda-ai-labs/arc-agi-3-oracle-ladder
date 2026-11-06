@@ -1,0 +1,17 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:34:51 | INFO | Created new scorecard: 3cdfa80c-9c2a-4559-963d-7d9fd710fd97
+2026-10-21 02:34:51 | INFO | Found latest version of su15: su15-1944f8ab (downloaded: 2026-09-30 05:48:13.830471+00:00)
+2026-10-21 02:34:51 | INFO | Successfully loaded game class Su15 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/su15/1944f8ab/su15.py
+su15 1 32 {'MOUSE@0,0': ((None, 'plafond'), (32, 'defaite')), 'MOUSE@32,32': ((32, 'defaite'), (32, 'defaite')), 'MOUSE@63,63': ((None, 'plafond'), (32, 'defaite'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:34:52 | INFO | Created new scorecard: ace767ad-4a36-44c0-ab5b-7820b6d7290b
+2026-10-21 02:34:52 | INFO | Found latest version of su15: su15-1944f8ab (downloaded: 2026-09-30 05:48:13.830471+00:00)
+su15 2 32 {'MOUSE@0,0': ((None, 'plafond'), (32, 'defaite')), 'MOUSE@32,32': ((32, 'defaite'), (32, 'defaite')), 'MOUSE@63,63': ((None, 'plafond'), (32, 'defaite'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:34:52 | INFO | Created new scorecard: fdc42b2d-19ed-4976-9876-f398862ed35d
+2026-10-21 02:34:52 | INFO | Found latest version of su15: su15-1944f8ab (downloaded: 2026-09-30 05:48:13.830471+00:00)
+su15 3 48 {'MOUSE@0,0': ((None, 'plafond'), (48, 'defaite')), 'MOUSE@32,32': ((48, 'defaite'), (48, 'defaite')), 'MOUSE@63,63': ((None, 'plafond'), (48, 'defaite'))}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-21 02:34:54 | INFO | Created new scorecard: 0c17d32a-c6a6-440a-a194-a604982f86bd
+2026-10-21 02:34:54 | INFO | Found latest version of su15: su15-1944f8ab (downloaded: 2026-09-30 05:48:13.830471+00:00)
+su15 4 48 {'MOUSE@0,0': ((None, 'plafond'), (48, 'defaite')), 'MOUSE@32,32': ((48, 'defaite'), (48, 'defaite')), 'MOUSE@63,63': ((None, 'plafond'), (48, 'defaite'))}

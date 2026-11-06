@@ -1,0 +1,250 @@
+{
+ "jeu": "tn36",
+ "niveaux": {
+  "1": {
+   "budget_mesure": 61,
+   "essais": {
+    "MOUSE@0,0": {
+     "jeu": [
+      61,
+      "defaite"
+     ],
+     "programme": [
+      61,
+      "defaite"
+     ]
+    },
+    "MOUSE@32,32": {
+     "jeu": [
+      61,
+      "defaite"
+     ],
+     "programme": [
+      61,
+      "defaite"
+     ]
+    },
+    "MOUSE@63,63": {
+     "jeu": [
+      61,
+      "defaite"
+     ],
+     "programme": [
+      61,
+      "defaite"
+     ]
+    }
+   }
+  },
+  "2": {
+   "budget_mesure": 61,
+   "essais": {
+    "MOUSE@0,0": {
+     "jeu": [
+      61,
+      "defaite"
+     ],
+     "programme": [
+      61,
+      "defaite"
+     ]
+    },
+    "MOUSE@32,32": {
+     "jeu": [
+      61,
+      "defaite"
+     ],
+     "programme": [
+      61,
+      "defaite"
+     ]
+    },
+    "MOUSE@63,63": {
+     "jeu": [
+      61,
+      "defaite"
+     ],
+     "programme": [
+      61,
+      "defaite"
+     ]
+    }
+   }
+  },
+  "3": {
+   "budget_mesure": 61,
+   "essais": {
+    "MOUSE@0,0": {
+     "jeu": [
+      61,
+      "defaite"
+     ],
+     "programme": [
+      61,
+      "defaite"
+     ]
+    },
+    "MOUSE@32,32": {
+     "jeu": [
+      61,
+      "defaite"
+     ],
+     "programme": [
+      61,
+      "defaite"
+     ]
+    },
+    "MOUSE@63,63": {
+     "jeu": [
+      61,
+      "defaite"
+     ],
+     "programme": [
+      61,
+      "defaite"
+     ]
+    }
+   }
+  },
+  "4": {
+   "budget_mesure": 61,
+   "essais": {
+    "MOUSE@0,0": {
+     "jeu": [
+      61,
+      "defaite"
+     ],
+     "programme": [
+      61,
+      "defaite"
+     ]
+    },
+    "MOUSE@32,32": {
+     "jeu": [
+      61,
+      "defaite"
+     ],
+     "programme": [
+      61,
+      "defaite"
+     ]
+    },
+    "MOUSE@63,63": {
+     "jeu": [
+      61,
+      "defaite"
+     ],
+     "programme": [
+      61,
+      "defaite"
+     ]
+    }
+   }
+  },
+  "5": {
+   "budget_mesure": 61,
+   "essais": {
+    "MOUSE@0,0": {
+     "jeu": [
+      61,
+      "defaite"
+     ],
+     "programme": [
+      61,
+      "defaite"
+     ]
+    },
+    "MOUSE@32,32": {
+     "jeu": [
+      61,
+      "defaite"
+     ],
+     "programme": [
+      61,
+      "defaite"
+     ]
+    },
+    "MOUSE@63,63": {
+     "jeu": [
+      61,
+      "defaite"
+     ],
+     "programme": [
+      61,
+      "defaite"
+     ]
+    }
+   }
+  },
+  "6": {
+   "budget_mesure": 122,
+   "essais": {
+    "MOUSE@0,0": {
+     "jeu": [
+      122,
+      "defaite"
+     ],
+     "programme": [
+      122,
+      "defaite"
+     ]
+    },
+    "MOUSE@32,32": {
+     "jeu": [
+      122,
+      "defaite"
+     ],
+     "programme": [
+      122,
+      "defaite"
+     ]
+    },
+    "MOUSE@63,63": {
+     "jeu": [
+      122,
+      "defaite"
+     ],
+     "programme": [
+      122,
+      "defaite"
+     ]
+    }
+   }
+  },
+  "7": {
+   "budget_mesure": 122,
+   "essais": {
+    "MOUSE@0,0": {
+     "jeu": [
+      122,
+      "defaite"
+     ],
+     "programme": [
+      122,
+      "defaite"
+     ]
+    },
+    "MOUSE@32,32": {
+     "jeu": [
+      122,
+      "defaite"
+     ],
+     "programme": [
+      122,
+      "defaite"
+     ]
+    },
+    "MOUSE@63,63": {
+     "jeu": [
+      122,
+      "defaite"
+     ],
+     "programme": [
+      122,
+      "defaite"
+     ]
+    }
+   }
+  }
+ }
+}

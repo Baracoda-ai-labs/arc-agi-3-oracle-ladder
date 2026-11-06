@@ -1,0 +1,19 @@
+p000 60 tours {'langage': 10, 'sim_rapide': 43, 'psmoteur': 180, 'compile': 2170} tours/s
+p010 92 tours {'langage': 13, 'sim_rapide': 57, 'psmoteur': 124, 'compile': 458} tours/s
+p020 30 tours {'langage': 55, 'sim_rapide': 181, 'psmoteur': 1167, 'compile': 3744} tours/s
+p030 222 tours {'langage': 1, 'sim_rapide': 7, 'psmoteur': 550, 'compile': 1459} tours/s
+p040 29 tours {'langage': 4, 'sim_rapide': 20, 'psmoteur': 176, 'compile': 251} tours/s
+p050 85 tours {'langage': 8, 'sim_rapide': 41, 'psmoteur': 178, 'compile': 665} tours/s
+p060 89 tours {'langage': 0, 'sim_rapide': 1, 'psmoteur': 3, 'compile': 103} tours/s
+p070 53 tours {'langage': 5, 'sim_rapide': 38, 'psmoteur': 492, 'compile': 304} tours/s
+p080 73 tours {'langage': 10, 'sim_rapide': 66, 'psmoteur': 396, 'compile': 819} tours/s
+p090 59 tours {'langage': 17, 'sim_rapide': 121, 'psmoteur': 344, 'compile': 716} tours/s
+p100 121 tours {'langage': 3, 'sim_rapide': 23, 'psmoteur': 163, 'compile': 753} tours/s
+p110 66 tours {'langage': 42, 'sim_rapide': 218, 'psmoteur': 749, 'compile': 1433} tours/s
+p120 85 tours {'langage': 6, 'sim_rapide': 40, 'psmoteur': 97, 'compile': 281} tours/s
+p130 53 tours {'langage': 2, 'sim_rapide': 12, 'psmoteur': 25, 'compile': 114} tours/s
+p140 245 tours {'langage': 1, 'sim_rapide': 6, 'psmoteur': 118, 'compile': 398} tours/s
+p150 51 tours {'langage': 22, 'sim_rapide': 98, 'psmoteur': 314, 'compile': 1067} tours/s
+p160 35 tours {'langage': 2, 'sim_rapide': 13, 'psmoteur': 59, 'compile': 383} tours/s
+p170 86 tours {'langage': 0, 'sim_rapide': 1, 'psmoteur': 224, 'compile': 152} tours/s
+TOTAL 18 jeux, 1534 tours : {'langage': 0.9, 'sim_rapide': 4.5, 'psmoteur': 43.2, 'compile': 371.2} tours/s ; compilé / langage ×411, compilé / sim_rapide ×82

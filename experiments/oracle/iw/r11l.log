@@ -1,0 +1,9 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-23 10:53:46 | INFO | Created new scorecard: 1179ce12-bebb-4741-a2e7-77f7913951e2
+2026-10-23 10:53:46 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+2026-10-23 10:53:46 | INFO | Successfully loaded game class R11l from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/r11l/495a7899/r11l.py
+r11l 2 iw1 {'gagne': None, 'raison': 'budget épuisé', 'plan': None, 'noeuds': 35711, 'etats': 32167, 'secondes': 600.0}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-23 11:03:46 | INFO | Created new scorecard: 5ded1d2d-4028-4533-993f-e8a38d8a4ac1
+2026-10-23 11:03:46 | INFO | Found latest version of r11l: r11l-495a7899 (downloaded: 2026-09-30 05:48:17.887242+00:00)
+r11l 2 iw2 {'gagne': None, 'raison': 'budget épuisé', 'plan': None, 'noeuds': 54136, 'etats': 14726, 'secondes': 600.3}

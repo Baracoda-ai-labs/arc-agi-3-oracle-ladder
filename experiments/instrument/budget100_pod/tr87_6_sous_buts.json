@@ -1,0 +1,12 @@
+{
+ "jeu": "tr87",
+ "niveau": 6,
+ "bras": "sous_buts",
+ "budget_s": 30000.0,
+ "memoire_go": 8.0,
+ "backend": "1",
+ "prefixe": "prefixes_r0.json",
+ "raison": "mémoire",
+ "t_arret": 472.4,
+ "memoire_max_go": 8.6
+}

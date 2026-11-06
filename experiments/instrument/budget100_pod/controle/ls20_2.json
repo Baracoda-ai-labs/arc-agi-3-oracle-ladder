@@ -1,0 +1,19 @@
+{
+ "jeu": "ls20",
+ "niveau": 2,
+ "bras": "profondeur",
+ "budget_s": 300.0,
+ "memoire_go": 4.0,
+ "backend": "1",
+ "prefixe": "plafonds.prefixe",
+ "gagne": null,
+ "plan": null,
+ "noeuds": 244068,
+ "etats": null,
+ "raison": "budget",
+ "profondeur": null,
+ "table": null,
+ "t_victoire": null,
+ "duree_s": 301.0,
+ "memoire_max_go": 0.12
+}

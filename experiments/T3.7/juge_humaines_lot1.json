@@ -1,0 +1,148 @@
+[
+ {
+  "jeu": "y200",
+  "famille": "dedale",
+  "mecaniques": [
+   "tirer",
+   "interrupteur",
+   "lave"
+  ],
+  "coups": 177,
+  "exacts": 177,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 1,
+  "defaites_justes": 1,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y201",
+  "famille": "dedale",
+  "mecaniques": [
+   "tirer",
+   "selection",
+   "recharge"
+  ],
+  "coups": 169,
+  "exacts": 169,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 2,
+  "defaites_justes": 2,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y202",
+  "famille": "dedale",
+  "mecaniques": [
+   "gemmes",
+   "cle_porte",
+   "tirer"
+  ],
+  "coups": 185,
+  "exacts": 185,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 2,
+  "defaites_justes": 2,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y203",
+  "famille": "dedale",
+  "mecaniques": [
+   "portail",
+   "cle_porte",
+   "recharge",
+   "tirer"
+  ],
+  "coups": 233,
+  "exacts": 233,
+  "fins_reelles": 5,
+  "fins_justes": 5,
+  "a_tort": 0,
+  "defaites": 2,
+  "defaites_justes": 2,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y210",
+  "famille": "dedale",
+  "mecaniques": [
+   "pousser",
+   "cle_porte",
+   "creation"
+  ],
+  "coups": 209,
+  "exacts": 209,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 0,
+  "defaites_justes": 0,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y211",
+  "famille": "dedale",
+  "mecaniques": [
+   "pousser",
+   "creation",
+   "tirer"
+  ],
+  "coups": 215,
+  "exacts": 215,
+  "fins_reelles": 4,
+  "fins_justes": 4,
+  "a_tort": 0,
+  "defaites": 0,
+  "defaites_justes": 0,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y212",
+  "famille": "dedale",
+  "mecaniques": [
+   "pousser",
+   "cibles",
+   "gemmes",
+   "creation"
+  ],
+  "coups": 231,
+  "exacts": 231,
+  "fins_reelles": 6,
+  "fins_justes": 6,
+  "a_tort": 0,
+  "defaites": 1,
+  "defaites_justes": 1,
+  "erreurs": 0,
+  "details": []
+ },
+ {
+  "jeu": "y213",
+  "famille": "dedale",
+  "mecaniques": [
+   "interrupteur",
+   "pousser",
+   "creation"
+  ],
+  "coups": 165,
+  "exacts": 165,
+  "fins_reelles": 5,
+  "fins_justes": 5,
+  "a_tort": 0,
+  "defaites": 1,
+  "defaites_justes": 1,
+  "erreurs": 0,
+  "details": []
+ }
+]

@@ -1,0 +1,220 @@
+{
+ "jeu": "ft09",
+ "programmes": {
+  "empreinte": "c3a202d896",
+  "budget_P2": true,
+  "lecture": "après 66caae4 (budget et défaite)"
+ },
+ "niveaux": {
+  "1": {
+   "budget_mesure": null,
+   "essais": {
+    "MOUSE@0,0": {
+     "jeu": [
+      null,
+      "plafond"
+     ],
+     "programme": [
+      null,
+      "plafond"
+     ]
+    },
+    "MOUSE@32,32": {
+     "jeu": [
+      null,
+      "plafond"
+     ],
+     "programme": [
+      null,
+      "plafond"
+     ]
+    },
+    "MOUSE@63,63": {
+     "jeu": [
+      null,
+      "plafond"
+     ],
+     "programme": [
+      null,
+      "plafond"
+     ]
+    }
+   }
+  },
+  "2": {
+   "budget_mesure": 32,
+   "essais": {
+    "MOUSE@0,0": {
+     "jeu": [
+      null,
+      "plafond"
+     ],
+     "programme": [
+      null,
+      "plafond"
+     ]
+    },
+    "MOUSE@32,32": {
+     "jeu": [
+      32,
+      "defaite"
+     ],
+     "programme": [
+      32,
+      "defaite"
+     ]
+    },
+    "MOUSE@63,63": {
+     "jeu": [
+      null,
+      "plafond"
+     ],
+     "programme": [
+      null,
+      "plafond"
+     ]
+    }
+   }
+  },
+  "3": {
+   "budget_mesure": 96,
+   "essais": {
+    "MOUSE@0,0": {
+     "jeu": [
+      null,
+      "plafond"
+     ],
+     "programme": [
+      null,
+      "plafond"
+     ]
+    },
+    "MOUSE@32,32": {
+     "jeu": [
+      96,
+      "defaite"
+     ],
+     "programme": [
+      96,
+      "defaite"
+     ]
+    },
+    "MOUSE@63,63": {
+     "jeu": [
+      null,
+      "plafond"
+     ],
+     "programme": [
+      null,
+      "plafond"
+     ]
+    }
+   }
+  },
+  "4": {
+   "budget_mesure": 96,
+   "essais": {
+    "MOUSE@0,0": {
+     "jeu": [
+      null,
+      "plafond"
+     ],
+     "programme": [
+      null,
+      "plafond"
+     ]
+    },
+    "MOUSE@32,32": {
+     "jeu": [
+      96,
+      "defaite"
+     ],
+     "programme": [
+      96,
+      "defaite"
+     ]
+    },
+    "MOUSE@63,63": {
+     "jeu": [
+      null,
+      "plafond"
+     ],
+     "programme": [
+      null,
+      "plafond"
+     ]
+    }
+   }
+  },
+  "5": {
+   "budget_mesure": 128,
+   "essais": {
+    "MOUSE@0,0": {
+     "jeu": [
+      null,
+      "plafond"
+     ],
+     "programme": [
+      null,
+      "plafond"
+     ]
+    },
+    "MOUSE@32,32": {
+     "jeu": [
+      128,
+      "defaite"
+     ],
+     "programme": [
+      128,
+      "defaite"
+     ]
+    },
+    "MOUSE@63,63": {
+     "jeu": [
+      null,
+      "plafond"
+     ],
+     "programme": [
+      null,
+      "plafond"
+     ]
+    }
+   }
+  },
+  "6": {
+   "budget_mesure": 128,
+   "essais": {
+    "MOUSE@0,0": {
+     "jeu": [
+      null,
+      "plafond"
+     ],
+     "programme": [
+      null,
+      "plafond"
+     ]
+    },
+    "MOUSE@32,32": {
+     "jeu": [
+      128,
+      "defaite"
+     ],
+     "programme": [
+      128,
+      "defaite"
+     ]
+    },
+    "MOUSE@63,63": {
+     "jeu": [
+      null,
+      "plafond"
+     ],
+     "programme": [
+      null,
+      "plafond"
+     ]
+    }
+   }
+  }
+ }
+}

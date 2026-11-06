@@ -1,0 +1,5 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 17:35:32 | INFO | Created new scorecard: 479444c2-7cc2-4ecf-8bdc-4feabfe28a82
+2026-10-20 17:35:32 | INFO | Found latest version of tr87: tr87-cd924810 (downloaded: 2026-09-30 05:48:21.372422+00:00)
+2026-10-20 17:35:32 | INFO | Successfully loaded game class Tr87 from /workspace/chrysalide3/experiments/arc3/environment_files/tr87/cd924810/tr87.py
+{"jeu": "tr87", "niveau": 1, "bras": "profondeur", "budget_s": 300.0, "memoire_go": 4.0, "backend": "1", "prefixe": "plafonds.prefixe", "gagne": null, "plan": null, "noeuds": 177160, "etats": null, "raison": "budget", "profondeur": null, "table": null, "t_victoire": null, "duree_s": 300.7, "memoire_max_go": 0.19}

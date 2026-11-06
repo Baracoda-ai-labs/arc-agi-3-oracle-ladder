@@ -1,0 +1,52 @@
+{
+ "jeu": "su15",
+ "niveau": 4,
+ "franzen_r0": "3/9",
+ "prefixe_source": "prefixes_r0.json",
+ "prefixe_franzen": 96,
+ "sous_buts": {
+  "plan": null,
+  "gagne": null,
+  "raison": "budget",
+  "secondes": 300.7
+ },
+ "plafond_exact": {
+  "recherche": "paliers",
+  "noeuds": 102926,
+  "etats": null,
+  "plan": null,
+  "gagne": null,
+  "raison": "budget épuisé"
+ },
+ "plafond_s": 901.8,
+ "moteur": {
+  "niveau_depart": 3,
+  "niveaux": 3,
+  "niveaux_coup_final_moteur": 0,
+  "coups": {
+   "hasard": 1576,
+   "hasard_effet": 191
+  },
+  "refus": {
+   "ne rejoue pas (C) ; partiel": 1351,
+   "pas de but (aucun but supposé planifiable) ; pas de but (auc": 212
+  },
+  "duree_s": 600.1,
+  "bilan": {
+   "moteur_appels": 1569,
+   "moteur_refus_porte": 0,
+   "moteur_plans": 0,
+   "moteur_tours": 0,
+   "moteur_coups_plan": 0,
+   "moteur_divergences": 0,
+   "moteur_cpu_s": 595.554,
+   "moteur_porte1_ok": 0,
+   "moteur_porte1_refus": 0,
+   "moteur_porte2_ok": 0,
+   "moteur_porte2_refus": 0,
+   "moteur_plans_gagnants_reels": 0,
+   "part_coups_moteur": 0.0
+  }
+ },
+ "classe": "S"
+}

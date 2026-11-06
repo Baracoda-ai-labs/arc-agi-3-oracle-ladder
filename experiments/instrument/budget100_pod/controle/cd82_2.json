@@ -1,0 +1,19 @@
+{
+ "jeu": "cd82",
+ "niveau": 2,
+ "bras": "profondeur",
+ "budget_s": 300.0,
+ "memoire_go": 4.0,
+ "backend": "1",
+ "prefixe": "plafonds.prefixe",
+ "gagne": true,
+ "plan": 16,
+ "noeuds": 2420,
+ "etats": null,
+ "raison": null,
+ "profondeur": null,
+ "table": null,
+ "t_victoire": 2.1,
+ "duree_s": 2.1,
+ "memoire_max_go": 0.09
+}

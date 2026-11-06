@@ -1,0 +1,69 @@
+{
+ "jeu": "ar25",
+ "condition": "mdl",
+ "graine": 0,
+ "prefixe": 0,
+ "niveau_depart": null,
+ "minutes": 10.0,
+ "max_coups": 30000,
+ "duree_s": 600.1,
+ "niveaux": 1,
+ "niveaux_coup_final_moteur": 1,
+ "gagne": false,
+ "morts": 4,
+ "coups": {
+  "hasard": 439,
+  "hasard_effet": 297,
+  "moteur": 40,
+  "moteur_effet": 36
+ },
+ "dernier_refus_par_niveau": {
+  "1": "pas de but (aucun but supposé planifiable)",
+  "2": "ne rejoue pas (C) ; partiel : garde : effet de l'action inconnu (c5, a2) ; ne rejoue pas (C) ; partiel : garde : effet de l'action inconnu (c5, a2) ; ne rejoue "
+ },
+ "refus": {
+  "ne rejoue pas (C) ; partiel": 405,
+  "pas de plan ; pas de plan ; pas de plan": 5,
+  "pas de but (aucun but supposé planifiable)": 4,
+  "pas de but (aucun but supposé planifiable) ; ne rejoue pas (": 3,
+  "pas de plan ; pas de plan ; ne rejoue pas (C) ; partiel": 1
+ },
+ "drapeaux": {
+  "CHRYS_BUT_SUPPOSE": "1",
+  "CHRYS_PARTIEL": "2",
+  "CHRYS_MOTEUR_BUDGET_S": "2",
+  "CHRYS_POURSUITE_UTILE": "1",
+  "CHRYS_AMODAL": "1",
+  "CHRYS_MDL": "1",
+  "CHRYS_MOTEUR": "1"
+ },
+ "explorateur": "hasard",
+ "explo_mesures": null,
+ "bilan": {
+  "moteur_appels": 435,
+  "moteur_refus_porte": 0,
+  "moteur_plans": 13,
+  "moteur_tours": 40,
+  "moteur_coups_plan": 40,
+  "moteur_divergences": 11,
+  "moteur_cpu_s": 205.656,
+  "moteur_porte1_ok": 9,
+  "moteur_porte1_refus": 0,
+  "moteur_porte2_ok": 9,
+  "moteur_porte2_refus": 0,
+  "moteur_plans_gagnants_reels": 1,
+  "moteur_partiel_appels": 4,
+  "moteur_porte1_partielle_ok": 4,
+  "moteur_plans_partiels": 4,
+  "part_coups_moteur": 0.084,
+  "coups_plan_par_niveau": [
+   {
+    "niveau": 1,
+    "coups": 18,
+    "coups_plan": 13,
+    "plan_gagnant": true,
+    "cpu_moteur_s": 0.619
+   }
+  ]
+ }
+}

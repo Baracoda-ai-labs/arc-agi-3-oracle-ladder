@@ -1,0 +1,225 @@
+{
+ "ft09:1:80": {
+  "jeu": "ft09",
+  "niveau": 1,
+  "coup": 80,
+  "fenetre": 40,
+  "cpu_s": 0.23,
+  "but": "('motif_rel', 0, 2)",
+  "origine": "but_suppose",
+  "theorie": "motif(0,0). bascule(c9,c8). zone(c4). but(motif_rel,c0,c2).",
+  "refus": null,
+  "plan": [
+   "('clic', 37, 37)",
+   "('clic', 37, 45)",
+   "('clic', 37, 53)"
+  ],
+  "joues": [
+   "('clic', 37, 37)",
+   "('clic', 37, 45)",
+   "('clic', 37, 53)"
+  ],
+  "fidele": true,
+  "coups_executes": 3,
+  "etat": "victoire",
+  "pas": 3,
+  "predit_juste_avant": true,
+  "issue_reelle": "victoire"
+ },
+ "m0r0:2:120": {
+  "jeu": "m0r0",
+  "niveau": 2,
+  "coup": 120,
+  "fenetre": 40,
+  "cpu_s": 0.15,
+  "but": "('sortie', 10, 6)",
+  "origine": "but_suppose",
+  "theorie": "move(c10,a3,-2,0). move(c10,a4,2,0). [H_oppose] move(c538,a3,2,0). move(c538,a4,-2,0). [H_oppose] solide(c8) [H_mur]. solide(c15) [H_mur]. but(sortie,c10,c6).",
+  "refus": null,
+  "plan": [
+   "3",
+   "3",
+   "3",
+   "3",
+   "3"
+  ],
+  "joues": [
+   "3",
+   "3",
+   "3",
+   "3",
+   "3"
+  ],
+  "fidele": true,
+  "coups_executes": 5,
+  "etat": "divergence",
+  "pas": 5,
+  "action": "3",
+  "issue_simulee": "niveau",
+  "n_cases": 8,
+  "cases": [
+   [
+    5,
+    1,
+    10,
+    6
+   ],
+   [
+    5,
+    2,
+    10,
+    6
+   ],
+   [
+    5,
+    3,
+    5,
+    10
+   ],
+   [
+    5,
+    4,
+    5,
+    10
+   ],
+   [
+    6,
+    1,
+    10,
+    6
+   ],
+   [
+    6,
+    2,
+    10,
+    6
+   ],
+   [
+    6,
+    3,
+    5,
+    10
+   ],
+   [
+    6,
+    4,
+    5,
+    10
+   ]
+  ],
+  "forme": [
+   [
+    32,
+    32
+   ],
+   [
+    32,
+    32
+   ]
+  ],
+  "issue_reelle": "divergence"
+ },
+ "sp80:2:40": {
+  "jeu": "sp80",
+  "niveau": 2,
+  "coup": 40,
+  "fenetre": 9,
+  "cpu_s": 0.05,
+  "but": "('marques', ((6, ((10, 14),)),), None)",
+  "origine": "but_suppose",
+  "theorie": "move(c9,a1,0,-1). [H_oppose] move(c9,a2,0,1). move(c9,a3,-1,0). move(c9,a4,1,0). solide(c1) [H_mur]. solide(c8) [H_mur]. solide(c11) [H_mur]. but(marques,c((6, ((10, 14),)),),cNone).",
+  "refus": null,
+  "plan": [
+   "2",
+   "2",
+   "2",
+   "2"
+  ],
+  "joues": [
+   "2",
+   "2",
+   "2",
+   "4"
+  ],
+  "fidele": false,
+  "coups_executes": 3,
+  "etat": "divergence",
+  "pas": 3,
+  "action": "2",
+  "issue_simulee": null,
+  "n_cases": 10,
+  "cases": [
+   [
+    12,
+    10,
+    12,
+    9
+   ],
+   [
+    12,
+    11,
+    12,
+    9
+   ],
+   [
+    12,
+    12,
+    12,
+    9
+   ],
+   [
+    12,
+    13,
+    12,
+    9
+   ],
+   [
+    12,
+    14,
+    12,
+    9
+   ],
+   [
+    13,
+    10,
+    9,
+    12
+   ],
+   [
+    13,
+    11,
+    9,
+    12
+   ],
+   [
+    13,
+    12,
+    9,
+    12
+   ],
+   [
+    13,
+    13,
+    9,
+    12
+   ],
+   [
+    13,
+    14,
+    9,
+    12
+   ]
+  ],
+  "forme": [
+   [
+    16,
+    16
+   ],
+   [
+    16,
+    16
+   ]
+  ],
+  "issue_reelle": "divergence"
+ }
+}

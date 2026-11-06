@@ -1,0 +1,57 @@
+{
+ "jeu": "ka59",
+ "niveau": 4,
+ "franzen_r0": "3/7",
+ "prefixe_franzen": 172,
+ "sous_buts": {
+  "plan": 60,
+  "gagne": true,
+  "raison": null,
+  "secondes": 37.4
+ },
+ "plafond_exact": {
+  "recherche": "sous_buts",
+  "noeuds": null,
+  "etats": null,
+  "plan": 60,
+  "gagne": true,
+  "raison": null
+ },
+ "plafond_s": 37.8,
+ "moteur": {
+  "niveau_depart": 3,
+  "niveaux": 3,
+  "niveaux_coup_final_moteur": 0,
+  "coups": {
+   "hasard": 608,
+   "hasard_effet": 525
+  },
+  "refus": {
+   "ne rejoue pas (C) ; partiel": 598,
+   "pas de but (aucun but supposé planifiable) ; non exporté": 1
+  },
+  "duree_s": 600.1,
+  "bilan": {
+   "moteur_appels": 603,
+   "moteur_refus_porte": 0,
+   "moteur_plans": 0,
+   "moteur_tours": 0,
+   "moteur_coups_plan": 0,
+   "moteur_divergences": 0,
+   "moteur_cpu_s": 598.108,
+   "moteur_porte1_ok": 0,
+   "moteur_porte1_refus": 0,
+   "moteur_porte2_ok": 0,
+   "moteur_porte2_refus": 0,
+   "moteur_plans_gagnants_reels": 0,
+   "part_coups_moteur": 0.0
+  }
+ },
+ "classe": "M",
+ "entonnoir": {
+  "maillon": 1,
+  "nom": "perçus",
+  "cpu_moteur_s": 598.108,
+  "divergences": 0
+ }
+}

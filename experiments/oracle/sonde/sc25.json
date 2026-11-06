@@ -1,0 +1,92 @@
+{
+ "sc25:1": {
+  "jeu": "sc25",
+  "niveau": 1,
+  "actions": 26,
+  "humain": 36,
+  "derniere_couche_incomplete": true,
+  "etats_par_profondeur": [
+   2,
+   34,
+   370,
+   2370,
+   10826,
+   37068
+  ],
+  "profondeur_atteinte": 6,
+  "gagne_en_largeur_a": null,
+  "etats": 50671,
+  "branchement_effectif": 4.8,
+  "chemin": {
+   "longueur": 53,
+   "resets_avant": false,
+   "fin_programme": "niveau",
+   "h_depart": 2,
+   "h_min": 2,
+   "h_baisse": 0,
+   "h_plat": 52,
+   "h_monte": 0
+  }
+ },
+ "sk48:1": {
+  "jeu": "sk48",
+  "niveau": 1,
+  "actions": 50,
+  "humain": 61,
+  "derniere_couche_incomplete": true,
+  "etats_par_profondeur": [
+   6,
+   23,
+   89,
+   312,
+   1086,
+   3790,
+   13244,
+   32555
+  ],
+  "profondeur_atteinte": 8,
+  "gagne_en_largeur_a": null,
+  "etats": 51106,
+  "branchement_effectif": 3.15,
+  "chemin": {
+   "longueur": 45,
+   "resets_avant": false,
+   "fin_programme": "niveau",
+   "h_depart": 1,
+   "h_min": 1,
+   "h_baisse": 0,
+   "h_plat": 44,
+   "h_monte": 0
+  }
+ },
+ "ar25:3": {
+  "jeu": "ar25",
+  "niveau": 3,
+  "actions": 36,
+  "humain": 75,
+  "derniere_couche_incomplete": true,
+  "etats_par_profondeur": [
+   7,
+   35,
+   181,
+   934,
+   4902,
+   25169,
+   72374
+  ],
+  "profondeur_atteinte": 7,
+  "gagne_en_largeur_a": null,
+  "etats": 103603,
+  "branchement_effectif": 4.42,
+  "chemin": {
+   "longueur": 46,
+   "resets_avant": false,
+   "fin_programme": "niveau",
+   "h_depart": 27,
+   "h_min": 8,
+   "h_baisse": 11,
+   "h_plat": 27,
+   "h_monte": 7
+  }
+ }
+}

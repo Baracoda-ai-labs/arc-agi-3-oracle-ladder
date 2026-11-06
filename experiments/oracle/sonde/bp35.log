@@ -1,0 +1,10 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-23 10:47:04 | INFO | Created new scorecard: de73ca87-264e-4caa-9852-ff21506d6360
+2026-10-23 10:47:04 | INFO | Found latest version of bp35: bp35-0a0ad940 (downloaded: 2026-09-30 05:48:18.671230+00:00)
+2026-10-23 10:47:04 | INFO | Successfully loaded game class Bp35 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/bp35/0a0ad940/bp35.py
+{"jeu": "bp35", "niveau": 1, "actions": 193, "humain": 21, "etats_par_profondeur": [11, 105, 917, 2618], "branchement_effectif": 7.04, "gagne_en_largeur_a": null, "chemin": {"longueur": 23, "resets_avant": false, "fin_programme": "niveau", "h_depart": 2, "h_min": 2, "h_baisse": 0, "h_plat": 22, "h_monte": 0}, "plantage": null}
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-23 10:49:04 | INFO | Created new scorecard: 298fe0ec-905d-4fe4-8db9-753a08a2ae7c
+2026-10-23 10:49:04 | INFO | Found latest version of tn36: tn36-ef4dde99 (downloaded: 2026-09-30 05:48:12.062346+00:00)
+2026-10-23 10:49:04 | INFO | Successfully loaded game class Tn36 from /Users/ts/models/chrysalide3/experiments/arc3/environment_files/tn36/ef4dde99/tn36.py
+{"jeu": "tn36", "niveau": 2, "actions": 83, "humain": 72, "etats_par_profondeur": [28, 457, 4801, 23571], "branchement_effectif": 10.58, "gagne_en_largeur_a": null, "chemin": {"longueur": 55, "resets_avant": false, "fin_programme": "niveau", "h_depart": 6, "h_min": 6, "h_baisse": 0, "h_plat": 53, "h_monte": 1}, "plantage": null}

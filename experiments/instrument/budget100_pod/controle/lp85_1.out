@@ -1,0 +1,8 @@
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 17:35:12 | INFO | Created new scorecard: 455f132f-c5a0-475f-92e2-ca8e2de0b42f
+2026-10-20 17:35:12 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+2026-10-20 17:35:12 | INFO | Successfully loaded game class Lp85 from /workspace/chrysalide3/experiments/arc3/environment_files/lp85/305b61c3/lp85.py
+INFO:arc_agi.scorecard:Initialized ScorecardManager with idle_for=0:15:00 and max_open_for=3 days, 0:00:00
+2026-10-20 17:35:12 | INFO | Created new scorecard: 287060d8-0ff6-478f-9178-cccc87e6a617
+2026-10-20 17:35:12 | INFO | Found latest version of lp85: lp85-305b61c3 (downloaded: 2026-09-30 05:48:19.531832+00:00)
+{"jeu": "lp85", "niveau": 1, "bras": "profondeur", "budget_s": 300.0, "memoire_go": 4.0, "backend": "1", "prefixe": "plafonds.prefixe", "gagne": true, "plan": 6, "noeuds": 209, "etats": null, "raison": null, "profondeur": null, "table": null, "t_victoire": 1.3, "duree_s": 1.3, "memoire_max_go": 0.1}

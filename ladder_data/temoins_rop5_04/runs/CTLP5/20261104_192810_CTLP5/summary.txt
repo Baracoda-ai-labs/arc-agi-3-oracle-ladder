@@ -1,0 +1,19 @@
+benchmark: CTLP5
+solver:    inference
+games:     3
+passes:    1
+runs:      3 (won: 1)
+started:   2026-11-04 19:28:10
+ended:     2026-11-04 19:34:23
+duration:  6m 12s
+mean score:    56.75
+median score:  53.57
+total actions: 737
+total tokens:  39630
+generated tokens/sec: 106.28 (job wallclock)
+total wallclock: 865.2s
+
+per-game (mean across passes):
+  g50t-5849a774: score=100.00, levels=7.0/7, actions=360, tokens=0
+  ka59-38d34dbb: score=53.57, levels=5.0/7, actions=252, tokens=0
+  re86-8af5384d: score=16.67, levels=3.0/8, actions=125, tokens=39630
