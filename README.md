@@ -1,7 +1,7 @@
 # ARC-AGI-3 oracle ladder — code and data
 
 Companion release of the ARC Prize 2026 Paper Prize submission
-**"Diagnosing a model-based agent on ARC-AGI-3 with an oracle ladder"** — Thomas Serval (NEOMA Business School; Baracoda AI Labs).
+**"Where Model-Based Agents Fail on ARC-AGI-3: A Stage-wise Diagnostic Audit"** (PDF: [`paper/Serval_ARC-AGI-3_stagewise_audit.pdf`](paper/Serval_ARC-AGI-3_stagewise_audit.pdf)) — Thomas Serval (NEOMA Business School; Baracoda AI Labs).
 
 - Linked Kaggle submission (ROP5): https://www.kaggle.com/code/thomasserval/arc-agi-3-milestone-2-solution (version 9)
 - Licence: MIT-0 for our code (`LICENSE`); third-party components are listed in `NOTICE.md` and are **not** redistributed.
