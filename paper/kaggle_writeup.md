@@ -1,40 +1,43 @@
-**Thomas Serval** — NEOMA Business School; Baracoda AI Labs · Linked submission: *ARC-AGI-3 Milestone 2 Solution*, version ROP5 v9 · Code and data: [github.com/Baracoda-ai-labs/arc-agi-3-oracle-ladder](https://github.com/Baracoda-ai-labs/arc-agi-3-oracle-ladder) (commit `40135bc`, MIT-0).
+**Thomas Serval** — NEOMA Business School; Baracoda AI Labs · Linked submission: *ARC-AGI-3 Milestone 2 Solution*, ROP5 (version 9) · Code, data and preregistrations: [github.com/Baracoda-ai-labs/arc-agi-3-oracle-ladder](https://github.com/Baracoda-ai-labs/arc-agi-3-oracle-ladder) (MIT-0)
 
-**Full paper (PDF, 10 pages):** [Serval_ARC-AGI-3_stagewise_audit.pdf](https://github.com/Baracoda-ai-labs/arc-agi-3-oracle-ladder/blob/main/paper/Serval_ARC-AGI-3_stagewise_audit.pdf)
+**Full paper (PDF, 9 pages):** [Serval_ARC-AGI-3_stagewise_audit.pdf](https://github.com/Baracoda-ai-labs/arc-agi-3-oracle-ladder/blob/main/paper/Serval_ARC-AGI-3_stagewise_audit.pdf)
 
-![Figure 1. Oracle comparisons: levels won on the first three levels of each game, public (n = 60) and held-out (n = 15).](https://raw.githubusercontent.com/Baracoda-ai-labs/arc-agi-3-oracle-ladder/main/paper/figure1_ladder.png)
+![Figure 1. Oracle comparisons on the first three levels of each game: public development (n = 60) and held-out (n = 15).](https://raw.githubusercontent.com/Baracoda-ai-labs/arc-agi-3-oracle-ladder/main/paper/figure1_ladder.png)
 
 ## The question
-Explicit model-based agents offer inspectable transition models and plans; their effectiveness depends on perception, induction and search. We built one, gated it inside a local LLM agent, submitted the hybrid, and asked which stage of the chain from pixels to actions stops it.
+Frontier systems now solve the public ARC-AGI-3 games by writing world models with cloud LLMs (Tycho, Kepler, Twin, AWM). We asked the opposite question in the offline Kaggle setting: when a local model-based agent fails on a new game, *which stage* fails — recognition, transition modelling, goal inference or search — and which repairs actually help? We built a symbolic engine, gated it inside a local LLM agent, submitted the hybrid, and turned the result into a reusable audit. We joined late: everything was built and measured in about five weeks.
 
 ## The system
-- **LLM agent (RO).** Franzen's public notebook (local quantised Qwen, SGLang, Python REPL) plus our deterministic tools after 40 actions: map of observed states, path-finding, surprise-checked traversal, memory of fatal actions.
-- **Online engine.** Perceives cells and objects, learns a transition model from the consequences of its own actions, plans over it. No LLM, no network.
-- **Gate (ROP5).** The engine opens at game start and once per level after 40 stagnant actions, in an isolated child process; the parent checks every engine action (deadline, terminal state, offered actions, frame identity), bounds budgets, and hands control back with a summary of what the engine did.
-- **One declarative language for two worlds of games.** A GDL-style protocol, 17 mechanism contracts with declared read/write sets, and the move budget as an axiom. Exact programs replay 4,127/4,127 transitions of 20 public ARC-AGI-3 games, and one interpreter written in the language replays 177 human-made PuzzleScript games (38,924/38,924 moves).
+- **LLM agent (RO):** Franzen's public notebook (local quantised Qwen3.8-Flash-Next, SGLang, Python REPL) plus deterministic tools after 40 stagnant actions.
+- **Online engine:** perceives objects, learns a transition model from the consequences of its own actions, plans; no LLM, runs on idle CPU cores.
+- **Gate (ROP5):** the engine opens at game start and after 40 stagnant actions, in a child process; the parent checks every engine action and hands back a summary.
+- **One declarative language:** 17 mechanism contracts with declared read/write sets. Exact programs replay 4,127/4,127 transitions of the 20 public games; an interpreter written in the language replays 177 human-made PuzzleScript games (38,924/38,924 moves), released as a test bed.
 
-## The oracle ladder (first three levels of each game)
-| | Public dev (/60) | Held-out (/15) |
+## Results
+| First three levels | Public dev (/60) | Held-out (/15) |
 |---|---:|---:|
 | Engine, model learned from play | 12 | 0 |
-| Exact rules + goal-directed search, 1 M nodes / 300 s | 27 | — |
+| Exact rules + goal-directed search (1 M nodes, 300 s) | 27 | — |
 | LLM agent (RO) | 39 | 15 |
 | Hybrid (ROP5) | 43.5 | 11.5 |
 
-Held-out = five public games with disclosed incidental exposure, never used for development, preregistered runs. Native held-out scores: RO 42.98, ROP5 45.50 (two passages each; no established difference). ROP5 wins fewer held-out first levels (11.5 vs 15 of 15), losing levels on cn04 and wa30 in both passages; the gate's overhead is a plausible cause we did not isolate. Kaggle leaderboard (hidden games): ROP5 22.55, RO 27.34 and 29.89 for two identical submissions — single submissions vary by several points.
+Public games were used for development and are in-sample; out-of-sample evidence is five held-out public games (preregistered runs, disclosed incidental exposure) and Kaggle's hidden set. On Kaggle, ROP5 scored 22.55 against 27.34 and 29.89 for two identical RO submissions; held-out native scores are 45.50 vs 42.98 (no established difference), but ROP5 wins fewer held-out first-three levels (11.5 vs 15).
 
-**Two bottlenecks.** (1) The end-to-end symbolic pipeline does not carry over to new games: 12 → 0. Inside the hybrid, on new games the engine opens 19 times, plays 2 % of the actions and wins no level during an opening; 18 openings stopped at player-motion identification (9) or structure recognition (9), and one ended in defeat. No hypothesis was generated in these logs. On 104 procedurally generated games outside ARC, an earlier version of the chain wins 5 first levels and stops or loses on the rest, mostly at perception and recognition. A simple chain model (P(win) is the product of stage success probabilities) reads why downstream improvements added no level, and a gate-value condition says a gate pays only when the engine is likely to recognise the game. (2) Even with source-derived exact rules our bounded search trails an LLM agent with no game-specific knowledge (27 vs 39; paired with each agent passage, 16 to 6 and 19 to 5 on levels won by only one), and faster search did not add solved levels under the budgets tested.
+**1. The symbolic chain breaks at recognition, before any learning.** The engine's 19 held-out openings inside the hybrid stopped at perception (9), structure recognition (9) or defeat (1); no hypothesis was formed. On 104 generated games outside ARC, a version of the chain wins 5 first levels, with the same refusals.
 
-## Why — three checkable propositions
-Because the language declares what each mechanism reads and writes:
-1. **Sufficiency.** If two different frames get the same represented state and the same action leads to different outcomes, no downstream learner can predict both. A cheap check on recorded play found three such pairs in KA59 (18 pixels never sampled); it identifies a limitation of the represented input, without explaining every unsuccessful inducer variant.
-2. **Independence.** Actions whose read/write sets do not interfere commute (24/24 predicted, 0 false in 311 checks). Pruning by an extended commutation rule cuts search by up to 77 % with identical plans — yet wins no new level: the measured speedups did not increase solves under the evaluated budgets.
-3. **Distinguishability.** Competing theories are separated only by a move where they predict differently; the language finds it (G50T level 6).
+**2. Repairing recognition moves the failure downstream.** Supplying near-perfect recognition of the controlled object raised the chain's consistent theories about 2.3-fold, yet the levels its interventions won did not rise: the new plans diverged from the real game within their first actions.
 
-A stage-by-stage loss map on nine blocked games shows heterogeneous first failures: sampling, facts, theory, revision, domain, goal.
+**3. Exact rules are not enough.** Our best search with source-derived rules wins 27 early levels against 39 for the LLM agent (game-bootstrap 95 % interval of the difference [1, 23.5]); pruning that cuts search nodes by up to 77 % and a 1.66× faster simulator add no solved level.
 
-## Reusable diagnostic procedure
-Record each stage's inputs and outputs, identify a local counterexample, locate the first faulty transformation, replace only that interface when a trusted reference is available, replay downstream stages unchanged, compare against an exact OFF control, and label the result as observed defect, intervention evidence or unresolved hypothesis. Report coverage; no observed representation collision is not a certificate of sufficiency. Repairs on reused development traces are not independent gameplay gains.
+**4. Gating on stagnation can hurt.** The engine alone finishes the public game G50T (7/7, no LLM token), but on new games it recognised nothing and the hybrid lost levels on cn04 and wa30, with fewer LLM tool calls in the same time.
 
-## Availability
-The linked notebook is [ARC-AGI-3 Milestone 2 Solution](https://www.kaggle.com/code/thomasserval/arc-agi-3-milestone-2-solution), ROP5 v9, native scriptVersionId364167125. Code and data are public at [github.com/Baracoda-ai-labs/arc-agi-3-oracle-ladder](https://github.com/Baracoda-ai-labs/arc-agi-3-oracle-ladder) (commit `40135bc`); the notebook alone does not reproduce the offline diagnostics. Exact programs are source-inspected oracles. Author-owned research code is released under MIT-0; upstream components retain their own licences.
+## Why — checkable properties and a chain model
+The language makes three properties checkable game by game: **sufficiency** (two identical represented states with different successors refute the representation — found on KA59), **independence** (non-interfering read/write sets commute: 24/24 predicted, 0 false in 311 checks) and **distinguishability** (theories differ only where they predict differently — the separating move is found on G50T). Two elementary propositions read the whole chain: **P(win) is the product of stage success probabilities**, so improving one stage is invisible while another fails (results 2 and 3); and **a gate pays only if r > c/g**, so a stagnation-triggered gate loses on games the engine rarely recognises (result 4).
+
+## A reusable audit
+Record each stage, find a local counter-example, locate the first transformation that loses information, replace only that step with a controlled reference, replay downstream against an exact off-switch control, and classify the outcome as demonstrated defect, intervention-supported cause or open hypothesis. A complete case: a border gauge breaking state identity on two games was found by a sufficiency collision, fixed in two lines, verified action for action with the fix switched off, and cut tn36 level 1 from 75 to 8 actions with no level lost.
+
+## Recommendations
+Test recognition outside the design games before tuning an inducer or planner; judge repairs by levels won, not predictions; open a symbolic component only after a recognition test with few false positives; do not expect faster search to replace sub-goal priors. The whole programme cost under 400 EUR of rented GPU, with no paid API and no training.
+
+**Lesson:** a model-based agent should not be optimised downstream until its representation of the environment has been shown to be adequate — check recognition before investing in reasoning.
