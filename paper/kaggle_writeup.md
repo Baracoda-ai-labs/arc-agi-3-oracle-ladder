@@ -1,6 +1,6 @@
 **Thomas Serval** — NEOMA Business School; Baracoda AI Labs · Linked submission: *ARC-AGI-3 Milestone 2 Solution*, ROP5 (version 9) · Code, data and preregistrations: [github.com/Baracoda-ai-labs/arc-agi-3-oracle-ladder](https://github.com/Baracoda-ai-labs/arc-agi-3-oracle-ladder) (MIT-0)
 
-**Full paper (PDF, 9 pages):** [Serval_ARC-AGI-3_stagewise_audit.pdf](https://github.com/Baracoda-ai-labs/arc-agi-3-oracle-ladder/blob/main/paper/Serval_ARC-AGI-3_stagewise_audit.pdf)
+**Full paper (PDF, 10 pages):** [Serval_ARC-AGI-3_stagewise_audit.pdf](https://github.com/Baracoda-ai-labs/arc-agi-3-oracle-ladder/blob/main/paper/Serval_ARC-AGI-3_stagewise_audit.pdf)
 
 ![Figure 1. Oracle comparisons on the first three levels of each game: public development (n = 60) and held-out (n = 15).](https://raw.githubusercontent.com/Baracoda-ai-labs/arc-agi-3-oracle-ladder/main/paper/figure1_ladder.png)
 
@@ -21,7 +21,7 @@ Frontier systems now solve the public ARC-AGI-3 games by writing world models wi
 | LLM agent (RO) | 39 | 15 |
 | Hybrid (ROP5) | 43.5 | 11.5 |
 
-Public games were used for development and are in-sample; out-of-sample evidence is five held-out public games (preregistered runs, disclosed incidental exposure) and Kaggle's hidden set. On Kaggle, ROP5 scored 22.55 against 27.34 and 29.89 for two identical RO submissions; held-out native scores are 45.50 vs 42.98 (no established difference), but ROP5 wins fewer held-out first-three levels (11.5 vs 15).
+Public games were used for development and are in-sample; out-of-sample evidence is a quarantined set of five public games (preregistered runs, disclosed incidental exposure) and Kaggle's hidden set. On Kaggle, ROP5 scored 22.55 against 27.34 and 29.89 for two identical RO submissions; held-out native scores are 45.50 vs 42.98 (no established difference), but ROP5 wins fewer held-out first-three levels (11.5 vs 15).
 
 **1. The symbolic chain breaks at recognition, before any learning.** The engine's 19 held-out openings inside the hybrid stopped at perception (9), structure recognition (9) or defeat (1); no hypothesis was formed. On 104 generated games outside ARC, a version of the chain wins 5 first levels, with the same refusals.
 
